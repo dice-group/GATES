@@ -7,3 +7,16 @@ The  entity  summarization  task  has  recently  gained  signifi-cant  attention
 
 On this experiment, [ESBM benchmark v.1.2](https://github.com/nju-websoft/ESBM/tree/master/v1.2) is used as dataset to train and test the GATES model. It consists of 175 entities related to 150 entities from DBpedia and 25 entities from LinkedMDB.
 
+## Pre-trained Knowledge Graph Embedding Model
+
+GATES implements knowledge graph embedding and also provides pre-trained model for each model on ESBM benchmark dataset as follows:
+* ComplEx
+* ConEx
+* DistMult
+
+## Pre-trained Word Embedding Model 
+
+GATES applies Glove and fastText as word embeddings.
+
+### Glove
+1. Download pre-trained model glove.6B.zip (https://nlp.stanford.edu/projects/glove/)

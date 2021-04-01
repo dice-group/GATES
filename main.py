@@ -84,11 +84,11 @@ def main(mode, emb_model, loss_type,  ent_emb_dim, pred_emb_dim, hidden_layers, 
             hidden_size = ent_emb_dim + pred_emb_dim
             for topk in TOP_K:
                 train_adjs, train_facts, train_labels, val_adjs, val_facts, val_labels, test_adjs, test_facts, test_labels = split_data(ds_name, db_dir, topk, FILE_N) 
-                if mode == "train":
+                if mode == "train" or mode=="all":
                     train_iter(ds_name, train_adjs, train_facts, train_labels, val_adjs, val_facts, val_labels, reg, n_epoch, save_every, DEVICE, entity_dict, \
                                pred_dict, loss_function, pred2ix_size, hidden_size, pred_emb_dim, ent_emb_dim, lr, dropout, entity2ix_size, hidden_layers, nheads, \
                                word_emb, db_dir, weight_decay, word_emb_calc, topk, FILE_N, viz, concat_model)
-                if mode == "test":
+                if mode == "test" or mode=="all":
                     find_best_topk(ds_name, test_adjs, test_facts, test_labels, pred_dict, entity_dict, pred2ix_size, pred_emb_dim, ent_emb_dim, \
                                      DEVICE, use_epoch, db_dir, dropout, entity2ix_size, hidden_layers, nheads, word_emb, word_emb_calc, topk, FILE_N, n_epoch, mode, concat_model)
             
@@ -107,8 +107,8 @@ if __name__ == "__main__":
     parser.add_argument("--reg", type=bool, default=False, help="use regularization or not")
     parser.add_argument("--save_every", type=int, default=1, help="save model in every n epochs")
     parser.add_argument("--n_epoch", type=int, default=50, help="train model in total n epochs")
-    parser.add_argument("--word_emb_model", type=str, default="fasttext", help="use which word embedding model (fasttext/Glove)")
-    parser.add_argument("--word_emb_calc", type=str, default="SUM", help="SUM/AVG")
+    parser.add_argument("--word_emb_model", type=str, default="Glove", help="use which word embedding model (fasttext/Glove)")
+    parser.add_argument("--word_emb_calc", type=str, default="AVG", help="SUM/AVG")
     parser.add_argument("--use_epoch", type=int, nargs='+', help="how many epochs to train the model")
     parser.add_argument("--concat_model", type=int, default=1, help="use which concatenation model (1 or 2). In which, 1 refers to KGE + Word embedding, and 2 refers to KGE + (KGE/Word embeddings) depends on the object value")
     

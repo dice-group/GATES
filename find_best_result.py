@@ -62,7 +62,7 @@ def find_best_topk(ds_name, test_adjs, test_facts, test_labels, pred_dict, entit
                 use_epoch.append(best_epoch)
         print('fold {}'.format(num), 'Best score of {} top{}:'.format(ds_name, topk), best_value, 'Best epoch', best_epoch) 
         
-    if mode=="test":
+    if mode=="test" or mode=="all":
         print('List of the best model based on K-Fold', use_epoch)
         generate_summary(ds_name, test_adjs, test_facts, test_labels, pred_dict, entity_dict, pred2ix_size, pred_emb_dim, ent_emb_dim, \
                                  device, use_epoch, db_dir, dropout, entity2ix_size, hidden_layers, nheads, word_emb, word_emb_calc, topk, file_n, concat_model)

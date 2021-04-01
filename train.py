@@ -28,7 +28,7 @@ def train_iter(ds_name, train_adjs, train_facts, train_labels, val_adjs, val_fac
             optimizer = optim.Adam(gates.parameters(), lr=lr, weight_decay=weight_decay)
         else:    
             optimizer = optim.Adam(gates.parameters(), lr=lr)
-        directory = os.path.join(os.getcwd(), "gates_checkpoint-{}-{}-{}".format(ds_name, topk, i))
+        directory = os.path.join(os.getcwd(), path.join("model", "gates_checkpoint-{}-{}-{}".format(ds_name, topk, i)))
         best_epoch = train(gates, ds_name, train_adjs[i], train_facts[i], train_labels[i], \
                            val_adjs[i], val_facts[i], val_labels[i], \
                            loss_function, optimizer, n_epoch, save_every, device, entity_dict, pred_dict, reg, directory, word_emb_calc, viz, i, word_emb, db_dir, topk, file_n, concat_model)
