@@ -60,11 +60,12 @@ def main(mode, emb_model, loss_type,  ent_emb_dim, pred_emb_dim, hidden_layers, 
     print("Loss function: {}".format(loss_function))
     print("Learning rate: {}",format(lr))
     print("Dropout: {}",format(dropout))
-    print("Weight Decay: {} (if regularization = True)", format(weight_decay))
+    if reg==True:
+        print("Weight Decay: {}", format(weight_decay))
     print("n Epochs: {}", format(n_epoch))
     print("Regularization: {}", format(reg))
     viz = visdom.Visdom()
-    if mode == "train" or mode =="find" or mode=="find-test":
+    if mode == "train" or mode =="test" or mode=="all":
         for ds_name in DS_NAME:
             if ds_name == "dbpedia":
                 db_dir = IN_DBPEDIA_DIR

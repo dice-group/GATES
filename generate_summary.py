@@ -11,7 +11,6 @@ import os.path as path
 import torch
 import numpy as np
 from tqdm import tqdm
-from prettytable import PrettyTable
 
 from utils import tensor_from_data, tensor_from_weight, _eval_Fmeasure
 from data_loader import get_data_gold
@@ -25,7 +24,7 @@ def generate_summary(ds_name, test_adjs, test_facts, test_labels, pred_dict, ent
   favg_top_all = []
   for num in tqdm(range(5)):
     favg_top_list = []
-    CHECK_DIR = path.join("kgsumm_checkpoint-{}-{}-{}".format(ds_name, topk, num))
+    CHECK_DIR = path.join("models", "gates_checkpoint-{}-{}-{}".format(ds_name, topk, num))
     
     gates = GATES(pred2ix_size, entity2ix_size, pred_emb_dim, ent_emb_dim, device, dropout, hidden_layers, nheads)
     checkpoint = torch.load(path.join(CHECK_DIR, "checkpoint_epoch_{}.pt".format(use_epoch[num])))
@@ -52,8 +51,6 @@ def generate_summary(ds_name, test_adjs, test_facts, test_labels, pred_dict, ent
       writer(db_dir, eid, directory, "top{}".format(topk), output_top)
       writer(db_dir, eid, directory, "rank", output_rank)
       
-      #writer(db_dir, eid, directory, "rank", output_rank)
-
       gold_list_top = get_data_gold(db_dir, eid, topk, file_n)
       top_list_output_top = output_top.squeeze(0).numpy().tolist()
       

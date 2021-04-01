@@ -28,7 +28,7 @@ def find_best_topk(ds_name, test_adjs, test_facts, test_labels, pred_dict, entit
         best_epoch = 0
         for epoch in range(n_epoch):
             acc_list = []
-            CHECK_DIR = path.join("kgsumm_checkpoint-{}-{}-{}".format(ds_name, topk, num))
+            CHECK_DIR = path.join("models", "gates_checkpoint-{}-{}-{}".format(ds_name, topk, num))
             
             gates = GATES(pred2ix_size, entity2ix_size, pred_emb_dim, ent_emb_dim, device, dropout, hidden_layers, nheads)
             checkpoint = torch.load(path.join(CHECK_DIR, "checkpoint_epoch_{}.pt".format(epoch)))
@@ -60,9 +60,8 @@ def find_best_topk(ds_name, test_adjs, test_facts, test_labels, pred_dict, entit
                 best_epoch = epoch
             if epoch == n_epoch-1:
                 use_epoch.append(best_epoch)
-        print('fold {}'.format(num), 'Best score of {} top{}:'.format(ds_name, topk), best_value, 'Best epoch', best_epoch) 
+        print('fold {}'.format(num+1), 'Best score of {} top{}:'.format(ds_name, topk), best_value) 
         
     if mode=="test" or mode=="all":
-        print('List of the best model based on K-Fold', use_epoch)
         generate_summary(ds_name, test_adjs, test_facts, test_labels, pred_dict, entity_dict, pred2ix_size, pred_emb_dim, ent_emb_dim, \
                                  device, use_epoch, db_dir, dropout, entity2ix_size, hidden_layers, nheads, word_emb, word_emb_calc, topk, file_n, concat_model)
