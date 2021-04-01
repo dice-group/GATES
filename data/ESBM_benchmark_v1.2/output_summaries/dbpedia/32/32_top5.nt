@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Bornean_mountain_ground_squirrel> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Rodents_of_Malaysia> .
+<http://dbpedia.org/resource/Bornean_mountain_ground_squirrel> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Red-cheeked_squirrel> .
+<http://dbpedia.org/resource/Bornean_mountain_ground_squirrel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Mammal> .
+<http://dbpedia.org/resource/Bornean_mountain_ground_squirrel> <http://xmlns.com/foaf/0.1/name> "Bornean Mountain Ground Squirrel"@en .
+<http://dbpedia.org/resource/Bornean_mountain_ground_squirrel> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Squirrel> .
