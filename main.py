@@ -13,17 +13,15 @@ import argparse
 import torch
 from gensim.models.keyedvectors import KeyedVectors
 
-#from streamlit import caching
 import visdom
 import numpy as np
 
 from data_loader import split_data, load_emb
 from train import train_iter 
 from find_best_result import find_best_topk
-#caching.clear_cache()
 
-IN_DBPEDIA_DIR = os.path.join(path.dirname(os.getcwd()), 'KGSUM-GAT/data/ESBM_benchmark_v1.2', 'dbpedia_data')
-IN_LMDB_DIR = os.path.join(path.dirname(os.getcwd()), 'KGSUM-GAT/data/ESBM_benchmark_v1.2', 'lmdb_data')
+IN_DBPEDIA_DIR = os.path.join(path.dirname(os.getcwd()), 'GATES/data/ESBM_benchmark_v1.2', 'dbpedia_data')
+IN_LMDB_DIR = os.path.join(path.dirname(os.getcwd()), 'GATES/data/ESBM_benchmark_v1.2', 'lmdb_data')
 FILE_N = 6
 TOP_K = [5, 10]
 DS_NAME = ['dbpedia', 'lmdb']
@@ -31,21 +29,6 @@ DEVICE = torch.device("cpu")
 
 def main(mode, emb_model, loss_type,  ent_emb_dim, pred_emb_dim, hidden_layers, nheads, lr, dropout, reg, weight_decay, n_epoch, save_every, word_emb_model, word_emb_calc, use_epoch, concat_model): 
     if word_emb_model == "fasttext":
-        #word_emb={}
-        '''
-        # This way is not working properly, which has error "killed" after executed the codes
-        fname = "data/wiki-news-300d-1M.vec"
-        fin = io.open(fname, 'r', encoding='utf-8', newline='\n', errors='ignore')
-        n, d = map(int, fin.readline().split())
-        for line in fin:
-            tokens = line.rstrip().split(' ')
-            word_emb[tokens[0]] = map(float, tokens[1:])
-        '''    
-        
-        '''
-        #original code used word2vec format to load fasttext
-        KeyedVectors.load_word2vec_format("data/wiki-news-300d-1M.vec")
-        '''
         word_emb = KeyedVectors.load_word2vec_format("data/wiki-news-300d-1M.vec")
         
     elif word_emb_model=="Glove":
@@ -105,14 +88,9 @@ def main(mode, emb_model, loss_type,  ent_emb_dim, pred_emb_dim, hidden_layers, 
                     train_iter(ds_name, train_adjs, train_facts, train_labels, val_adjs, val_facts, val_labels, reg, n_epoch, save_every, DEVICE, entity_dict, \
                                pred_dict, loss_function, pred2ix_size, hidden_size, pred_emb_dim, ent_emb_dim, lr, dropout, entity2ix_size, hidden_layers, nheads, \
                                word_emb, db_dir, weight_decay, word_emb_calc, topk, FILE_N, viz, concat_model)
-                if mode == "find" or mode=="find-test":
+                if mode == "test":
                     find_best_topk(ds_name, test_adjs, test_facts, test_labels, pred_dict, entity_dict, pred2ix_size, pred_emb_dim, ent_emb_dim, \
                                      DEVICE, use_epoch, db_dir, dropout, entity2ix_size, hidden_layers, nheads, word_emb, word_emb_calc, topk, FILE_N, n_epoch, mode, concat_model)
-    
-    #if mode == "test":
-    #    train_adjs, train_facts, train_labels, val_adjs, val_facts, val_labels, test_adjs, test_facts, test_labels = split_data(ds_name, db_dir, topk, FILE_N) 
-    #    generate_summary(ds_name, test_adjs, test_facts, test_labels, pred_dict, entity_dict, pred2ix_size, pred_emb_dim, ent_emb_dim, \
-    #                             DEVICE, use_epoch, db_dir, dropout, entity2ix_size, hidden_layers, nheads, word_emb, word_emb_calc, topk, FILE_N, concat_model)
             
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='KGSUMM: Knowledge Graph SUMMarization')

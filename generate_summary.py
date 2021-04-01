@@ -15,7 +15,7 @@ from prettytable import PrettyTable
 
 from utils import tensor_from_data, tensor_from_weight, _eval_Fmeasure
 from data_loader import get_data_gold
-from model import KGSUM
+from model import GATES
 
 def generate_summary(ds_name, test_adjs, test_facts, test_labels, pred_dict, entity_dict, pred2ix_size, pred_emb_dim, ent_emb_dim, device, use_epoch, db_dir,  \
                      dropout, entity2ix_size, hidden_layers, nheads, word_emb, word_emb_calc, topk, file_n, concat_model):
@@ -27,11 +27,10 @@ def generate_summary(ds_name, test_adjs, test_facts, test_labels, pred_dict, ent
     favg_top_list = []
     CHECK_DIR = path.join("kgsumm_checkpoint-{}-{}-{}".format(ds_name, topk, num))
     
-    kgsumm = KGSUM(pred2ix_size, entity2ix_size, pred_emb_dim, ent_emb_dim, device, dropout, hidden_layers, nheads)
-    print(path.join(CHECK_DIR, "checkpoint_epoch_{}.pt".format(use_epoch[num])))    
+    gates = GATES(pred2ix_size, entity2ix_size, pred_emb_dim, ent_emb_dim, device, dropout, hidden_layers, nheads)
     checkpoint = torch.load(path.join(CHECK_DIR, "checkpoint_epoch_{}.pt".format(use_epoch[num])))
-    kgsumm.load_state_dict(checkpoint["model_state_dict"])
-    kgsumm.to(device)
+    gates.load_state_dict(checkpoint["model_state_dict"])
+    gates.to(device)
     adj = test_adjs[num]
     edesc = test_facts[num]
     label = test_labels[num]
@@ -40,7 +39,7 @@ def generate_summary(ds_name, test_adjs, test_facts, test_labels, pred_dict, ent
       pred_tensor, obj_tensor = tensor_from_data(concat_model, entity_dict, pred_dict, edesc[i], word_emb, word_emb_calc)
       input_tensor = [pred_tensor.to(device), obj_tensor.to(device)]
       target_tensor = tensor_from_weight(len(edesc[i]), edesc[i], label[i]).to(device)
-      output_tensor = kgsumm(input_tensor, adj[i])
+      output_tensor = gates(input_tensor, adj[i])
       
       output_tensor = output_tensor.view(1, -1).cpu()
       target_tensor = target_tensor.view(1, -1).cpu()
@@ -69,7 +68,6 @@ def generate_summary(ds_name, test_adjs, test_facts, test_labels, pred_dict, ent
     print('\n')
   test_favg_top_all = np.mean(favg_top_all)
   print('top {} test all:'.format(topk), test_favg_top_all)
-  display_parameters(kgsumm, use_epoch[0], CHECK_DIR)
   if ds_name=="lmdb" and topk==10:
       os.system('java -jar evaluation/esummeval_v1.2.jar data/ESBM_benchmark_v1.2/ data/ESBM_benchmark_v1.2/output_summaries/')
   
@@ -85,13 +83,11 @@ def writer(db_dir, eid, directory, top_or_rank, output):
             "w", encoding="utf8") as fout:
         if top_or_rank == "top5" or top_or_rank == "top10":
             top_list = output.squeeze(0).numpy().tolist()
-            #print('top list', top_list)
             for t_num, triple in enumerate(fin):
                 if t_num in top_list:
                     fout.write(triple)
         elif top_or_rank == "rank":
             rank_list = output.squeeze(0).numpy().tolist()
-            #print(rank_list)
             triples = [triple for _, triple in enumerate(fin)]
             for rank in rank_list:
               try:
@@ -99,18 +95,3 @@ def writer(db_dir, eid, directory, top_or_rank, output):
               except:
                   pass            
     return
-
-def display_parameters(model, use_epoch, CHECK_DIR):
-        print("Initializing model...")
-        net = model
-        checkpoint = torch.load(path.join(CHECK_DIR, "checkpoint_epoch_{}.pt".format(use_epoch)))
-        net.load_state_dict(checkpoint["model_state_dict"])
-        table = PrettyTable(["Modules", "Parameters"])
-        total_params = 0
-        for name, parameter in net.named_parameters():
-            if not parameter.requires_grad: continue
-            param = parameter.numel()
-            table.add_row([name, param])
-            total_params+=param
-        print(table)
-        print(f"Total Trainable Params: {total_params}")

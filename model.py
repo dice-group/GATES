@@ -78,9 +78,9 @@ class GAT(nn.Module):
         x = F.elu(self.out_att(x, adj))
         return self.softmax(x)
 
-class KGSUM(nn.Module):
+class GATES(nn.Module):
   def __init__(self, pred2ix_size, entity2ix_size, pred_embedding_dim, entity_embedding_dim, device, dropout, hidden_layer, nheads):
-    super(KGSUM, self).__init__()
+    super(GATES, self).__init__()
     self.pred2ix_size = pred2ix_size
     self.entity2ix_size = entity2ix_size
     self.pred_embedding_dim = pred_embedding_dim

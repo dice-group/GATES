@@ -11,7 +11,7 @@ import torch
 from torch import optim
 import numpy as np
 
-from model import KGSUM
+from model import GATES
 from utils import tensor_from_data, tensor_from_weight, _eval_Fmeasure
 from data_loader import get_data_gold
 
@@ -21,15 +21,15 @@ def train_iter(ds_name, train_adjs, train_facts, train_labels, val_adjs, val_fac
     if reg == True:
         print("use regularization in training")
     best_epoch_list=[]
-    kgsumm = KGSUM(pred2ix_size, entity2ix_size, pred_emb_dim, ent_emb_dim, device, dropout, hidden_layers, nheads)
-    kgsumm.to(device)
+    gates = GATES(pred2ix_size, entity2ix_size, pred_emb_dim, ent_emb_dim, device, dropout, hidden_layers, nheads)
+    gates.to(device)
     for i in range(5):
         if reg:
-            optimizer = optim.Adam(kgsumm.parameters(), lr=lr, weight_decay=weight_decay)
+            optimizer = optim.Adam(gates.parameters(), lr=lr, weight_decay=weight_decay)
         else:    
-            optimizer = optim.Adam(kgsumm.parameters(), lr=lr)
-        directory = os.path.join(os.getcwd(), "kgsumm_checkpoint-{}-{}-{}".format(ds_name, topk, i))
-        best_epoch = train(kgsumm, ds_name, train_adjs[i], train_facts[i], train_labels[i], \
+            optimizer = optim.Adam(gates.parameters(), lr=lr)
+        directory = os.path.join(os.getcwd(), "gates_checkpoint-{}-{}-{}".format(ds_name, topk, i))
+        best_epoch = train(gates, ds_name, train_adjs[i], train_facts[i], train_labels[i], \
                            val_adjs[i], val_facts[i], val_labels[i], \
                            loss_function, optimizer, n_epoch, save_every, device, entity_dict, pred_dict, reg, directory, word_emb_calc, viz, i, word_emb, db_dir, topk, file_n, concat_model)
         best_epoch_list.append(best_epoch)
@@ -62,10 +62,6 @@ def train(kgsumm, ds_name, adj, edesc, label, val_adj, val_edesc, val_label, \
             output_tensor = kgsumm(input_tensor, adj[i])
             loss = loss_function(output_tensor.view(-1), target_tensor.view(-1)).to(device)
             
-            # clip gradient
-            #if model == "GCN":
-            #_ = nn.utils.clip_grad_norm_(kgsumm.parameters(), clip)
-			
             loss.backward()
             optimizer.step()
             total_loss += loss.item()
@@ -91,8 +87,6 @@ def train(kgsumm, ds_name, adj, edesc, label, val_adj, val_edesc, val_label, \
             
         total_loss = total_loss/len(edesc)
         val_total_loss = val_total_loss/len(val_edesc)
-        #total_acc_top5 = total_acc_top5/len(test_edesc)
-        #total_acc_top10 = total_acc_top10/len(test_edesc)
         favg_top = np.mean(favg_top_list)
         if epoch % save_every == 0:
             if favg_top >= best_acc:

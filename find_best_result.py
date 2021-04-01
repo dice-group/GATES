@@ -12,7 +12,7 @@ import numpy as np
 
 from utils import tensor_from_data, tensor_from_weight, _eval_Fmeasure
 from data_loader import get_data_gold
-from model import KGSUM
+from model import GATES
 from generate_summary import generate_summary
   
 def find_best_topk(ds_name, test_adjs, test_facts, test_labels, pred_dict, entity_dict, pred2ix_size, pred_emb_dim, ent_emb_dim, device, use_epoch, db_dir,  \
@@ -30,10 +30,10 @@ def find_best_topk(ds_name, test_adjs, test_facts, test_labels, pred_dict, entit
             acc_list = []
             CHECK_DIR = path.join("kgsumm_checkpoint-{}-{}-{}".format(ds_name, topk, num))
             
-            kgsumm = KGSUM(pred2ix_size, entity2ix_size, pred_emb_dim, ent_emb_dim, device, dropout, hidden_layers, nheads)
+            gates = GATES(pred2ix_size, entity2ix_size, pred_emb_dim, ent_emb_dim, device, dropout, hidden_layers, nheads)
             checkpoint = torch.load(path.join(CHECK_DIR, "checkpoint_epoch_{}.pt".format(epoch)))
-            kgsumm.load_state_dict(checkpoint["model_state_dict"])
-            kgsumm.to(device)
+            gates.load_state_dict(checkpoint["model_state_dict"])
+            gates.to(device)
             adj = test_adjs[num]
             edesc = test_facts[num]
             label = test_labels[num]
@@ -42,7 +42,7 @@ def find_best_topk(ds_name, test_adjs, test_facts, test_labels, pred_dict, entit
                 pred_tensor, obj_tensor = tensor_from_data(concat_model, entity_dict, pred_dict, edesc[i], word_emb, word_emb_calc)
                 input_tensor = [pred_tensor.to(device), obj_tensor.to(device)]
                 target_tensor = tensor_from_weight(len(edesc[i]), edesc[i], label[i]).to(device)
-                output_tensor = kgsumm(input_tensor, adj[i])
+                output_tensor = gates(input_tensor, adj[i])
               
                 output_tensor = output_tensor.view(1, -1).cpu()
                 target_tensor = target_tensor.view(1, -1).cpu()
@@ -62,8 +62,7 @@ def find_best_topk(ds_name, test_adjs, test_facts, test_labels, pred_dict, entit
                 use_epoch.append(best_epoch)
         print('fold {}'.format(num), 'Best score of {} top{}:'.format(ds_name, topk), best_value, 'Best epoch', best_epoch) 
         
-    if mode=="find-test":
-        #use_epoch = [best_epoch, best_epoch, best_epoch, best_epoch, best_epoch]
+    if mode=="test":
         print('List of the best model based on K-Fold', use_epoch)
         generate_summary(ds_name, test_adjs, test_facts, test_labels, pred_dict, entity_dict, pred2ix_size, pred_emb_dim, ent_emb_dim, \
                                  device, use_epoch, db_dir, dropout, entity2ix_size, hidden_layers, nheads, word_emb, word_emb_calc, topk, file_n, concat_model)
