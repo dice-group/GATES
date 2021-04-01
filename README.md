@@ -19,9 +19,22 @@ GATES implements knowledge graph embedding and also provides pre-trained model f
 GATES applies Glove and fastText as word embeddings.
 
 ### Glove
-1. Download pre-trained model glove.6B.zip (http://nlp.stanford.edu/data/glove.6B.zip)
+1. Download pre-trained model [glove.6B.zip] (http://nlp.stanford.edu/data/glove.6B.zip)
 2. Extract the zip file in data folder
 
 ### fastText
-1. Download pre-trained model wiki-news-300d-1M.vec.zip (wiki-news-300d-1M.vec.zip)
+1. Download pre-trained model [wiki-news-300d-1M.vec.zip] (https://dl.fbaipublicfiles.com/fasttext/vectors-english/wiki-news-300d-1M.vec.zip)
 2. Extract the zip file and put the file on data folder
+
+## Visualization Tools
+
+We use a third party to visualize the training and validation loss, and accuracy. 
+If you don't install visdom yet, please install visdom as follows:
+```
+pip install visdom
+``` 
+
+And run the visdom before you execute the train model. Just type visdom on terminal and enter.
+```
+visdom
+```
