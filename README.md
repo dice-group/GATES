@@ -5,5 +5,5 @@ The  entity  summarization  task  has  recently  gained  signifi-cant  attention
 
 ## Dataset
 
-On this experiment, [ESBM benchmark v.1.2](https://github.com/nju-websoft/ESBM/tree/master/v1.2) is used as dataset to train and test the GATES model. It consist of 175 entities related to 150 entities from DBpedia and 25 entities from LinkedMDB.
+On this experiment, [ESBM benchmark v.1.2](https://github.com/nju-websoft/ESBM/tree/master/v1.2) is used as dataset to train and test the GATES model. It consists of 175 entities related to 150 entities from DBpedia and 25 entities from LinkedMDB.
 
