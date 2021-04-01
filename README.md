@@ -5,5 +5,5 @@ The  entity  summarization  task  has  recently  gained  signifi-cant  attention
 
 ## Dataset
 
-On this experiment, ESBM benchmark v.1.2 is used to train and test GATES
+On this experiment, [ESBM benchmark v.1.2](https://github.com/nju-websoft/ESBM/tree/master/v1.2) is used to train and test GATES
 
