@@ -1,0 +1,90 @@
+RoderickCarr	occupation	SecretaryofStateforTransport	Secretary of State for Transport	resource
+RoderickCarr	serviceEndYear	1947	1947	literal
+RoderickCarr	militaryCommand	CommanderinChief,AirHeadquartersIndia	Commander in Chief, Air Headquarters India	literal
+RoderickCarr	militaryCommand	RAFBrizeNorton	RAF Brize Norton	literal
+RoderickCarr	serviceStartYear	1914	1914	literal
+RoderickCarr	type	Marshal110295951	 Marshal 110295951 	resource
+RoderickCarr	type	RoyalAirForceAirMarshals	 Royal  Air  Force  Air  Marshals 	resource
+RoderickCarr	type	Agent	agent	resource
+RoderickCarr	type	MilitaryOfficer110317007	 Military  Officer 110317007 	resource
+RoderickCarr	type	Aviator109826204	 Aviator 109826204 	resource
+RoderickCarr	type	Q5	human	resource
+RoderickCarr	type	Preserver110466918	 Preserver 110466918 	resource
+RoderickCarr	type	Defender109614684	 Defender 109614684 	resource
+RoderickCarr	type	Friend110112591	 Friend 110112591 	resource
+RoderickCarr	type	Person	 Person 	resource
+RoderickCarr	type	Organism100004475	 Organism 100004475 	resource
+RoderickCarr	type	MilitaryPerson	military person	resource
+RoderickCarr	type	Thing	Thing	resource
+RoderickCarr	type	Person	person	resource
+RoderickCarr	type	Q215627	person	resource
+RoderickCarr	type	YagoLegalActorGeo	 Yago  Legal  Actor  Geo 	resource
+RoderickCarr	type	Agent	 Agent 	resource
+RoderickCarr	type	ExplorersOfAntarctica	 Explorers  Of  Antarctica 	resource
+RoderickCarr	type	Object100002684	 Object 100002684 	resource
+RoderickCarr	type	LivingThing100004258	 Living  Thing 100004258 	resource
+RoderickCarr	type	Companion109945905	 Companion 109945905 	resource
+RoderickCarr	type	Whole100003553	 Whole 100003553 	resource
+RoderickCarr	type	CausalAgent100007347	 Causal  Agent 100007347 	resource
+RoderickCarr	type	AirMarshal109781171	 Air  Marshal 109781171 	resource
+RoderickCarr	type	Person100007846	 Person 100007846 	resource
+RoderickCarr	type	RoyalNavalAirServiceAviators	 Royal  Naval  Air  Service  Aviators 	resource
+RoderickCarr	type	SkilledWorker110605985	 Skilled  Worker 110605985 	resource
+RoderickCarr	type	CompanionsOfTheOrderOfTheBath	 Companions  Of  The  Order  Of  The  Bath 	resource
+RoderickCarr	type	NewZealandAirMarshals	 New  Zealand  Air  Marshals 	resource
+RoderickCarr	type	PhysicalEntity100001930	 Physical  Entity 100001930 	resource
+RoderickCarr	type	Serviceman110582746	 Serviceman 110582746 	resource
+RoderickCarr	type	Explorer110072708	 Explorer 110072708 	resource
+RoderickCarr	type	RoyalNavyOfficersOfWorldWarI	 Royal  Navy  Officers  Of  World  War  I 	resource
+RoderickCarr	type	PeopleFromTheManawatuWanganuiRegion	 People  From  The  Manawatu-  Wanganui  Region 	resource
+RoderickCarr	type	Lawman110249459	 Lawman 110249459 	resource
+RoderickCarr	type	Person	 Person 	resource
+RoderickCarr	type	YagoLegalActor	 Yago  Legal  Actor 	resource
+RoderickCarr	type	NaturalPerson	 Natural  Person 	resource
+RoderickCarr	type	Worker109632518	 Worker 109632518 	resource
+RoderickCarr	birthYear	1891	1891	literal
+RoderickCarr	givenName	Roderick	Roderick	literal
+RoderickCarr	depiction	AirMshlSirRoderickCarr.jpg	 Air   Mshl   Sir   Roderick   Carr.jpg 	resource
+RoderickCarr	birthPlace	Feilding	Feilding	resource
+RoderickCarr	deathPlace	Bampton,Oxfordshire	Bampton, Oxfordshire	resource
+RoderickCarr	name	RoderickCarr	Roderick Carr	literal
+RoderickCarr	name	SirCharlesRoderickCarr	Sir Charles Roderick Carr	literal
+RoderickCarr	name	Carr,Roderick	Carr, Roderick	literal
+RoderickCarr	deathYear	1971	1971	literal
+RoderickCarr	award	AirForceCross(UnitedKingdom)	Air Force Cross (United Kingdom)	resource
+RoderickCarr	award	OrderoftheBath	Order of the Bath	resource
+RoderickCarr	award	OrderoftheBritishEmpire	Order of the British Empire	resource
+RoderickCarr	award	DistinguishedFlyingCross(UnitedKingdom)	Distinguished Flying Cross (United Kingdom)	resource
+RoderickCarr	award	Mentionedindispatches	Mentioned in dispatches	resource
+RoderickCarr	battle	WorldWarI	World War I	resource
+RoderickCarr	battle	WorldWarII	World War II	resource
+RoderickCarr	deathDate	19711215	1971-12-15	literal
+RoderickCarr	thumbnail	AirMshlSirRoderickCarr.jpg?width=300	 Air   Mshl   Sir   Roderick   Carr.jpg?width=300 	resource
+BattleofBerlin(RAFcampaign)	commander	RoderickCarr	Roderick Carr	resource
+RoderickCarr	surname	Carr	Carr	literal
+RoderickCarr	allegiance	BritishEmpire	British Empire	literal
+RoderickCarr	description	RoyalAirForceairmarshals	Royal Air Force air marshals	literal
+RoderickCarr	description	RoyalAirForceairmarshals	Royal Air Force air marshals	literal
+RoderickCarr	subject	1891births	1891 births	resource
+RoderickCarr	subject	RoyalAirForceairmarshals	Royal Air Force air marshals	resource
+RoderickCarr	subject	NewZealandmilitarypersonnel	New Zealand military personnel	resource
+RoderickCarr	subject	CompanionsoftheOrderoftheBath	Companions of the Order of the Bath	resource
+RoderickCarr	subject	RoyalAirForcepersonnelofWorldWarI	Royal Air Force personnel of World War I	resource
+RoderickCarr	subject	PeoplefromFeilding	People from Feilding	resource
+RoderickCarr	subject	RecipientsoftheDistinguishedFlyingCross(UnitedKingdom)	Recipients of the Distinguished Flying Cross (United Kingdom)	resource
+RoderickCarr	subject	PeoplefromManawatuWanganui	People from Manawatu-Wanganui	resource
+RoderickCarr	subject	NewZealandairmarshals	New Zealand air marshals	resource
+RoderickCarr	subject	1971deaths	1971 deaths	resource
+RoderickCarr	subject	NewZealandknights	New Zealand knights	resource
+RoderickCarr	subject	CommandeursoftheLégiond'honneur	Commandeurs of the Légion d'honneur	resource
+RoderickCarr	subject	KnightsCommanderoftheOrderoftheBritishEmpire	Knights Commander of the Order of the British Empire	resource
+RoderickCarr	subject	RoyalNavalAirServiceaviators	Royal Naval Air Service aviators	resource
+RoderickCarr	subject	RecipientsoftheAirForceCross(UnitedKingdom)	Recipients of the Air Force Cross (United Kingdom)	resource
+RoderickCarr	subject	NewZealandrecipientsoftheLégiond'honneur	New Zealand recipients of the Légion d'honneur	resource
+RoderickCarr	subject	ExplorersofAntarctica	Explorers of Antarctica	resource
+RoderickCarr	subject	RoyalNavyofficersofWorldWarI	Royal Navy officers of World War I	resource
+RoderickCarr	subject	RoyalAirForcepersonnelofWorldWarII	Royal Air Force personnel of World War II	resource
+RoderickCarr	subject	RoyalAirForcepersonneloftheRussianCivilWar	Royal Air Force personnel of the Russian Civil War	resource
+RoderickCarr	subject	RoyalFlyingCorpsofficers	Royal Flying Corps officers	resource
+RoderickCarr	label	RoderickCarr	Roderick Carr	literal
+RoderickCarr	birthDate	18910831	1891-08-31	literal

@@ -1,0 +1,25 @@
+6468	language	en	en
+6468	filmid	6468	6468
+6468	writer	17242	17242
+6468	date	2007	2007
+6468	type	film	film
+6468	performance	73576	73576
+6468	performance	43526	43526
+6468	performance	55985	55985
+6468	title	Magnum,P.I.	Magnum, P.I.
+6468	initialreleasedate	2007	2007
+6468	label	Magnum,P.I.	Magnum, P.I.
+6468	page	tt0756681	tt 0756681
+6468	page	9202a8c04000641f8000000000b3087f	9202a8c04000641f8000000000b3087f
+6468	page	alias?type=imdbid&s=0756681	alias?type=imdbid&s=0756681
+6468	producer	11092	11092
+11328	made	6468	6468
+6468	actor	32753	32753
+6468	actor	35595	35595
+6468	actor	49301	49301
+21528	linksource	6468	6468
+139511	linksource	6468	6468
+2995	linksource	6468	6468
+40061	linksource	6468	6468
+6468	hasPhotoCollection	Magnum,P.I.	 Magnum,   P.  I. 
+6468	director	11328	11328

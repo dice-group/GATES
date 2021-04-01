@@ -1,0 +1,57 @@
+Lygodiummicrophyllum	label	Lygodiummicrophyllum	Lygodium microphyllum	literal
+Lygodiummicrophyllum	order	Schizaeales	Schizaeales	resource
+Lygodiummicrophyllum	binomialAuthority	AntonioJoséCavanilles	Antonio José Cavanilles	resource
+Lygodiummicrophyllum	thumbnail	ARSLygodiummicrophyllumfoliage.jpg?width=300	 A  R  S   Lygodium microphyllum foliage.jpg?width=300 	resource
+Lygodiummicrophyllum	family	Lygodium	Lygodium	resource
+Lygodiummicrophyllum	class	Leptosporangiatefern	Leptosporangiate fern	resource
+Lygodiummicrophyllum	synonym	*Lygodiumscandens(auct.)	*Lygodium scandens (auct.)	literal
+Lygodiummicrophyllum	synonym	*L.scandens(L.)Sw.)	*L. scandens (L.)Sw.)	literal
+Lygodiummicrophyllum	synonym	*Ophioglossumfiliforme(Roxb.)	*Ophioglossum filiforme (Roxb.)	literal
+Lygodiummicrophyllum	synonym	*L.scandensvar.microphyllum(Cav.)Luerss.)	*L. scandens var. microphyllum (Cav.)Luerss.)	literal
+Lygodiummicrophyllum	synonym	*Ugenamicrophylla(Cav.)(basionym)	*Ugena microphylla (Cav.) (basionym)	literal
+Lygodiummicrophyllum	synonym	*L.scandensvar.intermedium(Ces.)	*L. scandens var. intermedium (Ces.)	literal
+Lygodiummicrophyllum	type	Q19088	eukaryote	resource
+Lygodiummicrophyllum	type	Q756	plant	resource
+Lygodiummicrophyllum	type	Species	species	resource
+Lygodiummicrophyllum	type	PhysicalEntity100001930	 Physical  Entity 100001930 	resource
+Lygodiummicrophyllum	type	Object100002684	 Object 100002684 	resource
+Lygodiummicrophyllum	type	Plant	plant	resource
+Lygodiummicrophyllum	type	Plant100017222	 Plant 100017222 	resource
+Lygodiummicrophyllum	type	Fern	fern	resource
+Lygodiummicrophyllum	type	Thing	Thing	resource
+Lygodiummicrophyllum	type	PlantsDescribedIn1801	 Plants  Described  In 1801 	resource
+Lygodiummicrophyllum	type	Whole100003553	 Whole 100003553 	resource
+Lygodiummicrophyllum	type	Eukaryote	eukaryote	resource
+Lygodiummicrophyllum	type	LivingThing100004258	 Living  Thing 100004258 	resource
+Lygodiummicrophyllum	type	Organism100004475	 Organism 100004475 	resource
+Lygodiummicrophyllum	subject	FloraoftheRyukyuIslands	Flora of the Ryukyu Islands	resource
+Lygodiummicrophyllum	subject	Invasiveplantspecies	Invasive plant species	resource
+Lygodiummicrophyllum	subject	PteridophytaofAfrica	Pteridophyta of Africa	resource
+Lygodiummicrophyllum	subject	FloraofChina	Flora of China	resource
+Lygodiummicrophyllum	subject	FloraofFiji	Flora of Fiji	resource
+Lygodiummicrophyllum	subject	PteridophytaofAustralasia	Pteridophyta of Australasia	resource
+Lygodiummicrophyllum	subject	FloraofThailand	Flora of Thailand	resource
+Lygodiummicrophyllum	subject	FloraofAfrica	Flora of Africa	resource
+Lygodiummicrophyllum	subject	Plantsdescribedin1801	Plants described in 1801	resource
+Lygodiummicrophyllum	subject	FloraofNewGuinea	Flora of New Guinea	resource
+Lygodiummicrophyllum	subject	FloraofWesternAustralia	Flora of Western Australia	resource
+Lygodiummicrophyllum	subject	FloraofBrunei	Flora of Brunei	resource
+Lygodiummicrophyllum	subject	FloraofIndia	Flora of India	resource
+Lygodiummicrophyllum	subject	FloraofQueensland	Flora of Queensland	resource
+Lygodiummicrophyllum	subject	Fernspecies	Fern species	resource
+Lygodiummicrophyllum	subject	FloraofMalesia	Flora of Malesia	resource
+Lygodiummicrophyllum	subject	PteridophytaofAsia	Pteridophyta of Asia	resource
+Lygodiummicrophyllum	subject	FloraoftheNorthernTerritory	Flora of the Northern Territory	resource
+Lygodiummicrophyllum	subject	Lygodium	Lygodium	resource
+Lygodiummicrophyllum	subject	PteridophytaofAustralia	Pteridophyta of Australia	resource
+Lygodiummicrophyllum	subject	FloraoftheNorthwesternPacific	Flora of the Northwestern Pacific	resource
+Lygodiummicrophyllum	subject	FloraofNewSouthWales	Flora of New South Wales	resource
+Lygodiummicrophyllum	subject	FloraofJapan	Flora of Japan	resource
+Lygodiummicrophyllum	subject	FloraofTaiwan	Flora of Taiwan	resource
+Lygodiummicrophyllum	depiction	ARSLygodiummicrophyllumfoliage.jpg	 A  R  S   Lygodium microphyllum foliage.jpg 	resource
+Lygodiummicrophyllum	conservationStatusSystem	TNC	TNC	literal
+Lygodiummicrophyllum	kingdom	Plant	Plant	resource
+Lygodiummicrophyllum	genus	Lygodium	Lygodium	resource
+Lygodiummicrophyllum	conservationStatus	G5	G5	literal
+Lygodiummicrophyllum	name	Lygodiummicrophyllum	Lygodium microphyllum	literal
+Lygodiummicrophyllum	division	Pteridophyte	Pteridophyte	resource

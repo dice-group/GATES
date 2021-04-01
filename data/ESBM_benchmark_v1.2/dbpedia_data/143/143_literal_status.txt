@@ -1,0 +1,73 @@
+LucyWard(musician)	depiction	LucyWard.jpg	 Lucy  Ward.jpg 	resource
+LucyWard(musician)	background	solosinger	solo_singer	literal
+LucyWard(musician)	thumbnail	LucyWard.jpg?width=300	 Lucy  Ward.jpg?width=300 	resource
+LucyWard(musician)	label	LucyWard(musician)	Lucy Ward (musician)	literal
+LucyWard(musician)	birthPlace	Derbyshire	Derbyshire	resource
+LucyWard(musician)	birthPlace	Derby	Derby	resource
+LucyWard(musician)	surname	Ward	Ward	literal
+LucyWard(musician)	subject	MusicinDerby	Music in Derby	resource
+LucyWard(musician)	subject	Englishsingersongwriters	English singer-songwriters	resource
+LucyWard(musician)	subject	Concertinaplayers	Concertina players	resource
+LucyWard(musician)	subject	1989births	1989 births	resource
+LucyWard(musician)	subject	Englishfolksingers	English folk singers	resource
+LucyWard(musician)	subject	Livingpeople	Living people	resource
+LucyWard(musician)	subject	PeoplefromDerby	People from Derby	resource
+LucyWard(musician)	subject	Englishfolkguitarists	English folk guitarists	resource
+LucyWard(musician)	subject	Englishfemalesingers	English female singers	resource
+LucyWard(musician)	genre	Singersongwriter	Singer-songwriter	resource
+LucyWard(musician)	genre	Folkmusic	Folk music	resource
+LucyWard(musician)	givenName	Lucy	Lucy	literal
+LucyWard(musician)	birthDate	19891212	1989-12-12	literal
+LucyWard(musician)	instrument	Concertina	Concertina	resource
+LucyWard(musician)	recordLabel	NavigatorRecords	Navigator Records	resource
+LucyWard(musician)	name	Ward,Lucy	Ward, Lucy	literal
+LucyWard(musician)	name	LucyWard	Lucy Ward	literal
+O'Hooley&Tidow	associatedBand	LucyWard(musician)	Lucy Ward (musician)	resource
+BelindaO'Hooley	associatedBand	LucyWard(musician)	Lucy Ward (musician)	resource
+SingleFlame	artist	LucyWard(musician)	Lucy Ward (musician)	resource
+AdelphiHastoFly	artist	LucyWard(musician)	Lucy Ward (musician)	resource
+LucyWard(musician)	description	Britishmusician	British musician	literal
+LucyWard(musician)	description	Britishmusician	British musician	literal
+LucyWard(musician)	homepage	www.lucywardsings.com	www.lucywardsings.com	resource
+LucyWard(musician)	type	Artist109812338	 Artist 109812338 	resource
+LucyWard(musician)	type	Creator109614315	 Creator 109614315 	resource
+LucyWard(musician)	type	Thing	Thing	resource
+LucyWard(musician)	type	NaturalPerson	 Natural  Person 	resource
+LucyWard(musician)	type	LivingThing100004258	 Living  Thing 100004258 	resource
+LucyWard(musician)	type	Person100007846	 Person 100007846 	resource
+LucyWard(musician)	type	Player110439851	 Player 110439851 	resource
+LucyWard(musician)	type	Entertainer109616922	 Entertainer 109616922 	resource
+LucyWard(musician)	type	Whole100003553	 Whole 100003553 	resource
+LucyWard(musician)	type	Organism100004475	 Organism 100004475 	resource
+LucyWard(musician)	type	Musician110339966	 Musician 110339966 	resource
+LucyWard(musician)	type	YagoLegalActor	 Yago  Legal  Actor 	resource
+LucyWard(musician)	type	Musician110340312	 Musician 110340312 	resource
+LucyWard(musician)	type	Object100002684	 Object 100002684 	resource
+LucyWard(musician)	type	ConcertinaPlayers	 Concertina  Players 	resource
+LucyWard(musician)	type	Performer110415638	 Performer 110415638 	resource
+LucyWard(musician)	type	EnglishFolkSingers	 English  Folk  Singers 	resource
+LucyWard(musician)	type	PhysicalEntity100001930	 Physical  Entity 100001930 	resource
+LucyWard(musician)	type	CausalAgent100007347	 Causal  Agent 100007347 	resource
+LucyWard(musician)	type	Agent	 Agent 	resource
+LucyWard(musician)	type	MusicGroup	 Music  Group 	resource
+LucyWard(musician)	type	Agent	agent	resource
+LucyWard(musician)	type	Contestant109613191	 Contestant 109613191 	resource
+LucyWard(musician)	type	Person	 Person 	resource
+LucyWard(musician)	type	Person	person	resource
+LucyWard(musician)	type	Singer110599806	 Singer 110599806 	resource
+LucyWard(musician)	type	FolkSinger110099093	 Folk  Singer 110099093 	resource
+LucyWard(musician)	type	YagoLegalActorGeo	 Yago  Legal  Actor  Geo 	resource
+LucyWard(musician)	type	PeopleFromDerby	 People  From  Derby 	resource
+LucyWard(musician)	type	MusicalArtist	musical artist	resource
+LucyWard(musician)	type	LivingPeople	 Living  People 	resource
+LucyWard(musician)	type	Artist	artist	resource
+LucyWard(musician)	type	Q5	human	resource
+LucyWard(musician)	type	EnglishFemaleSingers	 English  Female  Singers 	resource
+LucyWard(musician)	type	Guitarist110151760	 Guitarist 110151760 	resource
+LucyWard(musician)	type	Person	 Person 	resource
+LucyWard(musician)	type	Q483501	artist	resource
+LucyWard(musician)	type	EnglishFolkGuitarists	 English  Folk  Guitarists 	resource
+LucyWard(musician)	type	Q215627	person	resource
+LucyWard(musician)	birthYear	1989	1989	literal
+O'Hooley&Tidow	associatedMusicalArtist	LucyWard(musician)	Lucy Ward (musician)	resource
+BelindaO'Hooley	associatedMusicalArtist	LucyWard(musician)	Lucy Ward (musician)	resource

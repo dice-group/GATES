@@ -1,0 +1,23 @@
+FopptdenDämon!	type	Album	album
+FopptdenDämon!	type	CreativeWork	 Creative  Work 
+FopptdenDämon!	type	MusicAlbum	 Music  Album 
+FopptdenDämon!	type	Work	work
+FopptdenDämon!	type	Thing	Thing
+FopptdenDämon!	type	Q2188189	musical work
+FopptdenDämon!	type	Q482994	album
+FopptdenDämon!	type	Q386724	work
+FopptdenDämon!	type	MusicalWork	musical work
+MCMXCV(album)	subsequentWork	FopptdenDämon!	Foppt den Dämon!
+FopptdenDämon!	name	FopptdenDämon!	Foppt den Dämon!
+FopptdenDämon!	type	Album	Album
+Bannkreis	previousWork	FopptdenDämon!	Foppt den Dämon!
+FopptdenDämon!	label	FopptdenDämon!	Foppt den Dämon!
+FopptdenDämon!	genre	Medievalmetal	Medieval metal
+FopptdenDämon!	genre	Medievalfolkrock	Medieval folk rock
+FopptdenDämon!	runtime	2528.0	2528.0
+FopptdenDämon!	subsequentWork	Bannkreis	Bannkreis
+FopptdenDämon!	previousWork	MCMXCV(album)	MCMXCV (album)
+FopptdenDämon!	artist	SubwaytoSally	Subway to Sally
+FopptdenDämon!	subject	SubwaytoSallyalbums	Subway to Sally albums
+FopptdenDämon!	subject	1996albums	1996 albums
+FopptdenDämon!	recordLabel	RedRoosterRecords	Red Rooster Records

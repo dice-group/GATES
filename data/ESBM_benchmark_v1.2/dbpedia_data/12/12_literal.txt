@@ -1,0 +1,22 @@
+2011KorRoyalCup	label	2011KorRoyalCup	2011 Kor Royal Cup
+2011KorRoyalCup	type	Event	 Event 
+2011KorRoyalCup	type	SportsEvent	sports event
+2011KorRoyalCup	type	Event	event
+2011KorRoyalCup	type	SocietalEvent	societal event
+2011KorRoyalCup	type	Event	 Event 
+2011KorRoyalCup	type	Thing	Thing
+2011KorRoyalCup	type	FootballMatch	football match
+2011KorRoyalCup	type	Q1656682	event
+2011KorRoyalCup	type	SportsEvent	 Sports  Event 
+2012KorRoyalCup	previousEvent	2011KorRoyalCup	2011 Kor Royal Cup
+2011KorRoyalCup	previousEvent	2010KorRoyalCup	2010 Kor Royal Cup
+2011KorRoyalCup	city	Bangkok	Bangkok
+2011KorRoyalCup	name	2011KorRoyalCup	2011 Kor Royal Cup
+2011KorRoyalCup	subject	KorRoyalCupseasons	Kor Royal Cup seasons
+2011KorRoyalCup	subject	2011inThaifootballcups	2011 in Thai football cups
+2011KorRoyalCup	team	ChonburiF.C.	Chonburi F.C.
+2011KorRoyalCup	team	MuangthongUnitedF.C.	Muangthong United F.C.
+2010KorRoyalCup	followingEvent	2011KorRoyalCup	2011 Kor Royal Cup
+2011KorRoyalCup	location	NationalStadium(Thailand)	National Stadium (Thailand)
+2011KorRoyalCup	followingEvent	2012KorRoyalCup	2012 Kor Royal Cup
+2011KorRoyalCup	date	20110130	2011-01-30

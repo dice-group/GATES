@@ -1,0 +1,29 @@
+IntensiveCareMedicine(journal)	firstPublicationYear	1975	1975
+IntensiveCareMedicine(journal)	impactFactor	5.544	5.544
+IntensiveCareMedicine(journal)	type	Work	work
+IntensiveCareMedicine(journal)	type	Thing	Thing
+IntensiveCareMedicine(journal)	type	Q1092563	periodical literature
+IntensiveCareMedicine(journal)	type	Q386724	work
+IntensiveCareMedicine(journal)	type	AcademicJournal	academic journal
+IntensiveCareMedicine(journal)	type	CreativeWork	 Creative  Work 
+IntensiveCareMedicine(journal)	type	WrittenWork	written work
+IntensiveCareMedicine(journal)	type	PeriodicalLiterature	periodical literature
+IntensiveCareMedicine(journal)	type	Q737498	academic journal
+IntensiveCareMedicine(journal)	coden	ICMED9	ICMED9
+IntensiveCareMedicine(journal)	issn	03424642	0342-4642
+IntensiveCareMedicine(journal)	issn	14321238	1432-1238
+IntensiveCareMedicine(journal)	name	IntensiveCareMedicine	Intensive Care Medicine
+IntensiveCareMedicine(journal)	abbreviation	IntensiveCareMed.	Intensive Care Med.
+IntensiveCareMedicine(journal)	oclc	884609077	884609077
+IntensiveCareMedicine(journal)	publisher	SpringerScience+BusinessMedia	Springer Science+Business Media
+IntensiveCareMedicine(journal)	label	IntensiveCareMedicine(journal)	Intensive Care Medicine (journal)
+IntensiveCareMedicine(journal)	impactFactorAsOf	2013	2013
+IntensiveCareMedicine(journal)	academicDiscipline	Intensivecaremedicine	Intensive care medicine
+IntensiveCareMedicine(journal)	homepage	index.html	index.html
+IntensiveCareMedicine(journal)	subject	Publicationsestablishedin1975	Publications established in 1975
+IntensiveCareMedicine(journal)	subject	Academicjournalsassociatedwithlearnedandprofessionalsocieties	Academic journals associated with learned and professional societies
+IntensiveCareMedicine(journal)	subject	Emergencymedicinejournals	Emergency medicine journals
+IntensiveCareMedicine(journal)	subject	Englishlanguagejournals	English-language journals
+IntensiveCareMedicine(journal)	subject	SpringerScience+BusinessMediaacademicjournals	Springer Science+Business Media academic journals
+IntensiveCareMedicine(journal)	subject	Monthlyjournals	Monthly journals
+IntensiveCareMedicine(journal)	frequencyOfPublication	Monthly	Monthly

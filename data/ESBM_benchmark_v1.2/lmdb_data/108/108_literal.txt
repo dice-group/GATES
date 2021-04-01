@@ -1,0 +1,39 @@
+4053	language	en	en
+4053	language	fr	fr
+4053	hasPhotoCollection	AMan,aRealOne	 A   Man, a   Real   One 
+4053	basednear	3017382	3017382
+4053	label	AMan,aRealOne	A Man, a Real One
+4053	filmcut	165	165
+4053	type	film	film
+4053	date	20030528	2003-05-28
+4053	title	AMan,aRealOne	A Man, a Real One
+4053	producer	526	526
+4053	genre	4	4
+4053	filmid	4053	4053
+632	made	4053	4053
+19714	made	4053	4053
+4053	country	FR	 F  R 
+4053	writer	797	797
+4053	writer	23034	23034
+4053	writer	796	796
+4053	page	9202a8c04000641f80000000007afaba	9202a8c04000641f80000000007afaba
+4053	page	tt0329706	tt 0329706
+4053	page	alias?type=imdbid&s=0329706	alias?type=imdbid&s=0329706
+20517	linksource	4053	4053
+39050	linksource	4053	4053
+1984	linksource	4053	4053
+137540	linksource	4053	4053
+137539	linksource	4053	4053
+66572	linksource	4053	4053
+4053	runtime	120	120
+4053	actor	35688	35688
+4053	actor	1570	1570
+4053	actor	10974	10974
+4053	actor	1569	1569
+4053	initialreleasedate	20030528	2003-05-28
+4053	performance	777	777
+4053	performance	778	778
+4053	performance	779	779
+4053	performance	84776	84776
+4053	director	19714	19714
+4053	director	632	632

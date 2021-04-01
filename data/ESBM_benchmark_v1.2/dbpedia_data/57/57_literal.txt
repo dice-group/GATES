@@ -1,0 +1,48 @@
+NajmadinShukrRauf	givenName	NajmadinShukr	Najmadin Shukr
+Iraqi–Kurdishconflict	commander	NajmadinShukrRauf	Najmadin Shukr Rauf
+NajmadinShukrRauf	deathPlace	Ba'athistIraq	Ba'athist Iraq
+NajmadinShukrRauf	deathPlace	KirkukGovernorate	Kirkuk Governorate
+NajmadinShukrRauf	deathDate	19850124	1985-01-24
+NajmadinShukrRauf	name	Rauf,NajmadinShukr	Rauf, Najmadin Shukr
+NajmadinShukrRauf	name	NajmadinShukrRauf	Najmadin Shukr Rauf
+NajmadinShukrRauf	birthDate	19570101	1957-01-01
+NajmadinShukrRauf	subject	Kurdishnationalists	Kurdish nationalists
+NajmadinShukrRauf	subject	IraqiKurdishpeople	Iraqi Kurdish people
+NajmadinShukrRauf	subject	1985deaths	1985 deaths
+NajmadinShukrRauf	subject	PeoplefromKirkukProvince	People from Kirkuk Province
+NajmadinShukrRauf	subject	Kurdishguerrillas	Kurdish guerrillas
+NajmadinShukrRauf	subject	1957births	1957 births
+NajmadinShukrRauf	subject	Kurdishmilitarypersonnelkilledinaction	Kurdish military personnel killed in action
+NajmadinShukrRauf	type	Q5	human
+NajmadinShukrRauf	type	CausalAgent100007347	 Causal  Agent 100007347 
+NajmadinShukrRauf	type	Q215627	person
+NajmadinShukrRauf	type	NaturalPerson	 Natural  Person 
+NajmadinShukrRauf	type	Person	 Person 
+NajmadinShukrRauf	type	Thing	Thing
+NajmadinShukrRauf	type	YagoLegalActorGeo	 Yago  Legal  Actor  Geo 
+NajmadinShukrRauf	type	Organism100004475	 Organism 100004475 
+NajmadinShukrRauf	type	Person	person
+NajmadinShukrRauf	type	KurdishGuerrillas	 Kurdish  Guerrillas 
+NajmadinShukrRauf	type	Object100002684	 Object 100002684 
+NajmadinShukrRauf	type	PhysicalEntity100001930	 Physical  Entity 100001930 
+NajmadinShukrRauf	type	YagoLegalActor	 Yago  Legal  Actor 
+NajmadinShukrRauf	type	Person100007846	 Person 100007846 
+NajmadinShukrRauf	type	PeopleFromKirkukProvince	 People  From  Kirkuk  Province 
+NajmadinShukrRauf	type	Agent	 Agent 
+NajmadinShukrRauf	type	Guerrilla110150556	 Guerrilla 110150556 
+NajmadinShukrRauf	type	IraqiKurdishPeople	 Iraqi  Kurdish  People 
+NajmadinShukrRauf	type	Person	 Person 
+NajmadinShukrRauf	type	Whole100003553	 Whole 100003553 
+NajmadinShukrRauf	type	Warrior110768585	 Warrior 110768585 
+NajmadinShukrRauf	type	LivingThing100004258	 Living  Thing 100004258 
+NajmadinShukrRauf	type	Agent	agent
+NajmadinShukrRauf	description	Kurdishguerilla	Kurdish guerilla
+NajmadinShukrRauf	description	Kurdishguerilla	Kurdish guerilla
+Peshmerga	notableCommander	NajmadinShukrRauf	Najmadin Shukr Rauf
+NajmadinShukrRauf	deathYear	1985	1985
+NajmadinShukrRauf	label	NajmadinShukrRauf	Najmadin Shukr Rauf
+NajmadinShukrRauf	surname	Rauf	Rauf
+NajmadinShukrRauf	birthPlace	Talabanvillage	 Talaban village 
+NajmadinShukrRauf	birthPlace	KingdomofIraq	Kingdom of Iraq
+NajmadinShukrRauf	birthPlace	KirkukGovernorate	Kirkuk Governorate
+NajmadinShukrRauf	birthYear	1957	1957

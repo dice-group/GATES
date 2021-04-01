@@ -1,0 +1,27 @@
+2008CopaAmérica–FIFAFutsal	type	SportsEvent	 Sports  Event 
+2008CopaAmérica–FIFAFutsal	type	Event	event
+2008CopaAmérica–FIFAFutsal	type	Event	 Event 
+2008CopaAmérica–FIFAFutsal	type	SoccerTournament	soccer tournoment
+2008CopaAmérica–FIFAFutsal	type	Tournament	tournament
+2008CopaAmérica–FIFAFutsal	type	SocietalEvent	societal event
+2008CopaAmérica–FIFAFutsal	type	Q500834	tournament
+2008CopaAmérica–FIFAFutsal	type	SportsEvent	sports event
+2008CopaAmérica–FIFAFutsal	type	Event	 Event 
+2008CopaAmérica–FIFAFutsal	type	Thing	Thing
+2008CopaAmérica–FIFAFutsal	type	Q1656682	event
+2008CopaAmérica–FIFAFutsal	subject	2008infutsal	2008 in futsal
+2008CopaAmérica–FIFAFutsal	subject	CopaAméricadeFutsal	Copa América de Futsal
+2008CopaAmérica–FIFAFutsal	subject	InternationalassociationfootballcompetitionshostedbyUruguay	International association football competitions hosted by Uruguay
+2008CopaAmérica–FIFAFutsal	subject	2007–08inUruguayanfootball	2007–08 in Uruguayan football
+2008CopaAmérica–FIFAFutsal	time	00	17:00
+2008CopaAmérica–FIFAFutsal	time	35	18:35
+2008CopaAmérica–FIFAFutsal	time	30	20:30
+2008CopaAmérica–FIFAFutsal	time	45	16:45
+2008CopaAmérica–FIFAFutsal	time	30	21:30
+2008CopaAmérica–FIFAFutsal	time	10	20:10
+2008CopaAmérica–FIFAFutsal	time	00	19:00
+2008CopaAmérica–FIFAFutsal	time	00	22:00
+2008CopaAmérica–FIFAFutsal	time	00	18:00
+2008CopaAmérica–FIFAFutsal	time	50	21:50
+2008CopaAmérica–FIFAFutsal	time	30	18:30
+2008CopaAmérica–FIFAFutsal	label	2008CopaAmérica–FIFAFutsal	2008 Copa América – FIFA Futsal

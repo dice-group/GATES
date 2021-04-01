@@ -1,0 +1,31 @@
+LudwigsburgUniversity	homepage	www.phludwigsburg.de	www.ph-ludwigsburg.de
+RainerArnold	almaMater	LudwigsburgUniversity	Ludwigsburg University
+LudwigsburgUniversity	type	Q43229	organization
+LudwigsburgUniversity	type	Organization	 Organization 
+LudwigsburgUniversity	type	CollegeOrUniversity	 College  Or  University 
+LudwigsburgUniversity	type	Agent	 Agent 
+LudwigsburgUniversity	type	YagoLegalActor	 Yago  Legal  Actor 
+LudwigsburgUniversity	type	Agent	agent
+LudwigsburgUniversity	type	EducationalOrganization	 Educational  Organization 
+LudwigsburgUniversity	type	Thing	Thing
+LudwigsburgUniversity	type	UniversitiesAndCollegesInBadenW%C3%BCrttemberg	 Universities  And  Colleges  In  Baden-  W%  C3%  B  Crttemberg 
+LudwigsburgUniversity	type	YagoLegalActorGeo	 Yago  Legal  Actor  Geo 
+LudwigsburgUniversity	type	Organization108008335	 Organization 108008335 
+LudwigsburgUniversity	type	Q3918	university
+LudwigsburgUniversity	type	Institution108053576	 Institution 108053576 
+LudwigsburgUniversity	type	YagoPermanentlyLocatedEntity	 Yago  Permanently  Located  Entity 
+LudwigsburgUniversity	type	SocialPerson	 Social  Person 
+LudwigsburgUniversity	type	University	university
+LudwigsburgUniversity	type	EducationalInstitution108276342	 Educational  Institution 108276342 
+LudwigsburgUniversity	type	EducationalInstitution	educational institution
+LudwigsburgUniversity	type	Group100031264	 Group 100031264 
+LudwigsburgUniversity	type	University108286569	 University 108286569 
+LudwigsburgUniversity	type	Abstraction100002137	 Abstraction 100002137 
+LudwigsburgUniversity	type	Organisation	organisation
+LudwigsburgUniversity	type	SocialGroup107950920	 Social  Group 107950920 
+LudwigsburgUniversity	label	LudwigsburgUniversity	Ludwigsburg University
+LudwigsburgUniversity	subject	Ludwigsburg	Ludwigsburg
+LudwigsburgUniversity	subject	UniversitiesandcollegesinBadenWürttemberg	Universities and colleges in Baden-Württemberg
+LudwigsburgUniversity	name	PädagogischeHochschuleLudwigsburg(LudwigsburgUniversityofEducation)	Pädagogische Hochschule Ludwigsburg (Ludwigsburg University of Education)
+LudwigsburgUniversity	city	Ludwigsburg	Ludwigsburg
+LudwigsburgUniversity	country	Germany	Germany

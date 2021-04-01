@@ -1,0 +1,51 @@
+BattleofBregalnica	depiction	PlanoftheBattleofBregalnitza.png	 Plan of the   Battle of   Bregalnitza.png 
+BattleofBregalnica	label	BattleofBregalnica	Battle of Bregalnica
+BattleofBregalnica	place	OttomanEmpire	Ottoman Empire
+BattleofBregalnica	place	Bregalnica	Bregalnica
+BattleofBregalnica	thumbnail	PlanoftheBattleofBregalnitza.png?width=300	 Plan of the   Battle of   Bregalnitza.png?width=300 
+BattleofBregalnica	subject	BattlesinvolvingSerbia	Battles involving Serbia
+BattleofBregalnica	subject	1913inBulgaria	1913 in Bulgaria
+BattleofBregalnica	subject	BattlesinvolvingBulgaria	Battles involving Bulgaria
+BattleofBregalnica	subject	BattlesoftheSecondBalkanWar	Battles of the Second Balkan War
+BattleofBregalnica	subject	Conflictsin1913	Conflicts in 1913
+BattleofBregalnica	subject	VardarMacedonia(1912–1918)	 Vardar   Macedonia (1912–1918) 
+BattleofBregalnica	subject	1913inSerbia	1913 in Serbia
+BattleofBregalnica	isPartOfMilitaryConflict	SecondBalkanWar	Second Balkan War
+BattleofBregalnica	date	19130708	1913-07-08
+FourthArmy(Bulgaria)	battle	BattleofBregalnica	Battle of Bregalnica
+JovanBabunski	battle	BattleofBregalnica	Battle of Bregalnica
+MihailSavov	battle	BattleofBregalnica	Battle of Bregalnica
+BattleofBregalnica	name	BattleofBregalnica	Battle of Bregalnica
+BattleofBregalnica	result	Serbianvictory	Serbian victory
+BattleofBregalnica	commander	ŽivojinMišić	Živojin Mišić
+BattleofBregalnica	commander	VichoDikov	 Vicho   Dikov 
+BattleofBregalnica	commander	JankoVukotić	Janko Vukotić
+BattleofBregalnica	commander	AlexanderIofYugoslavia	Alexander I of Yugoslavia
+BattleofBregalnica	commander	MihailSavov	Mihail Savov
+BattleofBregalnica	commander	StiliyanKovachev	Stiliyan Kovachev
+BattleofBregalnica	commander	RadomirPutnik	Radomir Putnik
+BattleofBregalnica	commander	PetarBojović	Petar Bojović
+BattleofBregalnica	strength	ca.194,000men,235guns(104InfantryBattalions,34CavalryCompanies,62ArtilleryBatteries)*	ca. 194,000 men, 235 guns (104 Infantry Battalions, 34 Cavalry Companies, 62 Artillery Batteries) *
+BattleofBregalnica	strength	ca.130,000men,guns(100InfantryBattalions,6CavalryRegiments,63ArtilleryBatteries)	ca. 130,000 men,  guns (100 Infantry Battalions, 6 Cavalry Regiments, 63 Artillery Batteries)
+BattleofBregalnica	strength	Montenegrindivisionca.13,000men,6gunsand24machineguns	Montenegrin division ca. 13,000 men, 6 guns and 24 machine guns
+BattleofBregalnica	causalties	20,000	20,000
+BattleofBregalnica	type	GroupAction101080366	 Group  Action 101080366 
+BattleofBregalnica	type	MilitaryAction100952963	 Military  Action 100952963 
+BattleofBregalnica	type	MilitaryConflict	military conflict
+BattleofBregalnica	type	Battle100953559	 Battle 100953559 
+BattleofBregalnica	type	Event	 Event 
+BattleofBregalnica	type	Event	event
+BattleofBregalnica	type	Conflict100958896	 Conflict 100958896 
+BattleofBregalnica	type	ConflictsIn1913	 Conflicts  In 1913 
+BattleofBregalnica	type	PsychologicalFeature100023100	 Psychological  Feature 100023100 
+BattleofBregalnica	type	Q1656682	event
+BattleofBregalnica	type	BattlesOfTheSecondBalkanWar	 Battles  Of  The  Second  Balkan  War 
+BattleofBregalnica	type	Event100029378	 Event 100029378 
+BattleofBregalnica	type	Abstraction100002137	 Abstraction 100002137 
+BattleofBregalnica	type	BattlesInvolvingBulgaria	 Battles  Involving  Bulgaria 
+BattleofBregalnica	type	Thing	Thing
+BattleofBregalnica	type	BattlesInvolvingSerbia	 Battles  Involving  Serbia 
+BattleofBregalnica	type	SocietalEvent	societal event
+BattleofBregalnica	type	Event	 Event 
+BattleofBregalnica	type	Act100030358	 Act 100030358 
+BattleofBregalnica	type	YagoPermanentlyLocatedEntity	 Yago  Permanently  Located  Entity 

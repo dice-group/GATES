@@ -1,0 +1,23 @@
+Schisturajarutanini	phylum	Chordate	Chordate
+Schisturajarutanini	family	Nemacheilidae	Nemacheilidae
+Schisturajarutanini	order	Cypriniformes	Cypriniformes
+Schisturajarutanini	type	Eukaryote	eukaryote
+Schisturajarutanini	type	Thing	Thing
+Schisturajarutanini	type	Species	species
+Schisturajarutanini	type	Fish	fish
+Schisturajarutanini	type	Q729	animal
+Schisturajarutanini	type	Q152	fish
+Schisturajarutanini	type	Animal	animal
+Schisturajarutanini	type	Q19088	eukaryote
+Schisturajarutanini	class	Actinopterygii	Actinopterygii
+Schisturajarutanini	genus	Schistura	Schistura
+Schisturajarutanini	kingdom	Animal	Animal
+Schisturajarutanini	name	Schisturajarutanini	Schistura jarutanini
+Schisturajarutanini	conservationStatus	VU	VU
+Schisturajarutanini	label	Schisturajarutanini	Schistura jarutanini
+Schisturajarutanini	conservationStatusSystem	IUCN2.3	IUCN2.3
+Schisturajarutanini	binomialAuthority	MauriceKottelat	Maurice Kottelat
+Schisturajarutanini	subject	Cavefish	Cave fish
+Schisturajarutanini	subject	Schistura	Schistura
+Schisturajarutanini	subject	FishofSoutheastAsia	Fish of Southeast Asia
+Schisturajarutanini	subject	FishofThailand	Fish of Thailand

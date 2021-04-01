@@ -1,0 +1,40 @@
+Uelsby	subject	SchleswigFlensburg	Schleswig-Flensburg
+Uelsby	subject	MunicipalitiesinSchleswigHolstein	Municipalities in Schleswig-Holstein
+Uelsby	thumbnail	UelsbyWappen.png?width=300	 Uelsby   Wappen.png?width=300 
+Uelsby	district	SchleswigFlensburg	Schleswig-Flensburg
+Uelsby	label	Uelsby	Uelsby
+Uelsby	point	54.69.566666666666666	54.6 9.566666666666666
+Uelsby	areaTotal	1.06E7	1.06E7
+Uelsby	lat	54.6	54.6
+Uelsby	homepage	www.amtsuedangeln.de	www.amt-suedangeln.de
+Uelsby	elevation	34.0	34.0
+Uelsby	areaCode	SL	SL
+Uelsby	areaCode	04623	04623
+Uelsby	country	Germany	Germany
+Uelsby	populationAsOf	20061231	2006-12-31
+Uelsby	populationTotal	461	461
+Uelsby	postalCode	24860	24860
+Uelsby	long	9.566667	9.566667
+Uelsby	federalState	SchleswigHolstein	Schleswig-Holstein
+Uelsby	type	Region108630985	 Region 108630985 
+Uelsby	type	PopulatedPlace	populated place
+Uelsby	type	Municipality108626283	 Municipality 108626283 
+Uelsby	type	GeographicalArea108574314	 Geographical  Area 108574314 
+Uelsby	type	Settlement	settlement
+Uelsby	type	Location	 Location 
+Uelsby	type	Location100027167	 Location 100027167 
+Uelsby	type	Place	place
+Uelsby	type	AdministrativeDistrict108491826	 Administrative  District 108491826 
+Uelsby	type	YagoPermanentlyLocatedEntity	 Yago  Permanently  Located  Entity 
+Uelsby	type	Object100002684	 Object 100002684 
+Uelsby	type	Place	 Place 
+Uelsby	type	YagoLegalActorGeo	 Yago  Legal  Actor  Geo 
+Uelsby	type	YagoGeoEntity	 Yago  Geo  Entity 
+Uelsby	type	District108552138	 District 108552138 
+Uelsby	type	SpatialThing	 Spatial  Thing 
+Uelsby	type	PhysicalEntity100001930	 Physical  Entity 100001930 
+Uelsby	type	UrbanArea108675967	 Urban  Area 108675967 
+Uelsby	type	MunicipalitiesInSchleswigHolstein	 Municipalities  In  Schleswig-  Holstein 
+Uelsby	type	Q486972	human settlement
+Uelsby	type	Thing	Thing
+Uelsby	depiction	UelsbyWappen.png	 Uelsby   Wappen.png 

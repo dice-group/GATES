@@ -1,0 +1,33 @@
+Africangreyhornbill	kingdom	Animal	Animal	resource
+Africangreyhornbill	genus	Tockus	Tockus	resource
+Africangreyhornbill	family	Hornbill	Hornbill	resource
+Africangreyhornbill	name	Africangreyhornbill	African grey hornbill	literal
+Africangreyhornbill	label	Africangreyhornbill	African grey hornbill	literal
+Africangreyhornbill	conservationStatusSystem	IUCN3.1	IUCN3.1	literal
+Africangreyhornbill	depiction	TockusnasutusnearSawelaLodge,LakeNaivasha,Kenyafemale8.jpg	 Tockus nasutus -near   Sawela   Lodge,   Lake   Naivasha,   Kenya -female-8.jpg 	resource
+Africangreyhornbill	depiction	LakeNaivasha	Lake Naivasha	resource
+Africangreyhornbill	phylum	Chordate	Chordate	resource
+Africangreyhornbill	class	Bird	Bird	resource
+Africangreyhornbill	type	Eukaryote	eukaryote	resource
+Africangreyhornbill	type	Q729	animal	resource
+Africangreyhornbill	type	Q19088	eukaryote	resource
+Africangreyhornbill	type	Thing	Thing	resource
+Africangreyhornbill	type	Animal	animal	resource
+Africangreyhornbill	type	Bird	bird	resource
+Africangreyhornbill	type	Species	species	resource
+Africangreyhornbill	subject	BirdsofGabon	 Birds of   Gabon 	resource
+Africangreyhornbill	subject	BirdsofKenya	 Birds of   Kenya 	resource
+Africangreyhornbill	subject	Animalsdescribedin1766	Animals described in 1766	resource
+Africangreyhornbill	subject	BirdsofEquatorialGuinea	 Birds of   Equatorial   Guinea 	resource
+Africangreyhornbill	subject	BirdsofSouthAfrica	 Birds of   South   Africa 	resource
+Africangreyhornbill	subject	BirdsofAfrica	Birds of Africa	resource
+Africangreyhornbill	subject	BirdsofAsia	Birds of Asia	resource
+Africangreyhornbill	subject	Hornbills	Hornbills	resource
+Africangreyhornbill	subject	BirdsofNamibia	 Birds of   Namibia 	resource
+Africangreyhornbill	subject	Tockus	Tockus	resource
+Africangreyhornbill	subject	BirdsoftheRepublicoftheCongo	 Birds of the   Republic of the   Congo 	resource
+Africangreyhornbill	subject	BirdsofCameroon	 Birds of   Cameroon 	resource
+Africangreyhornbill	conservationStatus	LC	LC	literal
+Africangreyhornbill	thumbnail	TockusnasutusnearSawelaLodge,LakeNaivasha,Kenyafemale8.jpg?width=300	 Tockus nasutus -near   Sawela   Lodge,   Lake   Naivasha,   Kenya -female-8.jpg?width=300 	resource
+Africangreyhornbill	order	Bucerotiformes	Bucerotiformes	resource
+Africangreyhornbill	binomialAuthority	CarlLinnaeus	Carl Linnaeus	resource

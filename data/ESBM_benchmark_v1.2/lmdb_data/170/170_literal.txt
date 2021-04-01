@@ -1,0 +1,38 @@
+5089	writer	17201	17201
+5089	writer	5356	5356
+2426	linksource	5089	5089
+20959	linksource	5089	5089
+39492	linksource	5089	5089
+62028	linksource	5089	5089
+138363	linksource	5089	5089
+5089	runtime	91	91
+5089	date	1946	1946
+5089	language	en	en
+5089	filmsubject	465	465
+5089	performance	33879	33879
+5089	performance	33877	33877
+5089	performance	33878	33878
+5089	title	TheOverlanders	The Overlanders
+5089	filmid	5089	5089
+5089	actor	7704	7704
+5089	actor	7703	7703
+5089	actor	40417	40417
+5089	director	2486	2486
+5089	director	13995	13995
+5089	label	TheOverlanders	The Overlanders
+5089	country	AU	 A  U 
+5089	producer	10678	10678
+2117	filmofdistributor	5089	5089
+5089	basednear	2077456	2077456
+5089	initialreleasedate	1946	1946
+5089	musiccontributor	4984	4984
+2486	made	5089	5089
+13995	made	5089	5089
+5089	page	alias?type=imdbid&s=0038821	alias?type=imdbid&s=0038821
+5089	page	9202a8c04000641f8000000000942ce9	9202a8c04000641f8000000000942ce9
+5089	page	tt0038821	tt 0038821
+5089	editor	1456	1456
+5089	subject	465	465
+5089	type	film	film
+5089	hasPhotoCollection	TheOverlanders(film)	 The   Overlanders (film) 
+5089	filmcut	7327	7327

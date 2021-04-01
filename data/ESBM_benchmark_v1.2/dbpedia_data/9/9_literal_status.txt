@@ -1,0 +1,31 @@
+LudwigsburgUniversity	homepage	www.phludwigsburg.de	www.ph-ludwigsburg.de	resource
+RainerArnold	almaMater	LudwigsburgUniversity	Ludwigsburg University	resource
+LudwigsburgUniversity	type	Q43229	organization	resource
+LudwigsburgUniversity	type	Organization	 Organization 	resource
+LudwigsburgUniversity	type	CollegeOrUniversity	 College  Or  University 	resource
+LudwigsburgUniversity	type	Agent	 Agent 	resource
+LudwigsburgUniversity	type	YagoLegalActor	 Yago  Legal  Actor 	resource
+LudwigsburgUniversity	type	Agent	agent	resource
+LudwigsburgUniversity	type	EducationalOrganization	 Educational  Organization 	resource
+LudwigsburgUniversity	type	Thing	Thing	resource
+LudwigsburgUniversity	type	UniversitiesAndCollegesInBadenW%C3%BCrttemberg	 Universities  And  Colleges  In  Baden-  W%  C3%  B  Crttemberg 	resource
+LudwigsburgUniversity	type	YagoLegalActorGeo	 Yago  Legal  Actor  Geo 	resource
+LudwigsburgUniversity	type	Organization108008335	 Organization 108008335 	resource
+LudwigsburgUniversity	type	Q3918	university	resource
+LudwigsburgUniversity	type	Institution108053576	 Institution 108053576 	resource
+LudwigsburgUniversity	type	YagoPermanentlyLocatedEntity	 Yago  Permanently  Located  Entity 	resource
+LudwigsburgUniversity	type	SocialPerson	 Social  Person 	resource
+LudwigsburgUniversity	type	University	university	resource
+LudwigsburgUniversity	type	EducationalInstitution108276342	 Educational  Institution 108276342 	resource
+LudwigsburgUniversity	type	EducationalInstitution	educational institution	resource
+LudwigsburgUniversity	type	Group100031264	 Group 100031264 	resource
+LudwigsburgUniversity	type	University108286569	 University 108286569 	resource
+LudwigsburgUniversity	type	Abstraction100002137	 Abstraction 100002137 	resource
+LudwigsburgUniversity	type	Organisation	organisation	resource
+LudwigsburgUniversity	type	SocialGroup107950920	 Social  Group 107950920 	resource
+LudwigsburgUniversity	label	LudwigsburgUniversity	Ludwigsburg University	literal
+LudwigsburgUniversity	subject	Ludwigsburg	Ludwigsburg	resource
+LudwigsburgUniversity	subject	UniversitiesandcollegesinBadenWürttemberg	Universities and colleges in Baden-Württemberg	resource
+LudwigsburgUniversity	name	PädagogischeHochschuleLudwigsburg(LudwigsburgUniversityofEducation)	Pädagogische Hochschule Ludwigsburg (Ludwigsburg University of Education)	literal
+LudwigsburgUniversity	city	Ludwigsburg	Ludwigsburg	resource
+LudwigsburgUniversity	country	Germany	Germany	resource

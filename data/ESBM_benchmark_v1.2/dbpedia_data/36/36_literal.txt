@@ -1,0 +1,57 @@
+Lygodiummicrophyllum	label	Lygodiummicrophyllum	Lygodium microphyllum
+Lygodiummicrophyllum	order	Schizaeales	Schizaeales
+Lygodiummicrophyllum	binomialAuthority	AntonioJoséCavanilles	Antonio José Cavanilles
+Lygodiummicrophyllum	thumbnail	ARSLygodiummicrophyllumfoliage.jpg?width=300	 A  R  S   Lygodium microphyllum foliage.jpg?width=300 
+Lygodiummicrophyllum	family	Lygodium	Lygodium
+Lygodiummicrophyllum	class	Leptosporangiatefern	Leptosporangiate fern
+Lygodiummicrophyllum	synonym	*Lygodiumscandens(auct.)	*Lygodium scandens (auct.)
+Lygodiummicrophyllum	synonym	*L.scandens(L.)Sw.)	*L. scandens (L.)Sw.)
+Lygodiummicrophyllum	synonym	*Ophioglossumfiliforme(Roxb.)	*Ophioglossum filiforme (Roxb.)
+Lygodiummicrophyllum	synonym	*L.scandensvar.microphyllum(Cav.)Luerss.)	*L. scandens var. microphyllum (Cav.)Luerss.)
+Lygodiummicrophyllum	synonym	*Ugenamicrophylla(Cav.)(basionym)	*Ugena microphylla (Cav.) (basionym)
+Lygodiummicrophyllum	synonym	*L.scandensvar.intermedium(Ces.)	*L. scandens var. intermedium (Ces.)
+Lygodiummicrophyllum	type	Q19088	eukaryote
+Lygodiummicrophyllum	type	Q756	plant
+Lygodiummicrophyllum	type	Species	species
+Lygodiummicrophyllum	type	PhysicalEntity100001930	 Physical  Entity 100001930 
+Lygodiummicrophyllum	type	Object100002684	 Object 100002684 
+Lygodiummicrophyllum	type	Plant	plant
+Lygodiummicrophyllum	type	Plant100017222	 Plant 100017222 
+Lygodiummicrophyllum	type	Fern	fern
+Lygodiummicrophyllum	type	Thing	Thing
+Lygodiummicrophyllum	type	PlantsDescribedIn1801	 Plants  Described  In 1801 
+Lygodiummicrophyllum	type	Whole100003553	 Whole 100003553 
+Lygodiummicrophyllum	type	Eukaryote	eukaryote
+Lygodiummicrophyllum	type	LivingThing100004258	 Living  Thing 100004258 
+Lygodiummicrophyllum	type	Organism100004475	 Organism 100004475 
+Lygodiummicrophyllum	subject	FloraoftheRyukyuIslands	Flora of the Ryukyu Islands
+Lygodiummicrophyllum	subject	Invasiveplantspecies	Invasive plant species
+Lygodiummicrophyllum	subject	PteridophytaofAfrica	Pteridophyta of Africa
+Lygodiummicrophyllum	subject	FloraofChina	Flora of China
+Lygodiummicrophyllum	subject	FloraofFiji	Flora of Fiji
+Lygodiummicrophyllum	subject	PteridophytaofAustralasia	Pteridophyta of Australasia
+Lygodiummicrophyllum	subject	FloraofThailand	Flora of Thailand
+Lygodiummicrophyllum	subject	FloraofAfrica	Flora of Africa
+Lygodiummicrophyllum	subject	Plantsdescribedin1801	Plants described in 1801
+Lygodiummicrophyllum	subject	FloraofNewGuinea	Flora of New Guinea
+Lygodiummicrophyllum	subject	FloraofWesternAustralia	Flora of Western Australia
+Lygodiummicrophyllum	subject	FloraofBrunei	Flora of Brunei
+Lygodiummicrophyllum	subject	FloraofIndia	Flora of India
+Lygodiummicrophyllum	subject	FloraofQueensland	Flora of Queensland
+Lygodiummicrophyllum	subject	Fernspecies	Fern species
+Lygodiummicrophyllum	subject	FloraofMalesia	Flora of Malesia
+Lygodiummicrophyllum	subject	PteridophytaofAsia	Pteridophyta of Asia
+Lygodiummicrophyllum	subject	FloraoftheNorthernTerritory	Flora of the Northern Territory
+Lygodiummicrophyllum	subject	Lygodium	Lygodium
+Lygodiummicrophyllum	subject	PteridophytaofAustralia	Pteridophyta of Australia
+Lygodiummicrophyllum	subject	FloraoftheNorthwesternPacific	Flora of the Northwestern Pacific
+Lygodiummicrophyllum	subject	FloraofNewSouthWales	Flora of New South Wales
+Lygodiummicrophyllum	subject	FloraofJapan	Flora of Japan
+Lygodiummicrophyllum	subject	FloraofTaiwan	Flora of Taiwan
+Lygodiummicrophyllum	depiction	ARSLygodiummicrophyllumfoliage.jpg	 A  R  S   Lygodium microphyllum foliage.jpg 
+Lygodiummicrophyllum	conservationStatusSystem	TNC	TNC
+Lygodiummicrophyllum	kingdom	Plant	Plant
+Lygodiummicrophyllum	genus	Lygodium	Lygodium
+Lygodiummicrophyllum	conservationStatus	G5	G5
+Lygodiummicrophyllum	name	Lygodiummicrophyllum	Lygodium microphyllum
+Lygodiummicrophyllum	division	Pteridophyte	Pteridophyte

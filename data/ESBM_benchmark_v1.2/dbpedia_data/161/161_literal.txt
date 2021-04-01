@@ -1,0 +1,41 @@
+CanUGetwitIt	genre	Slowjam	Slow jam
+CanUGetwitIt	genre	Hiphopsoul	Hip hop soul
+CanUGetwitIt	name	CanUGetwitIt	Can U Get wit It
+CanUGetwitIt	previousWork	CallMeaMack	Call Me a Mack
+CanUGetwitIt	musicalBand	Usher(singer)	Usher (singer)
+CanUGetwitIt	runtime	255.0	255.0
+CanUGetwitIt	runtime	296.0	296.0
+CanUGetwitIt	recordLabel	LaFaceRecords	LaFace Records
+CanUGetwitIt	recordLabel	AristaRecords	Arista Records
+CanUGetwitIt	label	CanUGetwitIt	Can U Get wit It
+CanUGetwitIt	format	Compactdisc	Compact disc
+CallMeaMack	subsequentWork	CanUGetwitIt	Can U Get wit It
+CanUGetwitIt	releaseDate	19940701	1994-07-01
+CanUGetwitIt	writer	DeVanteSwing	DeVante Swing
+CanUGetwitIt	musicalArtist	Usher(singer)	Usher (singer)
+CanUGetwitIt	album	Usher(album)	Usher (album)
+CanUGetwitIt	subject	Usher(singer)songs	Usher (singer) songs
+CanUGetwitIt	subject	SongswrittenbyDeVanteSwing	Songs written by DeVante Swing
+CanUGetwitIt	subject	1994songs	1994 songs
+CanUGetwitIt	subject	LaFaceRecordssingles	LaFace Records singles
+CanUGetwitIt	subject	AristaRecordssingles	Arista Records singles
+CanUGetwitIt	subject	1994singles	1994 singles
+CanUGetwitIt	subject	SongrecordingsproducedbyDeVanteSwing	Song recordings produced by DeVante Swing
+CanUGetwitIt	type	PhysicalEntity100001930	 Physical  Entity 100001930 
+CanUGetwitIt	type	Medium106254669	 Medium 106254669 
+CanUGetwitIt	type	Q386724	work
+CanUGetwitIt	type	Object100002684	 Object 100002684 
+CanUGetwitIt	type	Thing	Thing
+CanUGetwitIt	type	Artifact100021939	 Artifact 100021939 
+CanUGetwitIt	type	CreativeWork	 Creative  Work 
+CanUGetwitIt	type	Single	single
+CanUGetwitIt	type	1994Singles	1994 Singles 
+CanUGetwitIt	type	Work	work
+CanUGetwitIt	type	Q134556	single
+CanUGetwitIt	type	MusicalWork	musical work
+CanUGetwitIt	type	Q2188189	musical work
+CanUGetwitIt	type	Whole100003553	 Whole 100003553 
+CanUGetwitIt	type	Instrumentality103575240	 Instrumentality 103575240 
+CanUGetwitIt	subsequentWork	ThinkofYou(Ushersong)	Think of You (Usher song)
+CanUGetwitIt	producer	DeVanteSwing	DeVante Swing
+ThinkofYou(Ushersong)	previousWork	CanUGetwitIt	Can U Get wit It

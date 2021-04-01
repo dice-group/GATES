@@ -1,0 +1,34 @@
+It'sStillRockandRolltoMe	subsequentWork	Don'tAskMeWhy(BillyJoelsong)	Don't Ask Me Why (Billy Joel song)
+It'sStillRockandRolltoMe	previousWork	YouMayBeRight(song)	You May Be Right (song)
+It'sStillRockandRolltoMe	runtime	177.0	177.0
+It'sStillRockandRolltoMe	label	It'sStillRockandRolltoMe	It's Still Rock and Roll to Me
+It'sStillRockandRolltoMe	name	It'sStillRockandRolltoMe	It's Still Rock and Roll to Me
+It'sStillRockandRolltoMe	certification	Platinum(RIAA)	Platinum (RIAA)
+YouMayBeRight(song)	subsequentWork	It'sStillRockandRolltoMe	It's Still Rock and Roll to Me
+It'sStillRockandRolltoMe	genre	Rockmusic	Rock music
+It'sStillRockandRolltoMe	genre	Newwavemusic	New wave music
+It'sStillRockandRolltoMe	writer	BillyJoel	Billy Joel
+It'sStillRockandRolltoMe	releaseDate	19800512	1980-05-12
+It'sStillRockandRolltoMe	producer	PhilRamone	Phil Ramone
+Don'tAskMeWhy(BillyJoelsong)	previousWork	It'sStillRockandRolltoMe	It's Still Rock and Roll to Me
+It'sStillRockandRolltoMe	musicalBand	BillyJoel	Billy Joel
+It'sStillRockandRolltoMe	type	Thing	Thing
+It'sStillRockandRolltoMe	type	Q386724	work
+It'sStillRockandRolltoMe	type	Work	work
+It'sStillRockandRolltoMe	type	CreativeWork	 Creative  Work 
+It'sStillRockandRolltoMe	type	MusicalWork	musical work
+It'sStillRockandRolltoMe	type	Q2188189	musical work
+It'sStillRockandRolltoMe	type	Single	single
+It'sStillRockandRolltoMe	type	Q134556	single
+It'sStillRockandRolltoMe	recordLabel	ColumbiaRecords	Columbia Records
+It'sStillRockandRolltoMe	musicalArtist	BillyJoel	Billy Joel
+It'sStillRockandRolltoMe	subject	BillboardHot100numberonesingles	Billboard Hot 100 number-one singles
+It'sStillRockandRolltoMe	subject	SinglescertifiedplatinumbytheRecordingIndustryAssociationofAmerica	 Singles certified platinum by the   Recording   Industry   Association of   America 
+It'sStillRockandRolltoMe	subject	SongswrittenbyBillyJoel	Songs written by Billy Joel
+It'sStillRockandRolltoMe	subject	ColumbiaRecordssingles	Columbia Records singles
+It'sStillRockandRolltoMe	subject	Songsaboutmusic	Songs about music
+It'sStillRockandRolltoMe	subject	SongrecordingsproducedbyPhilRamone	Song recordings produced by Phil Ramone
+It'sStillRockandRolltoMe	subject	BillyJoelsongs	Billy Joel songs
+It'sStillRockandRolltoMe	subject	1980singles	1980 singles
+It'sStillRockandRolltoMe	subject	1980songs	1980 songs
+It'sStillRockandRolltoMe	album	GlassHouses	Glass Houses

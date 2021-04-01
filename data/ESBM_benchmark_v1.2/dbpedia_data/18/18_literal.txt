@@ -1,0 +1,28 @@
+Burgeryambush	isPartOfMilitaryConflict	IrishWarofIndependence	Irish War of Independence
+Burgeryambush	type	Event	event
+Burgeryambush	type	MilitaryConflict	military conflict
+Burgeryambush	type	Q1656682	event
+Burgeryambush	type	Thing	Thing
+Burgeryambush	type	Event	 Event 
+Burgeryambush	type	SocietalEvent	societal event
+Burgeryambush	type	Event	 Event 
+Burgeryambush	depiction	FlagofIreland.svg	 Flag of   Ireland.svg 
+Burgeryambush	strength	~20	~20
+Burgeryambush	strength	14(initially)	14 (initially)
+Burgeryambush	strength	50(subsequently)	50 (subsequently)
+Burgeryambush	name	BurgeryAmbush	Burgery Ambush
+Burgeryambush	commander	GeorgeOliverPlunkett	George Oliver Plunkett
+Burgeryambush	thumbnail	FlagofIreland.svg?width=300	 Flag of   Ireland.svg?width=300 
+Burgeryambush	label	Burgeryambush	Burgery ambush
+Burgeryambush	causalties	2dead	2 dead
+Burgeryambush	date	19210318	1921-03-18
+Burgeryambush	subject	HistoryofCountyWaterford	History of County Waterford
+Burgeryambush	subject	MilitaryactionsandengagementsduringtheIrishWarofIndependence	Military actions and engagements during the Irish War of Independence
+Burgeryambush	subject	1921inIreland	1921 in Ireland
+Burgeryambush	subject	Dungarvan	Dungarvan
+Burgeryambush	place	Dungarvan	Dungarvan
+Burgeryambush	place	CountyWaterford	County Waterford
+Burgeryambush	combatant	(DéiseBrigade)	(Déise Brigade)
+Burgeryambush	combatant	RoyalIrishConstabulary	Royal Irish Constabulary
+Burgeryambush	combatant	border|22pxIrishRepublicanArmy	border|22pxIrish Republican Army
+Burgeryambush	combatant	(ReserveForce)	(Reserve Force)

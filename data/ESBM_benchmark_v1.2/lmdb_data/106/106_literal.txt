@@ -1,0 +1,48 @@
+2381	runtime	108	108
+2381	writer	13288	13288
+2381	date	1965	1965
+2381	title	What'sNewPussycat?	What's New Pussycat?
+2381	performance	66844	66844
+2381	performance	49723	49723
+2381	performance	51265	51265
+2381	performance	56069	56069
+2381	performance	50018	50018
+2381	performance	99761	99761
+2381	performance	58567	58567
+2381	hasPhotoCollection	What'sNewPussycat?	 What's   New   Pussycat? 
+2381	language	fr	fr
+2381	language	en	en
+2381	filmid	2381	2381
+2381	filmcut	11663	11663
+2381	page	alias?type=imdbid&s=0059903	alias?type=imdbid&s=0059903
+2381	page	9202a8c04000641f80000000004fd9b4	9202a8c04000641f80000000004fd9b4
+2381	page	tt0059903	tt 0059903
+19753	linksource	2381	2381
+136102	linksource	2381	2381
+1220	linksource	2381	2381
+136101	linksource	2381	2381
+71209	linksource	2381	2381
+38286	linksource	2381	2381
+63261	linksource	2381	2381
+2381	director	13237	13237
+2381	director	15178	15178
+2381	actor	36799	36799
+2381	actor	10	10
+2381	actor	29679	29679
+2381	actor	31973	31973
+2381	actor	30975	30975
+2381	actor	30463	30463
+2381	actor	29614	29614
+2381	subject	375	375
+2381	country	GB	 G  B 
+2381	basednear	2635167	2635167
+2381	filmsubject	375	375
+2381	label	What'sNewPussycat?	What's New Pussycat?
+15178	made	2381	2381
+13237	made	2381	2381
+2381	initialreleasedate	1965	1965
+2381	producer	154	154
+12908	filmofdistributor	2381	2381
+2381	type	film	film
+2381	musiccontributor	4557	4557
+2381	musiccontributor	4357	4357

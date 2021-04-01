@@ -1,0 +1,28 @@
+Chitita	isPartOf	AricayParinacotaRegion	Arica y Parinacota Region	resource
+Chitita	type	Village	Village	resource
+Chitita	type	Location100027167	 Location 100027167 	resource
+Chitita	type	District108552138	 District 108552138 	resource
+Chitita	type	Site108651247	 Site 108651247 	resource
+Chitita	type	GeographicalArea108574314	 Geographical  Area 108574314 	resource
+Chitita	type	Region108630985	 Region 108630985 	resource
+Chitita	type	YagoLegalActorGeo	 Yago  Legal  Actor  Geo 	resource
+Chitita	type	Place	 Place 	resource
+Chitita	type	Object100002684	 Object 100002684 	resource
+Chitita	type	AdministrativeDistrict108491826	 Administrative  District 108491826 	resource
+Chitita	type	Q532	village	resource
+Chitita	type	Settlement	settlement	resource
+Chitita	type	Tract108673395	 Tract 108673395 	resource
+Chitita	type	Location	 Location 	resource
+Chitita	type	PopulatedPlace	populated place	resource
+Chitita	type	Thing	Thing	resource
+Chitita	type	Place	place	resource
+Chitita	type	YagoGeoEntity	 Yago  Geo  Entity 	resource
+Chitita	type	PhysicalEntity100001930	 Physical  Entity 100001930 	resource
+Chitita	type	PopulatedPlacesInAricaProvince	 Populated  Places  In  Arica  Province 	resource
+Chitita	type	Village	village	resource
+Chitita	type	Q486972	human settlement	resource
+Chitita	type	YagoPermanentlyLocatedEntity	 Yago  Permanently  Located  Entity 	resource
+Chitita	subject	PopulatedplacesinAricaProvince	Populated places in Arica Province	resource
+Chitita	country	Chile	Chile	resource
+Chitita	label	Chitita	Chitita	literal
+Chitita	name	Chitita	Chitita	literal

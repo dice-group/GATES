@@ -1,0 +1,22 @@
+7390	filmofdistributor	41006	41006
+41006	producer	377	377
+41006	producer	13682	13682
+41006	date	1995	1995
+41006	page	9202a8c04000641f80000000004af166	9202a8c04000641f80000000004af166
+41006	title	TheIncrediblyTrueAdventureofTwoGirlsinLove	The Incredibly True Adventure of Two Girls in Love
+41006	filmsubject	333	333
+41006	subject	333	333
+41006	performance	32228	32228
+41006	performance	48861	48861
+41006	performance	32227	32227
+41006	filmid	41006	41006
+41006	type	film	film
+41006	initialreleasedate	1995	1995
+41006	label	TheIncrediblyTrueAdventureofTwoGirlsinLove	The Incredibly True Adventure of Two Girls in Love
+41006	musiccontributor	5748	5748
+41006	director	13110	13110
+13110	made	41006	41006
+41006	writer	19046	19046
+41006	actor	40960	40960
+41006	actor	46958	46958
+41006	actor	38446	38446
