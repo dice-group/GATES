@@ -2,4 +2,4 @@
 <http://dbpedia.org/resource/Fabrice_Gautrat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerPlayer> .
 <http://dbpedia.org/resource/Fabrice_Gautrat> <http://dbpedia.org/ontology/position> <http://dbpedia.org/resource/Defender_(association_football)> .
 <http://dbpedia.org/resource/Fabrice_Gautrat> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/UJA_Maccabi_Paris_Métropole> .
-<http://dbpedia.org/resource/Fabrice_Gautrat> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/The_Master's_College> .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Orange_County_Blues_FC> .

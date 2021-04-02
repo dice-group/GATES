@@ -7,4 +7,4 @@
 <http://data.linkedmdb.org/resource/film/41573> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/9077> .
 <http://data.linkedmdb.org/resource/film/41573> <http://purl.org/dc/terms/date> "1954" .
 <http://data.linkedmdb.org/resource/film/41573> <http://data.linkedmdb.org/resource/movie/music_contributor> <http://data.linkedmdb.org/resource/music_contributor/5454> .
-<http://data.linkedmdb.org/resource/film/41573> <http://www.w3.org/2000/01/rdf-schema#label> "Broken Lance" .
+<http://data.linkedmdb.org/resource/film/41573> <http://data.linkedmdb.org/resource/movie/film_set_designer> <http://data.linkedmdb.org/resource/film_set_designer/2> .

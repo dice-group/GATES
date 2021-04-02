@@ -5,8 +5,8 @@
 <http://dbpedia.org/resource/2008_Copa_del_Rey_Final> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Getafe_CF> .
 <http://dbpedia.org/resource/2008_Copa_del_Rey_Final> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FootballMatch> .
 <http://dbpedia.org/resource/2008_Copa_del_Rey_Final> <http://dbpedia.org/ontology/time> "22:00CEST" .
-<http://dbpedia.org/resource/2008_Copa_del_Rey_Final> <http://xmlns.com/foaf/0.1/name> "2008 Copa del Rey Final"@en .
 <http://dbpedia.org/resource/2008_Copa_del_Rey_Final> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:2007–08_in_Spanish_football_cups> .
+<http://dbpedia.org/resource/2008_Copa_del_Rey_Final> <http://xmlns.com/foaf/0.1/name> "2008 Copa del Rey Final"@en .
 <http://dbpedia.org/resource/2008_Copa_del_Rey_Final> <http://www.w3.org/2000/01/rdf-schema#label> "2008 Copa del Rey Final"@en .
 <http://dbpedia.org/resource/2008_Copa_del_Rey_Final> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Getafe_CF_matches> .
 <http://dbpedia.org/resource/2008_Copa_del_Rey_Final> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Valencia_CF_matches> .

@@ -65,7 +65,7 @@ def get_entity_desc(ds_name, db_path, num):
   return data
 
 # Build graph
-def build_graph(db_path, num):
+def build_graph(db_path, num, weighted_edges_model):
   triples_idx=list()
   
   with open(path.join(db_path, "{}".format(num), "{}_desc.nt".format(num)), encoding="utf8") as reader:
@@ -125,9 +125,18 @@ def build_graph(db_path, num):
       weighted_edges.append(tfidf)
     
   triples_idx = np.array(triples_idx)
-  adj = sp.coo_matrix((weighted_edges, (triples_idx[:, 0], triples_idx[:, 2])),
+  
+  if weighted_edges_model=="tf-idf":
+      adj = sp.coo_matrix((weighted_edges, (triples_idx[:, 0], triples_idx[:, 2])),
                         shape=(triples_idx.shape[0], triples_idx.shape[0]),
-                        dtype=np.float32) 
+                        dtype=np.float32)
+  else:
+      adj = sp.coo_matrix((np.ones(triples_idx.shape[0]), (triples_idx[:, 0], triples_idx[:, 2])),
+                        shape=(triples_idx.shape[0], triples_idx.shape[0]),
+                        dtype=np.float32)
+                
+  
+   
   #print(triples_list)
   #print(triples_idx)
   
@@ -197,18 +206,18 @@ def get_data_gold(db_path, num, top_n, file_n):
   return gold_list
 
 # get data per entity id (provide data in graph and entity description)
-def get_data(ds_name, data_eids, db_dir):
+def get_data(ds_name, data_eids, db_dir, weighted_edges_model):
   adj_data = list()
   edesc_data = list() 
   for eid in data_eids:
-    adj = build_graph(db_dir, eid)
+    adj = build_graph(db_dir, eid, weighted_edges_model)
     edesc = get_entity_desc(ds_name, db_dir, eid)
     adj_data.append(adj)
     edesc_data.append(edesc)
   return adj_data, edesc_data
 
 # provide train, valid, and test data
-def split_data(ds_name, db_dir, top_n, file_n):
+def split_data(ds_name, db_dir, top_n, file_n, weighted_edges_model):
   if ds_name == "dbpedia":
     train_data, valid_data, test_data = get_5fold_train_valid_test_elist(ds_name, IN_ESBM_DIR) 
   elif ds_name == "lmdb":
@@ -223,7 +232,7 @@ def split_data(ds_name, db_dir, top_n, file_n):
   #print("loading training data")
   for train_eids in train_data:
     label = list()
-    adjs, edescs = get_data(ds_name, train_eids, db_dir)
+    adjs, edescs = get_data(ds_name, train_eids, db_dir, weighted_edges_model)
     for train_eid in train_eids:
       per_entity_label_dict = prepare_label(ds_name, train_eid, top_n=top_n, file_n=file_n)
       label.append(per_entity_label_dict)
@@ -238,7 +247,7 @@ def split_data(ds_name, db_dir, top_n, file_n):
   #print("loading validation data")
   for valid_eids in valid_data:
     label = list()
-    adjs, edescs = get_data(ds_name, valid_eids, db_dir)
+    adjs, edescs = get_data(ds_name, valid_eids, db_dir, weighted_edges_model)
     for valid_eid in valid_eids:
       per_entity_label_dict = prepare_label(ds_name, valid_eid, top_n=top_n, file_n=file_n)
       label.append(per_entity_label_dict)
@@ -253,7 +262,7 @@ def split_data(ds_name, db_dir, top_n, file_n):
   #print("loading testing data")
   for test_eids in test_data:
     label = list()
-    adjs, edescs = get_data(ds_name, test_eids, db_dir)
+    adjs, edescs = get_data(ds_name, test_eids, db_dir, weighted_edges_model)
     for test_eid in test_eids:
       per_entity_label_dict = prepare_label(ds_name, test_eid, top_n=top_n, file_n=file_n)
       label.append(per_entity_label_dict)

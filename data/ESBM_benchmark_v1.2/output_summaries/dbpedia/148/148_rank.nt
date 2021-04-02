@@ -16,7 +16,7 @@
 <http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1914_in_Mexico> .
 <http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)> <http://xmlns.com/foaf/0.1/name> "Battle of Zacatecas"@en .
 <http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q1656682> .
-<http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SocietalEvent> .
 <http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
 <http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event> .
 <http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> .
+<http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SocietalEvent> .

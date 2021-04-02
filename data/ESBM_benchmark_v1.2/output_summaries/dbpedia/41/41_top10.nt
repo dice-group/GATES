@@ -1,5 +1,5 @@
 <http://dbpedia.org/resource/Foppt_den_Dämon!> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Album> .
-<http://dbpedia.org/resource/Bannkreis> <http://dbpedia.org/ontology/previousWork> <http://dbpedia.org/resource/Foppt_den_Dämon!> .
+<http://dbpedia.org/resource/MCMXCV_(album)> <http://dbpedia.org/ontology/subsequentWork> <http://dbpedia.org/resource/Foppt_den_Dämon!> .
 <http://dbpedia.org/resource/Foppt_den_Dämon!> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Medieval_metal> .
 <http://dbpedia.org/resource/Foppt_den_Dämon!> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Medieval_folk_rock> .
 <http://dbpedia.org/resource/Foppt_den_Dämon!> <http://dbpedia.org/ontology/runtime> "2528.0"^^<http://www.w3.org/2001/XMLSchema#double> .
