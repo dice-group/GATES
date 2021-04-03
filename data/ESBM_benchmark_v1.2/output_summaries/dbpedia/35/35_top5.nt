@@ -1,5 +1,5 @@
+<http://dbpedia.org/resource/Lepiota_helveola> <http://dbpedia.org/ontology/division> <http://dbpedia.org/resource/Basidiomycota> .
 <http://dbpedia.org/resource/Lepiota_helveola> <http://dbpedia.org/ontology/order> <http://dbpedia.org/resource/Agaricales> .
 <http://dbpedia.org/resource/Lepiota_helveola> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Agaricaceae> .
 <http://dbpedia.org/resource/Lepiota_helveola> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Lepiota> .
-<http://dbpedia.org/resource/Lepiota_helveola> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Agaricomycetes> .
 <http://dbpedia.org/resource/Lepiota_helveola> <http://www.w3.org/2000/01/rdf-schema#label> "Lepiota helveola"@en .

@@ -1,7 +1,7 @@
 # GATES
 ## Graph Attention Networks for Entity Summarization
 
-The  entity  summarization  task  has  recently  gained  significant  attention  to  provide  concise  information  about  various  facts  con-tained  in  large  knowledge  graphs.  Presently,  the  best  performing  approaches rely on a supervised learning model using neural network methods with sequence to sequence learning. In contrast with existing methods, we introduce GATES as a new approach for entity summarization task using deep learning for graphs. It combines leveraging graph structure and textual semantics to encode triples and advantages deep learn-ing on graphs to generate a score for each candidate triple. We evaluated GATES on the ESBM benchmark, which comprises DBpedia and LinkedMDB datasets. Our results show that GATES outperforms state-of-the-art approaches on all datasets, in which F1 scores for the top-5 and top-10 of DBpedia are 0.462 and 0,615, respectively. Also, F1 scores for the top-5 and top-10 of LinkedMDB are 0.495 and 0.514, consecutively.
+The  entity  summarization  task  has  recently  gained  significant  attention  to  provide  concise  information  about  various  facts  con-tained  in  large  knowledge  graphs.  Presently,  the  best  performing  approaches rely on a supervised learning model using neural network methods with sequence to sequence learning. In contrast with existing methods, we introduce GATES as a new approach for entity summarization task using deep learning for graphs. It combines leveraging graph structure and textual semantics to encode triples and advantages deep learn-ing on graphs to generate a score for each candidate triple. We evaluated GATES on the ESBM benchmark, which comprises DBpedia and LinkedMDB datasets. Our results show that GATES outperforms state-of-the-art approaches on all datasets, in which F1 scores for the top-5 and top-10 of DBpedia are 0.478 and 0,629, respectively. Also, F1 scores for the top-5 and top-10 of LinkedMDB are 0.503 and 0.529, consecutively.
 
 ## Dataset
 
@@ -100,13 +100,26 @@ optional arguments:
                         tf-idf
 
 ```
+
 ### Training the model
+
 ```
-python main.py --mode train 
+python main.py --mode train --weighted_edges_method tf-idf
 ```
 
 ### Testing the model
 ```
-python main.py --mode test
+python main.py --mode test --weighted_edges_method tf-idf
 ```
 
+### Evaluation Result
+
+Evaluation Method: F-Measure
+
+| Model               | DBpedia                  || LMDB                   ||
+|                     | K=5         | K=10        | K=5        | K=10       |
+| ------------------- | ------------| ------------|------------|------------|
+| DeepLENS            | 0,402       | 0,574       | 0,474      | 0,493      |
+| ESA                 | 0,331       | 0,532       | 0,350      | 0,416      |
+| ------------------- | ------------| ------------|------------|------------|
+| GATES               | 0,478       | 0,629       | 0,503      | 0,529      |

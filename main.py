@@ -101,7 +101,7 @@ if __name__ == "__main__":
     parser.add_argument("--ent_emb_dim", type=int, default=300, help="the embeddiing dimension of entity")
     parser.add_argument("--pred_emb_dim", type=int, default=300, help="the embeddiing dimension of predicate")
     parser.add_argument("--hidden_layers", type=int, default=2, help="the number of hidden layers")
-    parser.add_argument("--nheads", type=int, default=1, help="the number of heads attention")
+    parser.add_argument("--nheads", type=int, default=3, help="the number of heads attention")
     parser.add_argument("--lr", type=float, default=0.005, help="use to define learning rate hyperparameter")
     parser.add_argument("--dropout", type=float, default='0.0', help="use to define dropout hyperparameter")
     parser.add_argument("--weight_decay", type=float, default='1e-5', help="use to define weight decay hyperparameter if the regularization set to True")
