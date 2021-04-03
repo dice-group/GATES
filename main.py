@@ -94,7 +94,7 @@ def main(mode, emb_model, loss_type,  ent_emb_dim, pred_emb_dim, hidden_layers, 
                                      DEVICE, use_epoch, db_dir, dropout, entity2ix_size, hidden_layers, nheads, word_emb, word_emb_calc, topk, FILE_N, n_epoch, mode, concat_model)
             
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description='KGSUMM: Knowledge Graph SUMMarization')
+    parser = argparse.ArgumentParser(description='GATES: Graph Attention Network for Entity Summarization')
     parser.add_argument("--mode", type=str, default="all", help="use which mode type: train/test/all")
     parser.add_argument("--kge_model", type=str, default="ComplEx", help="use ComplEx/DistMult/ConEx")
     parser.add_argument("--loss_function", type=str, default="BCE", help="use which loss type: BCE/MSE")
@@ -112,7 +112,7 @@ if __name__ == "__main__":
     parser.add_argument("--word_emb_calc", type=str, default="AVG", help="use which method to compute textual form: SUM/AVG")
     parser.add_argument("--use_epoch", type=int, nargs='+', help="how many epochs to train the model")
     parser.add_argument("--concat_model", type=int, default=1, help="use which concatenation model (1 or 2). In which, 1 refers to KGE + Word embedding, and 2 refers to KGE + (KGE/Word embeddings) depends on the object value")
-    parser.add_argument("--weighted_edges_method", type=str, default="", help="use which initial weighted edges method: tf-idf")
+    parser.add_argument("--weighted_edges_method", type=str, default="", help="use which apply the initialize weighted edges method: tf-idf")
     
     args = parser.parse_args()
     main(args.mode, args.kge_model, args.loss_function, args.ent_emb_dim, args.pred_emb_dim, args.hidden_layers, args.nheads, args.lr, args.dropout, args.regularization, args.weight_decay, \

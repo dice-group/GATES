@@ -39,13 +39,67 @@ And run the visdom before you execute the train model. Just type visdom on termi
 visdom
 ```
 
-## Usage
-
-### Installation
+## Installation
 ```
 git clone https://github.com/dice-group/GATES.git  
 ```
 
+
+## Usage
+```
+usage: main.py [-h] [--mode MODE] [--kge_model KGE_MODEL]
+               [--loss_function LOSS_FUNCTION] [--ent_emb_dim ENT_EMB_DIM]
+               [--pred_emb_dim PRED_EMB_DIM] [--hidden_layers HIDDEN_LAYERS]
+               [--nheads NHEADS] [--lr LR] [--dropout DROPOUT]
+               [--weight_decay WEIGHT_DECAY] [--regularization REGULARIZATION]
+               [--save_every SAVE_EVERY] [--n_epoch N_EPOCH]
+               [--word_emb_model WORD_EMB_MODEL]
+               [--word_emb_calc WORD_EMB_CALC]
+               [--use_epoch USE_EPOCH [USE_EPOCH ...]]
+               [--concat_model CONCAT_MODEL]
+               [--weighted_edges_method WEIGHTED_EDGES_METHOD]
+
+GATES: Graph Attention Network for Entity Summarization
+
+optional arguments:
+  -h, --help            show this help message and exit
+  --mode MODE           use which mode type: train/test/all
+  --kge_model KGE_MODEL
+                        use ComplEx/DistMult/ConEx
+  --loss_function LOSS_FUNCTION
+                        use which loss type: BCE/MSE
+  --ent_emb_dim ENT_EMB_DIM
+                        the embeddiing dimension of entity
+  --pred_emb_dim PRED_EMB_DIM
+                        the embeddiing dimension of predicate
+  --hidden_layers HIDDEN_LAYERS
+                        the number of hidden layers
+  --nheads NHEADS       the number of heads attention
+  --lr LR               use to define learning rate hyperparameter
+  --dropout DROPOUT     use to define dropout hyperparameter
+  --weight_decay WEIGHT_DECAY
+                        use to define weight decay hyperparameter if the
+                        regularization set to True
+  --regularization REGULARIZATION
+                        use to define regularization: True/False
+  --save_every SAVE_EVERY
+                        save model in every n epochs
+  --n_epoch N_EPOCH     train model in total n epochs
+  --word_emb_model WORD_EMB_MODEL
+                        use which word embedding model: fasttext/Glove
+  --word_emb_calc WORD_EMB_CALC
+                        use which method to compute textual form: SUM/AVG
+  --use_epoch USE_EPOCH [USE_EPOCH ...]
+                        how many epochs to train the model
+  --concat_model CONCAT_MODEL
+                        use which concatenation model (1 or 2). In which, 1
+                        refers to KGE + Word embedding, and 2 refers to KGE +
+                        (KGE/Word embeddings) depends on the object value
+  --weighted_edges_method WEIGHTED_EDGES_METHOD
+                        use which apply the initialize weighted edges method:
+                        tf-idf
+
+```
 ### Training the model
 ```
 python main.py --mode train 
