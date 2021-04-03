@@ -117,8 +117,8 @@ python main.py --mode test --weighted_edges_method tf-idf
 Evaluation Method: F-Measure
 
 | Model               | DBpedia                  || LMDB                   ||
-|                     | K=5         | K=10        | K=5        | K=10       |
 | ------------------- | ------------| ------------|------------|------------|
+|                     | K=5         | K=10        | K=5        | K=10       |
 | DeepLENS            | 0,402       | 0,574       | 0,474      | 0,493      |
 | ESA                 | 0,331       | 0,532       | 0,350      | 0,416      |
 | GATES               | 0,478       | 0,629       | 0,503      | 0,529      |
