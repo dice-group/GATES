@@ -61,10 +61,10 @@ def generate_summary(ds_name, test_adjs, test_facts, test_labels, pred_dict, ent
       
     test_favg_top = np.mean(favg_top_list)
     print('\n')
-    print('top {} test fold %d:'.format(topk) % num, test_favg_top)
+    print('top {} of {} testing fold %d:'.format(topk, ds_name) % num, test_favg_top)
     print('\n')
   test_favg_top_all = np.mean(favg_top_all)
-  print('top {} test all:'.format(topk), test_favg_top_all)
+  print('top {} of {} testing result avarage:'.format(topk, ds_name), test_favg_top_all)
   if ds_name=="lmdb" and topk==10:
       os.system('java -jar evaluation/esummeval_v1.2.jar data/ESBM_benchmark_v1.2/ data/ESBM_benchmark_v1.2/output_summaries/')
   

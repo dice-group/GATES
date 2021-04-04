@@ -1,4 +1,4 @@
-<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q1656682> .
 <http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://dbpedia.org/ontology/isPartOfMilitaryConflict> <http://dbpedia.org/resource/War_of_the_Austrian_Succession> .
 <http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://dbpedia.org/ontology/result> "French victory" .
 <http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Jean-Baptiste_Francois_des_Marets,_marquis_de_Maillebois> .

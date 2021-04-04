@@ -15,6 +15,8 @@ from gensim.models.keyedvectors import KeyedVectors
 
 import visdom
 import numpy as np
+import time
+import math
 
 from data_loader import split_data, load_emb
 from train import train_iter 
@@ -26,6 +28,13 @@ FILE_N = 6
 TOP_K = [5, 10]
 DS_NAME = ['dbpedia', 'lmdb']
 DEVICE = torch.device("cpu")
+
+def asHours(s):
+	m = math.floor(s / 60)
+	h = math.floor(m / 60)
+	s -= m * 60
+	m -= h * 60
+	return '%dh %dm %ds' % (h, m, s)
 
 def main(mode, emb_model, loss_type,  ent_emb_dim, pred_emb_dim, hidden_layers, nheads, lr, dropout, reg, weight_decay, n_epoch, save_every, word_emb_model, word_emb_calc, use_epoch, concat_model, weighted_edges_method): 
     if word_emb_model == "fasttext":
@@ -83,6 +92,7 @@ def main(mode, emb_model, loss_type,  ent_emb_dim, pred_emb_dim, hidden_layers, 
             pred2ix_size = len(pred2ix)
             entity2ix_size = len(entity2ix)
             hidden_size = ent_emb_dim + pred_emb_dim
+            start = time.time()
             for topk in TOP_K:
                 train_adjs, train_facts, train_labels, val_adjs, val_facts, val_labels, test_adjs, test_facts, test_labels = split_data(ds_name, db_dir, topk, FILE_N, weighted_edges_method) 
                 if mode == "train" or mode=="all":
@@ -92,6 +102,14 @@ def main(mode, emb_model, loss_type,  ent_emb_dim, pred_emb_dim, hidden_layers, 
                 if mode == "test" or mode=="all":
                     find_best_topk(ds_name, test_adjs, test_facts, test_labels, pred_dict, entity_dict, pred2ix_size, pred_emb_dim, ent_emb_dim, \
                                      DEVICE, use_epoch, db_dir, dropout, entity2ix_size, hidden_layers, nheads, word_emb, word_emb_calc, topk, FILE_N, n_epoch, mode, concat_model)
+            
+            total_time = time.time()-start
+            if mode=="train":
+                print("Training processes time", asHours(total_time))
+            elif mode=="test":
+                print("Testing processes time", asHours(total_time))
+            else:
+                print("All processing time", asHours(total_time))
             
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='GATES: Graph Attention Network for Entity Summarization')

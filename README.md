@@ -26,6 +26,23 @@ GATES applies Glove and fastText as word embeddings.
 1. Download pre-trained model [wiki-news-300d-1M.vec.zip](https://dl.fbaipublicfiles.com/fasttext/vectors-english/wiki-news-300d-1M.vec.zip)
 2. Extract the zip file and put the file on data folder
 
+## Environment and Dependency
+
+### Environment
+
+* Ubuntu 10.04.2 LTS
+* python 3.6+
+* pytorch 1.7.0
+
+### Depedency
+
+```
+pip install numpy
+pip install tqdm
+pip install gensim
+pip install scipy
+```
+
 ## Visualization Tools
 
 We use a third party to visualize the training and validation loss, and accuracy. 
@@ -39,9 +56,10 @@ And run the visdom before you execute the train model. Just type visdom on termi
 visdom
 ```
 
+
 ## Installation
 ```
-git clone https://github.com/dice-group/GATES.git  
+git clone https://github.com/dice-group/GATES.git
 ```
 
 
