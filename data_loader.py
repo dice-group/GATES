@@ -12,9 +12,9 @@ import os.path as path
 from utils import _compact, _extract, build_dict, build_vec
 import scipy.sparse as sp
 
-IN_ESBM_DIR = os.path.join(path.dirname(os.getcwd()), 'KGSUM-GAT/data', 'ESBM_benchmark_v1.2')
-IN_DBPEDIA_DIR = os.path.join(path.dirname(os.getcwd()), 'KGSUM-GAT/data/ESBM_benchmark_v1.2', 'dbpedia_data')
-IN_LMDB_DIR = os.path.join(path.dirname(os.getcwd()), 'KGSUM-GAT/data/ESBM_benchmark_v1.2', 'lmdb_data')
+IN_ESBM_DIR = os.path.join(path.dirname(os.getcwd()), 'GATES/data', 'ESBM_benchmark_v1.2')
+IN_DBPEDIA_DIR = os.path.join(path.dirname(os.getcwd()), 'GATES/data/ESBM_benchmark_v1.2', 'dbpedia_data')
+IN_LMDB_DIR = os.path.join(path.dirname(os.getcwd()), 'GATES/data/ESBM_benchmark_v1.2', 'lmdb_data')
 
 # get data from ESBM benchmark v.1.2 for cross-validation - adapted by DeepLENS
 def get_5fold_train_valid_test_elist(ds_name_str, esbm_dir=IN_ESBM_DIR):
