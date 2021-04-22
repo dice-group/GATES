@@ -2,8 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Dec  9 19:57:37 2020
-
-@author: Asep Fajar Firmansyah
 """
 from __future__ import unicode_literals, print_function, division
 import os
@@ -87,9 +85,6 @@ def main(mode, emb_model, loss_type,  ent_emb_dim, pred_emb_dim, hidden_layers, 
     print("Regularization: {}", format(reg))
     viz = visdom.Visdom()
     if mode == "train" or mode =="test" or mode=="all":
-        log_file_path = os.path.join(OUT_DIR, 'GATES_log.txt')
-        if mode=="train" or mode=="all":
-            with open(log_file_path,'w') as log_file:pass
         for ds_name in DS_NAME:
             if ds_name == "dbpedia":
                 db_dir = IN_DBPEDIA_DIR
@@ -108,6 +103,9 @@ def main(mode, emb_model, loss_type,  ent_emb_dim, pred_emb_dim, hidden_layers, 
             entity2ix_size = len(entity2ix)
             hidden_size = ent_emb_dim + pred_emb_dim
             start = time.time()
+            log_file_path = os.path.join(OUT_DIR, 'GATES_log.txt')
+            if mode=="train" or mode=="all":
+                with open(log_file_path,'w') as log_file:pass
             for topk in TOP_K:
                 train_adjs, train_facts, train_labels, val_adjs, val_facts, val_labels, test_adjs, test_facts, test_labels = split_data(ds_name, db_dir, topk, FILE_N, weighted_edges_method) 
                 if mode == "train" or mode=="all":

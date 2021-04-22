@@ -2,8 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Dec  9 18:12:04 2020
-
-@author: Asep Fajar Firmansyah
 """
 import numpy as np
 import scipy.sparse as sp

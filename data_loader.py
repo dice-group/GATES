@@ -2,8 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Dec  9 19:04:19 2020
-
-@author: Asep Fajar Firmansyah
 """
 import numpy as np # The library is used for mathematical computation
 import os # to communicate with operation system 

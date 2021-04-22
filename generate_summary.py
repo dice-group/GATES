@@ -2,8 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Dec  9 23:24:18 2020
-
-@author: Asep Fajar Firmansyah
 """
 
 import os # to communicate with operation system 

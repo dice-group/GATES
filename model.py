@@ -2,10 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Dec  9 18:04:58 2020
-
-kgsumm_model.ipynb
-@author: Asep Fajar Firmansyah (asep.fajar.firmansyah@uni-paderborn.de)
-
 """
 
 # Define model
