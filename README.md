@@ -1,7 +1,21 @@
 # GATES
 ## Graph Attention Networks for Entity Summarization
 
-The  entity  summarization  task  has  recently  gained  significant  attention  to  provide  concise  information  about  various  facts  con-tained  in  large  knowledge  graphs.  Presently,  the  best  performing  approaches rely on a supervised learning model using neural network methods with sequence to sequence learning. In contrast with existing methods, we introduce GATES as a new approach for entity summarization task using deep learning for graphs. It combines leveraging graph structure and textual semantics to encode triples and advantages deep learn-ing on graphs to generate a score for each candidate triple. We evaluated GATES on the ESBM benchmark, which comprises DBpedia and LinkedMDB datasets. Our results show that GATES outperforms state-of-the-art approaches on all datasets, in which F1 scores for the top-5 and top-10 of DBpedia are 0.478 and 0,629, respectively. Also, F1 scores for the top-5 and top-10 of LinkedMDB are 0.503 and 0.529, consecutively.
+The sheer size of modern knowledge graphs has led to in-
+creased attention being paid to the entity summarization task. Given a
+knowledge graph T and an entity e found therein, solutions to entity
+summarization select a subset of the triples from T which summarize
+e’s concise bound description. Presently, the best performing approaches
+rely on sequence-to-sequence models to generate entity summaries and
+rely on little to none of the structure information of T during the sum-
+marization process. We hypothesize that this structure information can
+be exploited to compute better summaries. To verify our hypothesis,
+we develop GATES, a new entity summarization approach that com-
+bines topological information and knowledge graph embeddings to en-
+code triples. The topological information is encoded by means of a Graph
+Attention Network. We evaluate GATES on the ESBM benchmark. Our
+results show that GATES outperforms the state-of-the-art approaches
+DeepLENS and ESA and reaches up to 0.62 F-measure. 
 
 ## Dataset
 
@@ -34,19 +48,27 @@ GATES applies Glove and fastText as word embeddings.
 * python 3.6+
 * pytorch 1.7.0
 
-### Depedency
+### Dependencies
+
+Our dependencies from external library that are required to run the model, you need to install them as follow:
 
 ```
-pip install numpy
+pip install numpy==1.19.2
 pip install tqdm
-pip install gensim
-pip install scipy
+pip install gensim==3.8.3
+pip install scipy==1.5.4
+pip install nltk==3.5
+pip install psutil==5.8.0
 ```
+or
 
+```
+pip install -r requirements.txt
+```
 ## Visualization Tools
 
 We use a third party to visualize the training and validation loss, and accuracy. 
-If you don't install visdom yet, please install visdom as follows:
+If you haven't install visdom yet, please install visdom as follows:
 ```
 pip install visdom
 ``` 
@@ -139,4 +161,4 @@ Evaluation Method: F-Measure
 |                     | K=5         | K=10        | K=5        | K=10       |
 | DeepLENS            | 0,402       | 0,574       | 0,474      | 0,493      |
 | ESA                 | 0,331       | 0,532       | 0,350      | 0,416      |
-| GATES               | 0,478       | 0,629       | 0,503      | 0,529      |
+| GATES               | **0,471**       | **0,620**       | **0,505**      | **0,504**      |
