@@ -19,11 +19,13 @@ import time
 import math
 
 from data_loader import split_data, load_emb
-from train import train_iter 
-from find_best_result import find_best_topk
+from train import train_iter
+from generate_summary import generate_summary
 
 IN_DBPEDIA_DIR = os.path.join(path.dirname(os.getcwd()), 'GATES/data/ESBM_benchmark_v1.2', 'dbpedia_data')
 IN_LMDB_DIR = os.path.join(path.dirname(os.getcwd()), 'GATES/data/ESBM_benchmark_v1.2', 'lmdb_data')
+OUT_DIR = os.path.join(path.dirname(os.getcwd()), 'GATES/data/ESBM_benchmark_v1.2')
+
 FILE_N = 6
 TOP_K = [5, 10]
 DS_NAME = ['dbpedia', 'lmdb']
@@ -35,6 +37,16 @@ def asHours(s):
 	s -= m * 60
 	m -= h * 60
 	return '%dh %dm %ds' % (h, m, s)
+
+def _read_epochs_from_log(ds_name, topk):
+    log_file_path = os.path.join(OUT_DIR, 'GATES_log.txt')
+    key = '{}-top{}'.format(ds_name, topk)
+    epoch_list = None
+    with open(log_file_path, 'r', encoding='utf-8') as f:
+        for line in f:
+            if line.startswith(key):
+                epoch_list = list(eval(line.split('\t')[1]))
+    return epoch_list
 
 def main(mode, emb_model, loss_type,  ent_emb_dim, pred_emb_dim, hidden_layers, nheads, lr, dropout, reg, weight_decay, n_epoch, save_every, word_emb_model, word_emb_calc, use_epoch, concat_model, weighted_edges_method): 
     if word_emb_model == "fasttext":
@@ -75,6 +87,9 @@ def main(mode, emb_model, loss_type,  ent_emb_dim, pred_emb_dim, hidden_layers, 
     print("Regularization: {}", format(reg))
     viz = visdom.Visdom()
     if mode == "train" or mode =="test" or mode=="all":
+        log_file_path = os.path.join(OUT_DIR, 'GATES_log.txt')
+        if mode=="train" or mode=="all":
+            with open(log_file_path,'w') as log_file:pass
         for ds_name in DS_NAME:
             if ds_name == "dbpedia":
                 db_dir = IN_DBPEDIA_DIR
@@ -96,13 +111,17 @@ def main(mode, emb_model, loss_type,  ent_emb_dim, pred_emb_dim, hidden_layers, 
             for topk in TOP_K:
                 train_adjs, train_facts, train_labels, val_adjs, val_facts, val_labels, test_adjs, test_facts, test_labels = split_data(ds_name, db_dir, topk, FILE_N, weighted_edges_method) 
                 if mode == "train" or mode=="all":
-                    train_iter(ds_name, train_adjs, train_facts, train_labels, val_adjs, val_facts, val_labels, reg, n_epoch, save_every, DEVICE, entity_dict, \
+                    use_epoch = train_iter(ds_name, train_adjs, train_facts, train_labels, val_adjs, val_facts, val_labels, reg, n_epoch, save_every, DEVICE, entity_dict, \
                                pred_dict, loss_function, pred2ix_size, hidden_size, pred_emb_dim, ent_emb_dim, lr, dropout, entity2ix_size, hidden_layers, nheads, \
                                word_emb, db_dir, weight_decay, word_emb_calc, topk, FILE_N, viz, concat_model)
+                    
+                    with open(log_file_path,'a') as log_file:
+                        line = '{}-top{} epoch:\t{}\n'.format(ds_name,topk, str(use_epoch))
+                        log_file.write(line)
                 if mode == "test" or mode=="all":
-                    find_best_topk(ds_name, test_adjs, test_facts, test_labels, pred_dict, entity_dict, pred2ix_size, pred_emb_dim, ent_emb_dim, \
-                                     DEVICE, use_epoch, db_dir, dropout, entity2ix_size, hidden_layers, nheads, word_emb, word_emb_calc, topk, FILE_N, n_epoch, mode, concat_model)
-            
+                    use_epoch = _read_epochs_from_log(ds_name, topk) if mode=='test' or mode=='all' else []
+                    generate_summary(ds_name, test_adjs, test_facts, test_labels, pred_dict, entity_dict, pred2ix_size, pred_emb_dim, ent_emb_dim, \
+                                 DEVICE, use_epoch, db_dir, dropout, entity2ix_size, hidden_layers, nheads, word_emb, word_emb_calc, topk, FILE_N, concat_model)
             total_time = time.time()-start
             if mode=="train":
                 print("Training processes time", asHours(total_time))
