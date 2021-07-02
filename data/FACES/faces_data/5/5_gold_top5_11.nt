@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Richard_Mentor_Johnson> <http://dbpedia.org/ontology/termPeriod> "http://dbpedia.org/resource/Richard_Mentor_Johnson__2" .
+<http://dbpedia.org/resource/Richard_Mentor_Johnson> <http://dbpedia.org/ontology/spouse> "http://dbpedia.org/resource/Common_law_marriage" .
+<http://dbpedia.org/resource/Richard_Mentor_Johnson> <http://dbpedia.org/ontology/spouse> "http://dbpedia.org/resource/Common-law_marriage" .
+<http://dbpedia.org/resource/Richard_Mentor_Johnson> <http://dbpedia.org/property/after> "http://dbpedia.org/resource/William_W._Southgate" .
+<http://dbpedia.org/resource/Richard_Mentor_Johnson> <http://dbpedia.org/property/placeOfDeath> "http://dbpedia.org/resource/Frankfort,_Kentucky" .
+

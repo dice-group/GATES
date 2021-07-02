@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Usain_Bolt> <http://dbpedia.org/property/sport> "http://dbpedia.org/resource/Track_and_field" .
+<http://dbpedia.org/resource/Usain_Bolt> <http://dbpedia.org/property/event> "http://dbpedia.org/resource/Sprint_(running)" .
+<http://dbpedia.org/resource/Usain_Bolt> <http://dbpedia.org/ontology/nationality> "http://dbpedia.org/resource/Jamaica" .
+<http://dbpedia.org/resource/Usain_Bolt> <http://dbpedia.org/ontology/birthPlace> "http://dbpedia.org/resource/Jamaica" .
+<http://dbpedia.org/resource/Usain_Bolt> <http://dbpedia.org/property/title> "http://dbpedia.org/resource/BBC_Overseas_Sports_Personality_of_the_Year" .
+

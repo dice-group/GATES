@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Total_Recall_(1990_film)> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> "http://en.wikipedia.org/wiki/Total_Recall_(1990_film)" .
+<http://dbpedia.org/resource/Total_Recall_(1990_film)> <http://dbpedia.org/ontology/starring> "http://dbpedia.org/resource/Arnold_Schwarzenegger" .
+<http://dbpedia.org/resource/Total_Recall_(1990_film)> <http://dbpedia.org/ontology/director> "http://dbpedia.org/resource/Paul_Verhoeven" .
+<http://dbpedia.org/resource/Total_Recall_(1990_film)> <http://dbpedia.org/property/producer> "http://dbpedia.org/resource/Mario_Kassar" .
+<http://dbpedia.org/resource/Total_Recall_(1990_film)> <http://dbpedia.org/ontology/starring> "http://dbpedia.org/resource/Rachel_Ticotin" .
+

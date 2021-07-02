@@ -1,0 +1,50 @@
+http://dbpedia.org/resource/Barack_Obama:-:32:-:46:-:http://en.wikipedia.org/wiki/Barack_Obama:-:person, politician
+http://dbpedia.org/resource/Friedrich_Engel_(mathematician):-:20:-:52:-:http://en.wikipedia.org/wiki/Friedrich_Engel_%28mathematician%29:-:person, scientist
+http://dbpedia.org/resource/Marie_Curie:-:21:-:39:-:http://en.wikipedia.org/wiki/Marie_Curie:-:person, scientist
+http://dbpedia.org/resource/Bill_Gates:-:21:-:39:-:http://en.wikipedia.org/wiki/Bill_gates:-:person
+http://dbpedia.org/resource/Richard_Mentor_Johnson:-:35:-:61:-:http://en.wikipedia.org/wiki/Richard_Mentor_Johnson:-:person, politician
+http://dbpedia.org/resource/Family_Feud:-:28:-:78:-:http://en.wikipedia.org/wiki/Family_Feud:-:tv show
+http://dbpedia.org/resource/John_Napier:-:20:-:33:-:http://en.wikipedia.org/wiki/John_Napier:-:person
+http://dbpedia.org/resource/Candle_in_the_Wind:-:20:-:26:-:http://en.wikipedia.org/wiki/Candle_in_the_Wind:-:song
+http://dbpedia.org/resource/Edward_Teller:-:20:-:32:-:http://en.wikipedia.org/wiki/Edward_Teller:-:person
+http://dbpedia.org/resource/Total_Recall_(1990_film):-:25:-:43:-:http://en.wikipedia.org/wiki/Total_Recall_%281990_film%29:-:film
+http://dbpedia.org/resource/Rice_University:-:26:-:29:-:http://en.wikipedia.org/wiki/Rice_University:-:university, organization
+http://dbpedia.org/resource/Czech_Republic:-:26:-:34:-:http://en.wikipedia.org/wiki/Czech_Republic:-:country, place
+http://dbpedia.org/resource/Amsterdam:-:26:-:55:-:http://en.wikipedia.org/wiki/Amsterdam:-:place, city
+http://dbpedia.org/resource/Henry_IV_of_France:-:25:-:43:-:http://en.wikipedia.org/wiki/Henry_IV_of_France:-:person
+http://dbpedia.org/resource/Bruce_Lee:-:24:-:36:-:http://en.wikipedia.org/wiki/Bruce_Lee:-:person, actor
+http://dbpedia.org/resource/Argo_(2012_film):-:22:-:31:-:http://en.wikipedia.org/wiki/Argo_%282012_film%29:-:film
+http://dbpedia.org/resource/Manchester_City_F.C.:-:22:-:62:-:http://en.wikipedia.org/wiki/Manchester_City_F.C.:-:organization, sports
+http://dbpedia.org/resource/The_Cosby_Show:-:26:-:59:-:http://en.wikipedia.org/wiki/The_Cosby_Show:-:tv show
+http://dbpedia.org/resource/Ann_Arbor,_Michigan:-:26:-:36:-:http://en.wikipedia.org/wiki/Ann_Arbor,_Michigan:-:place, city
+http://dbpedia.org/resource/Yukon_River:-:25:-:26:-:http://en.wikipedia.org/wiki/Yukon_River:-:river
+http://dbpedia.org/resource/England:-:25:-:28:-:http://en.wikipedia.org/wiki/England:-:country
+http://dbpedia.org/resource/Poland:-:25:-:42:-:http://en.wikipedia.org/wiki/Poland:-:country
+http://dbpedia.org/resource/Original_Sin_(2001_film):-:25:-:34:-:http://en.wikipedia.org/wiki/Original_Sin_%282001_film%29:-:film
+http://dbpedia.org/resource/Ferrari:-:24:-:30:-:http://en.wikipedia.org/wiki/Ferrari:-:company
+http://dbpedia.org/resource/Crysis_2:-:24:-:39:-:http://en.wikipedia.org/wiki/Crysis_2:-:software, game
+http://dbpedia.org/resource/Reign_of_Fire_(film):-:24:-:38:-:http://en.wikipedia.org/wiki/Reign_of_Fire_%28film%29:-:film
+http://dbpedia.org/resource/Beverly_Hills,_90210:-:24:-:88:-:http://en.wikipedia.org/wiki/Beverly_Hills,_90210:-:tv show
+http://dbpedia.org/resource/Seychelles:-:24:-:33:-:http://en.wikipedia.org/wiki/Seychelles:-:country
+http://dbpedia.org/resource/Friends:-:28:-:52:-:http://en.wikipedia.org/wiki/Friends:-:tv show
+http://dbpedia.org/resource/Texas:-:28:-:42:-:http://en.wikipedia.org/wiki/Texas:-:place, state
+http://dbpedia.org/resource/Alan_Turing:-: 21:-:52:-:http://en.wikipedia.org/wiki/Alan_Turing:-:person
+http://dbpedia.org/resource/Aladdin_(1992_Disney_film):-:20:-:38:-:http://en.wikipedia.org/wiki/Aladdin_%281992_Disney_film%29:-:film
+http://dbpedia.org/resource/Walt_Disney:-:30:-:57:-:http://en.wikipedia.org/wiki/Walt_Disney:-:person
+http://dbpedia.org/resource/Albert_Einstein:-:20:-:35:-:http://en.wikipedia.org/wiki/Albert_Einstein:-:person, scientist
+http://dbpedia.org/resource/Vladimir_Putin:-:33:-:78:-:http://en.wikipedia.org/wiki/Vladimir_Putin:-:person, politician
+http://dbpedia.org/resource/Mortal_Kombat_Trilogy:-:17:-:40:-:http://en.wikipedia.org/wiki/Mortal_Kombat_Trilogy:-:software, game
+http://dbpedia.org/resource/(What_Is)_Love%3F:-:22:-:29:-:http://en.wikipedia.org/wiki/%28What_Is%29_Love%3F:-:song
+http://dbpedia.org/resource/Knight_Rider_(1982_TV_series):-:26:-:46:-:http://en.wikipedia.org/wiki/Knight_Rider_%281982_TV_series%29:-:tv show
+http://dbpedia.org/resource/Baywatch:-:23:-:56:-:http://en.wikipedia.org/wiki/Baywatch:-:tv show
+http://dbpedia.org/resource/Norway:-:27:-:40:-:http://en.wikipedia.org/wiki/Norway:-:country
+http://dbpedia.org/resource/Nile:-:18:-:36:-:http://en.wikipedia.org/wiki/Nile:-:river
+http://dbpedia.org/resource/Charles_Darwin:-:28:-:62:-:http://en.wikipedia.org/wiki/Charles_Darwin:-:person, scientist
+http://dbpedia.org/resource/Love_Me_(Justin_Bieber_song):-:22:-:38:-:http://en.wikipedia.org/wiki/Love_Me_%28Justin_Bieber_song%29:-:song
+http://dbpedia.org/resource/Never_Let_You_Go_(Justin_Bieber_song):-:23:-:34:-:http://en.wikipedia.org/wiki/Never_Let_You_Go_%28Justin_Bieber_song%29:-:song
+http://dbpedia.org/resource/Lexus:-:25:-:34:-:http://en.wikipedia.org/wiki/Lexus:-:company
+http://dbpedia.org/resource/J._C._Penney:-:19:-:19:-:http://en.wikipedia.org/wiki/J._C._Penney:-:company
+http://dbpedia.org/resource/Benjamin_Franklin:-:25:-:46:-:http://en.wikipedia.org/wiki/Benjamin_Franklin:-:person, politician
+http://dbpedia.org/resource/Mike_Turner:-:25:-:33:-:http://en.wikipedia.org/wiki/Mike_Turner:-:person, politician
+http://dbpedia.org/resource/Usain_Bolt:-:18:-:38:-:http://en.wikipedia.org/wiki/Usain_Bolt:-:person, athlete
+http://dbpedia.org/resource/Joe_Biden:-:26:-:55:-:http://en.wikipedia.org/wiki/Joe_Biden:-:person, politician
