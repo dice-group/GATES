@@ -1,0 +1,51 @@
+eid	class	euri	elabel	tripleNum
+1	person, politician	http://dbpedia.org/resource/Barack_Obama	Barack Obama	46
+2	person, scientist	http://dbpedia.org/resource/Friedrich_Engel_(mathematician)	Friedrich Engel (mathematician)	52
+3	person, scientist	http://dbpedia.org/resource/Marie_Curie	Marie Curie	39
+4	person	http://dbpedia.org/resource/Bill_Gates	Bill Gates	39
+5	person, politician	http://dbpedia.org/resource/Richard_Mentor_Johnson	Richard Mentor Johnson	61
+6	tv show	http://dbpedia.org/resource/Family_Feud	Family Feud	78
+7	person	http://dbpedia.org/resource/John_Napier	John Napier	33
+8	song	http://dbpedia.org/resource/Candle_in_the_Wind	Candle in the Wind	26
+9	person	http://dbpedia.org/resource/Edward_Teller	Edward Teller	32
+10	film	http://dbpedia.org/resource/Total_Recall_(1990_film)	Total Recall (1990 film)	43
+11	university, organization	http://dbpedia.org/resource/Rice_University	Rice University	29
+12	country, place	http://dbpedia.org/resource/Czech_Republic	Czech Republic	34
+13	place, city	http://dbpedia.org/resource/Amsterdam	Amsterdam	55
+14	person	http://dbpedia.org/resource/Henry_IV_of_France	Henry IV of France	43
+15	person, actor	http://dbpedia.org/resource/Bruce_Lee	Bruce Lee	36
+16	film	http://dbpedia.org/resource/Argo_(2012_film)	Argo (2012 film)	31
+17	organization, sports	http://dbpedia.org/resource/Manchester_City_F.C.	Manchester City F.C.	62
+18	tv show	http://dbpedia.org/resource/The_Cosby_Show	The Cosby Show	59
+19	place, city	http://dbpedia.org/resource/Ann_Arbor,_Michigan	Ann Arbor, Michigan	36
+20	river	http://dbpedia.org/resource/Yukon_River	Yukon River	26
+21	country	http://dbpedia.org/resource/England	England	28
+22	country	http://dbpedia.org/resource/Poland	Poland	42
+23	film	http://dbpedia.org/resource/Original_Sin_(2001_film)	Original Sin (2001 film)	34
+24	company	http://dbpedia.org/resource/Ferrari	Ferrari	30
+25	software, game	http://dbpedia.org/resource/Crysis_2	Crysis 2	39
+26	film	http://dbpedia.org/resource/Reign_of_Fire_(film)	Reign of Fire (film)	38
+27	tv show	http://dbpedia.org/resource/Beverly_Hills,_90210	Beverly Hills, 90210	88
+28	country	http://dbpedia.org/resource/Seychelles	Seychelles	33
+29	tv show	http://dbpedia.org/resource/Friends	Friends	52
+30	place, state	http://dbpedia.org/resource/Texas	Texas	42
+31	person	http://dbpedia.org/resource/Alan_Turing	Alan Turing	52
+32	film	http://dbpedia.org/resource/Aladdin_(1992_Disney_film)	Aladdin (1992 Disney film)	38
+33	person	http://dbpedia.org/resource/Walt_Disney	Walt Disney	57
+34	person, scientist	http://dbpedia.org/resource/Albert_Einstein	Albert Einstein	35
+35	person, politician	http://dbpedia.org/resource/Vladimir_Putin	Vladimir Putin	78
+36	software, game	http://dbpedia.org/resource/Mortal_Kombat_Trilogy	Mortal Kombat Trilogy	40
+37	song	http://dbpedia.org/resource/(What_Is)_Love%3F	(What Is) Love%3F	29
+38	tv show	http://dbpedia.org/resource/Knight_Rider_(1982_TV_series)	Knight Rider (1982 TV series)	46
+39	tv show	http://dbpedia.org/resource/Baywatch	Baywatch	56
+40	country	http://dbpedia.org/resource/Norway	Norway	40
+41	river	http://dbpedia.org/resource/Nile	Nile	36
+42	person, scientist	http://dbpedia.org/resource/Charles_Darwin	Charles Darwin	62
+43	song	http://dbpedia.org/resource/Love_Me_(Justin_Bieber_song)	Love Me (Justin Bieber song)	38
+44	song	http://dbpedia.org/resource/Never_Let_You_Go_(Justin_Bieber_song)	Never Let You Go (Justin Bieber song)	34
+45	company	http://dbpedia.org/resource/Lexus	Lexus	34
+46	company	http://dbpedia.org/resource/J._C._Penney	J. C. Penney	19
+47	person, politician	http://dbpedia.org/resource/Benjamin_Franklin	Benjamin Franklin	46
+48	person, politician	http://dbpedia.org/resource/Mike_Turner	Mike Turner	33
+49	person, athlete	http://dbpedia.org/resource/Usain_Bolt	Usain Bolt	38
+50	person, politician	http://dbpedia.org/resource/Joe_Biden	Joe Biden	55

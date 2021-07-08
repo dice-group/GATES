@@ -1,0 +1,10 @@
+4	person	http://dbpedia.org/resource/Bill_Gates
+13	place, city	http://dbpedia.org/resource/Amsterdam
+15	person, actor	http://dbpedia.org/resource/Bruce_Lee
+17	organization, sports	http://dbpedia.org/resource/Manchester_City_F.C.
+28	country	http://dbpedia.org/resource/Seychelles
+30	place, state	http://dbpedia.org/resource/Texas
+37	song	http://dbpedia.org/resource/(What_Is)_Love%3F
+38	tv show	http://dbpedia.org/resource/Knight_Rider_(1982_TV_series)
+47	person, politician	http://dbpedia.org/resource/Benjamin_Franklin
+49	person, athlete	http://dbpedia.org/resource/Usain_Bolt
