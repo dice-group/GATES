@@ -1,6 +1,0 @@
-<http://dbpedia.org/resource/Henry_IV_of_France> <http://dbpedia.org/property/birthPlace> "http://dbpedia.org/resource/Kingdom_of_Navarre" .
-<http://dbpedia.org/resource/Henry_IV_of_France> <http://dbpedia.org/property/father> "http://dbpedia.org/resource/Antoine_of_Navarre" .
-<http://dbpedia.org/resource/Henry_IV_of_France> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> "http://en.wikipedia.org/wiki/Henry_IV_of_France" .
-<http://dbpedia.org/resource/Henry_IV_of_France> <http://dbpedia.org/ontology/spouse> "http://dbpedia.org/resource/Margaret_of_Valois" .
-<http://dbpedia.org/resource/Henry_IV_of_France> <http://dbpedia.org/property/successor> "http://dbpedia.org/resource/Louis_XIII_of_France" .
-

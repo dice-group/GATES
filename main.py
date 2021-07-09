@@ -23,10 +23,11 @@ from generate_summary import generate_summary
 IN_DBPEDIA_DIR = os.path.join(path.dirname(os.getcwd()), 'GATES/data/ESBM_benchmark_v1.2', 'dbpedia_data')
 IN_LMDB_DIR = os.path.join(path.dirname(os.getcwd()), 'GATES/data/ESBM_benchmark_v1.2', 'lmdb_data')
 OUT_DIR = os.path.join(path.dirname(os.getcwd()), 'GATES/data/ESBM_benchmark_v1.2')
-
+IN_FACES_DIR = os.path.join(path.dirname(os.getcwd()), 'GATES/data/FACES', 'faces_data')
+print(IN_FACES_DIR)
 FILE_N = 6
 TOP_K = [5, 10]
-DS_NAME = ['dbpedia', 'lmdb']
+DS_NAME = ['faces']
 DEVICE = torch.device("cpu")
 
 def asHours(s):
@@ -90,6 +91,8 @@ def main(mode, emb_model, loss_type,  ent_emb_dim, pred_emb_dim, hidden_layers, 
                 db_dir = IN_DBPEDIA_DIR
             elif ds_name == "lmdb":
                 db_dir = IN_LMDB_DIR
+            elif ds_name == "faces":
+                db_dir = IN_FACES_DIR
             else:
                 raise ValueError("The database's name must be dbpedia or lmdb")
                 sys.exit()

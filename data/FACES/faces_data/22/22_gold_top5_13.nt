@@ -1,6 +1,0 @@
-<http://dbpedia.org/resource/Poland> <http://dbpedia.org/property/leaderTitle> "http://dbpedia.org/resource/Prime_Minister_of_the_Republic_of_Poland" .
-<http://dbpedia.org/resource/Poland> <http://dbpedia.org/property/languages> "http://dbpedia.org/resource/Polish_language" .
-<http://dbpedia.org/resource/Poland> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> "http://en.wikipedia.org/wiki/Poland" .
-<http://dbpedia.org/resource/Poland> <http://dbpedia.org/ontology/capital> "http://dbpedia.org/resource/Warsaw" .
-<http://dbpedia.org/resource/Poland> <http://dbpedia.org/property/timeZone> "http://dbpedia.org/resource/Central_European_Time" .
-

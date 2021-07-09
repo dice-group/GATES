@@ -1,6 +1,0 @@
-<http://dbpedia.org/resource/Amsterdam> <http://dbpedia.org/ontology/isPartOf> "http://dbpedia.org/resource/North_Holland" .
-<http://dbpedia.org/resource/Amsterdam> <http://dbpedia.org/property/parts> "http://dbpedia.org/resource/Amsterdam-Noord" .
-<http://dbpedia.org/resource/Amsterdam> <http://dbpedia.org/property/parts> "http://dbpedia.org/resource/Westpoort" .
-<http://dbpedia.org/resource/Amsterdam> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> "http://en.wikipedia.org/wiki/Amsterdam" .
-<http://dbpedia.org/resource/Amsterdam> <http://dbpedia.org/property/stateParty> "http://dbpedia.org/resource/Netherlands" .
-

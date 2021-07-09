@@ -13,6 +13,8 @@ import scipy.sparse as sp
 IN_ESBM_DIR = os.path.join(path.dirname(os.getcwd()), 'GATES/data', 'ESBM_benchmark_v1.2')
 IN_DBPEDIA_DIR = os.path.join(path.dirname(os.getcwd()), 'GATES/data/ESBM_benchmark_v1.2', 'dbpedia_data')
 IN_LMDB_DIR = os.path.join(path.dirname(os.getcwd()), 'GATES/data/ESBM_benchmark_v1.2', 'lmdb_data')
+IN_FACES_DIR = os.path.join(path.dirname(os.getcwd()), 'GATES/data/FACES', 'faces_data')
+IN_FACES = os.path.join(path.dirname(os.getcwd()), 'GATES/data', 'FACES')
 
 # get data from ESBM benchmark v.1.2 for cross-validation - adapted by DeepLENS
 def get_5fold_train_valid_test_elist(ds_name_str, esbm_dir=IN_ESBM_DIR):
@@ -20,6 +22,8 @@ def get_5fold_train_valid_test_elist(ds_name_str, esbm_dir=IN_ESBM_DIR):
     split_path = path.join(esbm_dir, "dbpedia_split")
   elif ds_name_str == "lmdb":
     split_path = path.join(esbm_dir, "lmdb_split")
+  elif ds_name_str == "faces":
+    split_path = path.join(esbm_dir, "faces_split")
   else:
     raise ValueError("The database's name must be dbpedia or lmdb")
 
@@ -54,12 +58,15 @@ def _read_split(fold_path, split_name):
 # Prepare data for per entity
 def get_entity_desc(ds_name, db_path, num):
   data=list()
-  with open(path.join(db_path, "{}".format(num), "{}_literal_status.txt".format(num)), 'r', encoding='utf-8') as f:
-      for line in f:
-          items = line.strip().split('\t')
-          #print(items)
-          edesc = (num, items[0], items[1], items[2], items[3], items[4])
+  
+  with open(path.join(db_path, "{}".format(num), "{}_desc.nt".format(num)), encoding="utf8") as reader:
+      for i, triple in enumerate(reader):
+          if len(triple)==1:
+              continue
+          sub, pred, obj, obj_ori = parserline(triple)
+          edesc = (num, sub, pred, obj, obj_ori)
           data.append(edesc)
+          
   return data
 
 # Build graph
@@ -71,6 +78,8 @@ def build_graph(db_path, num, weighted_edges_model):
     relationList = list()
     objectList = list()
     for i, triple in enumerate(reader):
+      if len(triple) == 1:
+          continue
       sub, pred, obj, _ = parserline(triple)
       subjectList.append(sub)
       relationList.append(pred)
@@ -96,6 +105,8 @@ def build_graph(db_path, num, weighted_edges_model):
   triples_list=[]
   with open(path.join(db_path, "{}".format(num), "{}_desc.nt".format(num)), encoding="utf8") as reader:
     for i, triple in enumerate(reader):
+      if len(triple) == 1:
+          continue
       sub, pred, obj, _ = parserline(triple)
       triples = (sub, pred, obj)
       triple_tuple_idx = (nodes_dict[sub], relations_dict[pred], nodes_dict[obj])
@@ -181,10 +192,7 @@ def parserline(triple):
 
 def get_data_gold(db_path, num, top_n, file_n):
   triples_dict = {}
-  with open(path.join(db_path, 
-        "{}".format(num), 
-        "{}_desc.nt".format(num)),
-        encoding="utf8") as reader:
+  with open(path.join(db_path, "{}".format(num), "{}_desc.nt".format(num)), encoding="utf8") as reader:
     for i, triple in enumerate(reader):
       triple_tuple = parserline(triple)
       if triple_tuple not in triples_dict:
@@ -220,6 +228,8 @@ def split_data(ds_name, db_dir, top_n, file_n, weighted_edges_model):
     train_data, valid_data, test_data = get_5fold_train_valid_test_elist(ds_name, IN_ESBM_DIR) 
   elif ds_name == "lmdb":
     train_data, valid_data, test_data = get_5fold_train_valid_test_elist(ds_name, IN_ESBM_DIR)
+  elif ds_name == "faces":
+    train_data, valid_data, test_data = get_5fold_train_valid_test_elist(ds_name, IN_FACES)  
   else:
     raise ValueError("The database's name must be dbpedia or lmdb")
   
@@ -276,6 +286,8 @@ def prepare_label(ds_name, num, top_n, file_n):
     db_path = IN_DBPEDIA_DIR
   elif ds_name == "lmdb":
     db_path = IN_LMDB_DIR
+  elif ds_name == "faces":
+    db_path = IN_FACES_DIR
   else:
     raise ValueError("The database's name must be dbpedia or lmdb")
 
@@ -283,6 +295,8 @@ def prepare_label(ds_name, num, top_n, file_n):
   for i in range(file_n):
     with open(path.join(db_path, "{}".format(num), "{}_gold_top{}_{}.nt".format(num, top_n, i).format(num)), encoding="utf8") as reader:
       for i, triple in enumerate(reader):
+        if len(triple)== 1:
+            continue
         sub, pred, obj, _ = parserline(triple)
         counter(per_entity_label_dict, "{}++$++{}".format(pred, obj))
   return per_entity_label_dict
@@ -294,7 +308,7 @@ def counter(cur_dict, word):
     else:
         cur_dict[word] = 1
         
-# entity dict, transe data required
+# entity dict
 def process_data(ds_name):
   if ds_name == "dbpedia":
     db_path = IN_DBPEDIA_DIR
@@ -302,6 +316,9 @@ def process_data(ds_name):
   elif ds_name == "lmdb":
     db_path = IN_LMDB_DIR
     db_start, db_end = [101, 166], [141, 176]
+  elif ds_name == "faces":
+    db_path = IN_FACES_DIR
+    db_start, db_end = [1, 25], [26, 50]  
   else:
     raise ValueError("The database's name must be dbpedia or lmdb")
   data = []
@@ -337,6 +354,8 @@ def load_emb(ds_name, emb_model):
         directory = path.join(path.join("data/ESBM_benchmark_v1.2"), "dbpedia_embeddings")
     elif ds_name == "lmdb":
         directory = path.join(path.join("data/ESBM_benchmark_v1.2"), "lmdb_embeddings")
+    elif ds_name == "faces":
+        directory = path.join(path.join("data/FACES"), "faces_embeddings")
     else:
         raise ValueError("The database's name must be dbpedia or lmdb")
 	
@@ -359,3 +378,10 @@ def load_emb(ds_name, emb_model):
     pred2vec = build_vec(pred2ix, pred_embedding)
 	
     return entity2vec, pred2vec, entity2ix, pred2ix
+
+def main():
+    ds_name = "faces"
+    data, entity2ix, pred2ix = process_data(ds_name)
+    print(entity2ix)
+if __name__ == "__main__":
+    main()
