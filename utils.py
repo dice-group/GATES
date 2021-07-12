@@ -133,12 +133,11 @@ def tensor_concatenation_model_1(entity_dict, pred_dict, edesc, word_emb, word_e
     Tensor concatenation model 1 is obtained by the concatenation of KGE (DistMult/ComplEx) as predicate embeddings and
     word embeddings as object embeddings 
     '''
-    pred_list, obj_list, obj_literal_list, status_list = [], [], [], []
-    for _, _, pred, obj, obj_literal, status in edesc:
+    pred_list, obj_list, obj_literal_list = [], [], []
+    for _, _, pred, obj, obj_literal in edesc:
         pred_list.append(pred_dict[pred])
         obj_list.append(obj)
         obj_literal_list.append(obj_literal)
-        status_list.append(status)
   
     pred_tensor = torch.tensor(pred_list).unsqueeze(1)
   
@@ -158,6 +157,7 @@ def tensor_concatenation_model_1(entity_dict, pred_dict, edesc, word_emb, word_e
         else:
             obj_vector = np.average(arrays, axis=0)
         arrays_obj_literal_list.append(obj_vector)
+    #print(arrays_obj_literal_list)
     obj_tensor = torch.tensor(arrays_obj_literal_list).unsqueeze(1) 
   
     return pred_tensor, obj_tensor    
@@ -226,7 +226,7 @@ def tensor_from_weight(tensor_size, edesc, label):
     weight_tensor = torch.zeros(tensor_size)
     for label_word in label:
         order = -1
-        for _, _, pred, obj, _, _ in edesc:
+        for _, _, pred, obj, _ in edesc:
             order += 1
             data_word = "{}++$++{}".format(pred, obj)
             if label_word == data_word:
@@ -238,15 +238,31 @@ def _eval_Fmeasure(summ_tids, gold_list):
   k = len(summ_tids)
   f_list = []
   for gold in gold_list:
+    #print(gold)        
     if len(gold) !=k:
       print('gold-k:',len(gold), k)
     assert len(gold)==k # for ESBM
     corr = len([t for t in summ_tids if t in gold])
+    #print(corr)
     precision = corr/k
     recall = corr/len(gold)
-    f1 = 2*precision*recall/(precision+recall) if corr!=0 else 0
+    f1 = 2*((precision*recall)/(precision+recall)) if corr!=0 else 0
     f_list.append(f1)
     # print('corr-prf:',corr,precision,recall,f1)
   favg = np.mean(f_list)
   # print('flist:',favg,f_list)
   return favg
+
+def accuracy(summ_tids, gold_list):
+  k = len(summ_tids)
+  acc_list = []
+  for gold in gold_list:
+    #print(gold)        
+    if len(gold) !=k:
+      print('gold-k:',len(gold), k)
+    assert len(gold)==k # for ESBM
+    corr = len([t for t in summ_tids if t in gold])
+    #print(corr)
+    acc = corr/k
+    acc_list.append(acc)
+    return np.mean(acc_list)

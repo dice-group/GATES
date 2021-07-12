@@ -11,7 +11,7 @@ import numpy as np
 from tqdm import tqdm
 
 from model import GATES
-from utils import tensor_from_data, tensor_from_weight, _eval_Fmeasure
+from utils import tensor_from_data, tensor_from_weight, _eval_Fmeasure, accuracy
 from data_loader import get_data_gold
 
 import math
@@ -99,6 +99,7 @@ def train(gates, ds_name, adj, edesc, label, val_adj, val_edesc, val_label, \
 
         gates.eval()
         favg_top_list = []
+        acc_list = []
         with torch.no_grad():
             for i in range(len(val_edesc)):
                 eid = val_edesc[i][0][0]
@@ -109,11 +110,15 @@ def train(gates, ds_name, adj, edesc, label, val_adj, val_edesc, val_label, \
                 val_loss = loss_function(val_output_tensor.view(-1), val_target_tensor.view(-1)).to(device)
                 
                 val_output_tensor = val_output_tensor.view(1, -1).cpu()
+                val_target_tensor = target_tensor.view(1, -1).cpu()
+                (label_top_scores, label_top) = torch.topk(target_tensor, topk)
                 (output_top_scores, output_top) = torch.topk(val_output_tensor, topk)
                 gold_list_top = get_data_gold(db_dir, eid, topk, file_n)
                 top_list_output_top = output_top.squeeze(0).numpy().tolist()
                 favg_top = _eval_Fmeasure(top_list_output_top, gold_list_top)
+                acc = accuracy(output_top.squeeze(0).numpy().tolist(), gold_list_top)
                 favg_top_list.append(favg_top)
+                acc_list.append(acc)
                 val_total_loss += val_loss.item()
             
         total_loss = total_loss/len(edesc)
@@ -121,7 +126,8 @@ def train(gates, ds_name, adj, edesc, label, val_adj, val_edesc, val_label, \
         val_total_loss = val_total_loss/len(val_edesc)
         total_avg_val_loss.append(val_total_loss)
         favg_top = np.mean(favg_top_list)
-        total_accuracy.append(favg_top)
+        acc_avg = np.mean(acc_list)
+        total_accuracy.append(acc_avg)
         if epoch % save_every == 0:
             if favg_top >= best_acc:
                 best_acc = favg_top
@@ -137,7 +143,7 @@ def train(gates, ds_name, adj, edesc, label, val_adj, val_edesc, val_label, \
                     "loss": total_loss,
                     'best_epoch': best_epoch
                     }, path.join(directory, "checkpoint_epoch_{}.pt".format(epoch)))
-            viz.line([[total_loss, val_total_loss]], [epoch], win='{}_loss_{}_top{}'.format(ds_name, fold, topk), update='append')
+            viz.line([[total_loss, acc_avg]], [epoch], win='{}_loss_{}_top{}'.format(ds_name, fold, topk), update='append')
             viz.line([[favg_top]], [epoch], win='{}_accuracy_{}_top{}'.format(ds_name, fold, topk), update='append')
             
         #print("epoch: {}".format(epoch), "loss train", total_loss, "acc-top{}".format(topk), favg_top, "best epoch", best_epoch)

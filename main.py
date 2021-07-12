@@ -27,7 +27,7 @@ IN_FACES_DIR = os.path.join(path.dirname(os.getcwd()), 'GATES/data/FACES', 'face
 print(IN_FACES_DIR)
 FILE_N = 6
 TOP_K = [5, 10]
-DS_NAME = ['faces']
+DS_NAME = ['dbpedia', 'lmdb', 'faces']
 DEVICE = torch.device("cpu")
 
 def asHours(s):

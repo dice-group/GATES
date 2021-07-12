@@ -3,5 +3,4 @@
 <http://dbpedia.org/resource/Knight_Rider_(1982_TV_series)> <http://www.w3.org/ns/prov#wasDerivedFrom> "http://en.wikipedia.org/wiki/Knight_Rider_(1982_TV_series)?oldid=544395569" .
 <http://dbpedia.org/resource/Knight_Rider_(1982_TV_series)> <http://dbpedia.org/property/starring> "http://dbpedia.org/resource/Edward_Mulhare" .
 <http://dbpedia.org/resource/Knight_Rider_(1982_TV_series)> <http://dbpedia.org/ontology/genre> "http://dbpedia.org/resource/Adventure_(genre)" .
-<http://dbpedia.org/resource/Knight_Rider_(1982_TV_series)> <http://dbpedia.org/ontology/starring> "http://dbpedia.org/resource/Edward_Mulhare" .
 

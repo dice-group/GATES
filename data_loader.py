@@ -168,11 +168,13 @@ def parserline(triple):
         obj = re.sub(r'\\', '', obj)
         obj = re.sub(r'""', '"', obj)
     obj =  re.findall(r'"([^"]*)"', obj)[0]
-    obj_literal = obj
+    obj_literal = obj.split("/")[-1].replace("_", " ")
+    #print(obj_literal)
     
   elif len(components) == 3:
     sub, pred, obj = components
-    obj_literal = obj
+    obj_literal = obj.split("/")[-1].replace("_", " ")
+    #print(obj_literal)
   else:
     components = triple.split(" ")
     sub = components[0]
@@ -180,12 +182,15 @@ def parserline(triple):
     obj = components[2].split("^^")[0]
     obj =  re.findall(r'"([^"]*)"', obj)[0]
     obj_literal = obj
+    #print(obj_literal)
 
   sub = _compact(_extract(sub))
   pred = _extract(pred)
   obj = _compact(_extract(obj))
   if obj == '':
     obj = 'UNK'
+  if obj_literal == '':
+      obj_literal="UNK"
   #print('obj', obj, 'obj literal', obj_literal)
   quad_tuple = (sub, pred, obj, obj_literal)
   return quad_tuple
@@ -193,7 +198,10 @@ def parserline(triple):
 def get_data_gold(db_path, num, top_n, file_n):
   triples_dict = {}
   with open(path.join(db_path, "{}".format(num), "{}_desc.nt".format(num)), encoding="utf8") as reader:
+    
     for i, triple in enumerate(reader):
+      if len(triple)==1:
+        continue  
       triple_tuple = parserline(triple)
       if triple_tuple not in triples_dict:
         triples_dict[triple_tuple] = len(triples_dict)
@@ -205,10 +213,14 @@ def get_data_gold(db_path, num, top_n, file_n):
             encoding="utf8") as reader:
       n_list = []
       for i, triple in enumerate(reader):
+        if len(triple)==1:
+            continue
         triple_tuple = parserline(triple)
         gold_id = triples_dict[triple_tuple]
         n_list.append(gold_id)
       gold_list.append(n_list)
+  #print(len(gold_list))
+  #print("num {}".format(num), gold_list[0])
   return gold_list
 
 # get data per entity id (provide data in graph and entity description)

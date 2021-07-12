@@ -42,6 +42,8 @@ def generate_summary(ds_name, test_adjs, test_facts, test_labels, pred_dict, ent
       target_tensor = target_tensor.view(1, -1).cpu()
       (label_top_scores, label_top) = torch.topk(target_tensor, topk)
       (output_top_scores, output_top) = torch.topk(output_tensor, topk)
+      #print("(output_top_scores, output_top)")
+      #print(output_top_scores, output_top)
       (output_rank_scores, output_rank) = torch.topk(output_tensor, len(edesc[i]))
       
       if not path.exists(path.join(directory, "{}".format(eid))):
