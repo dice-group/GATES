@@ -318,17 +318,17 @@ def process_data(ds_name):
     db_start, db_end = [101, 166], [141, 176]
   elif ds_name == "faces":
     db_path = IN_FACES_DIR
-    db_start, db_end = [1, 25], [26, 50]  
+    db_start, db_end = [1, 26], [26, 51]  
   else:
     raise ValueError("The database's name must be dbpedia or lmdb")
   data = []
   for i in range(db_start[0], db_end[0]):
-    #print('id triple', i)  
+    print('id triple', i)  
     quads = get_entity_desc(ds_name, db_path, i)  
     data.extend([[sub, pred, obj, obj_ori]for _, sub, pred, obj, obj_ori in quads])
 
   for i in range(db_start[1], db_end[1]):
-    #print('id triple', i)
+    print('id triple', i)
     quads = get_entity_desc(ds_name, db_path, i)  
     data.extend([[sub, pred, obj, obj_ori]for _, sub, pred, obj, obj_ori in quads])
   
