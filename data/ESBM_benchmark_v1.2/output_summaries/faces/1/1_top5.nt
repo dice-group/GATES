@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/profession> "http://dbpedia.org/resource/Lawyer" .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/profession> "http://dbpedia.org/resource/Author" .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/spouse> "http://dbpedia.org/resource/Michelle_Obama" .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/spouse> "http://dbpedia.org/resource/Michelle_Obama" .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/region> "http://dbpedia.org/resource/Illinois" .

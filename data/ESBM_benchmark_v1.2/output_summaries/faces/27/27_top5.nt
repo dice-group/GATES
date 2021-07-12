@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Beverly_Hills,_90210> <http://dbpedia.org/property/distributor> "http://dbpedia.org/resource/CBS_Television_Distribution" .
+<http://dbpedia.org/resource/Beverly_Hills,_90210> <http://dbpedia.org/ontology/distributor> "http://dbpedia.org/resource/Worldvision_Enterprises" .
+<http://dbpedia.org/resource/Beverly_Hills,_90210> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> "http://en.wikipedia.org/wiki/Beverly_Hills,_90210" .
+<http://dbpedia.org/resource/Beverly_Hills,_90210> <http://dbpedia.org/ontology/channel> "http://dbpedia.org/resource/Fox_Broadcasting_Company" .
+<http://dbpedia.org/resource/Beverly_Hills,_90210> <http://dbpedia.org/property/distributor> "http://dbpedia.org/resource/CBS_Paramount_Domestic_Television" .

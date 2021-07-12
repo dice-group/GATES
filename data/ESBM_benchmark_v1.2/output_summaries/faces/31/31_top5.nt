@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Alan_Turing> <http://dbpedia.org/property/field> "http://dbpedia.org/resource/Mathematics" .
+<http://dbpedia.org/resource/Alan_Turing> <http://dbpedia.org/ontology/field> "http://dbpedia.org/resource/Computer_science" .
+<http://dbpedia.org/resource/Alan_Turing> <http://dbpedia.org/property/field> "http://dbpedia.org/resource/Computer_science" .
+<http://dbpedia.org/resource/Alan_Turing> <http://dbpedia.org/ontology/field> "http://dbpedia.org/resource/Cryptanalysis" .
+<http://dbpedia.org/resource/Alan_Turing> <http://dbpedia.org/property/field> "http://dbpedia.org/resource/Cryptanalysis" .

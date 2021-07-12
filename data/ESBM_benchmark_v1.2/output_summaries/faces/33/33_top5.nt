@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Walt_Disney> <http://dbpedia.org/property/family> "http://dbpedia.org/resource/Disney_family" .
+<http://dbpedia.org/resource/Walt_Disney> <http://dbpedia.org/property/relations> "http://dbpedia.org/resource/Disney_family" .
+<http://dbpedia.org/resource/Walt_Disney> <http://dbpedia.org/ontology/education> "http://dbpedia.org/resource/List_of_schools_in_Chicago_Public_Schools" .
+<http://dbpedia.org/resource/Walt_Disney> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> "http://en.wikipedia.org/wiki/Walt_Disney" .
+<http://dbpedia.org/resource/Walt_Disney> <http://dbpedia.org/ontology/relation> "http://dbpedia.org/resource/Disney_family" .

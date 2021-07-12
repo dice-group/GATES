@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Norway> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> "http://en.wikipedia.org/wiki/Norway" .
+<http://dbpedia.org/resource/Norway> <http://dbpedia.org/property/timeZoneDst> "http://dbpedia.org/resource/Central_European_Summer_Time" .
+<http://dbpedia.org/resource/Norway> <http://dbpedia.org/property/hasPhotoCollection> "http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Norway" .
+<http://dbpedia.org/resource/Norway> <http://dbpedia.org/property/timeZone> "http://dbpedia.org/resource/Central_European_Time" .
+<http://dbpedia.org/resource/Norway> <http://dbpedia.org/property/timeZoneDst> "http://dbpedia.org/resource/Central_European_Time" .

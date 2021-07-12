@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Poland> <http://dbpedia.org/property/capital> "http://dbpedia.org/resource/Warsaw" .
+<http://dbpedia.org/resource/Poland> <http://dbpedia.org/property/timeZone> "http://dbpedia.org/resource/Central_European_Time" .
+<http://dbpedia.org/resource/Poland> <http://dbpedia.org/ontology/anthem> "http://dbpedia.org/resource/Poland_Is_Not_Yet_Lost" .
+<http://dbpedia.org/resource/Poland> <http://dbpedia.org/ontology/capital> "http://dbpedia.org/resource/Warsaw" .
+<http://dbpedia.org/resource/Poland> <http://dbpedia.org/property/upperHouse> "http://dbpedia.org/resource/Senate_of_the_Republic_of_Poland" .

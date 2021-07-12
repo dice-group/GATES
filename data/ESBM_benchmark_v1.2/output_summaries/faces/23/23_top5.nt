@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Original_Sin_(2001_film)> <http://dbpedia.org/property/starring> "http://dbpedia.org/resource/Angelina_Jolie" .
+<http://dbpedia.org/resource/Original_Sin_(2001_film)> <http://dbpedia.org/ontology/starring> "http://dbpedia.org/resource/Thomas_Jane" .
+<http://dbpedia.org/resource/Original_Sin_(2001_film)> <http://dbpedia.org/property/hasPhotoCollection> "http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Original_Sin_(2001_film)" .
+<http://dbpedia.org/resource/Original_Sin_(2001_film)> <http://dbpedia.org/property/director> "http://dbpedia.org/resource/Michael_Cristofer" .
+<http://dbpedia.org/resource/Original_Sin_(2001_film)> <http://dbpedia.org/ontology/director> "http://dbpedia.org/resource/Michael_Cristofer" .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Knight_Rider_(1982_TV_series)> <http://dbpedia.org/property/starring> "http://dbpedia.org/resource/David_Hasselhoff" .
+<http://dbpedia.org/resource/Knight_Rider_(1982_TV_series)> <http://dbpedia.org/property/starring> "http://dbpedia.org/resource/Rebecca_Holden" .
+<http://dbpedia.org/resource/Knight_Rider_(1982_TV_series)> <http://dbpedia.org/ontology/starring> "http://dbpedia.org/resource/Patricia_McPherson" .
+<http://dbpedia.org/resource/Knight_Rider_(1982_TV_series)> <http://dbpedia.org/ontology/network> "http://dbpedia.org/resource/NBC" .
+<http://dbpedia.org/resource/Knight_Rider_(1982_TV_series)> <http://dbpedia.org/ontology/starring> "http://dbpedia.org/resource/Edward_Mulhare" .
