@@ -1,2 +1,2 @@
-faces-top5 epoch:	[2, 0, 0, 0, 0]
-faces-top10 epoch:	[14, 0, 0, 1, 0]
+faces-top5 epoch:	[8, 4, 2, 0, 15]
+faces-top10 epoch:	[14, 13, 0, 0, 11]

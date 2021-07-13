@@ -9,6 +9,7 @@ import torch
 from torch import optim
 import numpy as np
 from tqdm import tqdm
+import matplotlib.pyplot as plt
 
 from model import GATES
 from utils import tensor_from_data, tensor_from_weight, _eval_Fmeasure, accuracy
@@ -37,17 +38,19 @@ def train_iter(ds_name, train_adjs, train_facts, train_labels, val_adjs, val_fac
                        word_emb, db_dir, weight_decay, word_emb_calc, topk, file_n, viz, concat_model):
     if reg == True:
         print("use regularization in training")
-    best_epoch_list=[]
-    gates = GATES(pred2ix_size, entity2ix_size, pred_emb_dim, ent_emb_dim, device, dropout, hidden_layers, nheads)
-    gates.to(device)
-    
+    best_epoch_list=[] 
     if not path.exists("models"):
         os.makedirs("models")
     times = []
     start = time.time()  
     print("Current memory", mem())
     valid_epoch_list = []
+    arEpochs = []
+    losses = {'Training set':[], 'Validation set': []}
     for i in range(5):
+        gates = GATES(pred2ix_size, entity2ix_size, pred_emb_dim, ent_emb_dim, device, dropout, hidden_layers, nheads)
+        gates.to(device)
+        arEpochs.append(i)
         if reg:
             optimizer = optim.Adam(gates.parameters(), lr=lr, weight_decay=weight_decay)
         else:    
@@ -59,10 +62,15 @@ def train_iter(ds_name, train_adjs, train_facts, train_labels, val_adjs, val_fac
                            loss_function, optimizer, n_epoch, save_every, device, entity_dict, pred_dict, reg, directory, word_emb_calc, viz, i, word_emb, db_dir, topk, file_n, concat_model)
         best_epoch_list.append(best_epoch)
         valid_epoch_list.append(valid_epoch)
+        
         now = time.time()
         print("Iter: {} \n Time {} \n Time(second) {} \n memeory usage: {} \n total loss: {} \n total validation loss: {} \n accuracy {}".format(i, asHours(now-start), now-start, mem(), total_loss, total_val_loss, total_accuracy))
         times.append((time.time()-start)/60)
-    return valid_epoch_list        
+        losses['Training set'].append(total_loss)
+        losses['Validation set'].append(total_val_loss)
+        showPlot(arEpochs, losses, "gates_{}_{}".format(ds_name, topk))
+    return valid_epoch_list  
+      
 # Define training model
 def train(gates, ds_name, adj, edesc, label, val_adj, val_edesc, val_label, \
         loss_function, optimizer, n_epoch, save_every, device, entity_dict, pred_dict, reg, directory, word_emb_calc, viz, fold, word_emb, db_dir, topk, file_n, concat_model):
@@ -94,6 +102,8 @@ def train(gates, ds_name, adj, edesc, label, val_adj, val_edesc, val_label, \
             loss = loss_function(output_tensor.view(-1), target_tensor.view(-1)).to(device)
             
             loss.backward()
+            torch.nn.utils.clip_grad_norm_(gates.parameters(), 0.25)
+            torch.nn.utils.clip_grad_value_(gates.parameters(),1.0)
             optimizer.step()
             total_loss += loss.item()
 
@@ -110,8 +120,8 @@ def train(gates, ds_name, adj, edesc, label, val_adj, val_edesc, val_label, \
                 val_loss = loss_function(val_output_tensor.view(-1), val_target_tensor.view(-1)).to(device)
                 
                 val_output_tensor = val_output_tensor.view(1, -1).cpu()
-                val_target_tensor = target_tensor.view(1, -1).cpu()
-                (label_top_scores, label_top) = torch.topk(target_tensor, topk)
+                val_target_tensor = val_target_tensor.view(1, -1).cpu()
+                (label_top_scores, label_top) = torch.topk(val_target_tensor, topk)
                 (output_top_scores, output_top) = torch.topk(val_output_tensor, topk)
                 gold_list_top = get_data_gold(db_dir, eid, topk, file_n)
                 top_list_output_top = output_top.squeeze(0).numpy().tolist()
@@ -143,11 +153,31 @@ def train(gates, ds_name, adj, edesc, label, val_adj, val_edesc, val_label, \
                     "loss": total_loss,
                     'best_epoch': best_epoch
                     }, path.join(directory, "checkpoint_epoch_{}.pt".format(epoch)))
-            viz.line([[total_loss, acc_avg]], [epoch], win='{}_loss_{}_top{}'.format(ds_name, fold, topk), update='append')
-            viz.line([[favg_top]], [epoch], win='{}_accuracy_{}_top{}'.format(ds_name, fold, topk), update='append')
+            #else:
+            #    break
+            viz.line([[total_loss, val_total_loss]], [epoch], win='{}_loss_{}_top{}'.format(ds_name, fold, topk), update='append')
+            viz.line([[acc_avg]], [epoch], win='{}_accuracy_{}_top{}'.format(ds_name, fold, topk), update='append')
             
         #print("epoch: {}".format(epoch), "loss train", total_loss, "acc-top{}".format(topk), favg_top, "best epoch", best_epoch)
     avg_total_loss = sum(total_avg_loss)/len(total_avg_loss)
     avg_total_val_loss = sum(total_avg_val_loss)/len(total_avg_val_loss) 
     avg_total_accuracy = sum(total_accuracy)/len(total_accuracy)
     return best_epoch, avg_total_loss, avg_total_val_loss, avg_total_accuracy, stop_valid_epoch, stop_train_loss, stop_valid_loss
+
+'''Used to plot the progress of training. Plots the loss value vs. time'''
+def showPlot(epochs, losses, fig_name):
+    colors = ('red','blue')
+    x_axis_label = 'Epochs'
+    i = 0
+    for key, losses in losses.items():
+      if len(losses) > 0:
+        plt.plot(epochs, losses, label=key, color=colors[i])
+        i += 1
+    plt.legend(loc='upper left')
+    plt.xlabel(x_axis_label)
+    plt.ylabel('Loss')
+    plt.title('Training Results')
+    plt.savefig(fig_name+'.png')
+    plt.close('all')
+    
+'''prints the current memory consumption'''

@@ -1,10 +1,10 @@
-5	person, politician	http://dbpedia.org/resource/Richard_Mentor_Johnson
-6	tv show	http://dbpedia.org/resource/Family_Feud
-14	person	http://dbpedia.org/resource/Henry_IV_of_France
-19	place, city	http://dbpedia.org/resource/Ann_Arbor,_Michigan
-22	country	http://dbpedia.org/resource/Poland
-26	film	http://dbpedia.org/resource/Reign_of_Fire_(film)
-33	person	http://dbpedia.org/resource/Walt_Disney
-39	tv show	http://dbpedia.org/resource/Baywatch
-41	river	http://dbpedia.org/resource/Nile
-46	company	http://dbpedia.org/resource/J._C._Penney
+1	person, politician	http://dbpedia.org/resource/Barack_Obama
+2	person, scientist	http://dbpedia.org/resource/Friedrich_Engel_(mathematician)
+16	film	http://dbpedia.org/resource/Argo_(2012_film)
+23	film	http://dbpedia.org/resource/Original_Sin_(2001_film)
+27	tv show	http://dbpedia.org/resource/Beverly_Hills,_90210
+32	film	http://dbpedia.org/resource/Aladdin_(1992_Disney_film)
+34	person, scientist	http://dbpedia.org/resource/Albert_Einstein
+42	person, scientist	http://dbpedia.org/resource/Charles_Darwin
+45	company	http://dbpedia.org/resource/Lexus
+50	person, politician	http://dbpedia.org/resource/Joe_Biden

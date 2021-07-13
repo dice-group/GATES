@@ -8,23 +8,23 @@
 38	tv show	http://dbpedia.org/resource/Knight_Rider_(1982_TV_series)
 47	person, politician	http://dbpedia.org/resource/Benjamin_Franklin
 49	person, athlete	http://dbpedia.org/resource/Usain_Bolt
-5	person, politician	http://dbpedia.org/resource/Richard_Mentor_Johnson
-6	tv show	http://dbpedia.org/resource/Family_Feud
-14	person	http://dbpedia.org/resource/Henry_IV_of_France
-19	place, city	http://dbpedia.org/resource/Ann_Arbor,_Michigan
-22	country	http://dbpedia.org/resource/Poland
-26	film	http://dbpedia.org/resource/Reign_of_Fire_(film)
-33	person	http://dbpedia.org/resource/Walt_Disney
-39	tv show	http://dbpedia.org/resource/Baywatch
-41	river	http://dbpedia.org/resource/Nile
-46	company	http://dbpedia.org/resource/J._C._Penney
-9	person	http://dbpedia.org/resource/Edward_Teller
-11	university, organization	http://dbpedia.org/resource/Rice_University
-18	tv show	http://dbpedia.org/resource/The_Cosby_Show
-20	river	http://dbpedia.org/resource/Yukon_River
-21	country	http://dbpedia.org/resource/England
-24	company	http://dbpedia.org/resource/Ferrari
-31	person	http://dbpedia.org/resource/Alan_Turing
-40	country	http://dbpedia.org/resource/Norway
-43	song	http://dbpedia.org/resource/Love_Me_(Justin_Bieber_song)
-44	song	http://dbpedia.org/resource/Never_Let_You_Go_(Justin_Bieber_song)
+1	person, politician	http://dbpedia.org/resource/Barack_Obama
+2	person, scientist	http://dbpedia.org/resource/Friedrich_Engel_(mathematician)
+16	film	http://dbpedia.org/resource/Argo_(2012_film)
+23	film	http://dbpedia.org/resource/Original_Sin_(2001_film)
+27	tv show	http://dbpedia.org/resource/Beverly_Hills,_90210
+32	film	http://dbpedia.org/resource/Aladdin_(1992_Disney_film)
+34	person, scientist	http://dbpedia.org/resource/Albert_Einstein
+42	person, scientist	http://dbpedia.org/resource/Charles_Darwin
+45	company	http://dbpedia.org/resource/Lexus
+50	person, politician	http://dbpedia.org/resource/Joe_Biden
+3	person, scientist	http://dbpedia.org/resource/Marie_Curie
+7	person	http://dbpedia.org/resource/John_Napier
+8	song	http://dbpedia.org/resource/Candle_in_the_Wind
+10	film	http://dbpedia.org/resource/Total_Recall_(1990_film)
+12	country, place	http://dbpedia.org/resource/Czech_Republic
+25	software, game	http://dbpedia.org/resource/Crysis_2
+29	tv show	http://dbpedia.org/resource/Friends
+35	person, politician	http://dbpedia.org/resource/Vladimir_Putin
+36	software, game	http://dbpedia.org/resource/Mortal_Kombat_Trilogy
+48	person, politician	http://dbpedia.org/resource/Mike_Turner

@@ -1,10 +1,10 @@
-5	person, politician	http://dbpedia.org/resource/Richard_Mentor_Johnson
-6	tv show	http://dbpedia.org/resource/Family_Feud
-14	person	http://dbpedia.org/resource/Henry_IV_of_France
-19	place, city	http://dbpedia.org/resource/Ann_Arbor,_Michigan
-22	country	http://dbpedia.org/resource/Poland
-26	film	http://dbpedia.org/resource/Reign_of_Fire_(film)
-33	person	http://dbpedia.org/resource/Walt_Disney
-39	tv show	http://dbpedia.org/resource/Baywatch
-41	river	http://dbpedia.org/resource/Nile
-46	company	http://dbpedia.org/resource/J._C._Penney
+9	person	http://dbpedia.org/resource/Edward_Teller
+11	university, organization	http://dbpedia.org/resource/Rice_University
+18	tv show	http://dbpedia.org/resource/The_Cosby_Show
+20	river	http://dbpedia.org/resource/Yukon_River
+21	country	http://dbpedia.org/resource/England
+24	company	http://dbpedia.org/resource/Ferrari
+31	person	http://dbpedia.org/resource/Alan_Turing
+40	country	http://dbpedia.org/resource/Norway
+43	song	http://dbpedia.org/resource/Love_Me_(Justin_Bieber_song)
+44	song	http://dbpedia.org/resource/Never_Let_You_Go_(Justin_Bieber_song)

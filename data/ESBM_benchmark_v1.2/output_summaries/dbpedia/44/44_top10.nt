@@ -6,5 +6,5 @@
 <http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Elizabeth_Patterson_(actress)> .
 <http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://dbpedia.org/ontology/runtime> "5340.0"^^<http://www.w3.org/2001/XMLSchema#double> .
 <http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Alfred_Santell> .
-<http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1930s_comedy_films> .
+<http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://dbpedia.org/ontology/cinematography> <http://dbpedia.org/resource/Victor_Milner> .
 <http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://dbpedia.org/ontology/distributor> <http://dbpedia.org/resource/Paramount_Pictures> .

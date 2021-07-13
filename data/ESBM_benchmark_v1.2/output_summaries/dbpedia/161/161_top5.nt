@@ -2,4 +2,4 @@
 <http://dbpedia.org/resource/Can_U_Get_wit_It> <http://dbpedia.org/ontology/releaseDate> "1994-07-01"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://dbpedia.org/resource/Can_U_Get_wit_It> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/DeVante_Swing> .
 <http://dbpedia.org/resource/Can_U_Get_wit_It> <http://dbpedia.org/ontology/musicalArtist> <http://dbpedia.org/resource/Usher_(singer)> .
-<http://dbpedia.org/resource/Can_U_Get_wit_It> <http://dbpedia.org/ontology/album> <http://dbpedia.org/resource/Usher_(album)> .
+<http://dbpedia.org/resource/Can_U_Get_wit_It> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/DeVante_Swing> .

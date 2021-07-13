@@ -196,6 +196,7 @@ def parserline(triple):
   return quad_tuple
 
 def get_data_gold(db_path, num, top_n, file_n):
+  import glob
   triples_dict = {}
   with open(path.join(db_path, "{}".format(num), "{}_desc.nt".format(num)), encoding="utf8") as reader:
     
@@ -206,11 +207,18 @@ def get_data_gold(db_path, num, top_n, file_n):
       if triple_tuple not in triples_dict:
         triples_dict[triple_tuple] = len(triples_dict)
   gold_list = []
+  ds_name = db_path.split("/")[-1].split("_")[0]
+  if ds_name=="faces":
+      gold_files = glob.glob(path.join(db_path, "{}".format(num), "{}_gold_top{}_*".format(num, top_n).format(num)))
+      #print(len(gold_files))
+      if len(gold_files) != file_n:
+          file_n = len(gold_files)
   for i in range(file_n):
     with open(path.join(db_path, 
             "{}".format(num), 
             "{}_gold_top{}_{}.nt".format(num, top_n, i).format(num)),
             encoding="utf8") as reader:
+      #print(path.join(db_path, "{}".format(num), "{}_gold_top{}_{}.nt".format(num, top_n, i).format(num)))
       n_list = []
       for i, triple in enumerate(reader):
         if len(triple)==1:
@@ -294,6 +302,7 @@ def split_data(ds_name, db_dir, top_n, file_n, weighted_edges_model):
 
 # provide label per entity id
 def prepare_label(ds_name, num, top_n, file_n):
+  import glob
   if ds_name == "dbpedia":
     db_path = IN_DBPEDIA_DIR
   elif ds_name == "lmdb":
@@ -304,6 +313,11 @@ def prepare_label(ds_name, num, top_n, file_n):
     raise ValueError("The database's name must be dbpedia or lmdb")
 
   per_entity_label_dict = {}
+  if ds_name=="faces":
+      gold_files = glob.glob(path.join(db_path, "{}".format(num), "{}_gold_top{}_*".format(num, top_n).format(num)))
+      #print(len(gold_files))
+      if len(gold_files) != file_n:
+          file_n = len(gold_files)
   for i in range(file_n):
     with open(path.join(db_path, "{}".format(num), "{}_gold_top{}_{}.nt".format(num, top_n, i).format(num)), encoding="utf8") as reader:
       for i, triple in enumerate(reader):
