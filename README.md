@@ -156,7 +156,7 @@ python main.py --mode test --weighted_edges_method tf-idf
 
 Evaluation Method: F-Measure
 
-| Model               | DBpedia                  || LMDB                   || FACES		     ||	
-| ------------------- | ------------| ------------|------------|------------|--------------------- |
-|                     | K=5         | K=10        | K=5        | K=10       |K=5       | K=10      |
+| Model               | DBpedia                  || LMDB                   ||	
+| ------------------- | ------------| ------------|------------|------------|
+|                     | K=5         | K=10        | K=5        | K=10       |
 
