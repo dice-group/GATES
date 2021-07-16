@@ -10,8 +10,8 @@ import sys
 import argparse
 import torch
 from gensim.models.keyedvectors import KeyedVectors
+from graphviz import Digraph
 
-import visdom
 import numpy as np
 import time
 import math
@@ -19,15 +19,16 @@ import math
 from data_loader import split_data, load_emb
 from train import train_iter
 from generate_summary import generate_summary
+from model import GATES
+from utils import tensor_from_data
 
 IN_DBPEDIA_DIR = os.path.join(path.dirname(os.getcwd()), 'GATES/data/ESBM_benchmark_v1.2', 'dbpedia_data')
 IN_LMDB_DIR = os.path.join(path.dirname(os.getcwd()), 'GATES/data/ESBM_benchmark_v1.2', 'lmdb_data')
-OUT_DIR = os.path.join(path.dirname(os.getcwd()), 'GATES/data/ESBM_benchmark_v1.2')
+OUT_DIR = os.path.join(path.dirname(os.getcwd()), 'GATES')
 IN_FACES_DIR = os.path.join(path.dirname(os.getcwd()), 'GATES/data/FACES', 'faces_data')
-print(IN_FACES_DIR)
 FILE_N = 6
 TOP_K = [5, 10]
-DS_NAME = ['dbpedia', 'lmdb', 'faces']
+DS_NAME = ['faces']
 DEVICE = torch.device("cpu")
 
 def asHours(s):
@@ -39,6 +40,7 @@ def asHours(s):
 
 def _read_epochs_from_log(ds_name, topk):
     log_file_path = os.path.join(OUT_DIR, 'GATES_log.txt')
+    
     key = '{}-top{}'.format(ds_name, topk)
     epoch_list = None
     with open(log_file_path, 'r', encoding='utf-8') as f:
@@ -46,8 +48,7 @@ def _read_epochs_from_log(ds_name, topk):
             if line.startswith(key):
                 epoch_list = list(eval(line.split('\t')[1]))
     return epoch_list
-
-def main(mode, emb_model, loss_type,  ent_emb_dim, pred_emb_dim, hidden_layers, nheads, lr, dropout, reg, weight_decay, n_epoch, save_every, word_emb_model, word_emb_calc, use_epoch, concat_model, weighted_edges_method): 
+def get_embeddings(word_emb_model):
     if word_emb_model == "fasttext":
         word_emb = KeyedVectors.load_word2vec_format("data/wiki-news-300d-1M.vec")
         
@@ -62,11 +63,70 @@ def main(mode, emb_model, loss_type,  ent_emb_dim, pred_emb_dim, hidden_layers, 
     else:
         print("please choose the correct word embedding model")
         sys.exit()
+    return word_emb
+
+def make_dot(var, params):
+    """ Produces Graphviz representation of PyTorch autograd graph
+    
+    Blue nodes are the Variables that require grad, orange are Tensors
+    saved for backward in torch.autograd.Function
+    
+    Args:
+        var: output Variable
+        params: dict of (name, Variable) to add names to node that
+            require grad (TODO: make optional)
+    """
+    param_map = {id(v): k for k, v in params.items()}
+    print(param_map)
+    
+    node_attr = dict(style='filled',
+                     shape='box',
+                     align='left',
+                     fontsize='12',
+                     ranksep='0.1',
+                     height='0.2')
+    dot = Digraph(node_attr=node_attr, graph_attr=dict(size="12,12"))
+    seen = set()
+    
+    def size_to_str(size):
+        return '('+(', ').join(['%d'% v for v in size])+')'
+
+    def add_nodes(var):
+        if var not in seen:
+            if torch.is_tensor(var):
+                dot.node(str(id(var)), size_to_str(var.size()), fillcolor='orange')
+            elif hasattr(var, 'variable'):
+                u = var.variable
+                node_name = '%s\n %s' % (param_map.get(id(u)), size_to_str(u.size()))
+                dot.node(str(id(var)), node_name, fillcolor='lightblue')
+            else:
+                dot.node(str(id(var)), str(type(var).__name__))
+            seen.add(var)
+            if hasattr(var, 'next_functions'):
+                for u in var.next_functions:
+                    if u[0] is not None:
+                        dot.edge(str(id(u[0])), str(id(var)))
+                        add_nodes(u[0])
+            if hasattr(var, 'saved_tensors'):
+                for t in var.saved_tensors:
+                    dot.edge(str(id(t)), str(id(var)))
+                    add_nodes(t)
+    add_nodes(var.grad_fn)
+    return dot
+
+
+def main(mode, emb_model, loss_type,  ent_emb_dim, pred_emb_dim, hidden_layers, nheads, lr, dropout, reg, weight_decay, n_epoch, save_every, word_emb_model, word_emb_calc, use_epoch, concat_model, weighted_edges_method): 
+            
+    word_emb = get_embeddings(word_emb_model)
     
     if loss_type == "BCE":
         loss_function = torch.nn.BCELoss()
     elif loss_type == "MSE":
         loss_function = torch.nn.MSELoss()
+    elif loss_type == "NLLL":
+        loss_function = torch.nn.NLLLoss()
+    elif loss_type=="CE":
+        loss_function=torch.nn.CrossEntropyLoss()
     else:
         print("please choose the correct loss fucntion")
         sys.exit()
@@ -84,8 +144,11 @@ def main(mode, emb_model, loss_type,  ent_emb_dim, pred_emb_dim, hidden_layers, 
         print("Weight Decay: {}", format(weight_decay))
     print("n Epochs: {}", format(n_epoch))
     print("Regularization: {}", format(reg))
-    viz = visdom.Visdom()
+   
     if mode == "train" or mode =="test" or mode=="all":
+        log_file_path = os.path.join(OUT_DIR, 'GATES_log.txt')
+        if mode=="train" or mode=="all":
+            with open(log_file_path,'w') as log_file:pass
         for ds_name in DS_NAME:
             if ds_name == "dbpedia":
                 db_dir = IN_DBPEDIA_DIR
@@ -96,9 +159,8 @@ def main(mode, emb_model, loss_type,  ent_emb_dim, pred_emb_dim, hidden_layers, 
             else:
                 raise ValueError("The database's name must be dbpedia or lmdb")
                 sys.exit()
-                
-            print('Data loading ...')
             
+            print('loading embeddings and dictionaries for {} ...'.format(ds_name))
             entity2vec, pred2vec, entity2ix, pred2ix = load_emb(ds_name, emb_model)
             entity_dict = entity2vec
             pred_dict = pred2vec
@@ -106,23 +168,45 @@ def main(mode, emb_model, loss_type,  ent_emb_dim, pred_emb_dim, hidden_layers, 
             entity2ix_size = len(entity2ix)
             hidden_size = ent_emb_dim + pred_emb_dim
             start = time.time()
-            log_file_path = os.path.join(OUT_DIR, 'GATES_log.txt')
-            if mode=="train" or mode=="all":
-                with open(log_file_path,'w') as log_file:pass
+            
+            if mode=="train":
+                print_to = 'model-training-{}.txt'.format(ds_name)
+                with open(print_to, 'w+') as f:
+                    f.write("Starting Training \n")
+                    f.write("Training model is processed to {} ".format(ds_name))
+                    
+            if mode=="test":
+                print_to = 'model-testing-dbpedia-lmdb.txt'
+                if ds_name=='faces':
+                   print_to = 'model-testing-{}.txt'.format(ds_name) 
+                   with open(print_to, 'w+') as f:
+                       f.write("dsFile:true {}\n".format(IN_FACES_DIR))
+                       f.write("===============================================================================\n")
+                       f.write("dataset:{}\n".format(ds_name))
+                        
             for topk in TOP_K:
                 train_adjs, train_facts, train_labels, val_adjs, val_facts, val_labels, test_adjs, test_facts, test_labels = split_data(ds_name, db_dir, topk, FILE_N, weighted_edges_method) 
                 if mode == "train" or mode=="all":
                     use_epoch = train_iter(ds_name, train_adjs, train_facts, train_labels, val_adjs, val_facts, val_labels, reg, n_epoch, save_every, DEVICE, entity_dict, \
                                pred_dict, loss_function, pred2ix_size, hidden_size, pred_emb_dim, ent_emb_dim, lr, dropout, entity2ix_size, hidden_layers, nheads, \
-                               word_emb, db_dir, weight_decay, word_emb_calc, topk, FILE_N, viz, concat_model)
+                               word_emb, db_dir, weight_decay, word_emb_calc, topk, FILE_N, concat_model, print_to)
                     
                     with open(log_file_path,'a') as log_file:
                         line = '{}-top{} epoch:\t{}\n'.format(ds_name,topk, str(use_epoch))
                         log_file.write(line)
+                        
                 if mode == "test" or mode=="all":
+                    print("Testing processes for {}@top{}".format(ds_name, topk))
                     use_epoch = _read_epochs_from_log(ds_name, topk) if mode=='test' or mode=='all' else []
                     generate_summary(ds_name, test_adjs, test_facts, test_labels, pred_dict, entity_dict, pred2ix_size, pred_emb_dim, ent_emb_dim, \
-                                 DEVICE, use_epoch, db_dir, dropout, entity2ix_size, hidden_layers, nheads, word_emb, word_emb_calc, topk, FILE_N, concat_model)
+                                 DEVICE, use_epoch, db_dir, dropout, entity2ix_size, hidden_layers, nheads, word_emb, word_emb_calc, topk, FILE_N, concat_model, print_to)
+                    
+                    model = GATES(pred2ix_size, entity2ix_size, pred_emb_dim, ent_emb_dim, DEVICE, dropout, hidden_layers, nheads)
+                    pred_tensor, obj_tensor = tensor_from_data(concat_model, entity_dict, pred_dict, test_facts[0][0], word_emb, word_emb_calc)
+                    input_tensor = [pred_tensor.to(DEVICE), obj_tensor.to(DEVICE)]
+                    y = model(input_tensor, test_adjs[0][0])
+                    g = make_dot(y, model.state_dict())
+                    g.view()
             total_time = time.time()-start
             if mode=="train":
                 print("Training processes time", asHours(total_time))

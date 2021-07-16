@@ -6,5 +6,5 @@
 <http://dbpedia.org/resource/Raid_on_Griessie> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Java> .
 <http://dbpedia.org/resource/Raid_on_Griessie> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Edward_Pellew,_1st_Viscount_Exmouth> .
 <http://dbpedia.org/resource/Raid_on_Griessie> <http://dbpedia.org/ontology/date> "1807-12-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://dbpedia.org/ontology/isPartOfMilitaryConflict> <http://dbpedia.org/resource/Napoleonic_Wars> .
 <http://dbpedia.org/resource/Raid_on_Griessie> <http://dbpedia.org/ontology/strength> "Twoships of the line, twofrigates and four smaller ships" .
-<http://dbpedia.org/resource/Raid_on_Griessie> <http://dbpedia.org/ontology/strength> "Two out of commissionships of the lineand shore defences" .

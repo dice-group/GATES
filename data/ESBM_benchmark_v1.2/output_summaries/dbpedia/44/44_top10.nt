@@ -1,4 +1,3 @@
-<http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://xmlns.com/foaf/0.1/name> "Our Leading Citizen"@en .
 <http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Charles_Bickford> .
 <http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Bob_Burns_(comedian)> .
 <http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Gene_Lockhart> .
@@ -8,3 +7,4 @@
 <http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Alfred_Santell> .
 <http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://dbpedia.org/ontology/cinematography> <http://dbpedia.org/resource/Victor_Milner> .
 <http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://dbpedia.org/ontology/distributor> <http://dbpedia.org/resource/Paramount_Pictures> .
+<http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://dbpedia.org/ontology/musicComposer> <http://dbpedia.org/resource/Gerard_Carbonara> .

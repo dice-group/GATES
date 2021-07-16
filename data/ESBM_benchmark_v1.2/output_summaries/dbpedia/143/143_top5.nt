@@ -1,5 +1,5 @@
 <http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://dbpedia.org/ontology/background> "solo_singer" .
 <http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Singer-songwriter> .
-<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Folk_music> .
 <http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://dbpedia.org/ontology/birthDate> "1989-12-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Single_Flame> <http://dbpedia.org/ontology/artist> <http://dbpedia.org/resource/Lucy_Ward_(musician)> .
 <http://dbpedia.org/resource/Adelphi_Has_to_Fly> <http://dbpedia.org/ontology/artist> <http://dbpedia.org/resource/Lucy_Ward_(musician)> .

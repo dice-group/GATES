@@ -1,5 +1,5 @@
 <http://data.linkedmdb.org/resource/film/2572> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/1181> .
 <http://data.linkedmdb.org/resource/film/2572> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/film/2572> <http://data.linkedmdb.org/resource/movie/production_company> <http://data.linkedmdb.org/resource/production_company/86> .
+<http://data.linkedmdb.org/resource/film/2572> <http://www.w3.org/2000/01/rdf-schema#label> "Biggie & Tupac" .
 <http://data.linkedmdb.org/resource/film/2572> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/2572> <http://purl.org/dc/terms/title> "Biggie & Tupac" .

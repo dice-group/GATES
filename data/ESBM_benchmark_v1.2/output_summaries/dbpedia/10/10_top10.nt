@@ -1,9 +1,9 @@
 <http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/militaryCommand> "Commander in Chief, Air Headquarters India" .
 <http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/militaryCommand> "RAF Brize Norton" .
 <http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Feilding> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Bampton,_Oxfordshire> .
 <http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Order_of_the_Bath> .
 <http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Order_of_the_British_Empire> .
-<http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Distinguished_Flying_Cross_(United_Kingdom)> .
 <http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/deathDate> "1971-12-15"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://dbpedia.org/resource/Battle_of_Berlin_(RAF_campaign)> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Roderick_Carr> .
 <http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/allegiance> "British Empire" .

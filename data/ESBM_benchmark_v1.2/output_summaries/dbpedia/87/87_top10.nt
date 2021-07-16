@@ -1,4 +1,3 @@
-<http://dbpedia.org/resource/Pseudanos_trimaculatus> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Anostomidae> .
 <http://dbpedia.org/resource/Pseudanos_trimaculatus> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Pseudanos> .
 <http://dbpedia.org/resource/Pseudanos_trimaculatus> <http://www.w3.org/2000/01/rdf-schema#label> "Pseudanos trimaculatus"@en .
 <http://dbpedia.org/resource/Pseudanos_trimaculatus> <http://xmlns.com/foaf/0.1/name> "Pseudanos trimaculatus"@en .
@@ -8,3 +7,4 @@
 <http://dbpedia.org/resource/Pseudanos_trimaculatus> <http://dbpedia.org/ontology/conservationStatusSystem> "iucn3.1" .
 <http://dbpedia.org/resource/Pseudanos_trimaculatus> <http://dbpedia.org/ontology/phylum> <http://dbpedia.org/resource/Chordate> .
 <http://dbpedia.org/resource/Pseudanos_trimaculatus> <http://dbpedia.org/ontology/binomialAuthority> <http://dbpedia.org/resource/Rudolf_Kner> .
+<http://dbpedia.org/resource/Pseudanos_trimaculatus> <http://dbpedia.org/ontology/kingdom> <http://dbpedia.org/resource/Animal> .

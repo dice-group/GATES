@@ -1,5 +1,5 @@
 <http://dbpedia.org/resource/Mike_Turner> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> "http://en.wikipedia.org/wiki/Mike_Turner" .
 <http://dbpedia.org/resource/Mike_Turner> <http://dbpedia.org/property/birthPlace> "http://dbpedia.org/resource/Dayton,_Ohio" .
-<http://dbpedia.org/resource/Mike_Turner> <http://dbpedia.org/property/title> "http://dbpedia.org/resource/Politics_of_Dayton,_Ohio" .
+<http://dbpedia.org/resource/Mike_Turner> <http://dbpedia.org/ontology/residence> "http://dbpedia.org/resource/Dayton,_Ohio" .
+<http://dbpedia.org/resource/Mike_Turner> <http://dbpedia.org/ontology/almaMater> "http://dbpedia.org/resource/Case_Western_Reserve" .
 <http://dbpedia.org/resource/Mike_Turner> <http://dbpedia.org/ontology/birthPlace> "http://dbpedia.org/resource/Dayton,_Ohio" .
-<http://dbpedia.org/resource/Mike_Turner> <http://xmlns.com/foaf/0.1/homepage> "http://turner.house.gov/" .
