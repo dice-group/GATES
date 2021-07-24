@@ -1,5 +1,0 @@
-<http://dbpedia.org/resource/Charles_Darwin> <http://dbpedia.org/ontology/influenced> "http://dbpedia.org/resource/John_Lubbock,_1st_Baron_Avebury" .
-<http://dbpedia.org/resource/Charles_Darwin> <http://dbpedia.org/property/citizenship> "http://dbpedia.org/resource/British_Citizenship" .
-<http://dbpedia.org/resource/Charles_Darwin> <http://dbpedia.org/property/spouse> "http://dbpedia.org/resource/Emma_Darwin" .
-<http://dbpedia.org/resource/Charles_Darwin> <http://dbpedia.org/property/influenced> "http://dbpedia.org/resource/John_Lubbock,_1st_Baron_Avebury" .
-<http://dbpedia.org/resource/Charles_Darwin> <http://dbpedia.org/ontology/field> "http://dbpedia.org/resource/Natural_history" .

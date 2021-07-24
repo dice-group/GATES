@@ -1,5 +1,0 @@
-<http://dbpedia.org/resource/Candle_in_the_Wind> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> "http://en.wikipedia.org/wiki/Candle_in_the_Wind" .
-<http://dbpedia.org/resource/Candle_in_the_Wind> <http://dbpedia.org/property/artist> "http://dbpedia.org/resource/Elton_John" .
-<http://dbpedia.org/resource/Candle_in_the_Wind> <http://dbpedia.org/property/label> "http://dbpedia.org/resource/MCA_Records" .
-<http://dbpedia.org/resource/Candle_in_the_Wind> <http://dbpedia.org/ontology/recordedIn> "http://dbpedia.org/resource/Trident_Studios" .
-<http://dbpedia.org/resource/Candle_in_the_Wind> <http://dbpedia.org/property/label> "http://dbpedia.org/resource/DJM_Records" .

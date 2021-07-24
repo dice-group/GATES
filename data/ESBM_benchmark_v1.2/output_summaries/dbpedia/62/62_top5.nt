@@ -1,5 +1,0 @@
-<http://dbpedia.org/resource/1967_Italian_Grand_Prix> <http://dbpedia.org/ontology/fastestDriverTeam> <http://dbpedia.org/resource/Team_Lotus> .
-<http://dbpedia.org/resource/1967_Italian_Grand_Prix> <http://dbpedia.org/ontology/poleDriver> <http://dbpedia.org/resource/Jim_Clark> .
-<http://dbpedia.org/resource/1967_Italian_Grand_Prix> <http://dbpedia.org/ontology/thirdDriver> <http://dbpedia.org/resource/Jim_Clark> .
-<http://dbpedia.org/resource/1967_Italian_Grand_Prix> <http://dbpedia.org/ontology/fastestDriver> <http://dbpedia.org/resource/Jim_Clark> .
-<http://dbpedia.org/resource/1967_Italian_Grand_Prix> <http://dbpedia.org/ontology/poleDriverTeam> <http://dbpedia.org/resource/Team_Lotus> .
