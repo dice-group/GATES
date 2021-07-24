@@ -1,10 +1,10 @@
-9	person	http://dbpedia.org/resource/Edward_Teller
+4	person	http://dbpedia.org/resource/Bill_Gates
+10	film	http://dbpedia.org/resource/Total_Recall_(1990_film)
 11	university, organization	http://dbpedia.org/resource/Rice_University
-18	tv show	http://dbpedia.org/resource/The_Cosby_Show
-20	river	http://dbpedia.org/resource/Yukon_River
-21	country	http://dbpedia.org/resource/England
+14	person	http://dbpedia.org/resource/Henry_IV_of_France
 24	company	http://dbpedia.org/resource/Ferrari
-31	person	http://dbpedia.org/resource/Alan_Turing
-40	country	http://dbpedia.org/resource/Norway
-43	song	http://dbpedia.org/resource/Love_Me_(Justin_Bieber_song)
+33	person	http://dbpedia.org/resource/Walt_Disney
+35	person, politician	http://dbpedia.org/resource/Vladimir_Putin
 44	song	http://dbpedia.org/resource/Never_Let_You_Go_(Justin_Bieber_song)
+47	person, politician	http://dbpedia.org/resource/Benjamin_Franklin
+49	person, athlete	http://dbpedia.org/resource/Usain_Bolt

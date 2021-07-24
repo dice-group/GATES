@@ -18,7 +18,7 @@ import math
 
 from data_loader import split_data, load_emb
 from train import train_iter
-from generate_summary import generate_summary
+from generate_summary import generate_summary, ensembled_generating_summary
 from model import GATES
 from utils import tensor_from_data
 
@@ -28,7 +28,7 @@ OUT_DIR = os.path.join(path.dirname(os.getcwd()), 'GATES')
 IN_FACES_DIR = os.path.join(path.dirname(os.getcwd()), 'GATES/data/FACES', 'faces_data')
 FILE_N = 6
 TOP_K = [5, 10]
-DS_NAME = ['faces']
+DS_NAME = ['dbpedia', 'lmdb', 'faces']
 DEVICE = torch.device("cpu")
 
 def asHours(s):
@@ -201,12 +201,9 @@ def main(mode, emb_model, loss_type,  ent_emb_dim, pred_emb_dim, hidden_layers, 
                     generate_summary(ds_name, test_adjs, test_facts, test_labels, pred_dict, entity_dict, pred2ix_size, pred_emb_dim, ent_emb_dim, \
                                  DEVICE, use_epoch, db_dir, dropout, entity2ix_size, hidden_layers, nheads, word_emb, word_emb_calc, topk, FILE_N, concat_model, print_to)
                     
-                    model = GATES(pred2ix_size, entity2ix_size, pred_emb_dim, ent_emb_dim, DEVICE, dropout, hidden_layers, nheads)
-                    pred_tensor, obj_tensor = tensor_from_data(concat_model, entity_dict, pred_dict, test_facts[0][0], word_emb, word_emb_calc)
-                    input_tensor = [pred_tensor.to(DEVICE), obj_tensor.to(DEVICE)]
-                    y = model(input_tensor, test_adjs[0][0])
-                    g = make_dot(y, model.state_dict())
-                    g.view()
+                    ensembled_generating_summary(ds_name, test_adjs, test_facts, test_labels, pred_dict, entity_dict, pred2ix_size, pred_emb_dim, ent_emb_dim, \
+                                 DEVICE, use_epoch, db_dir, dropout, entity2ix_size, hidden_layers, nheads, word_emb, word_emb_calc, topk, FILE_N, concat_model, print_to)
+                    
             total_time = time.time()-start
             if mode=="train":
                 print("Training processes time", asHours(total_time))

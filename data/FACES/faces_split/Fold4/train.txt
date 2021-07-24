@@ -1,30 +1,30 @@
-3	person, scientist	http://dbpedia.org/resource/Marie_Curie
 7	person	http://dbpedia.org/resource/John_Napier
-8	song	http://dbpedia.org/resource/Candle_in_the_Wind
-10	film	http://dbpedia.org/resource/Total_Recall_(1990_film)
-12	country, place	http://dbpedia.org/resource/Czech_Republic
-25	software, game	http://dbpedia.org/resource/Crysis_2
-29	tv show	http://dbpedia.org/resource/Friends
-35	person, politician	http://dbpedia.org/resource/Vladimir_Putin
-36	software, game	http://dbpedia.org/resource/Mortal_Kombat_Trilogy
-48	person, politician	http://dbpedia.org/resource/Mike_Turner
-9	person	http://dbpedia.org/resource/Edward_Teller
-11	university, organization	http://dbpedia.org/resource/Rice_University
+16	film	http://dbpedia.org/resource/Argo_(2012_film)
+17	organization, sports	http://dbpedia.org/resource/Manchester_City_F.C.
 18	tv show	http://dbpedia.org/resource/The_Cosby_Show
 20	river	http://dbpedia.org/resource/Yukon_River
-21	country	http://dbpedia.org/resource/England
-24	company	http://dbpedia.org/resource/Ferrari
-31	person	http://dbpedia.org/resource/Alan_Turing
+23	film	http://dbpedia.org/resource/Original_Sin_(2001_film)
+28	country	http://dbpedia.org/resource/Seychelles
 40	country	http://dbpedia.org/resource/Norway
-43	song	http://dbpedia.org/resource/Love_Me_(Justin_Bieber_song)
-44	song	http://dbpedia.org/resource/Never_Let_You_Go_(Justin_Bieber_song)
-5	person, politician	http://dbpedia.org/resource/Richard_Mentor_Johnson
-6	tv show	http://dbpedia.org/resource/Family_Feud
+42	person, scientist	http://dbpedia.org/resource/Charles_Darwin
+46	company	http://dbpedia.org/resource/J._C._Penney
+4	person	http://dbpedia.org/resource/Bill_Gates
+10	film	http://dbpedia.org/resource/Total_Recall_(1990_film)
+11	university, organization	http://dbpedia.org/resource/Rice_University
 14	person	http://dbpedia.org/resource/Henry_IV_of_France
+24	company	http://dbpedia.org/resource/Ferrari
+33	person	http://dbpedia.org/resource/Walt_Disney
+35	person, politician	http://dbpedia.org/resource/Vladimir_Putin
+44	song	http://dbpedia.org/resource/Never_Let_You_Go_(Justin_Bieber_song)
+47	person, politician	http://dbpedia.org/resource/Benjamin_Franklin
+49	person, athlete	http://dbpedia.org/resource/Usain_Bolt
+13	place, city	http://dbpedia.org/resource/Amsterdam
+15	person, actor	http://dbpedia.org/resource/Bruce_Lee
 19	place, city	http://dbpedia.org/resource/Ann_Arbor,_Michigan
 22	country	http://dbpedia.org/resource/Poland
-26	film	http://dbpedia.org/resource/Reign_of_Fire_(film)
-33	person	http://dbpedia.org/resource/Walt_Disney
+27	tv show	http://dbpedia.org/resource/Beverly_Hills,_90210
+31	person	http://dbpedia.org/resource/Alan_Turing
+36	software, game	http://dbpedia.org/resource/Mortal_Kombat_Trilogy
 39	tv show	http://dbpedia.org/resource/Baywatch
-41	river	http://dbpedia.org/resource/Nile
-46	company	http://dbpedia.org/resource/J._C._Penney
+48	person, politician	http://dbpedia.org/resource/Mike_Turner
+50	person, politician	http://dbpedia.org/resource/Joe_Biden

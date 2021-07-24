@@ -9,7 +9,8 @@ import os.path as path
 import torch
 import numpy as np
 from tqdm import tqdm
-import subprocess
+from numpy import array
+from numpy import argmax
 
 from utils import tensor_from_data, tensor_from_weight, _eval_Fmeasure
 from data_loader import get_data_gold
@@ -17,7 +18,7 @@ from model import GATES
 
 def generate_summary(ds_name, test_adjs, test_facts, test_labels, pred_dict, entity_dict, pred2ix_size, pred_emb_dim, ent_emb_dim, device, use_epoch, db_dir,  \
                      dropout, entity2ix_size, hidden_layers, nheads, word_emb, word_emb_calc, topk, file_n, concat_model, print_to):
-  directory = path.join("data/ESBM_benchmark_v1.2/output_summaries", ds_name)
+  directory = path.join("data/output_summaries", ds_name)
   if not path.exists(directory):
     os.makedirs(directory)
   favg_top_all = []
@@ -64,11 +65,10 @@ def generate_summary(ds_name, test_adjs, test_facts, test_labels, pred_dict, ent
       
       
         test_favg_top = np.mean(favg_top_list)
-        #print('\n')
-        #print('top {} of {} testing fold %d:'.format(topk, ds_name) % num, test_favg_top)
-        #print('\n')
+        print('top {} of {} testing fold %d:'.format(topk, ds_name) % num, test_favg_top)
             
         test_favg_top_all = np.mean(favg_top_all)
+  print("### Single Score ###")
   if ds_name=='faces':
       print("dataset: {}".format(ds_name))
       print("############################################")
@@ -78,12 +78,101 @@ def generate_summary(ds_name, test_adjs, test_facts, test_labels, pred_dict, ent
   
   if ds_name=="faces":
       with open(print_to, 'a') as f:
-            f.write("Results({}@top{}): F-measure={}\n".format(ds_name, topk, test_favg_top_all))    
+            f.write("Results({}@top{})-single score: F-measure={}\n".format(ds_name, topk, test_favg_top_all))    
   if ds_name=="lmdb" and topk==10:
-      os.system('java -jar evaluation/esummeval_v1.2.jar data/ESBM_benchmark_v1.2/ data/ESBM_benchmark_v1.2/output_summaries/ > {}'.format(print_to))
-      os.system('java -jar evaluation/esummeval_v1.2.jar data/ESBM_benchmark_v1.2/ data/ESBM_benchmark_v1.2/output_summaries/')
+      os.system('java -jar evaluation/esummeval_v1.2.jar data/ESBM_benchmark_v1.2/ data/output_summaries/ > {}'.format(print_to))
+      os.system('java -jar evaluation/esummeval_v1.2.jar data/ESBM_benchmark_v1.2/ data/data/output_summaries/')
               
-          
+
+def ensembled_generating_summary(ds_name, test_adjs, test_facts, test_labels, pred_dict, entity_dict, pred2ix_size, pred_emb_dim, ent_emb_dim, device, use_epoch, db_dir,  \
+                     dropout, entity2ix_size, hidden_layers, nheads, word_emb, word_emb_calc, topk, file_n, concat_model, print_to):
+    directory = path.join("data/output_summaries_ensembled", ds_name)
+    if not path.exists(directory):
+        os.makedirs(directory)
+    favg_top_all = []  
+
+    #load models
+    models = []
+    for num in tqdm(range(5)):
+        CHECK_DIR = path.join("models", "gates_checkpoint-{}-{}-{}".format(ds_name, topk, num))
+        gates = GATES(pred2ix_size, entity2ix_size, pred_emb_dim, ent_emb_dim, device, dropout, hidden_layers, nheads)
+        #print(path.join(CHECK_DIR, "checkpoint_epoch_{}.pt".format(use_epoch[num])))
+        checkpoint = torch.load(path.join(CHECK_DIR, "checkpoint_epoch_{}.pt".format(use_epoch[num])))
+        gates.load_state_dict(checkpoint["model_state_dict"])
+        gates.to(device)
+        #print(gates)
+        models.append(gates)
+        
+    for num in tqdm(range(5)):
+        print("Fold", num)
+        favg_top_list = []
+        adj = test_adjs[num]
+        edesc = test_facts[num]
+        label = test_labels[num]
+        with torch.no_grad():
+            for i in range(len(edesc)):
+              eid = edesc[i][0][0]
+              pred_tensor, obj_tensor = tensor_from_data(concat_model, entity_dict, pred_dict, edesc[i], word_emb, word_emb_calc)
+              input_tensor = [pred_tensor.to(device), obj_tensor.to(device)]
+              target_tensor = tensor_from_weight(len(edesc[i]), edesc[i], label[i]).to(device)
+              output_tensor = evaluate_n_members(models, num+1, input_tensor, adj[i])
+              
+              output_tensor = output_tensor.view(1, -1).cpu()
+              target_tensor = target_tensor.view(1, -1).cpu()
+              (label_top_scores, label_top) = torch.topk(target_tensor, topk)
+              (output_top_scores, output_top) = torch.topk(output_tensor, topk)
+              #print("(output_top_scores, output_top)")
+              #print(output_top_scores, output_top)
+              (output_rank_scores, output_rank) = torch.topk(output_tensor, len(edesc[i]))
+              
+              if not path.exists(path.join(directory, "{}".format(eid))):
+                os.makedirs(path.join(directory, "{}".format(eid)))
+              writer(db_dir, eid, directory, "top{}".format(topk), output_top)
+              writer(db_dir, eid, directory, "rank", output_rank)
+              
+              gold_list_top = get_data_gold(db_dir, eid, topk, file_n)
+              top_list_output_top = output_top.squeeze(0).numpy().tolist()
+              
+              favg_top = _eval_Fmeasure(top_list_output_top, gold_list_top)
+              favg_top_list.append(favg_top)
+              favg_top_all.append(favg_top)
+            test_favg_top = np.mean(favg_top_list)
+            print('top {} of {} testing fold %d:'.format(topk, ds_name) % num, test_favg_top)
+                
+            test_favg_top_all = np.mean(favg_top_all)
+    print("\n")
+    print("### Ensembled score ###")
+    if ds_name=='faces':
+        print("dataset: {}".format(ds_name))
+        print("############################################")
+        print('Results({}@{}: {}'.format(ds_name, topk, test_favg_top_all))
+        print("#######################################")
+        print("\n")
+      
+    if ds_name=="faces":
+        with open(print_to, 'a') as f:
+            f.write("Results({}@top{})-ensembled score: F-measure={}\n".format(ds_name, topk, test_favg_top_all))  
+    if ds_name=="lmdb" and topk==10:
+        os.system('java -jar evaluation/esummeval_v1.2.jar data/ESBM_benchmark_v1.2/ data/output_summaries_ensembled/ > {}'.format("model-testing-dbpedia-lmdb-ensembled.txt"))
+        os.system('java -jar evaluation/esummeval_v1.2.jar data/ESBM_benchmark_v1.2/ data/output_summaries_ensembled/')
+
+# evaluate a specific number of members in an ensemble
+def evaluate_n_members(members, n_members, input_tensor, adj):
+    # select a subset of members
+    #print(members)
+    subset = members[:n_members]
+    # make prediction
+    yhat = ensemble_predictions(subset, input_tensor, adj)
+    #print(yhat)
+    #print(yhat.shape)
+    return yhat
+
+# make an ensemble prediction for multi-class classification
+def ensemble_predictions(members, input_tensor, adj):
+	# make predictions
+    yhats = torch.stack([model(input_tensor, adj) for model in members])
+    result = torch.sum(yhats, axis=0)
+    return result
 
 def writer(db_dir, eid, directory, top_or_rank, output):
     with open(path.join(db_dir, 
