@@ -118,7 +118,7 @@ def train(gates, ds_name, adj, edesc, label, val_adj, val_edesc, val_label, \
                 
             
             loss.backward()
-            torch.nn.utils.clip_grad_norm_(gates.parameters(), 5)
+            #torch.nn.utils.clip_grad_norm_(gates.parameters(), 5)
             optimizer.step()
             train_loss += loss.item()
         

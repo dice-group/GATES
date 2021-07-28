@@ -138,12 +138,12 @@ def main(mode, emb_model, loss_type,  ent_emb_dim, pred_emb_dim, hidden_layers, 
         
     print('Hyper paramters:')  
     print("Loss function: {}".format(loss_function))
-    print("Learning rate: {}",format(lr))
-    print("Dropout: {}",format(dropout))
+    print("Learning rate: {}".format(lr))
+    print("Dropout: {}".format(dropout))
     if reg==True:
-        print("Weight Decay: {}", format(weight_decay))
-    print("n Epochs: {}", format(n_epoch))
-    print("Regularization: {}", format(reg))
+        print("Weight Decay: {}".format(weight_decay))
+    print("n Epochs: {}".format(n_epoch))
+    print("Regularization: {}".format(reg))
    
     if mode == "train" or mode =="test" or mode=="all":
         log_file_path = os.path.join(OUT_DIR, 'GATES_log.txt')
@@ -173,7 +173,19 @@ def main(mode, emb_model, loss_type,  ent_emb_dim, pred_emb_dim, hidden_layers, 
                 print_to = 'model-training-{}.txt'.format(ds_name)
                 with open(print_to, 'w+') as f:
                     f.write("Starting Training \n")
-                    f.write("Training model is processed to {} ".format(ds_name))
+                    f.write("Training model is processed to {}\n".format(ds_name))
+                    f.write("hyperparameters:\n")
+                    f.write("Loss function: {}\n".format(loss_function))
+                    f.write("Learning rate: {}\n".format(lr))
+                    f.write("Dropout: {}\n".format(dropout))
+                    if reg==True:
+                        f.write("Weight Decay: {}\n".format(weight_decay))
+                    f.write("n Epochs: {}\n".format(n_epoch))
+                    f.write("Regularization: {}\n".format(reg))
+                    f.write("nhead: {}\n".format(nheads))
+                    f.write("Hidden layers: {}\n".format(hidden_layers))
+                    f.write("Text embedding: {}\n".format(word_emb_model))
+                    f.write("KGE model: {}\n".format(emb_model))
                     
             if mode=="test":
                 print_to = 'model-testing-dbpedia-lmdb.txt'
