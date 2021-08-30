@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Beverly_Hills,_90210> <http://dbpedia.org/property/creator> <http://dbpedia.org/resource/Aaron_Spelling> .
+<http://dbpedia.org/resource/Beverly_Hills,_90210> <http://dbpedia.org/property/channel> <http://dbpedia.org/resource/Fox_Broadcasting_Company> .
+<http://dbpedia.org/resource/Beverly_Hills,_90210> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Lindsay_Price> .
+<http://dbpedia.org/resource/Beverly_Hills,_90210> <http://dbpedia.org/property/creator> <http://dbpedia.org/resource/Darren_Star> .
+<http://dbpedia.org/resource/Beverly_Hills,_90210> <http://dbpedia.org/ontology/creator> <http://dbpedia.org/resource/E._Duke_Vincent> .

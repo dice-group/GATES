@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Candle_in_the_Wind> <http://dbpedia.org/property/artist> <http://dbpedia.org/resource/Elton_John> .
+<http://dbpedia.org/resource/Candle_in_the_Wind> <http://dbpedia.org/property/format> <http://dbpedia.org/resource/Gramophone_record> .
+<http://dbpedia.org/resource/Candle_in_the_Wind> <http://dbpedia.org/ontology/musicalArtist> <http://dbpedia.org/resource/Elton_John> .
+<http://dbpedia.org/resource/Candle_in_the_Wind> <http://dbpedia.org/ontology/recordLabel> <http://dbpedia.org/resource/MCA_Records> .
+<http://dbpedia.org/resource/Candle_in_the_Wind> <http://dbpedia.org/property/writer> <http://dbpedia.org/resource/Bernie_Taupin> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Poland> <http://xmlns.com/foaf/0.1/homepage> <http://www.poland.travel/en> .
+<http://dbpedia.org/resource/Poland> <http://dbpedia.org/property/leaderName> <http://dbpedia.org/resource/Bronis%C5%82aw_Komorowski> .
+<http://dbpedia.org/resource/Poland> <http://dbpedia.org/ontology/thumbnail> <http://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Flag_of_Poland_(normative).svg/200px-Flag_of_Poland_(normative).svg.png> .
+<http://dbpedia.org/resource/Poland> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Poland> .
+<http://dbpedia.org/resource/Poland> <http://dbpedia.org/ontology/leaderName> <http://dbpedia.org/resource/Donald_Tusk> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Mortal_Kombat_Trilogy> <http://dbpedia.org/ontology/computingPlatform> <http://dbpedia.org/resource/Nintendo_64> .
+<http://dbpedia.org/resource/Mortal_Kombat_Trilogy> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Fighting_game> .
+<http://dbpedia.org/resource/Mortal_Kombat_Trilogy> <http://dbpedia.org/property/developer> <http://dbpedia.org/resource/Point_of_View,_Inc.> .
+<http://dbpedia.org/resource/Mortal_Kombat_Trilogy> <http://dbpedia.org/ontology/computingMedia> <http://dbpedia.org/resource/CD-ROM> .
+<http://dbpedia.org/resource/Mortal_Kombat_Trilogy> <http://xmlns.com/foaf/0.1/depiction> <http://upload.wikimedia.org/wikipedia/commons/7/70/MKTBox.jpg> .

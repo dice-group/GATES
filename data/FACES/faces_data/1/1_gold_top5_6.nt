@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/spouse> <http://dbpedia.org/resource/Michelle_Obama> .
+<http://dbpedia.org/resource/Barack_Obama> <http://xmlns.com/foaf/0.1/homepage> <http://www.barackobama.com> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/vicePresident> <http://dbpedia.org/resource/Joe_Biden> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/residence> <http://dbpedia.org/resource/White_House> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/state> <http://dbpedia.org/resource/Illinois> .

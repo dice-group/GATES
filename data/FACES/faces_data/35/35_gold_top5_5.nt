@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Vladimir_Putin> <http://dbpedia.org/property/occupation> <http://dbpedia.org/resource/President_of_Russia> .
+<http://dbpedia.org/resource/Vladimir_Putin> <http://xmlns.com/foaf/0.1/depiction> <http://upload.wikimedia.org/wikipedia/commons/c/ca/Vladimir_Putin_12015.jpg> .
+<http://dbpedia.org/resource/Vladimir_Putin> <http://dbpedia.org/property/birthPlace> <http://dbpedia.org/resource/Soviet_Union> .
+<http://dbpedia.org/resource/Vladimir_Putin> <http://dbpedia.org/ontology/termPeriod> <http://dbpedia.org/resource/Vladimir_Putin__1> .
+<http://dbpedia.org/resource/Vladimir_Putin> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/Unity_(Russian_political_party)> .

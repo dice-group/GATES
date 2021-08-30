@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Lexus> <http://dbpedia.org/property/homepage> <http://www.lexus-global.com/> .
+<http://dbpedia.org/resource/Lexus> <http://dbpedia.org/property/products> <http://dbpedia.org/resource/Automobile> .
+<http://dbpedia.org/resource/Lexus> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Japan> .
+<http://dbpedia.org/resource/Lexus> <http://dbpedia.org/property/founder> <http://dbpedia.org/resource/Eiji_Toyoda> .
+<http://dbpedia.org/resource/Lexus> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Automotive> .

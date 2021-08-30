@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Mike_Turner> <http://dbpedia.org/property/party> <http://dbpedia.org/resource/Republican_Party_(United_States)> .
+<http://dbpedia.org/resource/Mike_Turner> <http://dbpedia.org/property/before> <http://dbpedia.org/resource/Clay_Dixon> .
+<http://dbpedia.org/resource/Mike_Turner> <http://dbpedia.org/ontology/almaMater> <http://dbpedia.org/resource/Ohio_Northern_University> .
+<http://dbpedia.org/resource/Mike_Turner> <http://dbpedia.org/property/title> <http://dbpedia.org/resource/Mayor_of_Dayton,_Ohio> .
+<http://dbpedia.org/resource/Mike_Turner> <http://dbpedia.org/property/title> <http://dbpedia.org/resource/Politics_of_Dayton,_Ohio> .

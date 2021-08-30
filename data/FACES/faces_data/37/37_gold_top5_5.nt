@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/(What_Is)_Love%3F> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/Wynter_Gordon> .
+<http://dbpedia.org/resource/(What_Is)_Love%3F> <http://dbpedia.org/property/album> <http://dbpedia.org/resource/Love%3F> .
+<http://dbpedia.org/resource/(What_Is)_Love%3F> <http://dbpedia.org/property/format> <http://dbpedia.org/resource/Music_download> .
+<http://dbpedia.org/resource/(What_Is)_Love%3F> <http://dbpedia.org/ontology/artist> <http://dbpedia.org/resource/Jennifer_Lopez> .
+<http://dbpedia.org/resource/(What_Is)_Love%3F> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Electropop> .

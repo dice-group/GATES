@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Benjamin_Franklin> <http://dbpedia.org/ontology/profession> <http://dbpedia.org/resource/Politics_of_the_United_States> .
+<http://dbpedia.org/resource/Benjamin_Franklin> <http://dbpedia.org/property/predecessor> <http://dbpedia.org/resource/John_Dickinson_(politician)> .
+<http://dbpedia.org/resource/Benjamin_Franklin> <http://dbpedia.org/property/appointed> <http://dbpedia.org/resource/Congress_of_the_Confederation> .
+<http://dbpedia.org/resource/Benjamin_Franklin> <http://dbpedia.org/property/vicepresident> <http://dbpedia.org/resource/Charles_Biddle> .
+<http://dbpedia.org/resource/Benjamin_Franklin> <http://dbpedia.org/property/party> <http://dbpedia.org/resource/Independent_(politician)> .

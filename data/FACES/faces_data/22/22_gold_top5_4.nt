@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Poland> <http://xmlns.com/foaf/0.1/homepage> <http://www.poland.travel/en> .
+<http://dbpedia.org/resource/Poland> <http://dbpedia.org/ontology/capital> <http://dbpedia.org/resource/Warsaw> .
+<http://dbpedia.org/resource/Poland> <http://dbpedia.org/property/timeZone> <http://dbpedia.org/resource/Central_European_Time> .
+<http://dbpedia.org/resource/Poland> <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/Polish_z%C5%82oty> .
+<http://dbpedia.org/resource/Poland> <http://dbpedia.org/ontology/language> <http://dbpedia.org/resource/Polish_language> .

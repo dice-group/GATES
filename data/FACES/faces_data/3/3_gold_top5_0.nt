@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Marie_Curie> <http://dbpedia.org/property/field> <http://dbpedia.org/resource/Chemistry> .
+<http://dbpedia.org/resource/Marie_Curie> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Physics> .
+<http://dbpedia.org/resource/Marie_Curie> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Warsaw> .
+<http://dbpedia.org/resource/Marie_Curie> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Radium> .
+<http://dbpedia.org/resource/Marie_Curie> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Radioactivity> .

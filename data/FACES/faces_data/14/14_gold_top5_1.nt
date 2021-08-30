@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Henry_IV_of_France> <http://dbpedia.org/property/house> <http://dbpedia.org/resource/House_of_Bourbon> .
+<http://dbpedia.org/resource/Henry_IV_of_France> <http://dbpedia.org/property/religion> <http://dbpedia.org/resource/Roman_Catholicism> .
+<http://dbpedia.org/resource/Henry_IV_of_France> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Kingdom_of_Navarre> .
+<http://dbpedia.org/resource/Henry_IV_of_France> <http://dbpedia.org/ontology/predecessor> <http://dbpedia.org/resource/Henry_III_of_France> .
+<http://dbpedia.org/resource/Henry_IV_of_France> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Henry_IV_of_France> .

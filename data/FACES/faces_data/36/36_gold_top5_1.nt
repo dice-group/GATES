@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Mortal_Kombat_Trilogy> <http://dbpedia.org/property/hasPhotoCollection> <http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Mortal_Kombat_Trilogy> .
+<http://dbpedia.org/resource/Mortal_Kombat_Trilogy> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Fighting_game> .
+<http://dbpedia.org/resource/Mortal_Kombat_Trilogy> <http://dbpedia.org/ontology/computingPlatform> <http://dbpedia.org/resource/Sega_Saturn> .
+<http://dbpedia.org/resource/Mortal_Kombat_Trilogy> <http://dbpedia.org/ontology/computingPlatform> <http://dbpedia.org/resource/Nintendo_64> .
+<http://dbpedia.org/resource/Mortal_Kombat_Trilogy> <http://dbpedia.org/property/publisher> <http://dbpedia.org/resource/GT_Interactive> .

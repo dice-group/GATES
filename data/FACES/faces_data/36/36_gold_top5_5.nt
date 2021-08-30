@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Mortal_Kombat_Trilogy> <http://dbpedia.org/ontology/designer> <http://dbpedia.org/resource/John_Tobias> .
+<http://dbpedia.org/resource/Mortal_Kombat_Trilogy> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Fighting_game> .
+<http://dbpedia.org/resource/Mortal_Kombat_Trilogy> <http://dbpedia.org/property/platforms> <http://dbpedia.org/resource/PlayStation_(console)> .
+<http://dbpedia.org/resource/Mortal_Kombat_Trilogy> <http://dbpedia.org/property/developer> <http://dbpedia.org/resource/Point_of_View,_Inc.> .
+<http://dbpedia.org/resource/Mortal_Kombat_Trilogy> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Mortal_Kombat_Trilogy> .

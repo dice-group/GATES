@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Beverly_Hills,_90210> <http://dbpedia.org/property/company> <http://dbpedia.org/resource/Spelling_Television> .
+<http://dbpedia.org/resource/Beverly_Hills,_90210> <http://dbpedia.org/property/channel> <http://dbpedia.org/resource/Fox_Broadcasting_Company> .
+<http://dbpedia.org/resource/Beverly_Hills,_90210> <http://dbpedia.org/ontology/distributor> <http://dbpedia.org/resource/Paramount_Domestic_Television> .
+<http://dbpedia.org/resource/Beverly_Hills,_90210> <http://dbpedia.org/ontology/format> <http://dbpedia.org/resource/Multichannel_television_sound> .
+<http://dbpedia.org/resource/Beverly_Hills,_90210> <http://dbpedia.org/ontology/creator> <http://dbpedia.org/resource/E._Duke_Vincent> .

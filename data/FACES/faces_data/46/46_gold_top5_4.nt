@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/J._C._Penney> <http://dbpedia.org/property/homepage> <http://www.jcpenney.com/> .
+<http://dbpedia.org/resource/J._C._Penney> <http://dbpedia.org/ontology/type> <http://dbpedia.org/resource/Public_company> .
+<http://dbpedia.org/resource/J._C._Penney> <http://dbpedia.org/ontology/regionServed> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/J._C._Penney> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Retail> .
+<http://dbpedia.org/resource/J._C._Penney> <http://dbpedia.org/property/founder> <http://dbpedia.org/resource/James_Cash_Penney> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Crysis_2> <http://dbpedia.org/property/genre> <http://dbpedia.org/resource/First-person_shooter> .
+<http://dbpedia.org/resource/Crysis_2> <http://dbpedia.org/property/developer> <http://dbpedia.org/resource/Crytek> .
+<http://dbpedia.org/resource/Crysis_2> <http://dbpedia.org/ontology/series> <http://dbpedia.org/resource/Crysis_(series)> .
+<http://dbpedia.org/resource/Crysis_2> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Crysis_2> .
+<http://dbpedia.org/resource/Crysis_2> <http://dbpedia.org/property/platforms> <http://dbpedia.org/resource/Xbox_360> .

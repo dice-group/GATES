@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Friends> <http://dbpedia.org/property/starring> <http://dbpedia.org/resource/Jennifer_Aniston> .
+<http://dbpedia.org/resource/Friends> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Sitcom> .
+<http://dbpedia.org/resource/Friends> <http://dbpedia.org/property/network> <http://dbpedia.org/resource/NBC> .
+<http://dbpedia.org/resource/Friends> <http://dbpedia.org/property/starring> <http://dbpedia.org/resource/David_Schwimmer> .
+<http://dbpedia.org/resource/Friends> <http://dbpedia.org/property/starring> <http://dbpedia.org/resource/Matthew_Perry> .

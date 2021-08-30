@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Texas> <http://dbpedia.org/ontology/thumbnail> <http://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Texas.svg/200px-Flag_of_Texas.svg.png> .
+<http://dbpedia.org/resource/Texas> <http://dbpedia.org/property/candidate> <http://dbpedia.org/resource/Barack_Obama> .
+<http://dbpedia.org/resource/Texas> <http://dbpedia.org/property/capital> <http://dbpedia.org/resource/Austin,_Texas> .
+<http://dbpedia.org/resource/Texas> <http://dbpedia.org/ontology/largestCity> <http://dbpedia.org/resource/Houston> .
+<http://dbpedia.org/resource/Texas> <http://dbpedia.org/property/timezone> <http://dbpedia.org/resource/Central_Standard_Time> .

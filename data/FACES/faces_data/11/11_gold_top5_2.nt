@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Rice_University> <http://dbpedia.org/ontology/city> <http://dbpedia.org/resource/Houston> .
+<http://dbpedia.org/resource/Rice_University> <http://dbpedia.org/property/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Rice_University> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Rice_University> .
+<http://dbpedia.org/resource/Rice_University> <http://xmlns.com/foaf/0.1/homepage> <http://www.rice.edu/> .
+<http://dbpedia.org/resource/Rice_University> <http://dbpedia.org/ontology/type> <http://dbpedia.org/resource/Private_university> .

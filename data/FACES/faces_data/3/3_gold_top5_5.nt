@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Marie_Curie> <http://dbpedia.org/property/knownFor> <http://dbpedia.org/resource/Radium> .
+<http://dbpedia.org/resource/Marie_Curie> <http://dbpedia.org/ontology/doctoralAdvisor> <http://dbpedia.org/resource/Henri_Becquerel> .
+<http://dbpedia.org/resource/Marie_Curie> <http://dbpedia.org/ontology/spouse> <http://dbpedia.org/resource/Pierre_Curie> .
+<http://dbpedia.org/resource/Marie_Curie> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Physics> .
+<http://dbpedia.org/resource/Marie_Curie> <http://dbpedia.org/property/almaMater> <http://dbpedia.org/resource/ESPCI_ParisTech> .

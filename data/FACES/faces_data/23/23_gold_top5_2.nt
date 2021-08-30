@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Original_Sin_(2001_film)> <http://xmlns.com/foaf/0.1/depiction> <http://upload.wikimedia.org/wikipedia/commons/f/fb/Original_sin_poster.jpg> .
+<http://dbpedia.org/resource/Original_Sin_(2001_film)> <http://dbpedia.org/property/director> <http://dbpedia.org/resource/Michael_Cristofer> .
+<http://dbpedia.org/resource/Original_Sin_(2001_film)> <http://dbpedia.org/property/starring> <http://dbpedia.org/resource/Angelina_Jolie> .
+<http://dbpedia.org/resource/Original_Sin_(2001_film)> <http://dbpedia.org/property/starring> <http://dbpedia.org/resource/Antonio_Banderas> .
+<http://dbpedia.org/resource/Original_Sin_(2001_film)> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Original_Sin_(2001_film)> .

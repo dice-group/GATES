@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Bruce_Lee> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Kung_Fu> .
+<http://dbpedia.org/resource/Bruce_Lee> <http://dbpedia.org/property/children> <http://dbpedia.org/resource/Brandon_Lee> .
+<http://dbpedia.org/resource/Bruce_Lee> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Hong_Kong> .
+<http://dbpedia.org/resource/Bruce_Lee> <http://dbpedia.org/property/origin> <http://dbpedia.org/resource/Hong_Kong> .
+<http://dbpedia.org/resource/Bruce_Lee> <http://dbpedia.org/ontology/child> <http://dbpedia.org/resource/Shannon_Lee> .

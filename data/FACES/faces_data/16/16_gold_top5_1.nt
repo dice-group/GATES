@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Argo_(2012_film)> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Argo_(2012_film)> .
+<http://dbpedia.org/resource/Argo_(2012_film)> <http://dbpedia.org/ontology/distributor> <http://dbpedia.org/resource/Warner_Bros.> .
+<http://dbpedia.org/resource/Argo_(2012_film)> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/Chris_Terrio> .
+<http://dbpedia.org/resource/Argo_(2012_film)> <http://dbpedia.org/property/director> <http://dbpedia.org/resource/Ben_Affleck> .
+<http://dbpedia.org/resource/Argo_(2012_film)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Ben_Affleck> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Usain_Bolt> <http://dbpedia.org/property/event> <http://dbpedia.org/resource/Sprint_(running)> .
+<http://dbpedia.org/resource/Usain_Bolt> <http://dbpedia.org/property/years> <http://dbpedia.org/resource/2012_Summer_Olympics> .
+<http://dbpedia.org/resource/Usain_Bolt> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Usain_Bolt> .
+<http://dbpedia.org/resource/Usain_Bolt> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Jamaica> .
+<http://dbpedia.org/resource/Usain_Bolt> <http://dbpedia.org/property/sport> <http://dbpedia.org/resource/Track_and_field> .

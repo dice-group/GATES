@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Crysis_2> <http://dbpedia.org/ontology/developer> <http://dbpedia.org/resource/Crytek> .
+<http://dbpedia.org/resource/Crysis_2> <http://dbpedia.org/ontology/computingMedia> <http://dbpedia.org/resource/Online_distribution> .
+<http://dbpedia.org/resource/Crysis_2> <http://dbpedia.org/property/composer> <http://dbpedia.org/resource/Lorne_Balfe> .
+<http://dbpedia.org/resource/Crysis_2> <http://dbpedia.org/property/engine> <http://dbpedia.org/resource/CryEngine_3> .
+<http://dbpedia.org/resource/Crysis_2> <http://dbpedia.org/property/publisher> <http://dbpedia.org/resource/Electronic_Arts> .

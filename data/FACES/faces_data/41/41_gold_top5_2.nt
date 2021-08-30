@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Nile> <http://dbpedia.org/ontology/source> <http://dbpedia.org/resource/Blue_Nile> .
+<http://dbpedia.org/resource/Nile> <http://dbpedia.org/ontology/sourceMountain> <http://dbpedia.org/resource/Lake_Tana> .
+<http://dbpedia.org/resource/Nile> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Egypt> .
+<http://dbpedia.org/resource/Nile> <http://dbpedia.org/ontology/source> <http://dbpedia.org/resource/White_Nile> .
+<http://dbpedia.org/resource/Nile> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Nile> .

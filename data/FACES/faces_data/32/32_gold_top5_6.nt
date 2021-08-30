@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Aladdin_(1992_Disney_film)> <http://dbpedia.org/property/director> <http://dbpedia.org/resource/John_Musker> .
+<http://dbpedia.org/resource/Aladdin_(1992_Disney_film)> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/Terry_Rossio> .
+<http://dbpedia.org/resource/Aladdin_(1992_Disney_film)> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Ron_Clements> .
+<http://dbpedia.org/resource/Aladdin_(1992_Disney_film)> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Aladdin_(1992_Disney_film)> .
+<http://dbpedia.org/resource/Aladdin_(1992_Disney_film)> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Ron_Clements> .

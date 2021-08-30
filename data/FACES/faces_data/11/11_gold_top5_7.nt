@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Rice_University> <http://xmlns.com/foaf/0.1/homepage> <http://www.rice.edu/> .
+<http://dbpedia.org/resource/Rice_University> <http://dbpedia.org/ontology/affiliation> <http://dbpedia.org/resource/Association_of_American_Universities> .
+<http://dbpedia.org/resource/Rice_University> <http://dbpedia.org/property/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Rice_University> <http://dbpedia.org/property/state> <http://dbpedia.org/resource/Texas> .
+<http://dbpedia.org/resource/Rice_University> <http://dbpedia.org/ontology/type> <http://dbpedia.org/resource/Private_university> .

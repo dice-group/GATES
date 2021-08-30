@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Benjamin_Franklin> <http://dbpedia.org/property/deathPlace> <http://dbpedia.org/resource/Pennsylvania> .
+<http://dbpedia.org/resource/Benjamin_Franklin> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Boston> .
+<http://dbpedia.org/resource/Benjamin_Franklin> <http://dbpedia.org/ontology/spouse> <http://dbpedia.org/resource/Deborah_Read> .
+<http://dbpedia.org/resource/Benjamin_Franklin> <http://dbpedia.org/property/party> <http://dbpedia.org/resource/Independent_(politician)> .
+<http://dbpedia.org/resource/Benjamin_Franklin> <http://dbpedia.org/property/successor> <http://dbpedia.org/resource/Thomas_Mifflin> .

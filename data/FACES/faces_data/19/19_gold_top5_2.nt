@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Ann_Arbor,_Michigan> <http://dbpedia.org/property/governmentType> <http://dbpedia.org/resource/Council-Manager> .
+<http://dbpedia.org/resource/Ann_Arbor,_Michigan> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Washtenaw_County,_Michigan> .
+<http://dbpedia.org/resource/Ann_Arbor,_Michigan> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Ann_Arbor,_Michigan> .
+<http://dbpedia.org/resource/Ann_Arbor,_Michigan> <http://dbpedia.org/property/leaderTitle> <http://dbpedia.org/resource/City_Manager> .
+<http://dbpedia.org/resource/Ann_Arbor,_Michigan> <http://dbpedia.org/property/timezone> <http://dbpedia.org/resource/Eastern_Time_Zone> .

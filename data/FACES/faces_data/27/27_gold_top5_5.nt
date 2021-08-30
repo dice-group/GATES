@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Beverly_Hills,_90210> <http://dbpedia.org/property/executiveProducer> <http://dbpedia.org/resource/Aaron_Spelling> .
+<http://dbpedia.org/resource/Beverly_Hills,_90210> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Soap_opera> .
+<http://dbpedia.org/resource/Beverly_Hills,_90210> <http://dbpedia.org/property/channel> <http://dbpedia.org/resource/Fox_Broadcasting_Company> .
+<http://dbpedia.org/resource/Beverly_Hills,_90210> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Lindsay_Price> .
+<http://dbpedia.org/resource/Beverly_Hills,_90210> <http://dbpedia.org/property/followedBy> <http://dbpedia.org/resource/Melrose_Place_(2009_TV_series)> .

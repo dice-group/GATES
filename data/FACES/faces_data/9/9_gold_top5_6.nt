@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Edward_Teller> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Harvey_Prize> .
+<http://dbpedia.org/resource/Edward_Teller> <http://dbpedia.org/property/deathPlace> <http://dbpedia.org/resource/Stanford,_California> .
+<http://dbpedia.org/resource/Edward_Teller> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Edward_Teller> .
+<http://dbpedia.org/resource/Edward_Teller> <http://dbpedia.org/property/placeOfBirth> <http://dbpedia.org/resource/Budapest> .
+<http://dbpedia.org/resource/Edward_Teller> <http://dbpedia.org/ontology/almaMater> <http://dbpedia.org/resource/Karlsruhe_Institute_of_Technology> .

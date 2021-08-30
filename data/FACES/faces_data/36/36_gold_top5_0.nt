@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Mortal_Kombat_Trilogy> <http://dbpedia.org/ontology/series> <http://dbpedia.org/resource/Mortal_Kombat> .
+<http://dbpedia.org/resource/Mortal_Kombat_Trilogy> <http://dbpedia.org/property/developer> <http://dbpedia.org/resource/Avalanche_Software> .
+<http://dbpedia.org/resource/Mortal_Kombat_Trilogy> <http://dbpedia.org/ontology/designer> <http://dbpedia.org/resource/John_Tobias> .
+<http://dbpedia.org/resource/Mortal_Kombat_Trilogy> <http://dbpedia.org/ontology/publisher> <http://dbpedia.org/resource/GT_Interactive_Software> .
+<http://dbpedia.org/resource/Mortal_Kombat_Trilogy> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Fighting_game> .

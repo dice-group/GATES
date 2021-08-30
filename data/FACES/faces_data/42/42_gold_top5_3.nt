@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Charles_Darwin> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/On_the_Origin_of_Species> .
+<http://dbpedia.org/resource/Charles_Darwin> <http://dbpedia.org/property/knownFor> <http://dbpedia.org/resource/Natural_selection> .
+<http://dbpedia.org/resource/Charles_Darwin> <http://dbpedia.org/property/knownFor> <http://dbpedia.org/resource/Common_descent> .
+<http://dbpedia.org/resource/Charles_Darwin> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Evolution> .
+<http://dbpedia.org/resource/Charles_Darwin> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/The_Voyage_of_the_Beagle> .

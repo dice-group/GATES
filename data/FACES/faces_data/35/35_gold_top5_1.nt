@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Vladimir_Putin> <http://dbpedia.org/property/birthPlace> <http://dbpedia.org/resource/Soviet_Union> .
+<http://dbpedia.org/resource/Vladimir_Putin> <http://dbpedia.org/property/branch> <http://dbpedia.org/resource/KGB> .
+<http://dbpedia.org/resource/Vladimir_Putin> <http://dbpedia.org/property/office> <http://dbpedia.org/resource/Prime_Minister_of_Russia> .
+<http://dbpedia.org/resource/Vladimir_Putin> <http://dbpedia.org/ontology/spouse> <http://dbpedia.org/resource/Lyudmila_Putina> .
+<http://dbpedia.org/resource/Vladimir_Putin> <http://dbpedia.org/property/occupation> <http://dbpedia.org/resource/President_of_Russia> .

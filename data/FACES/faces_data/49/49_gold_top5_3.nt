@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Usain_Bolt> <http://dbpedia.org/property/title> <http://dbpedia.org/resource/100_metres> .
+<http://dbpedia.org/resource/Usain_Bolt> <http://dbpedia.org/ontology/stateOfOrigin> <http://dbpedia.org/resource/Jamaica> .
+<http://dbpedia.org/resource/Usain_Bolt> <http://dbpedia.org/property/years> <http://dbpedia.org/resource/2012_Summer_Olympics> .
+<http://dbpedia.org/resource/Usain_Bolt> <http://dbpedia.org/property/title> <http://dbpedia.org/resource/Men's_100_metres_world_record_progression> .
+<http://dbpedia.org/resource/Usain_Bolt> <http://dbpedia.org/property/residence> <http://dbpedia.org/resource/Kingston,_Jamaica> .

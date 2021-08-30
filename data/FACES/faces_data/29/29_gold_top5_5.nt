@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Friends> <http://dbpedia.org/ontology/network> <http://dbpedia.org/resource/NBC> .
+<http://dbpedia.org/resource/Friends> <http://dbpedia.org/property/genre> <http://dbpedia.org/resource/Sitcom> .
+<http://dbpedia.org/resource/Friends> <http://xmlns.com/foaf/0.1/homepage> <http://warnervideo.com/friends15/> .
+<http://dbpedia.org/resource/Friends> <http://dbpedia.org/property/starring> <http://dbpedia.org/resource/Lisa_Kudrow> .
+<http://dbpedia.org/resource/Friends> <http://dbpedia.org/ontology/thumbnail> <http://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Friends_titles.jpg/200px-Friends_titles.jpg> .

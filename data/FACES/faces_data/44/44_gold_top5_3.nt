@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Never_Let_You_Go_(Justin_Bieber_song)> <http://xmlns.com/foaf/0.1/depiction> <http://upload.wikimedia.org/wikipedia/commons/5/54/Neverletyougocover.jpg> .
+<http://dbpedia.org/resource/Never_Let_You_Go_(Justin_Bieber_song)> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Teen_pop> .
+<http://dbpedia.org/resource/Never_Let_You_Go_(Justin_Bieber_song)> <http://dbpedia.org/ontology/album> <http://dbpedia.org/resource/My_World_2.0> .
+<http://dbpedia.org/resource/Never_Let_You_Go_(Justin_Bieber_song)> <http://dbpedia.org/ontology/artist> <http://dbpedia.org/resource/Justin_Bieber> .
+<http://dbpedia.org/resource/Never_Let_You_Go_(Justin_Bieber_song)> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Never_Let_You_Go_(Justin_Bieber_song)> .

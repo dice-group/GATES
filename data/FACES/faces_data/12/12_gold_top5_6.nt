@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Czech_Republic> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Czech_Republic> .
+<http://dbpedia.org/resource/Czech_Republic> <http://dbpedia.org/property/leaderName> <http://dbpedia.org/resource/Milo%C5%A1_Zeman> .
+<http://dbpedia.org/resource/Czech_Republic> <http://dbpedia.org/property/currency> <http://dbpedia.org/resource/Czech_koruna> .
+<http://dbpedia.org/resource/Czech_Republic> <http://dbpedia.org/property/timeZone> <http://dbpedia.org/resource/Central_European_Time> .
+<http://dbpedia.org/resource/Czech_Republic> <http://dbpedia.org/ontology/language> <http://dbpedia.org/resource/Czech_language> .

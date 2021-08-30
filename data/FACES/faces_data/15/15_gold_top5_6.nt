@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Bruce_Lee> <http://xmlns.com/foaf/0.1/depiction> <http://upload.wikimedia.org/wikipedia/commons/5/51/BruceLeecard.jpg> .
+<http://dbpedia.org/resource/Bruce_Lee> <http://dbpedia.org/property/ancestry> <http://dbpedia.org/resource/China> .
+<http://dbpedia.org/resource/Bruce_Lee> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Fist_of_Fury> .
+<http://dbpedia.org/resource/Bruce_Lee> <http://xmlns.com/foaf/0.1/homepage> <http://www.brucelee.com/> .
+<http://dbpedia.org/resource/Bruce_Lee> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Chinese_martial_arts> .

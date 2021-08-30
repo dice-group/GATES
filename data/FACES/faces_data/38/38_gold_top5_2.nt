@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Knight_Rider_(1982_TV_series)> <http://dbpedia.org/ontology/executiveProducer> <http://dbpedia.org/resource/Glen_A._Larson> .
+<http://dbpedia.org/resource/Knight_Rider_(1982_TV_series)> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Adventure_fiction> .
+<http://dbpedia.org/resource/Knight_Rider_(1982_TV_series)> <http://dbpedia.org/ontology/network> <http://dbpedia.org/resource/NBC> .
+<http://dbpedia.org/resource/Knight_Rider_(1982_TV_series)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Patricia_McPherson> .
+<http://dbpedia.org/resource/Knight_Rider_(1982_TV_series)> <http://dbpedia.org/ontology/thumbnail> <http://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Knightlogo.png/200px-Knightlogo.png> .

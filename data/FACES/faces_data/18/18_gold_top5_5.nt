@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/The_Cosby_Show> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Bill_Cosby> .
+<http://dbpedia.org/resource/The_Cosby_Show> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Sitcom> .
+<http://dbpedia.org/resource/The_Cosby_Show> <http://dbpedia.org/property/company> <http://dbpedia.org/resource/Viacom_Productions> .
+<http://dbpedia.org/resource/The_Cosby_Show> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/The_Cosby_Show> .
+<http://dbpedia.org/resource/The_Cosby_Show> <http://dbpedia.org/ontology/network> <http://dbpedia.org/resource/NBC> .

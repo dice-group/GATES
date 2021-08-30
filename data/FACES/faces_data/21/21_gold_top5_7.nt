@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/England> <http://dbpedia.org/property/callingCode> <http://dbpedia.org/resource/+44> .
+<http://dbpedia.org/resource/England> <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/Pound_sterling> .
+<http://dbpedia.org/resource/England> <http://xmlns.com/foaf/0.1/homepage> <http://www.direct.gov.uk/> .
+<http://dbpedia.org/resource/England> <http://dbpedia.org/property/capital> <http://dbpedia.org/resource/London> .
+<http://dbpedia.org/resource/England> <http://dbpedia.org/ontology/officialLanguage> <http://dbpedia.org/resource/English_language> .

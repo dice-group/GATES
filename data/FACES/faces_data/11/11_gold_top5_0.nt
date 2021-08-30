@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Rice_University> <http://dbpedia.org/ontology/type> <http://dbpedia.org/resource/Private_university> .
+<http://dbpedia.org/resource/Rice_University> <http://xmlns.com/foaf/0.1/homepage> <http://www.rice.edu/> .
+<http://dbpedia.org/resource/Rice_University> <http://dbpedia.org/property/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Rice_University> <http://dbpedia.org/ontology/state> <http://dbpedia.org/resource/Texas> .
+<http://dbpedia.org/resource/Rice_University> <http://dbpedia.org/property/president> <http://dbpedia.org/resource/David_Leebron> .

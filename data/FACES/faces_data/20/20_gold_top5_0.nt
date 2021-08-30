@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Yukon_River> <http://dbpedia.org/ontology/sourceCountry> <http://dbpedia.org/resource/Canada> .
+<http://dbpedia.org/resource/Yukon_River> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://en.wikipedia.org/wiki/Yukon_River?oldid=546352640> .
+<http://dbpedia.org/resource/Yukon_River> <http://dbpedia.org/ontology/sourceMountain> <http://dbpedia.org/resource/Atlin_District> .
+<http://dbpedia.org/resource/Yukon_River> <http://dbpedia.org/ontology/mouthMountain> <http://dbpedia.org/resource/Wade_Hampton_Census_Area,_Alaska> .
+<http://dbpedia.org/resource/Yukon_River> <http://dbpedia.org/property/mouthCountry> <http://dbpedia.org/resource/United_States> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Edward_Teller> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Hydrogen_bomb> .
+<http://dbpedia.org/resource/Edward_Teller> <http://dbpedia.org/ontology/almaMater> <http://dbpedia.org/resource/University_of_Karlsruhe> .
+<http://dbpedia.org/resource/Edward_Teller> <http://dbpedia.org/property/nationality> <http://dbpedia.org/resource/Hungarian_American> .
+<http://dbpedia.org/resource/Edward_Teller> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Harvey_Prize> .
+<http://dbpedia.org/resource/Edward_Teller> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Austria-Hungary> .

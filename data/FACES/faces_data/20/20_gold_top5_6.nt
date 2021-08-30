@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Yukon_River> <http://dbpedia.org/ontology/state> <http://dbpedia.org/resource/Alaska> .
+<http://dbpedia.org/resource/Yukon_River> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Yukon_River> <http://dbpedia.org/ontology/thumbnail> <http://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Dawson_City_Lookout_Yukon_River_3264px.jpg/200px-Dawson_City_Lookout_Yukon_River_3264px.jpg> .
+<http://dbpedia.org/resource/Yukon_River> <http://dbpedia.org/ontology/mouthMountain> <http://dbpedia.org/resource/Wade_Hampton_Census_Area,_Alaska> .
+<http://dbpedia.org/resource/Yukon_River> <http://dbpedia.org/ontology/riverMouth> <http://dbpedia.org/resource/Bering_Sea> .

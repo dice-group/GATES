@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Poland> <http://dbpedia.org/ontology/capital> <http://dbpedia.org/resource/Warsaw> .
+<http://dbpedia.org/resource/Poland> <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/Polish_z%C5%82oty> .
+<http://dbpedia.org/resource/Poland> <http://dbpedia.org/property/leaderName> <http://dbpedia.org/resource/Donald_Tusk> .
+<http://dbpedia.org/resource/Poland> <http://dbpedia.org/ontology/language> <http://dbpedia.org/resource/Polish_language> .
+<http://dbpedia.org/resource/Poland> <http://dbpedia.org/property/legislature> <http://dbpedia.org/resource/National_Assembly_of_the_Republic_of_Poland> .

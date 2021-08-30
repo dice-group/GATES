@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/England> <http://dbpedia.org/property/capital> <http://dbpedia.org/resource/London> .
+<http://dbpedia.org/resource/England> <http://dbpedia.org/property/callingCode> <http://dbpedia.org/resource/Telephone_numbers_in_the_United_Kingdom> .
+<http://dbpedia.org/resource/England> <http://dbpedia.org/property/currency> <http://dbpedia.org/resource/Pound_sterling> .
+<http://dbpedia.org/resource/England> <http://dbpedia.org/property/legislature> <http://dbpedia.org/resource/Parliament_of_the_United_Kingdom> .
+<http://dbpedia.org/resource/England> <http://dbpedia.org/ontology/language> <http://dbpedia.org/resource/Cornish_language> .

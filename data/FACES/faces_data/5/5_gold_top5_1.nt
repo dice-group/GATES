@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Richard_Mentor_Johnson> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Kentucky> .
+<http://dbpedia.org/resource/Richard_Mentor_Johnson> <http://dbpedia.org/ontology/battle> <http://dbpedia.org/resource/War_of_1812> .
+<http://dbpedia.org/resource/Richard_Mentor_Johnson> <http://dbpedia.org/ontology/militaryRank> <http://dbpedia.org/resource/Colonel_(United_States)> .
+<http://dbpedia.org/resource/Richard_Mentor_Johnson> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Richard_Mentor_Johnson> .
+<http://dbpedia.org/resource/Richard_Mentor_Johnson> <http://dbpedia.org/ontology/militaryBranch> <http://dbpedia.org/resource/United_States_Army> .

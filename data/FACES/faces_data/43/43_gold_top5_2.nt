@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Love_Me_(Justin_Bieber_song)> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Love_Me_(Justin_Bieber_song)> .
+<http://dbpedia.org/resource/Love_Me_(Justin_Bieber_song)> <http://dbpedia.org/property/label> <http://dbpedia.org/resource/RBMG> .
+<http://dbpedia.org/resource/Love_Me_(Justin_Bieber_song)> <http://dbpedia.org/property/artist> <http://dbpedia.org/resource/Justin_Bieber> .
+<http://dbpedia.org/resource/Love_Me_(Justin_Bieber_song)> <http://dbpedia.org/ontology/type> <http://dbpedia.org/resource/Promotional_recording> .
+<http://dbpedia.org/resource/Love_Me_(Justin_Bieber_song)> <http://dbpedia.org/property/genre> <http://dbpedia.org/resource/Electropop> .

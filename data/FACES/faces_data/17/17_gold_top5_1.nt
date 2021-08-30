@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Manchester_City_F.C.> <http://dbpedia.org/ontology/ground> <http://dbpedia.org/resource/City_of_Manchester_Stadium> .
+<http://dbpedia.org/resource/Manchester_City_F.C.> <http://dbpedia.org/ontology/ceo> <http://dbpedia.org/resource/Ferran_Soriano> .
+<http://dbpedia.org/resource/Manchester_City_F.C.> <http://dbpedia.org/ontology/league> <http://dbpedia.org/resource/Premier_League> .
+<http://dbpedia.org/resource/Manchester_City_F.C.> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Manchester_City_F.C.> .
+<http://dbpedia.org/resource/Manchester_City_F.C.> <http://dbpedia.org/ontology/manager> <http://dbpedia.org/resource/Roberto_Mancini> .

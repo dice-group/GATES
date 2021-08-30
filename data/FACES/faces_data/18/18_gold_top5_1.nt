@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/The_Cosby_Show> <http://dbpedia.org/property/company> <http://dbpedia.org/resource/Carsey-Werner_Productions> .
+<http://dbpedia.org/resource/The_Cosby_Show> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Sitcom> .
+<http://dbpedia.org/resource/The_Cosby_Show> <http://dbpedia.org/property/creator> <http://dbpedia.org/resource/Bill_Cosby> .
+<http://dbpedia.org/resource/The_Cosby_Show> <http://xmlns.com/foaf/0.1/homepage> <http://www.billcosby.com/> .
+<http://dbpedia.org/resource/The_Cosby_Show> <http://dbpedia.org/ontology/composer> <http://dbpedia.org/resource/Bill_Cosby> .

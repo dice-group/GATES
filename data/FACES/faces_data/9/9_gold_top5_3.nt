@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Edward_Teller> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Hungary> .
+<http://dbpedia.org/resource/Edward_Teller> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Hydrogen_bomb> .
+<http://dbpedia.org/resource/Edward_Teller> <http://dbpedia.org/ontology/almaMater> <http://dbpedia.org/resource/University_of_Leipzig> .
+<http://dbpedia.org/resource/Edward_Teller> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Physics> .
+<http://dbpedia.org/resource/Edward_Teller> <http://dbpedia.org/ontology/almaMater> <http://dbpedia.org/resource/University_of_Karlsruhe> .

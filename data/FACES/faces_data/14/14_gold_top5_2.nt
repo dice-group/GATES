@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Henry_IV_of_France> <http://dbpedia.org/property/title> <http://dbpedia.org/resource/Viscounts_of_B%C3%A9arn> .
+<http://dbpedia.org/resource/Henry_IV_of_France> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Henry_IV_of_France> .
+<http://dbpedia.org/resource/Henry_IV_of_France> <http://dbpedia.org/ontology/spouse> <http://dbpedia.org/resource/Margaret_of_Valois> .
+<http://dbpedia.org/resource/Henry_IV_of_France> <http://dbpedia.org/property/after> <http://dbpedia.org/resource/Louis_XIII_of_France> .
+<http://dbpedia.org/resource/Henry_IV_of_France> <http://dbpedia.org/property/before> <http://dbpedia.org/resource/Jeanne_d'Albret> .

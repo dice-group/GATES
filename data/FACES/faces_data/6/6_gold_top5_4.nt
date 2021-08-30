@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Family_Feud> <http://dbpedia.org/property/title> <http://dbpedia.org/resource/Daytime_Emmy_Award_for_Outstanding_Game/Audience_Participation_Show> .
+<http://dbpedia.org/resource/Family_Feud> <http://dbpedia.org/ontology/company> <http://dbpedia.org/resource/FremantleMedia> .
+<http://dbpedia.org/resource/Family_Feud> <http://dbpedia.org/property/director> <http://dbpedia.org/resource/Paul_Alter> .
+<http://dbpedia.org/resource/Family_Feud> <http://dbpedia.org/ontology/composer> <http://dbpedia.org/resource/Score_Productions> .
+<http://dbpedia.org/resource/Family_Feud> <http://dbpedia.org/ontology/distributor> <http://dbpedia.org/resource/Debmar-Mercury> .

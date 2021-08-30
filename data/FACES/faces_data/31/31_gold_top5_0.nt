@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Alan_Turing> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Turing_Award> .
+<http://dbpedia.org/resource/Alan_Turing> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Mathematics> .
+<http://dbpedia.org/resource/Alan_Turing> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Order_of_the_British_Empire> .
+<http://dbpedia.org/resource/Alan_Turing> <http://dbpedia.org/ontology/almaMater> <http://dbpedia.org/resource/Princeton_University> .
+<http://dbpedia.org/resource/Alan_Turing> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Halting_problem> .

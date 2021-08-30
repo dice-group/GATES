@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Charles_Darwin> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Evolution> .
+<http://dbpedia.org/resource/Charles_Darwin> <http://dbpedia.org/property/workplaces> <http://dbpedia.org/resource/University_of_Cambridge> .
+<http://dbpedia.org/resource/Charles_Darwin> <http://dbpedia.org/ontology/citizenship> <http://dbpedia.org/resource/British_Citizenship> .
+<http://dbpedia.org/resource/Charles_Darwin> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Royal_Medal> .
+<http://dbpedia.org/resource/Charles_Darwin> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Natural_history> .

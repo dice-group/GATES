@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Baywatch> <http://dbpedia.org/property/network> <http://dbpedia.org/resource/Broadcast_syndication> .
+<http://dbpedia.org/resource/Baywatch> <http://dbpedia.org/ontology/thumbnail> <http://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Baywatch_logo.jpg/200px-Baywatch_logo.jpg> .
+<http://dbpedia.org/resource/Baywatch> <http://dbpedia.org/property/website> <http://www.baywatch.com> .
+<http://dbpedia.org/resource/Baywatch> <http://xmlns.com/foaf/0.1/homepage> <http://www.baywatch.com> .
+<http://dbpedia.org/resource/Baywatch> <http://dbpedia.org/ontology/network> <http://dbpedia.org/resource/NBC> .

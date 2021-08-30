@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Charles_Darwin> <http://xmlns.com/foaf/0.1/depiction> <http://upload.wikimedia.org/wikipedia/commons/2/2e/Charles_Darwin_seated_crop.jpg> .
+<http://dbpedia.org/resource/Charles_Darwin> <http://dbpedia.org/property/knownFor> <http://dbpedia.org/resource/Natural_selection> .
+<http://dbpedia.org/resource/Charles_Darwin> <http://dbpedia.org/property/birthPlace> <http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland> .
+<http://dbpedia.org/resource/Charles_Darwin> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Evolution> .
+<http://dbpedia.org/resource/Charles_Darwin> <http://dbpedia.org/ontology/spouse> <http://dbpedia.org/resource/Emma_Darwin> .

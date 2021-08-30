@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Manchester_City_F.C.> <http://dbpedia.org/ontology/chairman> <http://dbpedia.org/resource/Khaldoon_Al_Mubarak> .
+<http://dbpedia.org/resource/Manchester_City_F.C.> <http://dbpedia.org/property/ceo> <http://dbpedia.org/resource/Ferran_Soriano> .
+<http://dbpedia.org/resource/Manchester_City_F.C.> <http://dbpedia.org/ontology/league> <http://dbpedia.org/resource/Premier_League> .
+<http://dbpedia.org/resource/Manchester_City_F.C.> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Manchester_City_F.C.> .
+<http://dbpedia.org/resource/Manchester_City_F.C.> <http://xmlns.com/foaf/0.1/homepage> <http://www.mcfc.co.uk/> .
