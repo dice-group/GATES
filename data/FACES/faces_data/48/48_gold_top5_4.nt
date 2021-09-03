@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Mike_Turner> <http://dbpedia.org/property/religion> <http://dbpedia.org/resource/Presbyterian> .
+<http://dbpedia.org/resource/Mike_Turner> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/Republican_Party_(United_States)> .
+<http://dbpedia.org/resource/Mike_Turner> <http://dbpedia.org/property/birthPlace> <http://dbpedia.org/resource/Dayton,_Ohio> .
+<http://dbpedia.org/resource/Mike_Turner> <http://dbpedia.org/property/state> <http://dbpedia.org/resource/Ohio> .
+<http://dbpedia.org/resource/Mike_Turner> <http://dbpedia.org/property/title> <http://dbpedia.org/resource/Mayor_of_Dayton,_Ohio> .

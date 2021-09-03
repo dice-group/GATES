@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Marie_Curie> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Marie_Curie> .
+<http://dbpedia.org/resource/Marie_Curie> <http://dbpedia.org/property/field> <http://dbpedia.org/resource/Chemistry> .
+<http://dbpedia.org/resource/Marie_Curie> <http://dbpedia.org/property/knownFor> <http://dbpedia.org/resource/Radium> .
+<http://dbpedia.org/resource/Marie_Curie> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Polonium> .
+<http://dbpedia.org/resource/Marie_Curie> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Physics> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Lexus> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Lexus> .
+<http://dbpedia.org/resource/Lexus> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Nagoya> .
+<http://dbpedia.org/resource/Lexus> <http://dbpedia.org/ontology/owner> <http://dbpedia.org/resource/Toyota> .
+<http://dbpedia.org/resource/Lexus> <http://dbpedia.org/property/industry> <http://dbpedia.org/resource/Automotive_industry> .
+<http://dbpedia.org/resource/Lexus> <http://dbpedia.org/property/location> <http://dbpedia.org/resource/Japan> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Bruce_Lee> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Bruce_Lee> .
+<http://dbpedia.org/resource/Bruce_Lee> <http://dbpedia.org/ontology/parent> <http://dbpedia.org/resource/Lee_Hoi-chuen> .
+<http://dbpedia.org/resource/Bruce_Lee> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Chinese_martial_arts> .
+<http://dbpedia.org/resource/Bruce_Lee> <http://dbpedia.org/property/ancestry> <http://dbpedia.org/resource/Shunde_District> .
+<http://dbpedia.org/resource/Bruce_Lee> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Kung_Fu> .

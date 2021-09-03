@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Charles_Darwin> <http://dbpedia.org/property/citizenship> <http://dbpedia.org/resource/British_Citizenship> .
+<http://dbpedia.org/resource/Charles_Darwin> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Charles_Darwin> .
+<http://dbpedia.org/resource/Charles_Darwin> <http://dbpedia.org/property/workplaces> <http://dbpedia.org/resource/Geological_Society_of_London> .
+<http://dbpedia.org/resource/Charles_Darwin> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/The_Mount,_Shrewsbury> .
+<http://dbpedia.org/resource/Charles_Darwin> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Natural_history> .

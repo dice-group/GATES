@@ -1,0 +1,31 @@
+Argo(2012film)	director	BenAffleck	Ben Affleck	resource
+Argo(2012film)	cinematography	RodrigoPrieto	Rodrigo Prieto	resource
+Argo(2012film)	starring	JohnGoodman	John Goodman	resource
+Argo(2012film)	wasDerivedFrom	Argo(2012film)?oldid=548580418	Argo_(2012_film)?oldid=548580418	resource
+Argo(2012film)	director	BenAffleck	Ben Affleck	resource
+Argo(2012film)	producer	GrantHeslov	Grant Heslov	resource
+Argo(2012film)	writer	ChrisTerrio	Chris Terrio	resource
+Argo(2012film)	thumbnail	200pxArgo2012Poster.jpg	200px-Argo2012Poster.jpg	resource
+Argo(2012film)	starring	AlanArkin	Alan Arkin	resource
+Argo(2012film)	studio	GrahamKing	Graham King	resource
+Argo(2012film)	musicComposer	AlexandreDesplat	Alexandre Desplat	resource
+Argo(2012film)	producer	GeorgeClooney	George Clooney	resource
+Argo(2012film)	studio	SmokehousePictures	Smokehouse Pictures	resource
+Argo(2012film)	cinematography	RodrigoPrieto	Rodrigo Prieto	resource
+Argo(2012film)	starring	AlanArkin	Alan Arkin	resource
+Argo(2012film)	producer	GeorgeClooney	George Clooney	resource
+Argo(2012film)	music	AlexandreDesplat	Alexandre Desplat	resource
+Argo(2012film)	depiction	Argo2012Poster.jpg	Argo2012Poster.jpg	resource
+Argo(2012film)	producer	BenAffleck	Ben Affleck	resource
+Argo(2012film)	producer	GrantHeslov	Grant Heslov	resource
+Argo(2012film)	distributor	WarnerBros.	Warner Bros.	resource
+Argo(2012film)	distributor	WarnerBros.	Warner Bros.	resource
+Argo(2012film)	hasPhotoCollection	Argo(2012film)	Argo_(2012_film)	resource
+Argo(2012film)	editing	WilliamGoldenberg	William Goldenberg	resource
+Argo(2012film)	starring	BryanCranston	Bryan Cranston	resource
+Argo(2012film)	starring	BenAffleck	Ben Affleck	resource
+Argo(2012film)	starring	BryanCranston	Bryan Cranston	resource
+Argo(2012film)	starring	JohnGoodman	John Goodman	resource
+Argo(2012film)	editing	WilliamGoldenberg	William Goldenberg	resource
+Argo(2012film)	isPrimaryTopicOf	Argo(2012film)	Argo_(2012_film)	resource
+Argo(2012film)	screenplay	ChrisTerrio	Chris Terrio	resource

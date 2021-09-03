@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Walt_Disney> <http://dbpedia.org/ontology/hometown> <http://dbpedia.org/resource/Chicago> .
+<http://dbpedia.org/resource/Walt_Disney> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/The_Walt_Disney_Company> .
+<http://dbpedia.org/resource/Walt_Disney> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Academy_Award> .
+<http://dbpedia.org/resource/Walt_Disney> <http://dbpedia.org/property/title> <http://dbpedia.org/resource/Mickey_Mouse> .
+<http://dbpedia.org/resource/Walt_Disney> <http://dbpedia.org/property/boards> <http://dbpedia.org/resource/The_Walt_Disney_Company> .

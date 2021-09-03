@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Friedrich_Engel_(mathematician)> <http://dbpedia.org/property/almaMater> <http://dbpedia.org/resource/Humboldt_University_of_Berlin> .
+<http://dbpedia.org/resource/Friedrich_Engel_(mathematician)> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Friedrich_Engel_(mathematician)> .
+<http://dbpedia.org/resource/Friedrich_Engel_(mathematician)> <http://dbpedia.org/ontology/almaMater> <http://dbpedia.org/resource/University_of_Berlin> .
+<http://dbpedia.org/resource/Friedrich_Engel_(mathematician)> <http://dbpedia.org/ontology/doctoralAdvisor> <http://dbpedia.org/resource/Felix_Klein> .
+<http://dbpedia.org/resource/Friedrich_Engel_(mathematician)> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Germany> .

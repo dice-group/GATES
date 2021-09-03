@@ -1,0 +1,26 @@
+CandleintheWind	recordedIn	TridentStudios	Trident Studios	resource
+CandleintheWind	isPrimaryTopicOf	CandleintheWind	Candle_in_the_Wind	resource
+CandleintheWind	musicalArtist	EltonJohn	Elton John	resource
+CandleintheWind	previousWork	StepintoChristmas	Step into Christmas	resource
+CandleintheWind	genre	Glamrock	Glam rock	resource
+CandleintheWind	thumbnail	200pxEltonJohnCandleintheWind(1986).jpg	200px-Elton_John_-_Candle_in_the_Wind_(1986).jpg	resource
+CandleintheWind	label	MCARecords	MCA Records	resource
+CandleintheWind	artist	EltonJohn	Elton John	resource
+CandleintheWind	label	DJMRecords	DJM Records	resource
+CandleintheWind	format	Gramophonerecord	Gramophone record	resource
+CandleintheWind	genre	Glamrock	Glam rock	resource
+CandleintheWind	genre	Poprock	Pop rock	resource
+CandleintheWind	writer	EltonJohn	Elton John	resource
+CandleintheWind	writer	EltonJohn	Elton John	resource
+CandleintheWind	depiction	EltonJohnCandleintheWind(1986).jpg	Elton_John_-_Candle_in_the_Wind_(1986).jpg	resource
+CandleintheWind	subsequentWork	BennieandtheJets	Bennie and the Jets	resource
+CandleintheWind	writer	BernieTaupin	Bernie Taupin	resource
+CandleintheWind	hasPhotoCollection	CandleintheWind	Candle_in_the_Wind	resource
+CandleintheWind	fromAlbum	GoodbyeYellowBrickRoad	Goodbye Yellow Brick Road	resource
+CandleintheWind	recordLabel	MCARecords	MCA Records	resource
+CandleintheWind	writer	BernieTaupin	Bernie Taupin	resource
+CandleintheWind	musicalBand	EltonJohn	Elton John	resource
+CandleintheWind	recordLabel	DJMRecords	DJM Records	resource
+CandleintheWind	genre	Poprock	Pop rock	resource
+CandleintheWind	wasDerivedFrom	CandleintheWind?oldid=548314767	Candle_in_the_Wind?oldid=548314767	resource
+CandleintheWind	format	Gramophonerecord	Gramophone record	resource

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Henry_IV_of_France> <http://dbpedia.org/property/after> <http://dbpedia.org/resource/Louis_XIII_of_France> .
+<http://dbpedia.org/resource/Henry_IV_of_France> <http://dbpedia.org/property/before> <http://dbpedia.org/resource/Jeanne_d'Albret> .
+<http://dbpedia.org/resource/Henry_IV_of_France> <http://dbpedia.org/property/birthPlace> <http://dbpedia.org/resource/Kingdom_of_Navarre> .
+<http://dbpedia.org/resource/Henry_IV_of_France> <http://dbpedia.org/property/religion> <http://dbpedia.org/resource/Roman_Catholicism> .
+<http://dbpedia.org/resource/Henry_IV_of_France> <http://dbpedia.org/property/father> <http://dbpedia.org/resource/Antoine_of_Navarre> .

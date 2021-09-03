@@ -1,0 +1,39 @@
+BillGates	residence	Washington(state)	Washington (state)	resource
+BillGates	spouse	MelindaGates	Melinda Gates	resource
+BillGates	parents	MaryMaxwellGates	Mary Maxwell Gates	resource
+BillGates	thumbnail	200pxBillGates2012.jpg	200px-BillGates2012.jpg	resource
+BillGates	occupation	BillGates3	Bill_Gates__3	resource
+BillGates	hasPhotoCollection	BillGates	Bill_Gates	resource
+BillGates	depiction	BillGates2012.jpg	BillGates2012.jpg	resource
+BillGates	religion	Agnostic	Agnostic	resource
+BillGates	placeOfBirth	Washington(state)	Washington (state)	resource
+BillGates	placeOfBirth	Seattle	Seattle	resource
+BillGates	boards	BerkshireHathaway	Berkshire Hathaway	resource
+BillGates	parent	MaryMaxwellGates	Mary Maxwell Gates	resource
+BillGates	occupation	BillGates4	Bill_Gates__4	resource
+BillGates	after	CarlosSlim	Carlos Slim	resource
+BillGates	almaMater	HarvardUniversity	Harvard University	resource
+BillGates	parent	WilliamH.Gates,Sr.	William H. Gates, Sr.	resource
+BillGates	isPrimaryTopicOf	BillGates	Bill_Gates	resource
+BillGates	placeOfBirth	UnitedStates	United States	resource
+BillGates	occupation	CascadeInvestment	Cascade Investment	resource
+BillGates	birthPlace	Seattle	Seattle	resource
+BillGates	birthPlace	Washington(state)	Washington (state)	resource
+BillGates	occupation	Corbis	Corbis	resource
+BillGates	title	Forbeslistofbillionaires	Forbes list of billionaires	resource
+BillGates	before	WarrenBuffett	Warren Buffett	resource
+BillGates	occupation	Bill&MelindaGatesFoundation	Bill & Melinda Gates Foundation	resource
+BillGates	religion	Agnostic	Agnostic	resource
+BillGates	birthPlace	UnitedStates	United States	resource
+BillGates	title	Listofbillionaires	List of billionaires	resource
+BillGates	religion	Agnosticism	Agnosticism	resource
+BillGates	occupation	Microsoft	Microsoft	resource
+BillGates	board	BerkshireHathaway	Berkshire Hathaway	resource
+BillGates	almaMater	HarvardUniversity	Harvard University	resource
+BillGates	almaMater	Listofcollegedropoutbillionaires	List_of_college_dropout_billionaires	resource
+BillGates	parents	WilliamH.Gates,Sr.	William H. Gates, Sr.	resource
+BillGates	religion	Agnosticism	Agnosticism	resource
+BillGates	residence	Medina,Washington	Medina, Washington	resource
+BillGates	occupation	BillGates1	Bill_Gates__1	resource
+BillGates	occupation	BillGates2	Bill_Gates__2	resource
+BillGates	wasDerivedFrom	BillGates?oldid=548580337	Bill_Gates?oldid=548580337	resource

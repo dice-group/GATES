@@ -1,0 +1,38 @@
+Aladdin(1992Disneyfilm)	starring	JonathanFreeman(actor)	Jonathan Freeman (actor)	resource
+Aladdin(1992Disneyfilm)	depiction	Aladdinposter.jpg	Aladdinposter.jpg	resource
+Aladdin(1992Disneyfilm)	starring	ScottWeinger	Scott Weinger	resource
+Aladdin(1992Disneyfilm)	title	AcademyAwardforBestOriginalSong	Academy Award for Best Original Song	resource
+Aladdin(1992Disneyfilm)	starring	LindaLarkin	Linda Larkin	resource
+Aladdin(1992Disneyfilm)	director	RonClements	Ron Clements	resource
+Aladdin(1992Disneyfilm)	director	JohnMusker	John Musker	resource
+Aladdin(1992Disneyfilm)	writer	TedElliott	Ted Elliott	resource
+Aladdin(1992Disneyfilm)	producer	JohnMusker	John Musker	resource
+Aladdin(1992Disneyfilm)	starring	GilbertGottfried	Gilbert Gottfried	resource
+Aladdin(1992Disneyfilm)	narrator	RobinWilliams	Robin Williams	resource
+Aladdin(1992Disneyfilm)	hasPhotoCollection	Aladdin(1992Disneyfilm)	Aladdin_(1992_Disney_film)	resource
+Aladdin(1992Disneyfilm)	narrator	RobinWilliams	Robin Williams	resource
+Aladdin(1992Disneyfilm)	starring	ScottWeinger	Scott Weinger	resource
+Aladdin(1992Disneyfilm)	starring	DouglasSeale	Douglas Seale	resource
+Aladdin(1992Disneyfilm)	music	AlanMenken	Alan Menken	resource
+Aladdin(1992Disneyfilm)	writer	TedElliott	Ted Elliott	resource
+Aladdin(1992Disneyfilm)	starring	FrankWelker	Frank Welker	resource
+Aladdin(1992Disneyfilm)	musicComposer	AlanMenken	Alan Menken	resource
+Aladdin(1992Disneyfilm)	distributor	WaltDisneyPictures	Walt Disney Pictures	resource
+Aladdin(1992Disneyfilm)	starring	GilbertGottfried	Gilbert Gottfried	resource
+Aladdin(1992Disneyfilm)	studio	WaltDisneyAnimationStudios	Walt Disney Animation Studios	resource
+Aladdin(1992Disneyfilm)	starring	FrankWelker	Frank Welker	resource
+Aladdin(1992Disneyfilm)	writer	TerryRossio	Terry Rossio	resource
+Aladdin(1992Disneyfilm)	starring	DouglasSeale	Douglas Seale	resource
+Aladdin(1992Disneyfilm)	starring	LindaLarkin	Linda Larkin	resource
+Aladdin(1992Disneyfilm)	producer	RonClements	Ron Clements	resource
+Aladdin(1992Disneyfilm)	director	RonClements	Ron Clements	resource
+Aladdin(1992Disneyfilm)	isPrimaryTopicOf	Aladdin(1992Disneyfilm)	Aladdin_(1992_Disney_film)	resource
+Aladdin(1992Disneyfilm)	starring	RobinWilliams	Robin Williams	resource
+Aladdin(1992Disneyfilm)	distributor	WaltDisneyPictures	Walt Disney Pictures	resource
+Aladdin(1992Disneyfilm)	writer	TerryRossio	Terry Rossio	resource
+Aladdin(1992Disneyfilm)	starring	JonathanFreeman(actor)	Jonathan Freeman (actor)	resource
+Aladdin(1992Disneyfilm)	director	JohnMusker	John Musker	resource
+Aladdin(1992Disneyfilm)	thumbnail	200pxAladdinposter.jpg	200px-Aladdinposter.jpg	resource
+Aladdin(1992Disneyfilm)	wasDerivedFrom	Aladdin(1992Disneyfilm)?oldid=548592936	Aladdin_(1992_Disney_film)?oldid=548592936	resource
+Aladdin(1992Disneyfilm)	writer	JohnMusker	John Musker	resource
+Aladdin(1992Disneyfilm)	writer	RonClements	Ron Clements	resource

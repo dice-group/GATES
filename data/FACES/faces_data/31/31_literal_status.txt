@@ -1,0 +1,52 @@
+AlanTuring	knownFor	Turingpattern	Turing pattern	resource
+AlanTuring	almaMater	King'sCollege,Cambridge	King's College, Cambridge	resource
+AlanTuring	depiction	AlanTuringphoto.jpg	Alan_Turing_photo.jpg	resource
+AlanTuring	knownFor	TheChemicalBasisofMorphogenesis	The Chemical Basis of Morphogenesis	resource
+AlanTuring	hasPhotoCollection	AlanTuring	Alan_Turing	resource
+AlanTuring	birthPlace	MaidaVale	Maida Vale	resource
+AlanTuring	doctoralStudent	RobinGandy	Robin Gandy	resource
+AlanTuring	doctoralAdvisor	AlonzoChurch	Alonzo Church	resource
+AlanTuring	field	Cryptanalysis	Cryptanalysis	resource
+AlanTuring	prizes	FellowoftheRoyalSociety	Fellow of the Royal Society	resource
+AlanTuring	isPrimaryTopicOf	AlanTuring	Alan_Turing	resource
+AlanTuring	doctoralStudents	RobinGandy	Robin Gandy	resource
+AlanTuring	knownFor	Haltingproblem	Halting problem	resource
+AlanTuring	award	FellowoftheRoyalSociety	Fellow of the Royal Society	resource
+AlanTuring	workInstitutions	NationalPhysicalLaboratory,UK	National Physical Laboratory, UK	resource
+AlanTuring	knownFor	CryptanalysisoftheEnigma	Cryptanalysis of the Enigma	resource
+AlanTuring	almaMater	King'sCollege,Cambridge	King's College, Cambridge	resource
+AlanTuring	knownFor	AutomaticComputingEngine	Automatic Computing Engine	resource
+AlanTuring	knownFor	Turingtest	Turing test	resource
+AlanTuring	prizes	OfficeroftheOrderoftheBritishEmpire	Officer of the Order of the British Empire	resource
+AlanTuring	deathPlace	Manchester	Manchester	resource
+AlanTuring	award	OrderoftheBritishEmpire	Order of the British Empire	resource
+AlanTuring	knownFor	CryptanalysisoftheEnigma	Cryptanalysis of the Enigma	resource
+AlanTuring	prizes	RoyalSociety	Royal Society	resource
+AlanTuring	field	Computerscience	Computer science	resource
+AlanTuring	workInstitutions	UniversityofManchester	University of Manchester	resource
+AlanTuring	workInstitutions	GovernmentCommunicationsHeadquarters	Government Communications Headquarters	resource
+AlanTuring	field	Mathematics	Mathematics	resource
+AlanTuring	workInstitutions	UniversityofCambridge	University of Cambridge	resource
+AlanTuring	wasDerivedFrom	AlanTuring?oldid=548596608	Alan_Turing?oldid=548596608	resource
+AlanTuring	almaMater	PrincetonUniversity	Princeton University	resource
+AlanTuring	doctoralAdvisor	AlonzoChurch	Alonzo Church	resource
+AlanTuring	field	Mathematics	Mathematics	resource
+AlanTuring	birthPlace	Paddington	Paddington	resource
+AlanTuring	knownFor	Turingmachine	Turing machine	resource
+AlanTuring	workInstitutions	GovernmentCodeandCypherSchool	Government Code and Cypher School	resource
+AlanTuring	almaMater	PrincetonUniversity	Princeton University	resource
+AlanTuring	field	Cryptanalysis	Cryptanalysis	resource
+AlanTuring	workInstitutions	NationalPhysicalLaboratory(UnitedKingdom)	National Physical Laboratory (United Kingdom)	resource
+AlanTuring	knownFor	Turingtest	Turing test	resource
+AlanTuring	knownFor	Turingmachine	Turing machine	resource
+AlanTuring	thesisUrl	301792588	301792588	resource
+AlanTuring	knownFor	TuringAward	Turing Award	resource
+AlanTuring	thumbnail	200pxAlanTuringphoto.jpg	200px-Alan_Turing_photo.jpg	resource
+AlanTuring	field	Computerscience	Computer science	resource
+AlanTuring	knownFor	TuringAward	Turing Award	resource
+AlanTuring	prizes	OrderoftheBritishEmpire	Order of the British Empire	resource
+AlanTuring	award	OfficeroftheOrderoftheBritishEmpire	Officer of the Order of the British Empire	resource
+AlanTuring	knownFor	AutomaticComputingEngine	Automatic Computing Engine	resource
+AlanTuring	award	RoyalSociety	Royal Society	resource
+AlanTuring	knownFor	Haltingproblem	Halting problem	resource
+AlanTuring	deathPlace	Wilmslow	Wilmslow	resource

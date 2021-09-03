@@ -1,0 +1,34 @@
+NeverLetYouGo(JustinBiebersong)	hasPhotoCollection	NeverLetYouGo(JustinBiebersong)	Never_Let_You_Go_(Justin_Bieber_song)	resource
+NeverLetYouGo(JustinBiebersong)	writer	BryanMichaelCox	Bryan-Michael Cox	resource
+NeverLetYouGo(JustinBiebersong)	album	MyWorld2.0	My World 2.0	resource
+NeverLetYouGo(JustinBiebersong)	album	MyWorld2.0	My World 2.0	resource
+NeverLetYouGo(JustinBiebersong)	producer	Johnt%C3%A1Austin	Johnt%C3%A1_Austin	resource
+NeverLetYouGo(JustinBiebersong)	writer	JustinBieber	Justin Bieber	resource
+NeverLetYouGo(JustinBiebersong)	depiction	Neverletyougocover.jpg	Neverletyougocover.jpg	resource
+NeverLetYouGo(JustinBiebersong)	format	Ogg	Ogg	resource
+NeverLetYouGo(JustinBiebersong)	writer	Johnt%C3%A1Austin	Johnt%C3%A1_Austin	resource
+NeverLetYouGo(JustinBiebersong)	artist	JustinBieber	Justin Bieber	resource
+NeverLetYouGo(JustinBiebersong)	genre	Teenpop	Teen pop	resource
+NeverLetYouGo(JustinBiebersong)	previousWork	RunawayLove(JustinBiebersong)	Runaway Love (Justin Bieber song)	resource
+NeverLetYouGo(JustinBiebersong)	genre	ContemporaryR&B	Contemporary R&B	resource
+NeverLetYouGo(JustinBiebersong)	writer	Johnt%C3%A1Austin	Johnt%C3%A1_Austin	resource
+NeverLetYouGo(JustinBiebersong)	recordLabel	TeenIsland	Teen Island	resource
+NeverLetYouGo(JustinBiebersong)	recordedIn	Atlanta	Atlanta	resource
+NeverLetYouGo(JustinBiebersong)	format	Musicdownload	Music download	resource
+NeverLetYouGo(JustinBiebersong)	type	Promotionalrecording	Promotional recording	resource
+NeverLetYouGo(JustinBiebersong)	writer	JustinBieber	Justin Bieber	resource
+NeverLetYouGo(JustinBiebersong)	recordLabel	IslandRecords	Island Records	resource
+NeverLetYouGo(JustinBiebersong)	wasDerivedFrom	NeverLetYouGo(JustinBiebersong)?oldid=546879486	Never_Let_You_Go_(Justin_Bieber_song)?oldid=546879486	resource
+NeverLetYouGo(JustinBiebersong)	thumbnail	200pxNeverletyougocover.jpg	200px-Neverletyougocover.jpg	resource
+NeverLetYouGo(JustinBiebersong)	homepage	www.justinbiebermusic.com	http://www.justinbiebermusic.com/	resource
+NeverLetYouGo(JustinBiebersong)	producer	BryanMichaelCox	Bryan-Michael Cox	resource
+NeverLetYouGo(JustinBiebersong)	artist	JustinBieber	Justin Bieber	resource
+NeverLetYouGo(JustinBiebersong)	isPrimaryTopicOf	NeverLetYouGo(JustinBiebersong)	Never_Let_You_Go_(Justin_Bieber_song)	resource
+NeverLetYouGo(JustinBiebersong)	genre	ContemporaryR&B	Contemporary R&B	resource
+NeverLetYouGo(JustinBiebersong)	label	TeenIsland	Teen Island	resource
+NeverLetYouGo(JustinBiebersong)	genre	Teenpop	Teen pop	resource
+NeverLetYouGo(JustinBiebersong)	writer	BryanMichaelCox	Bryan-Michael Cox	resource
+NeverLetYouGo(JustinBiebersong)	recordedIn	Atlanta,Georgia	Atlanta, Georgia	resource
+NeverLetYouGo(JustinBiebersong)	type	Promotionalrecording	Promotional recording	resource
+NeverLetYouGo(JustinBiebersong)	subsequentWork	Overboard(song)	Overboard_(song)	resource
+NeverLetYouGo(JustinBiebersong)	label	IslandRecords	Island Records	resource

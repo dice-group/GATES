@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Norway> <http://dbpedia.org/property/capital> <http://dbpedia.org/resource/Oslo> .
+<http://dbpedia.org/resource/Norway> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Norway> .
+<http://dbpedia.org/resource/Norway> <http://dbpedia.org/ontology/thumbnail> <http://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/200px-Flag_of_Norway.svg.png> .
+<http://dbpedia.org/resource/Norway> <http://xmlns.com/foaf/0.1/homepage> <http://www.norway.no/> .
+<http://dbpedia.org/resource/Norway> <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/Norwegian_krone> .

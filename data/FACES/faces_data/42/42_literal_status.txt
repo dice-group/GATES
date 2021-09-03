@@ -1,0 +1,62 @@
+CharlesDarwin	award	WollastonMedal	Wollaston Medal	resource
+CharlesDarwin	influences	CharlesLyell	Charles Lyell	resource
+CharlesDarwin	influences	JohnHerschel	John Herschel	resource
+CharlesDarwin	influencedBy	AlexandervonHumboldt	Alexander von Humboldt	resource
+CharlesDarwin	influences	AlexandervonHumboldt	Alexander von Humboldt	resource
+CharlesDarwin	shortDescription	Naturalhistory	Natural history	resource
+CharlesDarwin	academicAdvisors	AdamSedgwick	Adam Sedgwick	resource
+CharlesDarwin	birthPlace	TheMount,Shrewsbury	The Mount, Shrewsbury	resource
+CharlesDarwin	citizenship	BritishCitizenship	British Citizenship	resource
+CharlesDarwin	knownFor	Naturalselection	Natural selection	resource
+CharlesDarwin	birthPlace	Shrewsbury	Shrewsbury	resource
+CharlesDarwin	influenced	GeorgeRomanes	George Romanes	resource
+CharlesDarwin	knownFor	TheVoyageoftheBeagle	The Voyage of the Beagle	resource
+CharlesDarwin	influencedBy	JohnHerschel	John Herschel	resource
+CharlesDarwin	influencedBy	CharlesLyell	Charles Lyell	resource
+CharlesDarwin	award	RoyalMedal	Royal Medal	resource
+CharlesDarwin	knownFor	Naturalselection	Natural selection	resource
+CharlesDarwin	influenced	ErnstHaeckel	Ernst Haeckel	resource
+CharlesDarwin	influenced	ThomasHenryHuxley	Thomas Henry Huxley	resource
+CharlesDarwin	awards	WollastonMedal	Wollaston Medal	resource
+CharlesDarwin	deathPlace	Kent	Kent	resource
+CharlesDarwin	nationality	UnitedKingdomofGreatBritainandIreland	United Kingdom of Great Britain and Ireland	resource
+CharlesDarwin	thumbnail	200pxCharlesDarwinseatedcrop.jpg	200px-Charles_Darwin_seated_crop.jpg	resource
+CharlesDarwin	academicAdvisors	JohnStevensHenslow	John Stevens Henslow	resource
+CharlesDarwin	citizenship	BritishCitizenship	British Citizenship	resource
+CharlesDarwin	academicAdvisor	AdamSedgwick	Adam Sedgwick	resource
+CharlesDarwin	influenced	JosephDaltonHooker	Joseph Dalton Hooker	resource
+CharlesDarwin	citizenship	Britishnationalitylaw	British nationality law	resource
+CharlesDarwin	workplaces	GeologicalSocietyofLondon	Geological Society of London	resource
+CharlesDarwin	knownFor	OntheOriginofSpecies	On the Origin of Species	resource
+CharlesDarwin	influenced	JohnLubbock,1stBaronAvebury	John Lubbock, 1st Baron Avebury	resource
+CharlesDarwin	award	CopleyMedal	Copley Medal	resource
+CharlesDarwin	knownFor	Commondescent	Common descent	resource
+CharlesDarwin	field	Naturalhistory	Natural history	resource
+CharlesDarwin	birthPlace	Shropshire	Shropshire	resource
+CharlesDarwin	influenced	GeorgeRomanes	George Romanes	resource
+CharlesDarwin	deathPlace	UnitedKingdomofGreatBritainandIreland	United Kingdom of Great Britain and Ireland	resource
+CharlesDarwin	birthPlace	UnitedKingdomofGreatBritainandIreland	United Kingdom of Great Britain and Ireland	resource
+CharlesDarwin	awards	RoyalMedal	Royal Medal	resource
+CharlesDarwin	spouse	EmmaDarwin	Emma Darwin	resource
+CharlesDarwin	birthPlace	UnitedKingdomofGreatBritainandIreland	United Kingdom of Great Britain and Ireland	resource
+CharlesDarwin	wasDerivedFrom	CharlesDarwin?oldid=547325692	Charles_Darwin?oldid=547325692	resource
+CharlesDarwin	deathPlace	Downe	Downe	resource
+CharlesDarwin	birthPlace	Shropshire	Shropshire	resource
+CharlesDarwin	knownFor	Commondescent	Common descent	resource
+CharlesDarwin	influenced	ThomasHenryHuxley	Thomas Henry Huxley	resource
+CharlesDarwin	hasPhotoCollection	CharlesDarwin	Charles_Darwin	resource
+CharlesDarwin	birthPlace	TheMount,Shrewsbury	The Mount, Shrewsbury	resource
+CharlesDarwin	awards	CopleyMedal	Copley Medal	resource
+CharlesDarwin	depiction	CharlesDarwinseatedcrop.jpg	Charles_Darwin_seated_crop.jpg	resource
+CharlesDarwin	influenced	JosephDaltonHooker	Joseph Dalton Hooker	resource
+CharlesDarwin	citizenship	Britishnationalitylaw	British nationality law	resource
+CharlesDarwin	deathPlace	DownHouse	Down House	resource
+CharlesDarwin	isPrimaryTopicOf	CharlesDarwin	Charles_Darwin	resource
+CharlesDarwin	knownFor	Evolution	Evolution	resource
+CharlesDarwin	academicAdvisor	JohnStevensHenslow	John Stevens Henslow	resource
+CharlesDarwin	spouse	EmmaDarwin	Emma Darwin	resource
+CharlesDarwin	nationality	UnitedKingdomofGreatBritainandIreland	United Kingdom of Great Britain and Ireland	resource
+CharlesDarwin	influenced	JohnLubbock,1stBaronAvebury	John Lubbock, 1st Baron Avebury	resource
+CharlesDarwin	fields	Naturalhistory	Natural history	resource
+CharlesDarwin	influenced	ErnstHaeckel	Ernst Haeckel	resource
+CharlesDarwin	workplaces	UniversityofCambridge	University of Cambridge	resource

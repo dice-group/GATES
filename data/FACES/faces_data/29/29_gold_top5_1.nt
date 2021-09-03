@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Friends> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Matthew_Perry> .
+<http://dbpedia.org/resource/Friends> <http://dbpedia.org/property/genre> <http://dbpedia.org/resource/Sitcom> .
+<http://dbpedia.org/resource/Friends> <http://dbpedia.org/property/company> <http://dbpedia.org/resource/Warner_Bros._Television> .
+<http://dbpedia.org/resource/Friends> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Jennifer_Aniston> .
+<http://dbpedia.org/resource/Friends> <http://dbpedia.org/property/creator> <http://dbpedia.org/resource/David_Crane_(producer)> .

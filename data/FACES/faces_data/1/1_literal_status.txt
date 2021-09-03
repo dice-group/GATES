@@ -1,0 +1,46 @@
+BarackObama	wasDerivedFrom	BarackObama?oldid=548538288	Barack_Obama?oldid=548538288	resource
+BarackObama	children	MaliaObama	Malia Obama	resource
+BarackObama	state	Illinois	Illinois	resource
+BarackObama	successor	RolandBurris	Roland Burris	resource
+BarackObama	almaMater	OccidentalCollege	Occidental College	resource
+BarackObama	residence	WhiteHouse	White House	resource
+BarackObama	profession	Communityorganizing	Community organizing	resource
+BarackObama	depiction	PresidentBarackObama.jpg	President_Barack_Obama.jpg	resource
+BarackObama	predecessor	GeorgeW.Bush	George W. Bush	resource
+BarackObama	child	SashaObama	Sasha Obama	resource
+BarackObama	residence	WhiteHouse	White House	resource
+BarackObama	spouse	MichelleObama	Michelle Obama	resource
+BarackObama	predecessor	PeterFitzgerald(politician)	Peter Fitzgerald (politician)	resource
+BarackObama	birthPlace	Hawaii	Hawaii	resource
+BarackObama	profession	Lawyer	Lawyer	resource
+BarackObama	predecessor	AlicePalmer(politician)	Alice Palmer (politician)	resource
+BarackObama	successor	KwameRaoul	Kwame Raoul	resource
+BarackObama	successor	KwameRaoul	Kwame Raoul	resource
+BarackObama	almaMater	ColumbiaUniversity	Columbia University	resource
+BarackObama	website	www.barackobama.com	www.barackobama.com	resource
+BarackObama	isPrimaryTopicOf	BarackObama	Barack_Obama	resource
+BarackObama	termPeriod	BarackObama2	Barack_Obama__2	resource
+BarackObama	office	IllinoisSenate	Illinois Senate	resource
+BarackObama	child	FamilyofBarackObama	Family of Barack Obama	resource
+BarackObama	vicePresident	JoeBiden	Joe Biden	resource
+BarackObama	children	FamilyofBarackObama	Family of Barack Obama	resource
+BarackObama	religion	Christian	Christian	resource
+BarackObama	almaMater	OccidentalCollege	Occidental College	resource
+BarackObama	spouse	MichelleObama	Michelle Obama	resource
+BarackObama	data	NobelPeacePrize	Nobel Peace Prize	resource
+BarackObama	birthPlace	Honolulu	Honolulu	resource
+BarackObama	vicepresident	JoeBiden	Joe Biden	resource
+BarackObama	religion	Christian	Christian	resource
+BarackObama	profession	Communityorganizing	Community organizing	resource
+BarackObama	successor	RolandBurris	Roland Burris	resource
+BarackObama	hasPhotoCollection	BarackObama	Barack_Obama	resource
+BarackObama	homepage	www.barackobama.com	www.barackobama.com	resource
+BarackObama	profession	Author	Author	resource
+BarackObama	child	MaliaObama	Malia Obama	resource
+BarackObama	thumbnail	200pxPresidentBarackObama.jpg	200px-President_Barack_Obama.jpg	resource
+BarackObama	almaMater	HarvardLawSchool	Harvard Law School	resource
+BarackObama	profession	Constitutionallaw	Constitutional law	resource
+BarackObama	party	DemocraticParty(UnitedStates)	Democratic Party (United States)	resource
+BarackObama	termPeriod	BarackObama1	Barack_Obama__1	resource
+BarackObama	party	DemocraticParty(UnitedStates)	Democratic Party (United States)	resource
+BarackObama	region	Illinois	Illinois	resource

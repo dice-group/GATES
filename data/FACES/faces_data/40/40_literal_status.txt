@@ -1,0 +1,40 @@
+Norway	isPrimaryTopicOf	Norway	Norway	resource
+Norway	currency	Norwegiankrone	Norwegian krone	resource
+Norway	leaderTitle	MonarchyofNorway	Monarchy of Norway	resource
+Norway	capital	Oslo	Oslo	resource
+Norway	leaderName	RedGreenCoalition	Red-Green Coalition	resource
+Norway	thumbnail	200pxFlagofNorway.svg.png	200px-Flag_of_Norway.svg.png	resource
+Norway	governmentType	Constitutionalmonarchy	Constitutional monarchy	resource
+Norway	leaderName	ToreSchei	Tore Schei	resource
+Norway	callingCode	TelephonenumbersinNorway	Telephone numbers in Norway	resource
+Norway	west	AtlanticOcean	Atlantic Ocean	resource
+Norway	north	BarentsSea	Barents Sea	resource
+Norway	establishedEvent	ConstitutionofNorway	Constitution of Norway	resource
+Norway	governmentType	Parliamentarysystem	Parliamentary system	resource
+Norway	establishedEvent	UnificationofNorway	Unification of Norway	resource
+Norway	leaderName	HaraldVofNorway	Harald V of Norway	resource
+Norway	leaderTitle	Norwegianparliamentaryelection,2009	Norwegian parliamentary election, 2009	resource
+Norway	northwest	NorwegianSea	Norwegian Sea	resource
+Norway	currency	Norwegiankrone	Norwegian krone	resource
+Norway	south	Skagerrak	Skagerrak	resource
+Norway	timeZone	CentralEuropeanTime	Central European Time	resource
+Norway	governmentType	Unitarystate	Unitary state	resource
+Norway	depiction	FlagofNorway.svg	Flag_of_Norway.svg	resource
+Norway	northeast	BarentsSea	Barents Sea	resource
+Norway	capital	Oslo	Oslo	resource
+Norway	leaderName	RedGreenCoalition	Red-Green Coalition	resource
+Norway	homepage	www.norway.no	http://www.norway.no/	resource
+Norway	leaderTitle	SupremeCourtofNorway	Supreme Court of Norway	resource
+Norway	timeZoneDst	CentralEuropeanTime	Central European Time	resource
+Norway	timeZoneDst	CentralEuropeanSummerTime	Central European Summer Time	resource
+Norway	leaderName	ToreSchei	Tore Schei	resource
+Norway	stateReligion	ChurchofNorway	Church of Norway	resource
+Norway	hasPhotoCollection	Norway	Norway	resource
+Norway	leaderName	HaraldVofNorway	Harald V of Norway	resource
+Norway	south	NorthSea	North Sea	resource
+Norway	leaderTitle	PrimeMinisterofNorway	Prime Minister of Norway	resource
+Norway	demonym	Norwegians	Norwegians	resource
+Norway	governmentType	Unitarystate	Unitary state	resource
+Norway	leaderTitle	ParliamentofNorway	Parliament of Norway	resource
+Norway	wasDerivedFrom	Norway?oldid=547313779	Norway?oldid=547313779	resource
+Norway	southwest	NorthSea	North Sea	resource

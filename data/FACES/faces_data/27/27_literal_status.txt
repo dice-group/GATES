@@ -1,0 +1,88 @@
+BeverlyHills,90210	starring	IanZiering	Ian Ziering	resource
+BeverlyHills,90210	starring	TiffaniThiessen	Tiffani Thiessen	resource
+BeverlyHills,90210	starring	JamieWalters	Jamie Walters	resource
+BeverlyHills,90210	format	Monaural	Monaural	resource
+BeverlyHills,90210	audioFormat	DolbySurround	Dolby Surround	resource
+BeverlyHills,90210	starring	JoeE.Tata	Joe E. Tata	resource
+BeverlyHills,90210	subsequentWork	MelrosePlace(2009TVseries)	Melrose Place (2009 TV series)	resource
+BeverlyHills,90210	starring	JamesEckhouse	James Eckhouse	resource
+BeverlyHills,90210	distributor	WorldvisionEnterprises	Worldvision Enterprises	resource
+BeverlyHills,90210	distributor	ParamountDomesticTelevision	Paramount Domestic Television	resource
+BeverlyHills,90210	starring	JamieWalters(Americanentertainer)	Jamie Walters (American entertainer)	resource
+BeverlyHills,90210	channel	FoxBroadcastingCompany	Fox Broadcasting Company	resource
+BeverlyHills,90210	camera	Singlecamerasetup	Single-camera setup	resource
+BeverlyHills,90210	hasPhotoCollection	BeverlyHills,90210	Beverly_Hills,_90210	resource
+BeverlyHills,90210	company	SpellingTelevision	Spelling Television	resource
+BeverlyHills,90210	starring	CarolPotter(actress)	Carol Potter (actress)	resource
+BeverlyHills,90210	starring	HilarySwank	Hilary Swank	resource
+BeverlyHills,90210	creator	DarrenStar	Darren Star	resource
+BeverlyHills,90210	starring	DanielCosgrove	Daniel Cosgrove	resource
+BeverlyHills,90210	starring	JasonPriestley	Jason Priestley	resource
+BeverlyHills,90210	starring	DanielCosgrove	Daniel Cosgrove	resource
+BeverlyHills,90210	creator	AaronSpelling	Aaron Spelling	resource
+BeverlyHills,90210	starring	JoeE.Tata	Joe E. Tata	resource
+BeverlyHills,90210	followedBy	MelrosePlace(2009TVseries)	Melrose Place (2009 TV series)	resource
+BeverlyHills,90210	starring	VanessaMarcil	Vanessa Marcil	resource
+BeverlyHills,90210	distributor	CBSParamountDomesticTelevision	CBS Paramount Domestic Television	resource
+BeverlyHills,90210	starring	BrianAustinGreen	Brian Austin Green	resource
+BeverlyHills,90210	audioFormat	Multichanneltelevisionsound	Multichannel television sound	resource
+BeverlyHills,90210	subsequentWork	ModelsInc.	Models Inc.	resource
+BeverlyHills,90210	executiveProducer	DarrenStar	Darren Star	resource
+BeverlyHills,90210	depiction	90210Logo.jpg	90210Logo.jpg	resource
+BeverlyHills,90210	starring	JennieGarth	Jennie Garth	resource
+BeverlyHills,90210	starring	LukePerry	Luke Perry	resource
+BeverlyHills,90210	distributor	CBSTelevisionDistribution	CBS Television Distribution	resource
+BeverlyHills,90210	starring	TiffaniThiessen	Tiffani Thiessen	resource
+BeverlyHills,90210	starring	JamieWalters	Jamie Walters	resource
+BeverlyHills,90210	creator	DarrenStar	Darren Star	resource
+BeverlyHills,90210	executiveProducer	AaronSpelling	Aaron Spelling	resource
+BeverlyHills,90210	isPrimaryTopicOf	BeverlyHills,90210	Beverly_Hills,_90210	resource
+BeverlyHills,90210	subsequentWork	MelrosePlace	Melrose Place	resource
+BeverlyHills,90210	starring	VincentYoung(actor)	Vincent Young (actor)	resource
+BeverlyHills,90210	channel	FoxBroadcastingCompany	Fox Broadcasting Company	resource
+BeverlyHills,90210	starring	DouglasEmerson	Douglas Emerson	resource
+BeverlyHills,90210	creator	AaronSpelling	Aaron Spelling	resource
+BeverlyHills,90210	starring	ShannenDoherty	Shannen Doherty	resource
+BeverlyHills,90210	starring	GabrielleCarteris	Gabrielle Carteris	resource
+BeverlyHills,90210	genre	Teendrama	Teen drama	resource
+BeverlyHills,90210	starring	HilarySwank	Hilary Swank	resource
+BeverlyHills,90210	audioFormat	Monaural	Monaural	resource
+BeverlyHills,90210	starring	JamesEckhouse	James Eckhouse	resource
+BeverlyHills,90210	creator	E.DukeVincent	E. Duke Vincent	resource
+BeverlyHills,90210	executiveProducer	AaronSpelling	Aaron Spelling	resource
+BeverlyHills,90210	executiveProducer	E.DukeVincent	E. Duke Vincent	resource
+BeverlyHills,90210	starring	VanessaMarcil	Vanessa Marcil	resource
+BeverlyHills,90210	starring	ToriSpelling	Tori Spelling	resource
+BeverlyHills,90210	company	SpellingTelevision	Spelling Television	resource
+BeverlyHills,90210	starring	MarkDamonEspinoza	Mark Damon Espinoza	resource
+BeverlyHills,90210	distributor	WorldvisionEnterprises	Worldvision Enterprises	resource
+BeverlyHills,90210	starring	LindsayPrice	Lindsay Price	resource
+BeverlyHills,90210	starring	MarkDamonEspinoza	Mark Damon Espinoza	resource
+BeverlyHills,90210	distributor	CBSTelevisionDistribution	CBS Television Distribution	resource
+BeverlyHills,90210	distributor	CBSParamountDomesticTelevision	CBS Paramount Domestic Television	resource
+BeverlyHills,90210	starring	JasonPriestley	Jason Priestley	resource
+BeverlyHills,90210	starring	KathleenRobertson	Kathleen Robertson	resource
+BeverlyHills,90210	starring	VincentYoung(actor)	Vincent Young (actor)	resource
+BeverlyHills,90210	format	DolbySurround	Dolby Surround	resource
+BeverlyHills,90210	starring	CarolPotter(actress)	Carol Potter (actress)	resource
+BeverlyHills,90210	starring	ToriSpelling	Tori Spelling	resource
+BeverlyHills,90210	wasDerivedFrom	BeverlyHills,90210?oldid=548486808	Beverly_Hills,_90210?oldid=548486808	resource
+BeverlyHills,90210	starring	DouglasEmerson	Douglas Emerson	resource
+BeverlyHills,90210	thumbnail	200px90210Logo.jpg	200px-90210Logo.jpg	resource
+BeverlyHills,90210	starring	JamieWalters(Americanentertainer)	Jamie Walters (American entertainer)	resource
+BeverlyHills,90210	genre	Soapopera	Soap opera	resource
+BeverlyHills,90210	creator	E.DukeVincent	E. Duke Vincent	resource
+BeverlyHills,90210	subsequentWork	90210(TVseries)	90210 (TV series)	resource
+BeverlyHills,90210	starring	GabrielleCarteris	Gabrielle Carteris	resource
+BeverlyHills,90210	executiveProducer	CharlesRosin	Charles Rosin	resource
+BeverlyHills,90210	starring	LukePerry	Luke Perry	resource
+BeverlyHills,90210	genre	Teendrama	Teen drama	resource
+BeverlyHills,90210	starring	IanZiering	Ian Ziering	resource
+BeverlyHills,90210	starring	JennieGarth	Jennie Garth	resource
+BeverlyHills,90210	genre	Soapopera	Soap opera	resource
+BeverlyHills,90210	starring	ShannenDoherty	Shannen Doherty	resource
+BeverlyHills,90210	starring	BrianAustinGreen	Brian Austin Green	resource
+BeverlyHills,90210	starring	LindsayPrice	Lindsay Price	resource
+BeverlyHills,90210	starring	KathleenRobertson	Kathleen Robertson	resource
+BeverlyHills,90210	format	Multichanneltelevisionsound	Multichannel television sound	resource
+BeverlyHills,90210	distributor	ParamountDomesticTelevision	Paramount Domestic Television	resource

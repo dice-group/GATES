@@ -1,0 +1,38 @@
+UsainBolt	honorificPrefix	OrderofDistinction	Order of Distinction	resource
+UsainBolt	placeOfBirth	Jamaica	Jamaica	resource
+UsainBolt	title	Track&FieldNewsAthleteoftheYear	Track & Field News Athlete of the Year	resource
+UsainBolt	sport	Trackandfield	Track and field	resource
+UsainBolt	stateOfOrigin	Jamaica	Jamaica	resource
+UsainBolt	birthPlace	TrelawnyParish	Trelawny Parish	resource
+UsainBolt	title	LaureusWorldSportsAwardforSportsmanoftheYear	Laureus World Sports Award for Sportsman of the Year	resource
+UsainBolt	title	BestInternationalAthleteESPYAward	Best International Athlete ESPY Award	resource
+UsainBolt	title	BestTrackandFieldAthleteESPYAward	Best Track and Field Athlete ESPY Award	resource
+UsainBolt	title	100metres	100 metres	resource
+UsainBolt	birthPlace	TrelawnyParish	Trelawny Parish	resource
+UsainBolt	title	Men's100metresworldrecordprogression	Men's 100 metres world record progression	resource
+UsainBolt	honorificPrefix	TheHonourable	The Honourable	resource
+UsainBolt	event	Sprint(running)	Sprint (running)	resource
+UsainBolt	hasPhotoCollection	UsainBolt	Usain_Bolt	resource
+UsainBolt	birthPlace	Jamaica	Jamaica	resource
+UsainBolt	wasDerivedFrom	UsainBolt?oldid=546464032	Usain_Bolt?oldid=546464032	resource
+UsainBolt	birthPlace	TrelawnyParish,Jamaica	Trelawny Parish, Jamaica	resource
+UsainBolt	depiction	UsainBolt2012Olympics1.jpg	Usain_Bolt_2012_Olympics_1.jpg	resource
+UsainBolt	thumbnail	200pxUsainBolt2012Olympics1.jpg	200px-Usain_Bolt_2012_Olympics_1.jpg	resource
+UsainBolt	birthPlace	TrelawnyParish,Jamaica	Trelawny Parish, Jamaica	resource
+UsainBolt	title	JamaicaSportspersonoftheyear	Jamaica Sportsperson of the year	resource
+UsainBolt	title	200metres	200 metres	resource
+UsainBolt	birthPlace	Jamaica	Jamaica	resource
+UsainBolt	residence	Kingston,Jamaica	Kingston, Jamaica	resource
+UsainBolt	placeOfBirth	TrelawnyParish	Trelawny Parish	resource
+UsainBolt	isPrimaryTopicOf	UsainBolt	Usain_Bolt	resource
+UsainBolt	title	Track&FieldAthleteoftheYear	Track & Field Athlete of the Year	resource
+UsainBolt	title	BBCOverseasSportsPersonalityoftheYear	BBC Overseas Sports Personality of the Year	resource
+UsainBolt	honorificSuffix	OrderofJamaica	Order of Jamaica	resource
+UsainBolt	residence	Kingston,Jamaica	Kingston, Jamaica	resource
+UsainBolt	title	JamaicaSportsmanoftheyear	Jamaica Sportsman of the year	resource
+UsainBolt	nationality	Jamaica	Jamaica	resource
+UsainBolt	years	2012SummerOlympics	2012 Summer Olympics	resource
+UsainBolt	title	IAAFWorldAthleteoftheYear	IAAF World Athlete of the Year	resource
+UsainBolt	title	L'%C3%89quipeChampionofChampions	L'%C3%89quipe_Champion_of_Champions	resource
+UsainBolt	placeOfBirth	TrelawnyParish,Jamaica	Trelawny Parish, Jamaica	resource
+UsainBolt	title	Men's200metresworldrecordprogression	Men's 200 metres world record progression	resource

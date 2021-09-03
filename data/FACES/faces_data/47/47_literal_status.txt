@@ -1,0 +1,46 @@
+BenjaminFranklin	appointed	ContinentalCongress	Continental Congress	resource
+BenjaminFranklin	child	SarahFranklinBache	Sarah Franklin Bache	resource
+BenjaminFranklin	predecessor	JohnDickinson(politician)	John Dickinson (politician)	resource
+BenjaminFranklin	party	Independent(politician)	Independent (politician)	resource
+BenjaminFranklin	birthPlace	Boston	Boston	resource
+BenjaminFranklin	child	WilliamFranklin	William Franklin	resource
+BenjaminFranklin	depiction	BenFranklinDuplessis.jpg	BenFranklinDuplessis.jpg	resource
+BenjaminFranklin	vicePresident	CharlesBiddle	Charles Biddle	resource
+BenjaminFranklin	vicepresident	CharlesBiddle	Charles Biddle	resource
+BenjaminFranklin	deathPlace	Pennsylvania	Pennsylvania	resource
+BenjaminFranklin	successor	ThomasMifflin	Thomas Mifflin	resource
+BenjaminFranklin	profession	PoliticsoftheUnitedStates	Politics of the United States	resource
+BenjaminFranklin	party	Independent(politician)	Independent (politician)	resource
+BenjaminFranklin	children	WilliamFranklin	William Franklin	resource
+BenjaminFranklin	isPrimaryTopicOf	BenjaminFranklin	Benjamin_Franklin	resource
+BenjaminFranklin	spouse	DeborahRead	Deborah Read	resource
+BenjaminFranklin	successor	JonathanRussell	Jonathan Russell	resource
+BenjaminFranklin	successor	ThomasMifflin	Thomas Mifflin	resource
+BenjaminFranklin	children	SarahFranklinBache	Sarah Franklin Bache	resource
+BenjaminFranklin	associate	ArthurLee(diplomat)	Arthur Lee (diplomat)	resource
+BenjaminFranklin	predecessor	IsaacNorris(statesman)	Isaac Norris (statesman)	resource
+BenjaminFranklin	deathPlace	Pennsylvania	Pennsylvania	resource
+BenjaminFranklin	associate	JohnAdams	John Adams	resource
+BenjaminFranklin	successor	JonathanRussell	Jonathan Russell	resource
+BenjaminFranklin	successor	ThomasJefferson	Thomas Jefferson	resource
+BenjaminFranklin	successor	IsaacNorris(statesman)	Isaac Norris (statesman)	resource
+BenjaminFranklin	birthPlace	ProvinceofMassachusettsBay	Province of Massachusetts Bay	resource
+BenjaminFranklin	deathPlace	Philadelphia	Philadelphia	resource
+BenjaminFranklin	vicepresident	ThomasMifflin	Thomas Mifflin	resource
+BenjaminFranklin	birthPlace	ProvinceofMassachusettsBay	Province of Massachusetts Bay	resource
+BenjaminFranklin	successor	IsaacNorris(statesman)	Isaac Norris (statesman)	resource
+BenjaminFranklin	office	SpeakerofthePennsylvaniaHouseofRepresentatives	Speaker of the Pennsylvania House of Representatives	resource
+BenjaminFranklin	successor	RichardBache	Richard Bache	resource
+BenjaminFranklin	spouse	DeborahRead	Deborah Read	resource
+BenjaminFranklin	thumbnail	200pxBenFranklinDuplessis.jpg	200px-BenFranklinDuplessis.jpg	resource
+BenjaminFranklin	birthPlace	Boston	Boston	resource
+BenjaminFranklin	hasPhotoCollection	BenjaminFranklin	Benjamin_Franklin	resource
+BenjaminFranklin	vicePresident	ThomasMifflin	Thomas Mifflin	resource
+BenjaminFranklin	homepage	www.benfranklin300.com	http://www.benfranklin300.com/	resource
+BenjaminFranklin	wasDerivedFrom	BenjaminFranklin?oldid=547636908	Benjamin_Franklin?oldid=547636908	resource
+BenjaminFranklin	associate	SilasDeane	Silas Deane	resource
+BenjaminFranklin	appointed	CongressoftheConfederation	Congress of the Confederation	resource
+BenjaminFranklin	successor	ThomasJefferson	Thomas Jefferson	resource
+BenjaminFranklin	deathPlace	Philadelphia	Philadelphia	resource
+BenjaminFranklin	successor	RichardBache	Richard Bache	resource
+BenjaminFranklin	predecessor	JohnDickinson(PennsylvaniaandDelaware)	John Dickinson (Pennsylvania and Delaware)	resource

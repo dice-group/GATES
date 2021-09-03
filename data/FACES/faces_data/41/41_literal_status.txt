@@ -1,0 +1,36 @@
+Nile	mouthPosition	NilemouthPosition1	Nile__mouthPosition__1	resource
+Nile	country	Sudan	Sudan	resource
+Nile	country	DemocraticRepublicoftheCongo	Democratic Republic of the Congo	resource
+Nile	country	Egypt	Egypt	resource
+Nile	country	Ethiopia	Ethiopia	resource
+Nile	country	Kenya	Kenya	resource
+Nile	city	Juba	Juba	resource
+Nile	source	BlueNile	Blue Nile	resource
+Nile	isPrimaryTopicOf	Nile	Nile	resource
+Nile	city	Jinja,Uganda	Jinja, Uganda	resource
+Nile	sourcePosition	NilesourcePosition2	Nile__sourcePosition__2	resource
+Nile	sourcePosition	NilesourcePosition1	Nile__sourcePosition__1	resource
+Nile	source1Location	LakeTana	Lake Tana	resource
+Nile	country	Uganda	Uganda	resource
+Nile	city	Cairo	Cairo	resource
+Nile	country	SouthSudan	South Sudan	resource
+Nile	country	Rwanda	Rwanda	resource
+Nile	sourcePlace	LakeTana	Lake Tana	resource
+Nile	wasDerivedFrom	Nile?oldid=547344631	Nile?oldid=547344631	resource
+Nile	city	Jinja,Uganda	Jinja, Uganda	resource
+Nile	source	WhiteNile	White Nile	resource
+Nile	hasPhotoCollection	Nile	Nile	resource
+Nile	mouthMountain	MediterraneanSea	Mediterranean Sea	resource
+Nile	sourceCountry	Ethiopia	Ethiopia	resource
+Nile	country	Burundi	Burundi	resource
+Nile	sourceMountain	LakeTana	Lake Tana	resource
+Nile	city	Khartoum	Khartoum	resource
+Nile	city	Khartoum	Khartoum	resource
+Nile	sourceCountry	Rwanda	Rwanda	resource
+Nile	city	Juba	Juba	resource
+Nile	mouthPlace	MediterraneanSea	Mediterranean Sea	resource
+Nile	country	Tanzania	Tanzania	resource
+Nile	city	Cairo	Cairo	resource
+Nile	depiction	Nilewatershedtopo.png	Nile_watershed_topo.png	resource
+Nile	thumbnail	200pxNilewatershedtopo.png	200px-Nile_watershed_topo.png	resource
+Nile	sourceConfluence	Khartoum	Khartoum	resource

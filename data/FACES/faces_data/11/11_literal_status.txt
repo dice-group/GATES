@@ -1,0 +1,29 @@
+RiceUniversity	city	Houston	Houston	resource
+RiceUniversity	homepage	www.rice.edu	http://www.rice.edu/	resource
+RiceUniversity	type	Privateuniversity	Private university	resource
+RiceUniversity	president	DavidLeebron	David Leebron	resource
+RiceUniversity	type	Privateuniversity	Private university	resource
+RiceUniversity	athletics	ConferenceUSA	Conference USA	resource
+RiceUniversity	president	DavidLeebron	David Leebron	resource
+RiceUniversity	provost	GeorgeMcLendon	George McLendon	resource
+RiceUniversity	state	Texas	Texas	resource
+RiceUniversity	mascot	SammytheOwl	Sammy the Owl	resource
+RiceUniversity	campus	Urbanarea	Urban area	resource
+RiceUniversity	thumbnail	200pxRiceUniversityseal.svg.png	200px-Rice_University_seal.svg.png	resource
+RiceUniversity	hasPhotoCollection	RiceUniversity	Rice_University	resource
+RiceUniversity	athletics	ConferenceUSA	Conference USA	resource
+RiceUniversity	country	UnitedStates	United States	resource
+RiceUniversity	wasDerivedFrom	RiceUniversity?oldid=546640179	Rice_University?oldid=546640179	resource
+RiceUniversity	affiliations	AssociationofAmericanUniversities	Association of American Universities	resource
+RiceUniversity	provost	GeorgeMcLendon	George McLendon	resource
+RiceUniversity	depiction	RiceUniversityseal.svg	Rice_University_seal.svg	resource
+RiceUniversity	logo	RiceUBlueSealLogo.png	File:RiceU_BlueSealLogo.png	resource
+RiceUniversity	city	Houston	Houston	resource
+RiceUniversity	isPrimaryTopicOf	RiceUniversity	Rice_University	resource
+RiceUniversity	state	Texas	Texas	resource
+RiceUniversity	athletics	NationalCollegiateAthleticAssociation	National Collegiate Athletic Association	resource
+RiceUniversity	country	UnitedStates	United States	resource
+RiceUniversity	website	www.rice.edu	http://www.rice.edu/	resource
+RiceUniversity	athletics	DivisionI(NCAA)	Division I (NCAA)	resource
+RiceUniversity	athletics	NationalCollegiateAthleticAssociation	National Collegiate Athletic Association	resource
+RiceUniversity	affiliation	AssociationofAmericanUniversities	Association of American Universities	resource

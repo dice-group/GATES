@@ -1,0 +1,43 @@
+HenryIVofFrance	birthPlace	Pau,Pyr%C3%A9n%C3%A9esAtlantiques	Pau,_Pyr%C3%A9n%C3%A9es-Atlantiques	resource
+HenryIVofFrance	depiction	HenriIV.jpg	HenriIV.jpg	resource
+HenryIVofFrance	successor	LouisXIIIofFrance	Louis XIII of France	resource
+HenryIVofFrance	predecessor	HenryIIIofFrance	Henry III of France	resource
+HenryIVofFrance	placeOfBirth	KingdomofNavarre	Kingdom of Navarre	resource
+HenryIVofFrance	after	LouisXIIIofFrance	Louis XIII of France	resource
+HenryIVofFrance	birthPlace	KingdomofNavarre	Kingdom of Navarre	resource
+HenryIVofFrance	before	JeanneIIIofNavarre	Jeanne III of Navarre	resource
+HenryIVofFrance	birthPlace	KingdomofNavarre	Kingdom of Navarre	resource
+HenryIVofFrance	title	ViscountsofB%C3%A9arn	Viscounts_of_B%C3%A9arn	resource
+HenryIVofFrance	parent	Jeanned'Albret	Jeanne d'Albret	resource
+HenryIVofFrance	predecessor	JeanneIIIofNavarre	Jeanne III of Navarre	resource
+HenryIVofFrance	mother	Jeanned'Albret	Jeanne d'Albret	resource
+HenryIVofFrance	house	HouseofBourbon	House of Bourbon	resource
+HenryIVofFrance	father	AntoineofNavarre	Antoine of Navarre	resource
+HenryIVofFrance	placeOfBirth	Pau,Pyr%C3%A9n%C3%A9esAtlantiques	Pau,_Pyr%C3%A9n%C3%A9es-Atlantiques	resource
+HenryIVofFrance	spouse	MargaretofValois	Margaret of Valois	resource
+HenryIVofFrance	issue	LouisXIIIofFrance	Louis XIII of France	resource
+HenryIVofFrance	title	Albret	Albret	resource
+HenryIVofFrance	religion	RomanCatholicism	Roman Catholicism	resource
+HenryIVofFrance	spouse	Mariede'Medici	Marie de' Medici	resource
+HenryIVofFrance	birthPlace	Pau,Pyr%C3%A9n%C3%A9esAtlantiques	Pau,_Pyr%C3%A9n%C3%A9es-Atlantiques	resource
+HenryIVofFrance	wasDerivedFrom	HenryIVofFrance?oldid=548593386	Henry_IV_of_France?oldid=548593386	resource
+HenryIVofFrance	parent	JeanneIIIofNavarre	Jeanne III of Navarre	resource
+HenryIVofFrance	spouse	MargaretofValois	Margaret of Valois	resource
+HenryIVofFrance	before	Jeanned'Albret	Jeanne d'Albret	resource
+HenryIVofFrance	thumbnail	200pxHenriIV.jpg	200px-HenriIV.jpg	resource
+HenryIVofFrance	hasPhotoCollection	HenryIVofFrance	Henry_IV_of_France	resource
+HenryIVofFrance	parent	AntoineofNavarre	Antoine of Navarre	resource
+HenryIVofFrance	title	ListofNavarresemonarchs	List of Navarrese monarchs	resource
+HenryIVofFrance	succession	KingofNavarre	King of Navarre	resource
+HenryIVofFrance	predecessor	HenryIIIofFrance	Henry III of France	resource
+HenryIVofFrance	succession	ListofFrenchmonarchs	List of French monarchs	resource
+HenryIVofFrance	isPrimaryTopicOf	HenryIVofFrance	Henry_IV_of_France	resource
+HenryIVofFrance	title	ListofFrenchmonarchs	List of French monarchs	resource
+HenryIVofFrance	successor	LouisXIIIofFrance	Louis XIII of France	resource
+HenryIVofFrance	homepage	/en/uc/00	00	resource
+HenryIVofFrance	religion	CatholicChurch	Catholic Church	resource
+HenryIVofFrance	title	CoPrinceofAndorra	Co-Prince of Andorra	resource
+HenryIVofFrance	title	CoPrincesofAndorra	Co-Princes of Andorra	resource
+HenryIVofFrance	succession	ListofNavarresemonarchs	List of Navarrese monarchs	resource
+HenryIVofFrance	predecessor	Jeanned'Albret	Jeanne d'Albret	resource
+HenryIVofFrance	mother	JeanneIIIofNavarre	Jeanne III of Navarre	resource

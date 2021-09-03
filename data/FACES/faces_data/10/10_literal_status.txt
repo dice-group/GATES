@@ -1,0 +1,43 @@
+TotalRecall(1990film)	editing	FrankJ.Urioste	Frank J. Urioste	resource
+TotalRecall(1990film)	starring	RonnyCox	Ronny Cox	resource
+TotalRecall(1990film)	thumbnail	200pxTotalrecall.jpg	200px-Total_recall.jpg	resource
+TotalRecall(1990film)	producer	MarioKassar	Mario Kassar	resource
+TotalRecall(1990film)	musicComposer	JerryGoldsmith	Jerry Goldsmith	resource
+TotalRecall(1990film)	producer	MarioKassar	Mario Kassar	resource
+TotalRecall(1990film)	screenplay	RonaldShusett	Ronald Shusett	resource
+TotalRecall(1990film)	studio	CarolcoPictures	Carolco Pictures	resource
+TotalRecall(1990film)	story	JonPovill	Jon Povill	resource
+TotalRecall(1990film)	wasDerivedFrom	TotalRecall(1990film)?oldid=546465617	Total_Recall_(1990_film)?oldid=546465617	resource
+TotalRecall(1990film)	cinematography	JostVacano	Jost Vacano	resource
+TotalRecall(1990film)	starring	MichaelIronside	Michael Ironside	resource
+TotalRecall(1990film)	starring	RachelTicotin	Rachel Ticotin	resource
+TotalRecall(1990film)	distributor	TriStarPictures	TriStar Pictures	resource
+TotalRecall(1990film)	studio	StudioCanal	StudioCanal	resource
+TotalRecall(1990film)	screenplay	GaryGoldman(screenwriter)	Gary Goldman (screenwriter)	resource
+TotalRecall(1990film)	starring	SharonStone	Sharon Stone	resource
+TotalRecall(1990film)	hasPhotoCollection	TotalRecall(1990film)	Total_Recall_(1990_film)	resource
+TotalRecall(1990film)	screenplay	DanO'Bannon	Dan O'Bannon	resource
+TotalRecall(1990film)	director	PaulVerhoeven	Paul Verhoeven	resource
+TotalRecall(1990film)	producer	AndrewG.Vajna	Andrew G. Vajna	resource
+TotalRecall(1990film)	cinematography	JostVacano	Jost Vacano	resource
+TotalRecall(1990film)	editing	FrankJ.Urioste	Frank J. Urioste	resource
+TotalRecall(1990film)	screenplay	DavidCronenberg	David Cronenberg	resource
+TotalRecall(1990film)	depiction	Totalrecall.jpg	Total_recall.jpg	resource
+TotalRecall(1990film)	writer	RonaldShusett	Ronald Shusett	resource
+TotalRecall(1990film)	music	JerryGoldsmith	Jerry Goldsmith	resource
+TotalRecall(1990film)	starring	ArnoldSchwarzenegger	Arnold Schwarzenegger	resource
+TotalRecall(1990film)	starring	MichaelIronside	Michael Ironside	resource
+TotalRecall(1990film)	isPrimaryTopicOf	TotalRecall(1990film)	Total_Recall_(1990_film)	resource
+TotalRecall(1990film)	label	Var%C3%A8seSarabande	Var%C3%A8se_Sarabande	resource
+TotalRecall(1990film)	producer	AndrewG.Vajna	Andrew G. Vajna	resource
+TotalRecall(1990film)	starring	RonnyCox	Ronny Cox	resource
+TotalRecall(1990film)	director	JerryGoldsmith	Jerry Goldsmith	resource
+TotalRecall(1990film)	distributor	TriStarPictures	TriStar Pictures	resource
+TotalRecall(1990film)	artist	JerryGoldsmith	Jerry Goldsmith	resource
+TotalRecall(1990film)	starring	RachelTicotin	Rachel Ticotin	resource
+TotalRecall(1990film)	writer	DavidCronenberg	David Cronenberg	resource
+TotalRecall(1990film)	writer	GaryGoldman(screenwriter)	Gary Goldman (screenwriter)	resource
+TotalRecall(1990film)	starring	ArnoldSchwarzenegger	Arnold Schwarzenegger	resource
+TotalRecall(1990film)	director	PaulVerhoeven	Paul Verhoeven	resource
+TotalRecall(1990film)	starring	SharonStone	Sharon Stone	resource
+TotalRecall(1990film)	writer	DanO'Bannon	Dan O'Bannon	resource

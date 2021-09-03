@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Ferrari> <http://xmlns.com/foaf/0.1/depiction> <http://upload.wikimedia.org/wikipedia/commons/d/d1/Ferrari-Logo.svg> .
+<http://dbpedia.org/resource/Ferrari> <http://dbpedia.org/ontology/foundedBy> <http://dbpedia.org/resource/Enzo_Ferrari> .
+<http://dbpedia.org/resource/Ferrari> <http://dbpedia.org/property/type> <http://dbpedia.org/resource/Societ%C3%A0_per_azioni> .
+<http://dbpedia.org/resource/Ferrari> <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Luca_di_Montezemolo> .
+<http://dbpedia.org/resource/Ferrari> <http://dbpedia.org/ontology/owner> <http://dbpedia.org/resource/Piero_Ferrari> .

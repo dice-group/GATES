@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Barack_Obama> <http://xmlns.com/foaf/0.1/homepage> <http://www.barackobama.com> .
+<http://dbpedia.org/resource/Barack_Obama> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Barack_Obama> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/Democratic_Party_(United_States)> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/predecessor> <http://dbpedia.org/resource/George_W._Bush> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/spouse> <http://dbpedia.org/resource/Michelle_Obama> .

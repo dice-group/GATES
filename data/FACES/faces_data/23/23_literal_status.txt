@@ -1,0 +1,34 @@
+OriginalSin(2001film)	thumbnail	200pxOriginalsinposter.jpg	200px-Original_sin_poster.jpg	resource
+OriginalSin(2001film)	music	TerenceBlanchard	Terence Blanchard	resource
+OriginalSin(2001film)	starring	AntonioBanderas	Antonio Banderas	resource
+OriginalSin(2001film)	cinematography	RodrigoPrieto	Rodrigo Prieto	resource
+OriginalSin(2001film)	starring	AngelinaJolie	Angelina Jolie	resource
+OriginalSin(2001film)	director	MichaelCristofer	Michael Cristofer	resource
+OriginalSin(2001film)	writer	CornellWoolrich	Cornell Woolrich	resource
+OriginalSin(2001film)	language	Englishlanguage	English language	resource
+OriginalSin(2001film)	studio	AshokAmritraj	Ashok Amritraj	resource
+OriginalSin(2001film)	distributor	MetroGoldwynMayer	Metro-Goldwyn-Mayer	resource
+OriginalSin(2001film)	starring	ThomasJane	Thomas Jane	resource
+OriginalSin(2001film)	language	Englishlanguage	English language	resource
+OriginalSin(2001film)	musicComposer	TerenceBlanchard	Terence Blanchard	resource
+OriginalSin(2001film)	cinematography	RodrigoPrieto	Rodrigo Prieto	resource
+OriginalSin(2001film)	director	MichaelCristofer	Michael Cristofer	resource
+OriginalSin(2001film)	studio	HydeParkEntertainment	Hyde Park Entertainment	resource
+OriginalSin(2001film)	writer	MichaelCristofer	Michael Cristofer	resource
+OriginalSin(2001film)	hasPhotoCollection	OriginalSin(2001film)	Original_Sin_(2001_film)	resource
+OriginalSin(2001film)	country	UnitedStates	United States	resource
+OriginalSin(2001film)	producer	DeniseDiNovi	Denise Di Novi	resource
+OriginalSin(2001film)	isPrimaryTopicOf	OriginalSin(2001film)	Original_Sin_(2001_film)	resource
+OriginalSin(2001film)	country	UnitedStates	United States	resource
+OriginalSin(2001film)	starring	JackThompson	Jack Thompson	resource
+OriginalSin(2001film)	writer	MichaelCristofer	Michael Cristofer	resource
+OriginalSin(2001film)	starring	AngelinaJolie	Angelina Jolie	resource
+OriginalSin(2001film)	writer	CornellWoolrich	Cornell Woolrich	resource
+OriginalSin(2001film)	starring	ThomasJane	Thomas Jane	resource
+OriginalSin(2001film)	editor	EricA.Sears	Eric_A._Sears	resource
+OriginalSin(2001film)	wasDerivedFrom	OriginalSin(2001film)?oldid=540251179	Original_Sin_(2001_film)?oldid=540251179	resource
+OriginalSin(2001film)	starring	JackThompson	Jack Thompson	resource
+OriginalSin(2001film)	depiction	Originalsinposter.jpg	Original_sin_poster.jpg	resource
+OriginalSin(2001film)	starring	AntonioBanderas	Antonio Banderas	resource
+OriginalSin(2001film)	distributor	MetroGoldwynMayer	Metro-Goldwyn-Mayer	resource
+OriginalSin(2001film)	producer	DeniseDiNovi	Denise Di Novi	resource

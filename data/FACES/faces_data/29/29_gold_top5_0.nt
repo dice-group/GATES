@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Friends> <http://dbpedia.org/property/starring> <http://dbpedia.org/resource/David_Schwimmer> .
+<http://dbpedia.org/resource/Friends> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Jennifer_Aniston> .
+<http://dbpedia.org/resource/Friends> <http://dbpedia.org/ontology/creator> <http://dbpedia.org/resource/Marta_Kauffman> .
+<http://dbpedia.org/resource/Friends> <http://dbpedia.org/property/genre> <http://dbpedia.org/resource/Sitcom> .
+<http://dbpedia.org/resource/Friends> <http://dbpedia.org/property/creator> <http://dbpedia.org/resource/David_Crane_(producer)> .

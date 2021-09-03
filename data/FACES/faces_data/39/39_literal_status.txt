@@ -1,0 +1,56 @@
+Baywatch	homepage	www.baywatch.com	www.baywatch.com	resource
+Baywatch	executiveProducer	DavidHasselhoff	David Hasselhoff	resource
+Baywatch	executiveProducer	MichaelBerk	Michael Berk	resource
+Baywatch	location	SantaMonica,California	Santa Monica, California	resource
+Baywatch	location	Hawaii	Hawaii	resource
+Baywatch	format	Monaural	Monaural	resource
+Baywatch	distributor	AllAmericanTelevision	All American Television	resource
+Baywatch	isPrimaryTopicOf	Baywatch	Baywatch	resource
+Baywatch	genre	Action(fiction)	Action (fiction)	resource
+Baywatch	format	3	4:3	resource
+Baywatch	genre	Action(fiction)	Action (fiction)	resource
+Baywatch	hasPhotoCollection	Baywatch	Baywatch	resource
+Baywatch	distributor	LexingtonBroadcastServicesCompany	Lexington Broadcast Services Company	resource
+Baywatch	audioFormat	Stereophonicsound	Stereophonic sound	resource
+Baywatch	executiveProducer	GregoryJ.Bonann	Gregory J. Bonann	resource
+Baywatch	depiction	Baywatchlogo.jpg	Baywatch_logo.jpg	resource
+Baywatch	distributor	LexingtonBroadcastServicesCompany	Lexington Broadcast Services Company	resource
+Baywatch	audioFormat	Monophonicsound	Monophonic sound	resource
+Baywatch	creator	Baywatch	Baywatch	resource
+Baywatch	network	Broadcastsyndication	Broadcast syndication	resource
+Baywatch	distributor	FremantleMediaEnterprises	FremantleMedia Enterprises	resource
+Baywatch	format	Aspectratio(image)	Aspect ratio (image)	resource
+Baywatch	format	Monophonicsound	Monophonic sound	resource
+Baywatch	wasDerivedFrom	Baywatch?oldid=547105195	Baywatch?oldid=547105195	resource
+Baywatch	executiveProducer	GregoryJ.Bonann	Gregory J. Bonann	resource
+Baywatch	creator	DouglasSchwartz	Douglas Schwartz	resource
+Baywatch	creator	MichaelBerk	Michael Berk	resource
+Baywatch	executiveProducer	DavidHasselhoff	David Hasselhoff	resource
+Baywatch	distributor	FremantleMediaEnterprises	FremantleMedia Enterprises	resource
+Baywatch	creator	GregoryJ.Bonann	Gregory J. Bonann	resource
+Baywatch	genre	Dramaticprogramming	Dramatic programming	resource
+Baywatch	distributor	FremantleMedia	FremantleMedia	resource
+Baywatch	distributor	AllAmericanTelevision	All American Television	resource
+Baywatch	format	Stereophonicsound	Stereophonic sound	resource
+Baywatch	creator	GregoryJ.Bonann	Gregory J. Bonann	resource
+Baywatch	distributor	FremantleMedia	FremantleMedia	resource
+Baywatch	network	NBC	NBC	resource
+Baywatch	location	Hawaii	Hawaii	resource
+Baywatch	genre	Action(genre)	Action (genre)	resource
+Baywatch	network	Broadcastsyndication	Broadcast syndication	resource
+Baywatch	executiveProducer	DouglasSchwartz	Douglas Schwartz	resource
+Baywatch	creator	DouglasSchwartz	Douglas Schwartz	resource
+Baywatch	location	SantaMonica,California	Santa Monica, California	resource
+Baywatch	creator	MichaelBerk	Michael Berk	resource
+Baywatch	executiveProducer	MichaelBerk	Michael Berk	resource
+Baywatch	executiveProducer	Baywatch	Baywatch	resource
+Baywatch	genre	Action(genre)	Action (genre)	resource
+Baywatch	status	Cancellation(television)	Cancellation (television)	resource
+Baywatch	thumbnail	200pxBaywatchlogo.jpg	200px-Baywatch_logo.jpg	resource
+Baywatch	executiveProducer	Baywatch	Baywatch	resource
+Baywatch	audioFormat	Monaural	Monaural	resource
+Baywatch	creator	Baywatch	Baywatch	resource
+Baywatch	executiveProducer	DouglasSchwartz	Douglas Schwartz	resource
+Baywatch	website	www.baywatch.com	www.baywatch.com	resource
+Baywatch	related	BaywatchNights	Baywatch Nights	resource
+Baywatch	network	NBC	NBC	resource

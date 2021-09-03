@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Henry_IV_of_France> <http://dbpedia.org/property/placeOfBirth> <http://dbpedia.org/resource/Kingdom_of_Navarre> .
+<http://dbpedia.org/resource/Henry_IV_of_France> <http://xmlns.com/foaf/0.1/depiction> <http://upload.wikimedia.org/wikipedia/commons/3/38/HenriIV.jpg> .
+<http://dbpedia.org/resource/Henry_IV_of_France> <http://dbpedia.org/property/birthPlace> <http://dbpedia.org/resource/Kingdom_of_Navarre> .
+<http://dbpedia.org/resource/Henry_IV_of_France> <http://dbpedia.org/property/religion> <http://dbpedia.org/resource/Roman_Catholicism> .
+<http://dbpedia.org/resource/Henry_IV_of_France> <http://dbpedia.org/property/title> <http://dbpedia.org/resource/Co-Prince_of_Andorra> .

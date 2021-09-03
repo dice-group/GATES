@@ -1,0 +1,61 @@
+RichardMentorJohnson	birthPlace	Kentucky	Kentucky	resource
+RichardMentorJohnson	relation	JamesJohnson(Kentucky)	James Johnson (Kentucky)	resource
+RichardMentorJohnson	after	JosephDesha	Joseph Desha	resource
+RichardMentorJohnson	wasDerivedFrom	RichardMentorJohnson?oldid=547019771	Richard_Mentor_Johnson?oldid=547019771	resource
+RichardMentorJohnson	after	RobertP.Letcher	Robert P. Letcher	resource
+RichardMentorJohnson	almaMater	TransylvaniaUniversity	Transylvania University	resource
+RichardMentorJohnson	after	WilliamBrown(congressman)	William Brown (congressman)	resource
+RichardMentorJohnson	alongside	JohnRowan(Kentucky)	John Rowan (Kentucky)	resource
+RichardMentorJohnson	party	DemocraticRepublicanParty	Democratic-Republican Party	resource
+RichardMentorJohnson	almaMater	TransylvaniaUniversity	Transylvania University	resource
+RichardMentorJohnson	predecessor	MartinVanBuren	Martin Van Buren	resource
+RichardMentorJohnson	religion	Baptist	Baptist	resource
+RichardMentorJohnson	title	ListofUnitedStatesDemocraticPartypresidentialtickets	List of United States Democratic Party presidential tickets	resource
+RichardMentorJohnson	militaryRank	Colonel(UnitedStates)	Colonel (United States)	resource
+RichardMentorJohnson	president	MartinVanBuren	Martin Van Buren	resource
+RichardMentorJohnson	region	Kentucky	Kentucky	resource
+RichardMentorJohnson	after	JohnTyler	John Tyler	resource
+RichardMentorJohnson	successor	GeorgeM.Bibb	George M. Bibb	resource
+RichardMentorJohnson	president	MartinVanBuren	Martin Van Buren	resource
+RichardMentorJohnson	spouse	Commonlawmarriage	Common law marriage	resource
+RichardMentorJohnson	party	DemocraticRepublicanParty	Democratic-Republican Party	resource
+RichardMentorJohnson	rank	Colonel(UnitedStates)	Colonel (United States)	resource
+RichardMentorJohnson	battle	BattleoftheThames	Battle of the Thames	resource
+RichardMentorJohnson	termPeriod	RichardMentorJohnson1	Richard_Mentor_Johnson__1	resource
+RichardMentorJohnson	alongside	WilliamLogan(Kentucky)	William Logan (Kentucky)	resource
+RichardMentorJohnson	termPeriod	RichardMentorJohnson2	Richard_Mentor_Johnson__2	resource
+RichardMentorJohnson	predecessor	JohnJ.Crittenden	John J. Crittenden	resource
+RichardMentorJohnson	deathPlace	Frankfort,Kentucky	Frankfort, Kentucky	resource
+RichardMentorJohnson	successor	GeorgeM.Bibb	George M. Bibb	resource
+RichardMentorJohnson	deathPlace	Frankfort,Kentucky	Frankfort, Kentucky	resource
+RichardMentorJohnson	placeOfDeath	Frankfort,Kentucky	Frankfort, Kentucky	resource
+RichardMentorJohnson	religion	Baptists	Baptists	resource
+RichardMentorJohnson	before	MartinVanBuren	Martin Van Buren	resource
+RichardMentorJohnson	alongside	IshamTalbot	Isham Talbot	resource
+RichardMentorJohnson	before	RobertL.McHatton	Robert L. McHatton	resource
+RichardMentorJohnson	battle	Warof1812	War of 1812	resource
+RichardMentorJohnson	hasPhotoCollection	RichardMentorJohnson	Richard_Mentor_Johnson	resource
+RichardMentorJohnson	before	StephenOrmsby	Stephen Ormsby	resource
+RichardMentorJohnson	branch	UnitedStatesArmy	United States Army	resource
+RichardMentorJohnson	battles	Warof1812	War of 1812	resource
+RichardMentorJohnson	party	DemocraticParty(UnitedStates)	Democratic Party (United States)	resource
+RichardMentorJohnson	after	GeorgeM.Dallas	George M. Dallas	resource
+RichardMentorJohnson	before	JohnJ.Crittenden	John J. Crittenden	resource
+RichardMentorJohnson	religion	Baptist	Baptist	resource
+RichardMentorJohnson	alongside	JohnRowan(politician)	John Rowan (politician)	resource
+RichardMentorJohnson	after	WilliamW.Southgate	William W. Southgate	resource
+RichardMentorJohnson	successor	JohnTyler	John Tyler	resource
+RichardMentorJohnson	after	GeorgeM.Bibb	George M. Bibb	resource
+RichardMentorJohnson	battles	BattleoftheThames	Battle of the Thames	resource
+RichardMentorJohnson	religion	Baptists	Baptists	resource
+RichardMentorJohnson	spouse	Commonlawmarriage	Common-law marriage	resource
+RichardMentorJohnson	party	DemocraticParty(UnitedStates)	Democratic Party (United States)	resource
+RichardMentorJohnson	isPrimaryTopicOf	RichardMentorJohnson	Richard_Mentor_Johnson	resource
+RichardMentorJohnson	militaryBranch	UnitedStatesArmy	United States Army	resource
+RichardMentorJohnson	depiction	RichardMentorJohnson.png	RichardMentorJohnson.png	resource
+RichardMentorJohnson	successor	JohnTyler	John Tyler	resource
+RichardMentorJohnson	title	VicePresidentoftheUnitedStates	Vice President of the United States	resource
+RichardMentorJohnson	thumbnail	200pxRichardMentorJohnson.png	200px-RichardMentorJohnson.png	resource
+RichardMentorJohnson	before	ThomasSandford	Thomas Sandford	resource
+RichardMentorJohnson	after	WilliamWrightSouthgate	William Wright Southgate	resource
+RichardMentorJohnson	state	Kentucky	Kentucky	resource

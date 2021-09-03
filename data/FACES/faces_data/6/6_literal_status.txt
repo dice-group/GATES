@@ -1,0 +1,78 @@
+FamilyFeud	narrated	BurtonRichardson(announcer)	Burton Richardson (announcer)	resource
+FamilyFeud	distributor	LexingtonBroadcastServicesCompany	Lexington Broadcast Services Company	resource
+FamilyFeud	network	CBS	CBS	resource
+FamilyFeud	location	CBSTelevisionCity	CBS Television City	resource
+FamilyFeud	company	FremantleMedia	FremantleMedia	resource
+FamilyFeud	location	NBCStudios	NBC Studios	resource
+FamilyFeud	distributor	AllAmericanTelevision	All American Television	resource
+FamilyFeud	wasDerivedFrom	FamilyFeud?oldid=548121320	Family_Feud?oldid=548121320	resource
+FamilyFeud	narrator	JoeyFatone	Joey Fatone	resource
+FamilyFeud	distributor	20thTelevision	20th Television	resource
+FamilyFeud	presenter	SteveHarvey	Steve Harvey	resource
+FamilyFeud	network	CBS	CBS	resource
+FamilyFeud	company	GeorgiaDepartmentofEconomicDevelopment	Georgia Department of Economic Development	resource
+FamilyFeud	location	NBCStudios	NBC Studios	resource
+FamilyFeud	themeMusicComposer	EddKalehoff	Edd Kalehoff	resource
+FamilyFeud	distributor	DebmarMercury	Debmar-Mercury	resource
+FamilyFeud	distributor	ViacomEnterprises	Viacom Enterprises	resource
+FamilyFeud	presenter	RichardDawson	Richard Dawson	resource
+FamilyFeud	company	FremantleMedia	FremantleMedia	resource
+FamilyFeud	format	Gameshow	Game show	resource
+FamilyFeud	network	AmericanBroadcastingCompany	American Broadcasting Company	resource
+FamilyFeud	thumbnail	200pxFamilyFeud2007Logo.png	200px-FamilyFeud2007Logo.png	resource
+FamilyFeud	presenter	LouieAnderson	Louie Anderson	resource
+FamilyFeud	location	SunsetBronsonStudios	Sunset Bronson Studios	resource
+FamilyFeud	narrated	GeneWood	Gene Wood	resource
+FamilyFeud	company	GeorgiaDepartmentofEconomicDevelopment	Georgia Department of Economic Development	resource
+FamilyFeud	location	SunsetBronsonStudios	Sunset Bronson Studios	resource
+FamilyFeud	composer	ScoreProductions	Score Productions	resource
+FamilyFeud	narrated	JoeyFatone	Joey Fatone	resource
+FamilyFeud	presenter	RayCombs	Ray Combs	resource
+FamilyFeud	format	Gameshow	Game show	resource
+FamilyFeud	presenter	RichardKarn	Richard Karn	resource
+FamilyFeud	network	AmericanBroadcastingCompany	American Broadcasting Company	resource
+FamilyFeud	runtime	Broadcastsyndication	Broadcast syndication	resource
+FamilyFeud	title	AudienceParticipationShow	Daytime Emmy Award for Outstanding Game/Audience Participation Show	resource
+FamilyFeud	network	Broadcastsyndication	Broadcast syndication	resource
+FamilyFeud	depiction	FamilyFeud2007Logo.png	FamilyFeud2007Logo.png	resource
+FamilyFeud	presenter	RichardKarn	Richard Karn	resource
+FamilyFeud	location	UniversalStudios	Universal Studios	resource
+FamilyFeud	location	NBCStudios(NewYork)	NBC Studios (New York)	resource
+FamilyFeud	creator	MarkGoodson	Mark Goodson	resource
+FamilyFeud	location	OldWarnerBrothersStudio	Old Warner Brothers Studio	resource
+FamilyFeud	director	PaulAlter	Paul Alter	resource
+FamilyFeud	network	Broadcastsyndication	Broadcast syndication	resource
+FamilyFeud	location	AtlantaCivicCenter	Atlanta Civic Center	resource
+FamilyFeud	presenter	JohnO'Hurley	John O'Hurley	resource
+FamilyFeud	distributor	DebmarMercury	Debmar-Mercury	resource
+FamilyFeud	runtime	AmericanBroadcastingCompany	American Broadcasting Company	resource
+FamilyFeud	location	UniversalStudios	Universal Studios	resource
+FamilyFeud	location	NBCStudios(NewYork)	NBC Studios (New York)	resource
+FamilyFeud	distributor	AllAmericanTelevision	All American Television	resource
+FamilyFeud	location	Atlanta	Atlanta	resource
+FamilyFeud	location	OldWarnerBrothersStudio	Old Warner Brothers Studio	resource
+FamilyFeud	narrator	BurtonRichardson(announcer)	Burton Richardson (announcer)	resource
+FamilyFeud	distributor	TribuneEntertainment	Tribune Entertainment	resource
+FamilyFeud	composer	EddKalehoff	Edd Kalehoff	resource
+FamilyFeud	isPrimaryTopicOf	FamilyFeud	Family_Feud	resource
+FamilyFeud	presenter	LouieAnderson	Louie Anderson	resource
+FamilyFeud	hasPhotoCollection	FamilyFeud	Family_Feud	resource
+FamilyFeud	director	PaulAlter	Paul Alter	resource
+FamilyFeud	creator	MarkGoodson	Mark Goodson	resource
+FamilyFeud	location	AtlantaCivicCenter	Atlanta Civic Center	resource
+FamilyFeud	presenter	RichardDawson	Richard Dawson	resource
+FamilyFeud	homepage	www.familyfeud.com	http://www.familyfeud.com/	resource
+FamilyFeud	presenter	SteveHarvey	Steve Harvey	resource
+FamilyFeud	presenter	JohnO'Hurley	John O'Hurley	resource
+FamilyFeud	themeMusicComposer	ScoreProductions	Score Productions	resource
+FamilyFeud	location	TheProspectStudios	The Prospect Studios	resource
+FamilyFeud	distributor	ViacomEnterprises	Viacom Enterprises	resource
+FamilyFeud	narrator	GeneWood	Gene Wood	resource
+FamilyFeud	location	CBSTelevisionCity	CBS Television City	resource
+FamilyFeud	director	MarcBreslow	Marc Breslow	resource
+FamilyFeud	location	TheProspectStudios	The Prospect Studios	resource
+FamilyFeud	runtime	CBS	CBS	resource
+FamilyFeud	presenter	RayCombs	Ray Combs	resource
+FamilyFeud	distributor	LexingtonBroadcastServicesCompany	Lexington Broadcast Services Company	resource
+FamilyFeud	director	MarcBreslow	Marc Breslow	resource
+FamilyFeud	distributor	TribuneEntertainment	Tribune Entertainment	resource

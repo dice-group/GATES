@@ -1,0 +1,34 @@
+CzechRepublic	governmentType	Parliamentaryrepublic	Parliamentary republic	resource
+CzechRepublic	thumbnail	200pxFlagoftheCzechRepublic.svg.png	200px-Flag_of_the_Czech_Republic.svg.png	resource
+CzechRepublic	demonym	Czechs	Czechs	resource
+CzechRepublic	currency	Czechkoruna	Czech koruna	resource
+CzechRepublic	establishedEvent	DissolutionofCzechoslovakia	Dissolution of Czechoslovakia	resource
+CzechRepublic	homepage	Homepage.aspx?lang=enGB&selectedculture=enUS	Homepage.aspx?lang=en-GB&selectedculture=en-US	resource
+CzechRepublic	leaderName	PetrNe%C4%8Das	Petr_Ne%C4%8Das	resource
+CzechRepublic	establishedEvent	KingdomofBohemia	Kingdom of Bohemia	resource
+CzechRepublic	currency	Czechkoruna	Czech koruna	resource
+CzechRepublic	hasPhotoCollection	CzechRepublic	Czech_Republic	resource
+CzechRepublic	upperHouse	SenateoftheParliamentoftheCzechRepublic	Senate of the Parliament of the Czech Republic	resource
+CzechRepublic	leaderName	Milo%C5%A1Zeman	Milo%C5%A1_Zeman	resource
+CzechRepublic	leaderName	PetrNe%C4%8Das	Petr_Ne%C4%8Das	resource
+CzechRepublic	leaderTitle	PresidentoftheCzechRepublic	President of the Czech Republic	resource
+CzechRepublic	officialLanguages	Czechlanguage	Czech language	resource
+CzechRepublic	wasDerivedFrom	CzechRepublic?oldid=548486944	Czech_Republic?oldid=548486944	resource
+CzechRepublic	capital	Prague	Prague	resource
+CzechRepublic	timeZoneDst	CentralEuropeanTime	Central European Time	resource
+CzechRepublic	governmentType	Parliamentaryrepublic	Parliamentary republic	resource
+CzechRepublic	establishedEvent	CzechSocialistRepublic	Czech Socialist Republic	resource
+CzechRepublic	leaderName	Milo%C5%A1Zeman	Milo%C5%A1_Zeman	resource
+CzechRepublic	legislature	ParliamentoftheCzechRepublic	Parliament of the Czech Republic	resource
+CzechRepublic	timeZone	CentralEuropeanTime	Central European Time	resource
+CzechRepublic	timeZoneDst	CentralEuropeanSummerTime	Central European Summer Time	resource
+CzechRepublic	isPrimaryTopicOf	CzechRepublic	Czech_Republic	resource
+CzechRepublic	sovereigntyType	HistoryoftheCzechlands	History of the Czech lands	resource
+CzechRepublic	establishedEvent	Czechoslovakia	Czechoslovakia	resource
+CzechRepublic	language	Czechlanguage	Czech language	resource
+CzechRepublic	depiction	FlagoftheCzechRepublic.svg	Flag_of_the_Czech_Republic.svg	resource
+CzechRepublic	lowerHouse	ChamberofDeputiesoftheParliamentoftheCzechRepublic	Chamber of Deputies of the Parliament of the Czech Republic	resource
+CzechRepublic	officialLanguage	Czechlanguage	Czech language	resource
+CzechRepublic	capital	Prague	Prague	resource
+CzechRepublic	leaderTitle	ListofPrimeMinistersoftheCzechRepublic	List of Prime Ministers of the Czech Republic	resource
+CzechRepublic	sovereigntyType	HistoryoftheCzechLands	History of the Czech Lands	resource

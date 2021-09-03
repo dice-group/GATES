@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Knight_Rider_(1982_TV_series)> <http://dbpedia.org/ontology/composer> <http://dbpedia.org/resource/Morton_Stevens> .
+<http://dbpedia.org/resource/Knight_Rider_(1982_TV_series)> <http://dbpedia.org/property/genre> <http://dbpedia.org/resource/U.S._television_science_fiction> .
+<http://dbpedia.org/resource/Knight_Rider_(1982_TV_series)> <http://dbpedia.org/ontology/narrator> <http://dbpedia.org/resource/Richard_Basehart> .
+<http://dbpedia.org/resource/Knight_Rider_(1982_TV_series)> <http://dbpedia.org/ontology/company> <http://dbpedia.org/resource/Universal_Television> .
+<http://dbpedia.org/resource/Knight_Rider_(1982_TV_series)> <http://dbpedia.org/property/creator> <http://dbpedia.org/resource/Glen_A._Larson> .

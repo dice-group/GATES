@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Albert_Einstein> <http://dbpedia.org/property/children> <http://dbpedia.org/resource/Einstein_family> .
+<http://dbpedia.org/resource/Albert_Einstein> <http://dbpedia.org/property/shortDescription> <http://dbpedia.org/resource/Physicist> .
+<http://dbpedia.org/resource/Albert_Einstein> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://en.wikipedia.org/wiki/Albert_Einstein?oldid=548308618> .
+<http://dbpedia.org/resource/Albert_Einstein> <http://dbpedia.org/property/birthPlace> <http://dbpedia.org/resource/Kingdom_of_W%C3%BCrttemberg> .
+<http://dbpedia.org/resource/Albert_Einstein> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Physics> .

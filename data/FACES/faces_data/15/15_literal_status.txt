@@ -1,0 +1,36 @@
+BruceLee	restingPlace	Seattle	Seattle	resource
+BruceLee	spouse	LindaLeeCadwell	Linda Lee Cadwell	resource
+BruceLee	website	www.bruceleefoundation.com	http://www.bruceleefoundation.com/	resource
+BruceLee	ancestry	ShundeDistrict	Shunde District	resource
+BruceLee	deathPlace	KowloonTong	Kowloon Tong	resource
+BruceLee	country	People'sRepublicofChina	People's Republic of China	resource
+BruceLee	ancestry	China	China	resource
+BruceLee	ancestry	Guangdong	Guangdong	resource
+BruceLee	origin	HongKong	Hong Kong	resource
+BruceLee	wasDerivedFrom	BruceLee?oldid=548585344	Bruce_Lee?oldid=548585344	resource
+BruceLee	homepage	www.bruceleefoundation.com	http://www.bruceleefoundation.com/	resource
+BruceLee	occupation	Chinesemartialarts	Chinese martial arts	resource
+BruceLee	children	BrandonLee	Brandon Lee	resource
+BruceLee	birthPlace	SanFrancisco	San Francisco	resource
+BruceLee	deathPlace	Kowloon	Kowloon	resource
+BruceLee	homepage	www.brucelee.com	http://www.brucelee.com/	resource
+BruceLee	birthPlace	UnitedStates	United States	resource
+BruceLee	birthPlace	SanFranciscoChineseHospital	San Francisco Chinese Hospital	resource
+BruceLee	deathPlace	BritishHongKong	British Hong Kong	resource
+BruceLee	depiction	BruceLeecard.jpg	BruceLeecard.jpg	resource
+BruceLee	parent	LeeHoichuen	Lee Hoi-chuen	resource
+BruceLee	occupation	KungFu	Kung Fu	resource
+BruceLee	website	www.brucelee.com	http://www.brucelee.com/	resource
+BruceLee	isPrimaryTopicOf	BruceLee	Bruce_Lee	resource
+BruceLee	parents	LeeHoichuen	Lee Hoi-chuen	resource
+BruceLee	child	ShannonLee	Shannon Lee	resource
+BruceLee	restingPlace	LakeViewCemetery(Seattle)	Lake View Cemetery (Seattle)	resource
+BruceLee	country	China	China	resource
+BruceLee	restingplace	LakeViewCemetery(Seattle)	Lake View Cemetery (Seattle)	resource
+BruceLee	child	BrandonLee	Brandon Lee	resource
+BruceLee	deathPlace	HongKong	Hong Kong	resource
+BruceLee	restingplace	Seattle	Seattle	resource
+BruceLee	thumbnail	200pxBruceLeecard.jpg	200px-BruceLeecard.jpg	resource
+BruceLee	hasPhotoCollection	BruceLee	Bruce_Lee	resource
+BruceLee	award	FistofFury	Fist of Fury	resource
+BruceLee	spouse	LindaLeeCadwell	Linda Lee Cadwell	resource

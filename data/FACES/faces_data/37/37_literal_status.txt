@@ -1,0 +1,29 @@
+(WhatIs)Love%3F	subsequentWork	RuntheWorld	Run the World	resource
+(WhatIs)Love%3F	producer	D'Mile	D'Mile	resource
+(WhatIs)Love%3F	producer	KukHarrell	Kuk Harrell	resource
+(WhatIs)Love%3F	thumbnail	200px(promocover).jpg	200px-(promo_cover).jpg	resource
+(WhatIs)Love%3F	genre	Electropop	Electropop	resource
+(WhatIs)Love%3F	previousWork	I'mIntoYou	I'm Into You	resource
+(WhatIs)Love%3F	producer	D'Mile	D'Mile	resource
+(WhatIs)Love%3F	producer	KukHarrell	Kuk Harrell	resource
+(WhatIs)Love%3F	genre	Synthpop	Synthpop	resource
+(WhatIs)Love%3F	album	Love%3F	Love?	resource
+(WhatIs)Love%3F	type	Promotionalrecording	Promotional recording	resource
+(WhatIs)Love%3F	format	Musicdownload	Music download	resource
+(WhatIs)Love%3F	writer	D'Mile	D'Mile	resource
+(WhatIs)Love%3F	recordLabel	IslandRecords	Island Records	resource
+(WhatIs)Love%3F	writer	WynterGordon	Wynter Gordon	resource
+(WhatIs)Love%3F	artist	JenniferLopez	Jennifer Lopez	resource
+(WhatIs)Love%3F	depiction	(promocover).jpg	(promo_cover).jpg	resource
+(WhatIs)Love%3F	label	IslandRecords	Island Records	resource
+(WhatIs)Love%3F	writer	WynterGordon	Wynter Gordon	resource
+(WhatIs)Love%3F	genre	Synthpop	Synthpop	resource
+(WhatIs)Love%3F	album	Love%3F	Love?	resource
+(WhatIs)Love%3F	subsequentWork	RuntheWorld(song)	Run the World (song)	resource
+(WhatIs)Love%3F	artist	JenniferLopez	Jennifer Lopez	resource
+(WhatIs)Love%3F	hasPhotoCollection	(WhatIs)Love%3F	(What_Is)_Love%3F	resource
+(WhatIs)Love%3F	type	Promotionalrecording	Promotional recording	resource
+(WhatIs)Love%3F	wasDerivedFrom	(WhatIs)Love%3F?oldid=548247540	(What_Is)_Love%3F?oldid=548247540	resource
+(WhatIs)Love%3F	genre	Electropop	Electropop	resource
+(WhatIs)Love%3F	writer	D'Mile	D'Mile	resource
+(WhatIs)Love%3F	isPrimaryTopicOf	(WhatIs)Love%3F	(What_Is)_Love%3F	resource

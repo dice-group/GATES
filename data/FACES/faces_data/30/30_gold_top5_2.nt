@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Texas> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Texas> .
+<http://dbpedia.org/resource/Texas> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Texas> <http://dbpedia.org/ontology/capital> <http://dbpedia.org/resource/Austin,_Texas> .
+<http://dbpedia.org/resource/Texas> <http://dbpedia.org/property/timezone> <http://dbpedia.org/resource/Central_Time_Zone_(North_America)> .
+<http://dbpedia.org/resource/Texas> <http://dbpedia.org/ontology/largestCity> <http://dbpedia.org/resource/Houston> .

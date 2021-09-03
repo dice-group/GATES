@@ -1,0 +1,33 @@
+JohnNapier	nationality	Scotland	Scotland	resource
+JohnNapier	field	Mathematician	Mathematician	resource
+JohnNapier	knownFor	Napier'sbones	Napier's bones	resource
+JohnNapier	knownFor	Decimalpoint	Decimal point	resource
+JohnNapier	birthPlace	MerchistonCastle	Merchiston Castle	resource
+JohnNapier	deathPlace	Edinburgh	Edinburgh	resource
+JohnNapier	nationality	Scotland	Scotland	resource
+JohnNapier	birthPlace	MerchistonTower	Merchiston Tower	resource
+JohnNapier	birthPlace	MerchistonCastle	Merchiston Castle	resource
+JohnNapier	placeOfBirth	Edinburgh	Edinburgh	resource
+JohnNapier	placeOfBirth	Scotland	Scotland	resource
+JohnNapier	religion	ChurchofScotland	Church of Scotland	resource
+JohnNapier	almaMater	UniversityofStAndrews	University of St Andrews	resource
+JohnNapier	field	Mathematician	Mathematician	resource
+JohnNapier	birthPlace	MerchistonTower	Merchiston Tower	resource
+JohnNapier	wasDerivedFrom	JohnNapier?oldid=547490259	John_Napier?oldid=547490259	resource
+JohnNapier	influenced	HenryBriggs(mathematician)	Henry Briggs (mathematician)	resource
+JohnNapier	influenced	HenryBriggs(mathematician)	Henry Briggs (mathematician)	resource
+JohnNapier	hasPhotoCollection	JohnNapier	John_Napier	resource
+JohnNapier	thumbnail	200pxJohnNapier.jpg	200px-John_Napier.jpg	resource
+JohnNapier	knownFor	Napier'sbones	Napier's bones	resource
+JohnNapier	knownFor	Decimalmark	Decimal mark	resource
+JohnNapier	birthPlace	Edinburgh	Edinburgh	resource
+JohnNapier	almaMater	UniversityofStAndrews	University of St Andrews	resource
+JohnNapier	knownFor	Logarithm	Logarithm	resource
+JohnNapier	placeOfBirth	MerchistonCastle	Merchiston Castle	resource
+JohnNapier	knownFor	Decimalmark	Decimal mark	resource
+JohnNapier	depiction	JohnNapier.jpg	John_Napier.jpg	resource
+JohnNapier	placeOfBirth	MerchistonTower	Merchiston Tower	resource
+JohnNapier	isPrimaryTopicOf	JohnNapier	John_Napier	resource
+JohnNapier	birthPlace	Edinburgh	Edinburgh	resource
+JohnNapier	birthPlace	Scotland	Scotland	resource
+JohnNapier	knownFor	Decimalpoint	Decimal point	resource

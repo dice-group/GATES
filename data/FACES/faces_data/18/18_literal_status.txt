@@ -1,0 +1,59 @@
+TheCosbyShow	executiveProducer	TomWerner	Tom Werner	resource
+TheCosbyShow	openingTheme	BobbyMcFerrin	Bobby McFerrin	resource
+TheCosbyShow	executiveProducer	TomWerner	Tom Werner	resource
+TheCosbyShow	company	CarseyWernerProductions	Carsey-Werner Productions	resource
+TheCosbyShow	company	ViacomProductions	Viacom Productions	resource
+TheCosbyShow	related	ADifferentWorld	A Different World	resource
+TheCosbyShow	executiveProducer	BernieKukoff	Bernie Kukoff	resource
+TheCosbyShow	company	CarseyWernerProductions	Carsey-Werner Productions	resource
+TheCosbyShow	starring	PhyliciaRash%C4%81d	Phylicia_Rash%C4%81d	resource
+TheCosbyShow	camera	Multiplecamerasetup	Multiple-camera setup	resource
+TheCosbyShow	openingTheme	OregonSymphony	Oregon Symphony	resource
+TheCosbyShow	starring	BillCosby	Bill Cosby	resource
+TheCosbyShow	wasDerivedFrom	TheCosbyShow?oldid=548377159	The_Cosby_Show?oldid=548377159	resource
+TheCosbyShow	creator	BillCosby	Bill Cosby	resource
+TheCosbyShow	creator	BillCosby	Bill Cosby	resource
+TheCosbyShow	starring	RavenSymon%C3%A9	Raven-Symon%C3%A9	resource
+TheCosbyShow	starring	TempesttBledsoe	Tempestt Bledsoe	resource
+TheCosbyShow	format	480i	480i	resource
+TheCosbyShow	creator	Ed.Weinberger	Ed. Weinberger	resource
+TheCosbyShow	starring	LisaBonet	Lisa Bonet	resource
+TheCosbyShow	distributor	ParamountDomesticTelevision	Paramount Domestic Television	resource
+TheCosbyShow	starring	RavenSymon%C3%A9	Raven-Symon%C3%A9	resource
+TheCosbyShow	executiveProducer	MarcyCarsey	Marcy Carsey	resource
+TheCosbyShow	isPrimaryTopicOf	TheCosbyShow	The_Cosby_Show	resource
+TheCosbyShow	camera	Videotape	Videotape	resource
+TheCosbyShow	starring	SabrinaLeBeauf	Sabrina Le Beauf	resource
+TheCosbyShow	creator	MichaelJ.Leeson	Michael J. Leeson	resource
+TheCosbyShow	network	NBC	NBC	resource
+TheCosbyShow	starring	PhyliciaRash%C4%81d	Phylicia_Rash%C4%81d	resource
+TheCosbyShow	starring	GeoffreyOwens	Geoffrey Owens	resource
+TheCosbyShow	starring	ErikaAlexander	Erika Alexander	resource
+TheCosbyShow	distributor	ViacomEnterprises	Viacom Enterprises	resource
+TheCosbyShow	starring	MalcolmJamalWarner	Malcolm-Jamal Warner	resource
+TheCosbyShow	starring	SabrinaLeBeauf	Sabrina Le Beauf	resource
+TheCosbyShow	genre	Sitcom	Sitcom	resource
+TheCosbyShow	starring	MalcolmJamalWarner	Malcolm-Jamal Warner	resource
+TheCosbyShow	homepage	www.billcosby.com	http://www.billcosby.com/	resource
+TheCosbyShow	starring	GeoffreyOwens	Geoffrey Owens	resource
+TheCosbyShow	openingTheme	CraigHandy	Craig Handy	resource
+TheCosbyShow	starring	KeshiaKnightPulliam	Keshia Knight Pulliam	resource
+TheCosbyShow	language	Englishlanguage	English language	resource
+TheCosbyShow	openingTheme	LesterBowie	Lester Bowie	resource
+TheCosbyShow	thumbnail	200pxCosbyShowLogo.png	200px-Cosby_Show_-_Logo.png	resource
+TheCosbyShow	genre	Sitcom	Sitcom	resource
+TheCosbyShow	starring	LisaBonet	Lisa Bonet	resource
+TheCosbyShow	composer	BillCosby	Bill Cosby	resource
+TheCosbyShow	depiction	CosbyShowLogo.png	Cosby_Show_-_Logo.png	resource
+TheCosbyShow	hasPhotoCollection	TheCosbyShow	The_Cosby_Show	resource
+TheCosbyShow	creator	Ed.Weinberger	Ed. Weinberger	resource
+TheCosbyShow	starring	ErikaAlexander	Erika Alexander	resource
+TheCosbyShow	language	Englishlanguage	English language	resource
+TheCosbyShow	company	ViacomProductions	Viacom Productions	resource
+TheCosbyShow	starring	KeshiaKnightPulliam	Keshia Knight Pulliam	resource
+TheCosbyShow	executiveProducer	JanetLeahy	Janet Leahy	resource
+TheCosbyShow	related	ADifferentWorld(TVseries)	A Different World (TV series)	resource
+TheCosbyShow	creator	MichaelJ.Leeson	Michael J. Leeson	resource
+TheCosbyShow	executiveProducer	MarcyCarsey	Marcy Carsey	resource
+TheCosbyShow	starring	TempesttBledsoe	Tempestt Bledsoe	resource
+TheCosbyShow	network	NBC	NBC	resource

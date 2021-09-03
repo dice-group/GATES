@@ -1,0 +1,26 @@
+YukonRiver	hasPhotoCollection	YukonRiver	Yukon_River	resource
+YukonRiver	mouthMountain	WadeHamptonCensusArea,Alaska	Wade Hampton Census Area, Alaska	resource
+YukonRiver	depiction	DawsonCityLookoutYukonRiver3264px.jpg	Dawson_City_Lookout_Yukon_River_3264px.jpg	resource
+YukonRiver	mouthPosition	YukonRivermouthPosition1	Yukon_River__mouthPosition__1	resource
+YukonRiver	sourceRegion	BritishColumbia	British Columbia	resource
+YukonRiver	country	Canada	Canada	resource
+YukonRiver	sourceCountry	Canada	Canada	resource
+YukonRiver	mouthCountry	UnitedStates	United States	resource
+YukonRiver	state	Alaska	Alaska	resource
+YukonRiver	isPrimaryTopicOf	YukonRiver	Yukon_River	resource
+YukonRiver	mouthPlace	WadeHamptonCensusArea,Alaska	Wade Hampton Census Area, Alaska	resource
+YukonRiver	country	UnitedStates	United States	resource
+YukonRiver	sourceCountry	Canada	Canada	resource
+YukonRiver	source	AtlinLake	Atlin Lake	resource
+YukonRiver	mouthRegion	Alaska	Alaska	resource
+YukonRiver	sourceMountain	AtlinDistrict	Atlin District	resource
+YukonRiver	mouthLocation	WadeHamptonCensusArea,Alaska	Wade Hampton Census Area, Alaska	resource
+YukonRiver	thumbnail	200pxDawsonCityLookoutYukonRiver3264px.jpg	200px-Dawson_City_Lookout_Yukon_River_3264px.jpg	resource
+YukonRiver	sourcePlace	AtlinDistrict	Atlin District	resource
+YukonRiver	wasDerivedFrom	YukonRiver?oldid=546352640	Yukon_River?oldid=546352640	resource
+YukonRiver	sourceRegion	BritishColumbia	British Columbia	resource
+YukonRiver	mouthRegion	Alaska	Alaska	resource
+YukonRiver	sourcePosition	YukonRiversourcePosition1	Yukon_River__sourcePosition__1	resource
+YukonRiver	riverMouth	BeringSea	Bering Sea	resource
+YukonRiver	mouthCountry	UnitedStates	United States	resource
+YukonRiver	sourceLocation	AtlinDistrict	Atlin District	resource

@@ -1,0 +1,42 @@
+Poland	wasDerivedFrom	Poland?oldid=547946249	Poland?oldid=547946249	resource
+Poland	language	Polishlanguage	Polish language	resource
+Poland	establishedEvent	PartitionsofPoland	Partitions of Poland	resource
+Poland	establishedEvent	Polish%E2%80%93LithuanianCommonwealth	Polish%E2%80%93Lithuanian_Commonwealth	resource
+Poland	isPrimaryTopicOf	Poland	Poland	resource
+Poland	languages	Polishlanguage	Polish language	resource
+Poland	establishedEvent	InvasionofPoland	Invasion of Poland	resource
+Poland	establishedEvent	DuchyofWarsaw	Duchy of Warsaw	resource
+Poland	anthem	PolandIsNotYetLost	Poland Is Not Yet Lost	resource
+Poland	leaderName	Bronis%C5%82awKomorowski	Bronis%C5%82aw_Komorowski	resource
+Poland	establishedEvent	CongressPoland	Congress Poland	resource
+Poland	leaderTitle	PresidentofPoland	President of Poland	resource
+Poland	governmentType	Parliamentaryrepublic	Parliamentary republic	resource
+Poland	cctld	.pl	.pl	resource
+Poland	languages2Type	Regionallanguage	Regional language	resource
+Poland	establishedEvent	HistoryofPoland(1989%E2%80%93present)	History_of_Poland_(1989%E2%80%93present)	resource
+Poland	leaderTitle	PrimeMinisteroftheRepublicofPoland	Prime Minister of the Republic of Poland	resource
+Poland	establishedEvent	HistoryofPoland(1918%E2%80%931939)	History_of_Poland_(1918%E2%80%931939)	resource
+Poland	establishedEvent	PolishLithuaniancommonwealth	Polish-Lithuanian commonwealth	resource
+Poland	establishedEvent	People'sRepublicofPoland	People's Republic of Poland	resource
+Poland	thumbnail	200pxFlagofPoland(normative).svg.png	200px-Flag_of_Poland_(normative).svg.png	resource
+Poland	hasPhotoCollection	Poland	Poland	resource
+Poland	capital	Warsaw	Warsaw	resource
+Poland	leaderName	DonaldTusk	Donald Tusk	resource
+Poland	upperHouse	SenateoftheRepublicofPoland	Senate of the Republic of Poland	resource
+Poland	leaderName	Bronis%C5%82awKomorowski	Bronis%C5%82aw_Komorowski	resource
+Poland	legislature	NationalAssemblyoftheRepublicofPoland	National Assembly of the Republic of Poland	resource
+Poland	legislature	NationalAssembly(Poland)	National Assembly (Poland)	resource
+Poland	homepage	en	en	resource
+Poland	languagesType	Officiallanguage	Official language	resource
+Poland	establishedEvent	KingdomofPoland(1025%E2%80%931385)	Kingdom_of_Poland_(1025%E2%80%931385)	resource
+Poland	leaderName	DonaldTusk	Donald Tusk	resource
+Poland	establishedEvent	WorldWarII	World War II	resource
+Poland	timeZoneDst	CentralEuropeanSummerTime	Central European Summer Time	resource
+Poland	currency	Polishz%C5%82oty	Polish_z%C5%82oty	resource
+Poland	timeZoneDst	CentralEuropeanTime	Central European Time	resource
+Poland	languages	Kashubianlanguage	Kashubian language	resource
+Poland	leaderTitle	PrimeMinisterofPoland	Prime Minister of Poland	resource
+Poland	depiction	FlagofPoland(normative).svg	Flag_of_Poland_(normative).svg	resource
+Poland	governmentType	Parliamentaryrepublic	Parliamentary republic	resource
+Poland	capital	Warsaw	Warsaw	resource
+Poland	timeZone	CentralEuropeanTime	Central European Time	resource

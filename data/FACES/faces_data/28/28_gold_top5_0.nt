@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Seychelles> <http://dbpedia.org/ontology/largestCity> <http://dbpedia.org/resource/Capital_(political)> .
+<http://dbpedia.org/resource/Seychelles> <http://dbpedia.org/property/currency> <http://dbpedia.org/resource/Seychellois_rupee> .
+<http://dbpedia.org/resource/Seychelles> <http://dbpedia.org/ontology/capital> <http://dbpedia.org/resource/Victoria,_Seychelles> .
+<http://dbpedia.org/resource/Seychelles> <http://dbpedia.org/property/leaderName> <http://dbpedia.org/resource/James_Michel> .
+<http://dbpedia.org/resource/Seychelles> <http://dbpedia.org/property/governmentType> <http://dbpedia.org/resource/Presidential_system> .

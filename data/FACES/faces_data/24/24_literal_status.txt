@@ -1,0 +1,30 @@
+Ferrari	keyPeople	LucaCorderodiMontezemolo	Luca Cordero di Montezemolo	resource
+Ferrari	locationCity	Maranello	Maranello	resource
+Ferrari	locationCity	Maranello	Maranello	resource
+Ferrari	isPrimaryTopicOf	Ferrari	Ferrari	resource
+Ferrari	founder	EnzoFerrari	Enzo Ferrari	resource
+Ferrari	parentCompany	Fiat	Fiat	resource
+Ferrari	keyPerson	PieroFerrari	Piero Ferrari	resource
+Ferrari	type	Societ%C3%A0perazioni	Societ%C3%A0_per_azioni	resource
+Ferrari	keyPerson	LucadiMontezemolo	Luca di Montezemolo	resource
+Ferrari	locationCountry	Italy	Italy	resource
+Ferrari	type	Jointstockcompany	Joint-stock company	resource
+Ferrari	keyPerson	LucaCorderodiMontezemolo	Luca Cordero di Montezemolo	resource
+Ferrari	industry	Automotiveindustry	Automotive industry	resource
+Ferrari	type	Societ%C3%A0perazioni	Societ%C3%A0_per_azioni	resource
+Ferrari	parent	Fiat	Fiat	resource
+Ferrari	keyPeople	PieroFerrari	Piero Ferrari	resource
+Ferrari	foundedBy	EnzoFerrari	Enzo Ferrari	resource
+Ferrari	industry	Automotiveindustry	Automotive industry	resource
+Ferrari	locationCountry	Italy	Italy	resource
+Ferrari	homepage	www.ferrari.com	http://www.ferrari.com/	resource
+Ferrari	thumbnail	200pxFerrariLogo.svg.png	200px-Ferrari-Logo.svg.png	resource
+Ferrari	owningCompany	PieroFerrari	Piero Ferrari	resource
+Ferrari	keyPeople	LucadiMontezemolo	Luca di Montezemolo	resource
+Ferrari	owner	PieroFerrari	Piero Ferrari	resource
+Ferrari	homepage	www.ferrari.com	http://www.ferrari.com/	resource
+Ferrari	type	Jointstockcompany	Joint-stock company	resource
+Ferrari	wasDerivedFrom	Ferrari?oldid=548559290	Ferrari?oldid=548559290	resource
+Ferrari	product	Supercar	Supercar	resource
+Ferrari	depiction	FerrariLogo.svg	Ferrari-Logo.svg	resource
+Ferrari	hasPhotoCollection	Ferrari	Ferrari	resource

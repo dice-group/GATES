@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/The_Cosby_Show> <http://dbpedia.org/property/genre> <http://dbpedia.org/resource/Sitcom> .
+<http://dbpedia.org/resource/The_Cosby_Show> <http://dbpedia.org/ontology/distributor> <http://dbpedia.org/resource/Viacom_Enterprises> .
+<http://dbpedia.org/resource/The_Cosby_Show> <http://dbpedia.org/property/company> <http://dbpedia.org/resource/Carsey-Werner_Productions> .
+<http://dbpedia.org/resource/The_Cosby_Show> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Bill_Cosby> .
+<http://dbpedia.org/resource/The_Cosby_Show> <http://dbpedia.org/ontology/creator> <http://dbpedia.org/resource/Ed._Weinberger> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Family_Feud> <http://dbpedia.org/property/network> <http://dbpedia.org/resource/CBS> .
+<http://dbpedia.org/resource/Family_Feud> <http://dbpedia.org/ontology/narrator> <http://dbpedia.org/resource/Gene_Wood> .
+<http://dbpedia.org/resource/Family_Feud> <http://dbpedia.org/property/presenter> <http://dbpedia.org/resource/Louie_Anderson> .
+<http://dbpedia.org/resource/Family_Feud> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Family_Feud> .
+<http://dbpedia.org/resource/Family_Feud> <http://dbpedia.org/property/presenter> <http://dbpedia.org/resource/Steve_Harvey> .

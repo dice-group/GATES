@@ -1,0 +1,39 @@
+Crysis2	gameEngine	CryEngine	CryEngine	resource
+Crysis2	media	Opticaldisc	Optical disc	resource
+Crysis2	computingPlatform	Xbox360	Xbox 360	resource
+Crysis2	depiction	Crysis2cover.png	Crysis_2_cover.png	resource
+Crysis2	writer	RichardK.Morgan	Richard K. Morgan	resource
+Crysis2	composer	LorneBalfe	Lorne Balfe	resource
+Crysis2	modes	Singleplayervideogame	Single-player video game	resource
+Crysis2	wasDerivedFrom	Crysis2?oldid=548566038	Crysis_2?oldid=548566038	resource
+Crysis2	publisher	ElectronicArts	Electronic Arts	resource
+Crysis2	gameEngine	CryEngine3	CryEngine 3	resource
+Crysis2	computingPlatform	PlayStation3	PlayStation 3	resource
+Crysis2	composer	LorneBalfe	Lorne Balfe	resource
+Crysis2	engine	CryEngine	CryEngine	resource
+Crysis2	writer	RichardK.Morgan	Richard K. Morgan	resource
+Crysis2	composer	HansZimmer	Hans Zimmer	resource
+Crysis2	developer	Crytek	Crytek	resource
+Crysis2	genre	Videogamemusic	Video game music	resource
+Crysis2	computingMedia	Digitaldistribution	Digital distribution	resource
+Crysis2	genre	Firstpersonshooter	First-person shooter	resource
+Crysis2	computingMedia	Opticaldisc	Optical disc	resource
+Crysis2	developer	CrytekUK	Crytek UK	resource
+Crysis2	publisher	ElectronicArts	Electronic Arts	resource
+Crysis2	media	Digitaldistribution	Digital distribution	resource
+Crysis2	engine	CryEngine3	CryEngine 3	resource
+Crysis2	developer	Crytek	Crytek	resource
+Crysis2	platforms	PlayStation3	PlayStation 3	resource
+Crysis2	media	Onlinedistribution	Online distribution	resource
+Crysis2	genre	Firstpersonshooter	First-person shooter	resource
+Crysis2	platform	MicrosoftWindows	Microsoft Windows	resource
+Crysis2	isPrimaryTopicOf	Crysis2	Crysis_2	resource
+Crysis2	platforms	Xbox360	Xbox 360	resource
+Crysis2	composer	HansZimmer	Hans Zimmer	resource
+Crysis2	modes	Multiplayervideogame	Multiplayer video game	resource
+Crysis2	computingPlatform	MicrosoftWindows	Microsoft Windows	resource
+Crysis2	series	Crysis(series)	Crysis (series)	resource
+Crysis2	platforms	MicrosoftWindows	Microsoft Windows	resource
+Crysis2	hasPhotoCollection	Crysis2	Crysis_2	resource
+Crysis2	computingMedia	Onlinedistribution	Online distribution	resource
+Crysis2	thumbnail	200pxCrysis2cover.png	200px-Crysis_2_cover.png	resource

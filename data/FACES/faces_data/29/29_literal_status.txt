@@ -1,0 +1,52 @@
+Friends	starring	DavidSchwimmer	David Schwimmer	resource
+Friends	distributor	NBC	NBC	resource
+Friends	executiveProducer	MartaKauffman	Marta Kauffman	resource
+Friends	creator	DavidCrane(producer)	David Crane (producer)	resource
+Friends	location	WarnerBros.	Warner Bros.	resource
+Friends	wasDerivedFrom	Friends?oldid=547882844	Friends?oldid=547882844	resource
+Friends	executiveProducer	MichaelCurtis(TVproducer)	Michael Curtis (TV producer)	resource
+Friends	starring	MatthewPerry	Matthew Perry	resource
+Friends	creator	MartaKauffman	Marta Kauffman	resource
+Friends	executiveProducer	KevinS.Bright	Kevin S. Bright	resource
+Friends	network	NBC	NBC	resource
+Friends	location	WarnerBros.Studios	Warner Bros. Studios	resource
+Friends	company	WarnerBros.Television	Warner Bros. Television	resource
+Friends	distributor	NBC	NBC	resource
+Friends	executiveProducer	ScottSilveri	Scott Silveri	resource
+Friends	starring	LisaKudrow	Lisa Kudrow	resource
+Friends	isPrimaryTopicOf	Friends	Friends	resource
+Friends	composer	AlleeWillis	Allee Willis	resource
+Friends	format	480i	480i	resource
+Friends	themeMusicComposer	AlleeWillis	Allee Willis	resource
+Friends	starring	MatthewPerry	Matthew Perry	resource
+Friends	depiction	Friendstitles.jpg	Friends_titles.jpg	resource
+Friends	network	NBC	NBC	resource
+Friends	homepage	friends15	http://warnervideo.com/friends15/	resource
+Friends	starring	CourteneyCox	Courteney Cox	resource
+Friends	starring	MattLeBlanc	Matt LeBlanc	resource
+Friends	thumbnail	200pxFriendstitles.jpg	200px-Friends_titles.jpg	resource
+Friends	creator	MartaKauffman	Marta Kauffman	resource
+Friends	location	WarnerBros.	Warner Bros.	resource
+Friends	openingTheme	I'llBeThereforYou(TheRembrandtssong)	I'll Be There for You (The Rembrandts song)	resource
+Friends	company	CraneProductions	Bright/Kauffman/Crane Productions	resource
+Friends	hasPhotoCollection	Friends	Friends	resource
+Friends	creator	DavidCrane(producer)	David Crane (producer)	resource
+Friends	executiveProducer	KevinS.Bright	Kevin S. Bright	resource
+Friends	executiveProducer	WilCalhoun	Wil Calhoun	resource
+Friends	executiveProducer	DavidCrane(producer)	David Crane (producer)	resource
+Friends	starring	DavidSchwimmer	David Schwimmer	resource
+Friends	starring	LisaKudrow	Lisa Kudrow	resource
+Friends	openingTheme	TheRembrandts	The Rembrandts	resource
+Friends	distributor	WarnerBros.TelevisionDistribution	Warner Bros. Television Distribution	resource
+Friends	genre	Sitcom	Sitcom	resource
+Friends	starring	CourteneyCox	Courteney Cox	resource
+Friends	starring	JenniferAniston	Jennifer Aniston	resource
+Friends	genre	Sitcom	Sitcom	resource
+Friends	starring	MattLeBlanc	Matt LeBlanc	resource
+Friends	starring	JenniferAniston	Jennifer Aniston	resource
+Friends	format	1080i	1080i	resource
+Friends	subsequentWork	Joey(TVseries)	Joey (TV series)	resource
+Friends	location	WarnerBros.Studios	Warner Bros. Studios	resource
+Friends	company	CraneProductions	Bright/Kauffman/Crane Productions	resource
+Friends	company	WarnerBros.Television	Warner Bros. Television	resource
+Friends	website	friends15	http://warnervideo.com/friends15/	resource

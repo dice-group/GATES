@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Rice_University> <http://dbpedia.org/property/affiliations> <http://dbpedia.org/resource/Association_of_American_Universities> .
+<http://dbpedia.org/resource/Rice_University> <http://dbpedia.org/property/city> <http://dbpedia.org/resource/Houston> .
+<http://dbpedia.org/resource/Rice_University> <http://dbpedia.org/property/athletics> <http://dbpedia.org/resource/Division_I_(NCAA)> .
+<http://dbpedia.org/resource/Rice_University> <http://dbpedia.org/property/president> <http://dbpedia.org/resource/David_Leebron> .
+<http://dbpedia.org/resource/Rice_University> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Rice_University> .

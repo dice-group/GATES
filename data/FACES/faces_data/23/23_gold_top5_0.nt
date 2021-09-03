@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Original_Sin_(2001_film)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Antonio_Banderas> .
+<http://dbpedia.org/resource/Original_Sin_(2001_film)> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://en.wikipedia.org/wiki/Original_Sin_(2001_film)?oldid=540251179> .
+<http://dbpedia.org/resource/Original_Sin_(2001_film)> <http://dbpedia.org/property/writer> <http://dbpedia.org/resource/Michael_Cristofer> .
+<http://dbpedia.org/resource/Original_Sin_(2001_film)> <http://dbpedia.org/property/starring> <http://dbpedia.org/resource/Angelina_Jolie> .
+<http://dbpedia.org/resource/Original_Sin_(2001_film)> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/Cornell_Woolrich> .

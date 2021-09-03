@@ -1,0 +1,78 @@
+VladimirPutin	birthPlace	SaintPetersburg	Saint Petersburg	resource
+VladimirPutin	predecessor	ViktorZubkov	Viktor Zubkov	resource
+VladimirPutin	office	UnitedRussia	United Russia	resource
+VladimirPutin	religion	RussianOrthodoxChurch	Russian Orthodox Church	resource
+VladimirPutin	termPeriod	VladimirPutin2	Vladimir_Putin__2	resource
+VladimirPutin	predecessor	BorisYeltsin	Boris Yeltsin	resource
+VladimirPutin	teacher	HatsuoRoyama	Hatsuo Royama	resource
+VladimirPutin	termPeriod	VladimirPutin3	Vladimir_Putin__3	resource
+VladimirPutin	birthPlace	Russia	Russia	resource
+VladimirPutin	termPeriod	VladimirPutin4	Vladimir_Putin__4	resource
+VladimirPutin	spouse	LyudmilaPutina	Lyudmila Putina	resource
+VladimirPutin	birthPlace	SovietUnion	Soviet Union	resource
+VladimirPutin	religion	RussianOrthodoxChurch	Russian Orthodox Church	resource
+VladimirPutin	hasPhotoCollection	VladimirPutin	Vladimir_Putin	resource
+VladimirPutin	almaMater	SaintPetersburgStateUniversity	Saint Petersburg State University	resource
+VladimirPutin	termPeriod	VladimirPutin5	Vladimir_Putin__5	resource
+VladimirPutin	religion	RussianOrthodox	Russian Orthodox	resource
+VladimirPutin	primeMinister	MikhailKasyanov	Mikhail Kasyanov	resource
+VladimirPutin	deputy	IgorShuvalov	Igor Shuvalov	resource
+VladimirPutin	successor	ViktorZubkov	Viktor Zubkov	resource
+VladimirPutin	president	DmitryMedvedev	Dmitry Medvedev	resource
+VladimirPutin	isPrimaryTopicOf	VladimirPutin	Vladimir_Putin	resource
+VladimirPutin	homepage	eng.putin.kremlin.ru	http://eng.putin.kremlin.ru/	resource
+VladimirPutin	president	BorisYeltsin	Boris Yeltsin	resource
+VladimirPutin	predecessor	SergeiStepashin	Sergei Stepashin	resource
+VladimirPutin	deputy	ViktorKhristenko	Viktor Khristenko	resource
+VladimirPutin	deputy	IgorShuvalov	Igor Shuvalov	resource
+VladimirPutin	rank	MasterofSports	Master of Sports	resource
+VladimirPutin	party	OurHome%E2%80%93Russia	Our_Home_%E2%80%93_Russia	resource
+VladimirPutin	primeMinister	DmitryMedvedev	Dmitry Medvedev	resource
+VladimirPutin	successor	MikhailKasyanov	Mikhail Kasyanov	resource
+VladimirPutin	successor	NikolaiPatrushev	Nikolai Patrushev	resource
+VladimirPutin	successor	ViktorZubkov	Viktor Zubkov	resource
+VladimirPutin	depiction	VladimirPutin12015.jpg	Vladimir_Putin_12015.jpg	resource
+VladimirPutin	predecessor	BorisGryzlov	Boris Gryzlov	resource
+VladimirPutin	birthPlace	SaintPetersburg	Saint Petersburg	resource
+VladimirPutin	militaryRank	Polkovnik	Polkovnik	resource
+VladimirPutin	deputy	MikhailKasyanov	Mikhail Kasyanov	resource
+VladimirPutin	occupation	PresidentofRussia	President of Russia	resource
+VladimirPutin	primeMinister	ViktorKhristenko	Viktor Khristenko	resource
+VladimirPutin	successor	DmitryMedvedev	Dmitry Medvedev	resource
+VladimirPutin	party	Unity(Russianpoliticalparty)	Unity (Russian political party)	resource
+VladimirPutin	deputy	MikhailKasyanov	Mikhail Kasyanov	resource
+VladimirPutin	termPeriod	VladimirPutin1	Vladimir_Putin__1	resource
+VladimirPutin	primeMinister	MikhailFradkov	Mikhail Fradkov	resource
+VladimirPutin	primeminister	MikhailKasyanov	Mikhail Kasyanov	resource
+VladimirPutin	religion	RussianOrthodox	Russian Orthodox	resource
+VladimirPutin	teacher	AnatolyRahlin	Anatoly_Rahlin	resource
+VladimirPutin	homepage	eng.putin.kremlin.ru	eng.putin.kremlin.ru	resource
+VladimirPutin	almaMater	SaintPetersburgStateUniversity	Saint Petersburg State University	resource
+VladimirPutin	primeminister	DmitryMedvedev	Dmitry Medvedev	resource
+VladimirPutin	office	FederalSecurityService(Russia)	Federal Security Service (Russia)	resource
+VladimirPutin	placeOfBirth	SaintPetersburg	Saint Petersburg	resource
+VladimirPutin	branch	KGB	KGB	resource
+VladimirPutin	president	BorisYeltsin	Boris Yeltsin	resource
+VladimirPutin	president	DmitryMedvedev	Dmitry Medvedev	resource
+VladimirPutin	predecessor	NikolayKovalyov(politician)	Nikolay Kovalyov (politician)	resource
+VladimirPutin	successor	NikolaiPatrushev	Nikolai Patrushev	resource
+VladimirPutin	party	Independent(politician)	Independent (politician)	resource
+VladimirPutin	primeminister	ViktorKhristenko	Viktor Khristenko	resource
+VladimirPutin	thumbnail	200pxVladimirPutin12015.jpg	200px-Vladimir_Putin_12015.jpg	resource
+VladimirPutin	successor	MikhailKasyanov	Mikhail Kasyanov	resource
+VladimirPutin	party	UnitedRussia	United Russia	resource
+VladimirPutin	primeminister	MikhailFradkov	Mikhail Fradkov	resource
+VladimirPutin	successor	DmitryMedvedev	Dmitry Medvedev	resource
+VladimirPutin	rank	UnifiedSportsClassificationSystemoftheUSSRandRussia	Unified Sports Classification System of the USSR and Russia	resource
+VladimirPutin	rank	Polkovnik	Polkovnik	resource
+VladimirPutin	primeMinister	ViktorZubkov	Viktor Zubkov	resource
+VladimirPutin	deputy	ViktorKhristenko	Viktor Khristenko	resource
+VladimirPutin	placeOfBirth	SovietUnion	Soviet Union	resource
+VladimirPutin	predecessor	DmitryMedvedev	Dmitry Medvedev	resource
+VladimirPutin	militaryBranch	KGB	KGB	resource
+VladimirPutin	spouse	LyudmilaPutina	Lyudmila Putina	resource
+VladimirPutin	birthPlace	SovietUnion	Soviet Union	resource
+VladimirPutin	party	CommunistPartyoftheSovietUnion	Communist Party of the Soviet Union	resource
+VladimirPutin	wasDerivedFrom	VladimirPutin?oldid=548232030	Vladimir_Putin?oldid=548232030	resource
+VladimirPutin	office	PrimeMinisterofRussia	Prime Minister of Russia	resource
+VladimirPutin	primeminister	ViktorZubkov	Viktor Zubkov	resource

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Alan_Turing> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Computer_science> .
+<http://dbpedia.org/resource/Alan_Turing> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Fellow_of_the_Royal_Society> .
+<http://dbpedia.org/resource/Alan_Turing> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Manchester> .
+<http://dbpedia.org/resource/Alan_Turing> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Maida_Vale> .
+<http://dbpedia.org/resource/Alan_Turing> <http://dbpedia.org/property/prizes> <http://dbpedia.org/resource/Officer_of_the_Order_of_the_British_Empire> .

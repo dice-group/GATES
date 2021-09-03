@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/John_Napier> <http://dbpedia.org/ontology/almaMater> <http://dbpedia.org/resource/University_of_St_Andrews> .
+<http://dbpedia.org/resource/John_Napier> <http://dbpedia.org/property/knownFor> <http://dbpedia.org/resource/Decimal_point> .
+<http://dbpedia.org/resource/John_Napier> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Scotland> .
+<http://dbpedia.org/resource/John_Napier> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Napier's_bones> .
+<http://dbpedia.org/resource/John_Napier> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Mathematician> .

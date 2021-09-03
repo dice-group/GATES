@@ -1,0 +1,33 @@
+MikeTurner	residence	Dayton,Ohio	Dayton, Ohio	resource
+MikeTurner	after	RhineMcLin	Rhine McLin	resource
+MikeTurner	almaMater	OhioNorthernUniversity	Ohio Northern University	resource
+MikeTurner	homepage	turner.house.gov	http://turner.house.gov/	resource
+MikeTurner	isPrimaryTopicOf	MikeTurner	Mike_Turner	resource
+MikeTurner	almaMater	CaseWesternReserveUniversity	Case Western Reserve University	resource
+MikeTurner	religion	Presbyterianism	Presbyterianism	resource
+MikeTurner	hasPhotoCollection	MikeTurner	Mike_Turner	resource
+MikeTurner	title	MayorofDayton,Ohio	Mayor of Dayton, Ohio	resource
+MikeTurner	birthPlace	Dayton,Ohio	Dayton, Ohio	resource
+MikeTurner	region	Ohio	Ohio	resource
+MikeTurner	before	TonyP.Hall	Tony P. Hall	resource
+MikeTurner	state	Ohio	Ohio	resource
+MikeTurner	succeeded	JoyceBeatty	Joyce Beatty	resource
+MikeTurner	party	RepublicanParty(UnitedStates)	Republican Party (United States)	resource
+MikeTurner	birthPlace	Dayton,Ohio	Dayton, Ohio	resource
+MikeTurner	party	RepublicanParty(UnitedStates)	Republican Party (United States)	resource
+MikeTurner	religion	Presbyterianism	Presbyterianism	resource
+MikeTurner	before	ClayDixon	Clay Dixon	resource
+MikeTurner	successor	RhineMcLin	Rhine McLin	resource
+MikeTurner	depiction	MikeTurner,OfficialPortrait,c112thCongress.jpg	Mike_Turner,_Official_Portrait,_c112th_Congress.jpg	resource
+MikeTurner	wasDerivedFrom	MikeTurner?oldid=548318013	Mike_Turner?oldid=548318013	resource
+MikeTurner	residence	Dayton,Ohio	Dayton, Ohio	resource
+MikeTurner	title	PoliticsofDayton,Ohio	Politics of Dayton, Ohio	resource
+MikeTurner	religion	Presbyterian	Presbyterian	resource
+MikeTurner	almaMater	CaseWesternReserve	Case Western Reserve	resource
+MikeTurner	almaMater	UniversityofDayton	University of Dayton	resource
+MikeTurner	preceded	TonyP.Hall	Tony P. Hall	resource
+MikeTurner	thumbnail	200pxMikeTurner,OfficialPortrait,c112thCongress.jpg	200px-Mike_Turner,_Official_Portrait,_c112th_Congress.jpg	resource
+MikeTurner	religion	Presbyterian	Presbyterian	resource
+MikeTurner	successor	RhineMcLin	Rhine McLin	resource
+MikeTurner	preceded	DennisKucinich	Dennis Kucinich	resource
+MikeTurner	placeOfBirth	Dayton,Ohio	Dayton, Ohio	resource

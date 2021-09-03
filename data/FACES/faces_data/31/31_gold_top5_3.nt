@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Alan_Turing> <http://dbpedia.org/property/knownFor> <http://dbpedia.org/resource/Turing_machine> .
+<http://dbpedia.org/resource/Alan_Turing> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Turing_test> .
+<http://dbpedia.org/resource/Alan_Turing> <http://dbpedia.org/property/knownFor> <http://dbpedia.org/resource/Halting_problem> .
+<http://dbpedia.org/resource/Alan_Turing> <http://dbpedia.org/property/field> <http://dbpedia.org/resource/Computer_science> .
+<http://dbpedia.org/resource/Alan_Turing> <http://dbpedia.org/property/knownFor> <http://dbpedia.org/resource/Turing_Award> .

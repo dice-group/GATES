@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/John_Napier> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Logarithm> .
+<http://dbpedia.org/resource/John_Napier> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/John_Napier> .
+<http://dbpedia.org/resource/John_Napier> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Decimal_point> .
+<http://dbpedia.org/resource/John_Napier> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Scotland> .
+<http://dbpedia.org/resource/John_Napier> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Mathematician> .

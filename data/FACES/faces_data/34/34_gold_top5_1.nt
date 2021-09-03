@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Albert_Einstein> <http://dbpedia.org/property/birthPlace> <http://dbpedia.org/resource/Ulm> .
+<http://dbpedia.org/resource/Albert_Einstein> <http://dbpedia.org/property/doctoralAdvisor> <http://dbpedia.org/resource/Alfred_Kleiner> .
+<http://dbpedia.org/resource/Albert_Einstein> <http://dbpedia.org/ontology/academicAdvisor> <http://dbpedia.org/resource/Heinrich_Friedrich_Weber> .
+<http://dbpedia.org/resource/Albert_Einstein> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Physics> .
+<http://dbpedia.org/resource/Albert_Einstein> <http://dbpedia.org/property/children> <http://dbpedia.org/resource/Einstein_family> .

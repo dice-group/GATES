@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Reign_of_Fire_(film)> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Reign_of_Fire_(film)> .
+<http://dbpedia.org/resource/Reign_of_Fire_(film)> <http://dbpedia.org/property/director> <http://dbpedia.org/resource/Rob_Bowman_(director)> .
+<http://dbpedia.org/resource/Reign_of_Fire_(film)> <http://dbpedia.org/property/starring> <http://dbpedia.org/resource/Matthew_McConaughey> .
+<http://dbpedia.org/resource/Reign_of_Fire_(film)> <http://dbpedia.org/property/music> <http://dbpedia.org/resource/Mad_at_Gravity> .
+<http://dbpedia.org/resource/Reign_of_Fire_(film)> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/Matt_Greenberg> .

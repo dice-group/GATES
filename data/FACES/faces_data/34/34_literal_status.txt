@@ -1,0 +1,35 @@
+AlbertEinstein	placeOfDeath	Princeton,NewJersey	Princeton, New Jersey	resource
+AlbertEinstein	shortDescription	Physicist	Physicist	resource
+AlbertEinstein	birthPlace	GermanEmpire	German Empire	resource
+AlbertEinstein	residence	Switzerland	Switzerland	resource
+AlbertEinstein	deathPlace	USA	USA	resource
+AlbertEinstein	field	Physics	Physics	resource
+AlbertEinstein	placeOfBirth	GermanEmpire	German Empire	resource
+AlbertEinstein	fields	Physics	Physics	resource
+AlbertEinstein	placeOfBirth	BadenW%C3%BCrttemberg	Baden-W%C3%BCrttemberg	resource
+AlbertEinstein	depiction	Einstein1921byFSchmutzer.jpg	Einstein_1921_by_F_Schmutzer.jpg	resource
+AlbertEinstein	deathPlace	UnitedStates	United States	resource
+AlbertEinstein	birthPlace	BadenW%C3%BCrttemberg	Baden-W%C3%BCrttemberg	resource
+AlbertEinstein	birthPlace	KingdomofW%C3%BCrttemberg	Kingdom_of_W%C3%BCrttemberg	resource
+AlbertEinstein	doctoralAdvisor	AlfredKleiner	Alfred Kleiner	resource
+AlbertEinstein	children	LieserlEinstein	Lieserl Einstein	resource
+AlbertEinstein	children	EduardEinstein	Eduard Einstein	resource
+AlbertEinstein	birthPlace	KingdomofW%C3%BCrttemberg	Kingdom_of_W%C3%BCrttemberg	resource
+AlbertEinstein	residence	UnitedStates	United States	resource
+AlbertEinstein	placeOfBirth	Ulm	Ulm	resource
+AlbertEinstein	thumbnail	200pxEinstein1921byFSchmutzer.jpg	200px-Einstein_1921_by_F_Schmutzer.jpg	resource
+AlbertEinstein	birthPlace	GermanEmpire	German Empire	resource
+AlbertEinstein	birthPlace	Ulm	Ulm	resource
+AlbertEinstein	deathPlace	Princeton,NewJersey	Princeton, New Jersey	resource
+AlbertEinstein	children	Einsteinfamily	Einstein family	resource
+AlbertEinstein	hasPhotoCollection	AlbertEinstein	Albert_Einstein	resource
+AlbertEinstein	wasDerivedFrom	AlbertEinstein?oldid=548308618	Albert_Einstein?oldid=548308618	resource
+AlbertEinstein	placeOfDeath	USA	USA	resource
+AlbertEinstein	spouse	MilevaMari%C4%87	Mileva_Mari%C4%87	resource
+AlbertEinstein	birthPlace	Ulm	Ulm	resource
+AlbertEinstein	children	HansAlbertEinstein	Hans Albert Einstein	resource
+AlbertEinstein	isPrimaryTopicOf	AlbertEinstein	Albert_Einstein	resource
+AlbertEinstein	academicAdvisor	HeinrichFriedrichWeber	Heinrich Friedrich Weber	resource
+AlbertEinstein	academicAdvisors	HeinrichFriedrichWeber	Heinrich Friedrich Weber	resource
+AlbertEinstein	placeOfDeath	UnitedStates	United States	resource
+AlbertEinstein	doctoralAdvisor	AlfredKleiner	Alfred Kleiner	resource

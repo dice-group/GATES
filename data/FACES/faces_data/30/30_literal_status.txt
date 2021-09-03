@@ -1,0 +1,42 @@
+Texas	timezone	MountainTimeZone	Mountain Time Zone	resource
+Texas	candidate	MittRomney	Mitt Romney	resource
+Texas	senators	TedCruz	Ted Cruz	resource
+Texas	upperhouse	TexasSenate	Texas Senate	resource
+Texas	capital	Austin,Texas	Austin, Texas	resource
+Texas	flaglink	FlagofTexas	Flag of Texas	resource
+Texas	highestpoint	GuadalupePeak	Guadalupe Peak	resource
+Texas	demonym	Texan	Texan	resource
+Texas	borderingstates	Oklahoma	Oklahoma	resource
+Texas	timezone	CentralTimeZone(NorthAmerica)	Central Time Zone (North America)	resource
+Texas	demonym	Tejano	Tejano	resource
+Texas	depiction	FlagofTexas.svg	Flag_of_Texas.svg	resource
+Texas	timezone	CentralStandardTime	Central Standard Time	resource
+Texas	largestCity	Houston	Houston	resource
+Texas	demonym	Texian	Texian	resource
+Texas	office	ListofU.S.statesbydateofstatehood	List of U.S. states by date of statehood	resource
+Texas	lieutenantGovernor	DavidDewhurst	David Dewhurst	resource
+Texas	country	UnitedStates	United States	resource
+Texas	isPrimaryTopicOf	Texas	Texas	resource
+Texas	senators	JohnCornyn	John Cornyn	resource
+Texas	candidate	BarackObama	Barack Obama	resource
+Texas	succeeded	Iowa	Iowa	resource
+Texas	thumbnail	200pxFlagofTexas.svg.png	200px-Flag_of_Texas.svg.png	resource
+Texas	hasPhotoCollection	Texas	Texas	resource
+Texas	timezone	CoordinatedUniversalTime	Coordinated Universal Time	resource
+Texas	seallink	SealofTexas	Seal of Texas	resource
+Texas	wasDerivedFrom	Texas?oldid=547668601	Texas?oldid=547668601	resource
+Texas	demonym	Texan(disambiguation)	Texan (disambiguation)	resource
+Texas	timezone	MountainDaylightTime	Mountain Daylight Time	resource
+Texas	legislature	TexasLegislature	Texas Legislature	resource
+Texas	language	LanguagesofTexas	Languages of Texas	resource
+Texas	timezone	CentralDaylightTime	Central Daylight Time	resource
+Texas	largestcity	Houston	Houston	resource
+Texas	capital	Austin,Texas	Austin, Texas	resource
+Texas	timezone	MountainStandardTime	Mountain Standard Time	resource
+Texas	southeast	GulfofMexico	Gulf of Mexico	resource
+Texas	borderingstates	Arkansas	Arkansas	resource
+Texas	borderingstates	Louisiana	Louisiana	resource
+Texas	largestmetro	Dallas%E2%80%93FortWorthmetroplex	Dallas%E2%80%93Fort_Worth_metroplex	resource
+Texas	borderingstates	NewMexico	New Mexico	resource
+Texas	lowestpoint	GulfofMexico	Gulf of Mexico	resource
+Texas	lowerhouse	TexasHouseofRepresentatives	Texas House of Representatives	resource

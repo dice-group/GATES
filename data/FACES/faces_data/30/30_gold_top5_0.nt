@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Texas> <http://dbpedia.org/property/senators> <http://dbpedia.org/resource/John_Cornyn> .
+<http://dbpedia.org/resource/Texas> <http://dbpedia.org/ontology/largestCity> <http://dbpedia.org/resource/Houston> .
+<http://dbpedia.org/resource/Texas> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Texas> <http://dbpedia.org/property/capital> <http://dbpedia.org/resource/Austin,_Texas> .
+<http://dbpedia.org/resource/Texas> <http://dbpedia.org/property/timezone> <http://dbpedia.org/resource/Central_Daylight_Time> .

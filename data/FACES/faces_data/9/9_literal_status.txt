@@ -1,0 +1,32 @@
+EdwardTeller	knownFor	Hydrogenbomb	Hydrogen bomb	resource
+EdwardTeller	doctoralAdvisor	WernerHeisenberg	Werner Heisenberg	resource
+EdwardTeller	placeOfBirth	AustriaHungary	Austria-Hungary	resource
+EdwardTeller	almaMater	LeipzigUniversity	Leipzig University	resource
+EdwardTeller	deathPlace	Stanford,California	Stanford, California	resource
+EdwardTeller	birthPlace	AustriaHungary	Austria-Hungary	resource
+EdwardTeller	almaMater	UniversityofLeipzig	University of Leipzig	resource
+EdwardTeller	wasDerivedFrom	EdwardTeller?oldid=548510106	Edward_Teller?oldid=548510106	resource
+EdwardTeller	birthPlace	Budapest	Budapest	resource
+EdwardTeller	deathPlace	Stanford,California	Stanford, California	resource
+EdwardTeller	doctoralStudent	CharlesCritchfield	Charles Critchfield	resource
+EdwardTeller	doctoralStudent	ChenNingYang	Chen Ning Yang	resource
+EdwardTeller	award	HarveyPrize	Harvey Prize	resource
+EdwardTeller	awards	HarveyPrize	Harvey Prize	resource
+EdwardTeller	doctoralStudent	MarshallRosenbluth	Marshall Rosenbluth	resource
+EdwardTeller	thumbnail	200pxEdwardTeller1958fewersmudges.jpg	200px-EdwardTeller1958_fewer_smudges.jpg	resource
+EdwardTeller	depiction	EdwardTeller1958fewersmudges.jpg	EdwardTeller1958_fewer_smudges.jpg	resource
+EdwardTeller	doctoralAdvisor	WernerHeisenberg	Werner Heisenberg	resource
+EdwardTeller	placeOfBirth	Budapest	Budapest	resource
+EdwardTeller	isPrimaryTopicOf	EdwardTeller	Edward_Teller	resource
+EdwardTeller	knownFor	Jahn%E2%80%93Tellereffect	Jahn%E2%80%93Teller_effect	resource
+EdwardTeller	nationality	HungarianAmerican	Hungarian American	resource
+EdwardTeller	knownFor	Thermonuclearweapon	Thermonuclear weapon	resource
+EdwardTeller	almaMater	UniversityofKarlsruhe	University of Karlsruhe	resource
+EdwardTeller	birthPlace	Budapest	Budapest	resource
+EdwardTeller	field	Physics	Physics	resource
+EdwardTeller	birthPlace	AustriaHungary	Austria-Hungary	resource
+EdwardTeller	nationality	HungarianAmerican	Hungarian American	resource
+EdwardTeller	hasPhotoCollection	EdwardTeller	Edward_Teller	resource
+EdwardTeller	doctoralStudent	LincolnWolfenstein	Lincoln Wolfenstein	resource
+EdwardTeller	almaMater	KarlsruheInstituteofTechnology	Karlsruhe Institute of Technology	resource
+EdwardTeller	birthPlace	Hungary	Hungary	resource

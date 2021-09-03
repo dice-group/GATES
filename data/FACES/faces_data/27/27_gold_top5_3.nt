@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Beverly_Hills,_90210> <http://dbpedia.org/property/genre> <http://dbpedia.org/resource/Soap_opera> .
+<http://dbpedia.org/resource/Beverly_Hills,_90210> <http://dbpedia.org/property/distributor> <http://dbpedia.org/resource/CBS_Paramount_Domestic_Television> .
+<http://dbpedia.org/resource/Beverly_Hills,_90210> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Beverly_Hills,_90210> .
+<http://dbpedia.org/resource/Beverly_Hills,_90210> <http://dbpedia.org/property/channel> <http://dbpedia.org/resource/Fox_Broadcasting_Company> .
+<http://dbpedia.org/resource/Beverly_Hills,_90210> <http://dbpedia.org/property/genre> <http://dbpedia.org/resource/Teen_drama> .

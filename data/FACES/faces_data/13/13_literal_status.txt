@@ -1,0 +1,55 @@
+Amsterdam	parts	AmsterdamZuid	Amsterdam-Zuid	resource
+Amsterdam	leaderName	EricvanderBurg	Eric_van_der_Burg	resource
+Amsterdam	isPrimaryTopicOf	Amsterdam	Amsterdam	resource
+Amsterdam	populationBlank1Title	Randstad	Randstad	resource
+Amsterdam	parts	AmsterdamWest	Amsterdam-West	resource
+Amsterdam	leaderName	PieterHilhorst	Pieter_Hilhorst	resource
+Amsterdam	hasPhotoCollection	Amsterdam	Amsterdam	resource
+Amsterdam	leaderName	EricWiebes	Eric Wiebes	resource
+Amsterdam	leaderName	MaartenvanPoelgeest	Maarten_van_Poelgeest	resource
+Amsterdam	country	Netherlands	Netherlands	resource
+Amsterdam	leaderName	FreekOssel	Freek_Ossel	resource
+Amsterdam	parts	AmsterdamNieuwWest	Amsterdam Nieuw-West	resource
+Amsterdam	timeZone	CentralEuropeanSummerTime	Central European Summer Time	resource
+Amsterdam	leaderName	EricWiebes	Eric Wiebes	resource
+Amsterdam	leaderParty	LabourParty(Netherlands)	Labour Party (Netherlands)	resource
+Amsterdam	leaderName	PieterHilhorst	Pieter_Hilhorst	resource
+Amsterdam	isPartOf	NorthHolland	North Holland	resource
+Amsterdam	depiction	AmsterdamCollage.png	Amsterdam_Collage.png	resource
+Amsterdam	link	1349	http://whc.unesco.org/en/list/1349/	resource
+Amsterdam	leaderName	Andr%C3%A9evanEs	Andr%C3%A9e_van_Es	resource
+Amsterdam	thumbnail	200pxAmsterdamCollage.png	200px-Amsterdam_Collage.png	resource
+Amsterdam	motto	CoatofarmsofAmsterdam	Coat of arms of Amsterdam	resource
+Amsterdam	leaderTitle	ListofmayorsofAmsterdam	List of mayors of Amsterdam	resource
+Amsterdam	timeZone	CentralEuropeanTime	Central European Time	resource
+Amsterdam	leaderName	CarolienGehrels	Carolien_Gehrels	resource
+Amsterdam	subdivisionName	Netherlands	Netherlands	resource
+Amsterdam	parts	AmsterdamOost	Amsterdam-Oost	resource
+Amsterdam	stateParty	Netherlands	Netherlands	resource
+Amsterdam	leaderName	EberhardvanderLaan	Eberhard van der Laan	resource
+Amsterdam	postalCodeType	ListofpostalcodesintheNetherlands	List of postal codes in the Netherlands	resource
+Amsterdam	leaderName	MaartenvanPoelgeest	Maarten_van_Poelgeest	resource
+Amsterdam	parts	AmsterdamZuidoost	Amsterdam-Zuidoost	resource
+Amsterdam	region	ListofWorldHeritageSites	List of World Heritage Sites	resource
+Amsterdam	subdivisionName	NorthHolland	North Holland	resource
+Amsterdam	populationBlank1Title	Demonym	Demonym	resource
+Amsterdam	homepage	www.amsterdam.nl	http://www.amsterdam.nl/	resource
+Amsterdam	leaderName	EricvanderBurg	Eric_van_der_Burg	resource
+Amsterdam	parts	Westpoort	Westpoort	resource
+Amsterdam	region	ListofWorldHeritageSitesinEurope	List of World Heritage Sites in Europe	resource
+Amsterdam	wasDerivedFrom	Amsterdam?oldid=548577509	Amsterdam?oldid=548577509	resource
+Amsterdam	parts	AmsterdamNoord	Amsterdam-Noord	resource
+Amsterdam	subdivisionType	COROP	COROP	resource
+Amsterdam	leaderParty	LabourParty(Netherlands)	Labour Party (Netherlands)	resource
+Amsterdam	parts	AmsterdamCentrum	Amsterdam-Centrum	resource
+Amsterdam	leaderName	FreekOssel	Freek_Ossel	resource
+Amsterdam	website	www.amsterdam.nl	http://www.amsterdam.nl/	resource
+Amsterdam	url	Amsterdam%2CHolland	Amsterdam%2C_Holland	resource
+Amsterdam	partsType	Stadsdeel	Stadsdeel	resource
+Amsterdam	isPartOf	Amsterdam(VOCship)	Amsterdam (VOC ship)	resource
+Amsterdam	leaderName	CarolienGehrels	Carolien_Gehrels	resource
+Amsterdam	leaderTitle	Wethouder	Wethouder	resource
+Amsterdam	leaderName	EberhardvanderLaan	Eberhard van der Laan	resource
+Amsterdam	partsType	UrbandistrictsofNetherlands	Urban districts of Netherlands	resource
+Amsterdam	leaderTitle	Collegevanburgemeesterenwethouders	College van burgemeester en wethouders	resource
+Amsterdam	leaderName	Andr%C3%A9evanEs	Andr%C3%A9e_van_Es	resource

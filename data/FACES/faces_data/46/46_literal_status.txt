@@ -1,0 +1,19 @@
+J.C.Penney	areaServed	UnitedStates	United States	resource
+J.C.Penney	tradedAs	S&P500	S&P 500	resource
+J.C.Penney	regionServed	UnitedStates	United States	resource
+J.C.Penney	foundedBy	JamesCashPenney	James Cash Penney	resource
+J.C.Penney	keyPerson	RonJohnson(businessman)	Ron Johnson (businessman)	resource
+J.C.Penney	keyPeople	RonJohnson(businessman)	Ron Johnson (businessman)	resource
+J.C.Penney	homepage	www.jcpenney.com	http://www.jcpenney.com/	resource
+J.C.Penney	homepage	www.jcpenney.com	http://www.jcpenney.com/	resource
+J.C.Penney	thumbnail	200pxJCPenney2012logo.svg.png	200px-JCPenney_2012_logo.svg.png	resource
+J.C.Penney	isPrimaryTopicOf	J.C.Penney	J._C._Penney	resource
+J.C.Penney	location	Plano,Texas	Plano, Texas	resource
+J.C.Penney	industry	Retail	Retail	resource
+J.C.Penney	type	Publiccompany	Public company	resource
+J.C.Penney	depiction	JCPenney2012logo.svg	JCPenney_2012_logo.svg	resource
+J.C.Penney	hasPhotoCollection	J.C.Penney	J._C._Penney	resource
+J.C.Penney	founder	JamesCashPenney	James Cash Penney	resource
+J.C.Penney	industry	Retail	Retail	resource
+J.C.Penney	wasDerivedFrom	J.C.Penney?oldid=548607298	J._C._Penney?oldid=548607298	resource
+J.C.Penney	type	Publiccompany	Public company	resource

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Baywatch> <http://dbpedia.org/ontology/network> <http://dbpedia.org/resource/NBC> .
+<http://dbpedia.org/resource/Baywatch> <http://dbpedia.org/property/genre> <http://dbpedia.org/resource/Action_(fiction)> .
+<http://dbpedia.org/resource/Baywatch> <http://xmlns.com/foaf/0.1/depiction> <http://upload.wikimedia.org/wikipedia/commons/6/68/Baywatch_logo.jpg> .
+<http://dbpedia.org/resource/Baywatch> <http://dbpedia.org/property/creator> <http://dbpedia.org/resource/Michael_Berk> .
+<http://dbpedia.org/resource/Baywatch> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Santa_Monica,_California> .

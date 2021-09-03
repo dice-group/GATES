@@ -1,0 +1,52 @@
+FriedrichEngel(mathematician)	deathPlace	Hessen	Hessen	resource
+FriedrichEngel(mathematician)	birthPlace	GermanConfederation	German Confederation	resource
+FriedrichEngel(mathematician)	birthPlace	KingdomofSaxony	Kingdom of Saxony	resource
+FriedrichEngel(mathematician)	deathPlace	Giessen	Giessen	resource
+FriedrichEngel(mathematician)	birthPlace	GermanConfederation	German Confederation	resource
+FriedrichEngel(mathematician)	knownFor	Engelexpansion	Engel expansion	resource
+FriedrichEngel(mathematician)	almaMater	HumboldtUniversityofBerlin	Humboldt University of Berlin	resource
+FriedrichEngel(mathematician)	isPrimaryTopicOf	FriedrichEngel(mathematician)	Friedrich_Engel_(mathematician)	resource
+FriedrichEngel(mathematician)	knownFor	Engel'stheorem	Engel's theorem	resource
+FriedrichEngel(mathematician)	birthPlace	Germany	Germany	resource
+FriedrichEngel(mathematician)	deathPlace	Germany	Germany	resource
+FriedrichEngel(mathematician)	birthPlace	Lugau	Lugau	resource
+FriedrichEngel(mathematician)	knownFor	Engeltheorem	Engel theorem	resource
+FriedrichEngel(mathematician)	knownFor	Engelexpansion	Engel expansion	resource
+FriedrichEngel(mathematician)	deathPlace	Hessen	Hessen	resource
+FriedrichEngel(mathematician)	almaMater	LeipzigUniversity	Leipzig University	resource
+FriedrichEngel(mathematician)	deathPlace	Giessen	Giessen	resource
+FriedrichEngel(mathematician)	almaMater	UniversityofBerlin	University of Berlin	resource
+FriedrichEngel(mathematician)	workplaces	UniversityofGreifswald	University of Greifswald	resource
+FriedrichEngel(mathematician)	knownFor	Engelgroup	Engel group	resource
+FriedrichEngel(mathematician)	placeOfDeath	Germany	Germany	resource
+FriedrichEngel(mathematician)	workplaces	UniversityofGiessen	University of Giessen	resource
+FriedrichEngel(mathematician)	almaMater	HumboldtUniversityofBerlin	Humboldt University of Berlin	resource
+FriedrichEngel(mathematician)	placeOfBirth	Germany	Germany	resource
+FriedrichEngel(mathematician)	placeOfDeath	Hessen	Hessen	resource
+FriedrichEngel(mathematician)	workplaces	UniversityofLeipzig	University of Leipzig	resource
+FriedrichEngel(mathematician)	placeOfDeath	Giessen	Giessen	resource
+FriedrichEngel(mathematician)	fields	Mathematics	Mathematics	resource
+FriedrichEngel(mathematician)	placeOfBirth	Saxony	Saxony	resource
+FriedrichEngel(mathematician)	deathPlace	Hesse	Hesse	resource
+FriedrichEngel(mathematician)	almaMater	LeipzigUniversity	Leipzig University	resource
+FriedrichEngel(mathematician)	wasDerivedFrom	FriedrichEngel(mathematician)?oldid=546766827	Friedrich_Engel_(mathematician)?oldid=546766827	resource
+FriedrichEngel(mathematician)	almaMater	UniversityofBerlin	University of Berlin	resource
+FriedrichEngel(mathematician)	deathPlace	Hesse	Hesse	resource
+FriedrichEngel(mathematician)	almaMater	UniversityofLeipzig	University of Leipzig	resource
+FriedrichEngel(mathematician)	almaMater	UniversityofLeipzig	University of Leipzig	resource
+FriedrichEngel(mathematician)	field	Mathematics	Mathematics	resource
+FriedrichEngel(mathematician)	knownFor	Engelgroup	Engel group	resource
+FriedrichEngel(mathematician)	deathPlace	Germany	Germany	resource
+FriedrichEngel(mathematician)	birthPlace	Saxony	Saxony	resource
+FriedrichEngel(mathematician)	placeOfDeath	Hesse	Hesse	resource
+FriedrichEngel(mathematician)	doctoralStudent	AbrahamPlessner	Abraham Plessner	resource
+FriedrichEngel(mathematician)	knownFor	Engel'stheorem	Engel's theorem	resource
+FriedrichEngel(mathematician)	doctoralAdvisor	FelixKlein	Felix Klein	resource
+FriedrichEngel(mathematician)	doctoralStudents	AbrahamPlessner	Abraham Plessner	resource
+FriedrichEngel(mathematician)	workplaces	LeipzigUniversity	Leipzig University	resource
+FriedrichEngel(mathematician)	birthPlace	KingdomofSaxony	Kingdom of Saxony	resource
+FriedrichEngel(mathematician)	birthPlace	Lugau	Lugau	resource
+FriedrichEngel(mathematician)	doctoralAdvisor	FelixKlein	Felix Klein	resource
+FriedrichEngel(mathematician)	knownFor	Engeltheorem	Engel theorem	resource
+FriedrichEngel(mathematician)	placeOfBirth	Lugau	Lugau	resource
+FriedrichEngel(mathematician)	hasPhotoCollection	FriedrichEngel(mathematician)	Friedrich_Engel_(mathematician)	resource

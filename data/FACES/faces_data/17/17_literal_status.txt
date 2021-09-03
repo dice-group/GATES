@@ -1,0 +1,62 @@
+ManchesterCityF.C.	ground	CityofManchesterStadium	City of Manchester Stadium	resource
+ManchesterCityF.C.	name	RichardWright(footballer)	Richard Wright (footballer)	resource
+ManchesterCityF.C.	name	MaiconSisenando	Maicon Sisenando	resource
+ManchesterCityF.C.	name	JamesMilner	James Milner	resource
+ManchesterCityF.C.	name	JackRodwell	Jack Rodwell	resource
+ManchesterCityF.C.	name	LucaScapuzzi	Luca Scapuzzi	resource
+ManchesterCityF.C.	name	JohnGuidetti	John Guidetti	resource
+ManchesterCityF.C.	name	ReeceWabara	Reece Wabara	resource
+ManchesterCityF.C.	name	JoleonLescott	Joleon Lescott	resource
+ManchesterCityF.C.	wasDerivedFrom	ManchesterCityF.C.?oldid=547226848	Manchester_City_F.C.?oldid=547226848	resource
+ManchesterCityF.C.	name	AbdisalamIbrahim	Abdisalam Ibrahim	resource
+ManchesterCityF.C.	name	DenisSu%C3%A1rez	Denis_Su%C3%A1rez	resource
+ManchesterCityF.C.	website	www.mcfc.co.uk	http://www.mcfc.co.uk/	resource
+ManchesterCityF.C.	name	EdinD%C5%BEeko	Edin_D%C5%BEeko	resource
+ManchesterCityF.C.	hasPhotoCollection	ManchesterCityF.C.	Manchester_City_F.C.	resource
+ManchesterCityF.C.	name	RoqueSantaCruz	Roque Santa Cruz	resource
+ManchesterCityF.C.	owner	MansourbinZayedAlNahyan	Mansour bin Zayed Al Nahyan	resource
+ManchesterCityF.C.	depiction	ManchesterCity.svg	Manchester_City.svg	resource
+ManchesterCityF.C.	name	DedryckBoyata	Dedryck Boyata	resource
+ManchesterCityF.C.	owner	Sheikh	Sheikh	resource
+ManchesterCityF.C.	manager	RobertoMancini	Roberto Mancini	resource
+ManchesterCityF.C.	other	Captain(associationfootball)	Captain (association football)	resource
+ManchesterCityF.C.	name	AleksandarKolarov	Aleksandar Kolarov	resource
+ManchesterCityF.C.	homepage	www.mcfc.co.uk	http://www.mcfc.co.uk/	resource
+ManchesterCityF.C.	name	GarethBarry	Gareth Barry	resource
+ManchesterCityF.C.	name	Ga%C3%ABlClichy	Ga%C3%ABl_Clichy	resource
+ManchesterCityF.C.	name	DavidSilva	David Silva	resource
+ManchesterCityF.C.	league	PremierLeague	Premier League	resource
+ManchesterCityF.C.	name	PabloZabaleta	Pablo Zabaleta	resource
+ManchesterCityF.C.	s	scottishfootball.cfm?curpageid=688	scottish_football.cfm?curpageid=688	resource
+ManchesterCityF.C.	ground	CityofManchesterStadium	City of Manchester Stadium	resource
+ManchesterCityF.C.	name	ScottSinclair	Scott Sinclair	resource
+ManchesterCityF.C.	chairman	KhaldoonAlMubarak	Khaldoon Al Mubarak	resource
+ManchesterCityF.C.	name	JoeHart	Joe Hart	resource
+ManchesterCityF.C.	league	PremierLeague	Premier League	resource
+ManchesterCityF.C.	isPrimaryTopicOf	ManchesterCityF.C.	Manchester_City_F.C.	resource
+ManchesterCityF.C.	ceo	FerranSoriano	Ferran Soriano	resource
+ManchesterCityF.C.	name	AbdulRazak(footballer)	Abdul Razak (footballer)	resource
+ManchesterCityF.C.	name	CarlosT%C3%A9vez	Carlos_T%C3%A9vez	resource
+ManchesterCityF.C.	name	YayaTour%C3%A9	Yaya_Tour%C3%A9	resource
+ManchesterCityF.C.	season	2011%E2%80%9312PremierLeague	2011%E2%80%9312_Premier_League	resource
+ManchesterCityF.C.	thumbnail	200pxManchesterCity.svg.png	200px-Manchester_City.svg.png	resource
+ManchesterCityF.C.	name	KarimRekik	Karim Rekik	resource
+ManchesterCityF.C.	chairman	KhaldoonAlMubarak	Khaldoon Al Mubarak	resource
+ManchesterCityF.C.	name	MicahRichards	Micah Richards	resource
+ManchesterCityF.C.	name	CostelPantilimon	Costel Pantilimon	resource
+ManchesterCityF.C.	ceo	FerranSoriano	Ferran Soriano	resource
+ManchesterCityF.C.	name	MatijaNastasi%C4%87	Matija_Nastasi%C4%87	resource
+ManchesterCityF.C.	name	SergioAg%C3%BCero	Sergio_Ag%C3%BCero	resource
+ManchesterCityF.C.	name	J%C3%A9r%C3%A9myH%C3%A9lan	J%C3%A9r%C3%A9my_H%C3%A9lan	resource
+ManchesterCityF.C.	s	PastPlayers	Past-Players	resource
+ManchesterCityF.C.	name	WayneBridge	Wayne Bridge	resource
+ManchesterCityF.C.	name	AlexNimely	Alex Nimely	resource
+ManchesterCityF.C.	name	SamirNasri	Samir Nasri	resource
+ManchesterCityF.C.	name	RyanMcGivern(footballer)	Ryan McGivern (footballer)	resource
+ManchesterCityF.C.	name	Maicon(footballerborn1981)	Maicon (footballer born 1981)	resource
+ManchesterCityF.C.	name	JaviGarc%C3%ADa	Javi_Garc%C3%ADa	resource
+ManchesterCityF.C.	name	MarcosLopes	Marcos Lopes	resource
+ManchesterCityF.C.	name	VincentKompany	Vincent Kompany	resource
+ManchesterCityF.C.	manager	RobertoMancini	Roberto Mancini	resource
+ManchesterCityF.C.	s	profiles	http://www.nationalfootballmuseum.com/hall-of-fame/profiles/	resource
+ManchesterCityF.C.	name	KoloTour%C3%A9	Kolo_Tour%C3%A9	resource

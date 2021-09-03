@@ -1,0 +1,34 @@
+Lexus	industry	Automotive	Automotive	resource
+Lexus	industry	Automotive	Automotive	resource
+Lexus	foundedBy	EijiToyoda	Eiji Toyoda	resource
+Lexus	thumbnail	200pxLexusdivisionemblem.svg.png	200px-Lexus_division_emblem.svg.png	resource
+Lexus	division	LexusF	Lexus F	resource
+Lexus	location	Nagoya	Nagoya	resource
+Lexus	location	Japan	Japan	resource
+Lexus	service	Financialservices	Financial services	resource
+Lexus	homepage	www.lexusglobal.com	http://www.lexus-global.com/	resource
+Lexus	depiction	Lexusdivisionemblem.svg	Lexus_division_emblem.svg	resource
+Lexus	type	Division(business)	Division (business)	resource
+Lexus	owner	Toyota	Toyota	resource
+Lexus	keyPerson	Managingdirector	Managing director	resource
+Lexus	founder	EijiToyoda	Eiji Toyoda	resource
+Lexus	hasPhotoCollection	Lexus	Lexus	resource
+Lexus	products	Automobiles	Automobiles	resource
+Lexus	divisions	LexusF	Lexus F	resource
+Lexus	industry	Automotiveindustry	Automotive industry	resource
+Lexus	product	Automobiles	Automobiles	resource
+Lexus	keyPerson	VicePresident	Vice President	resource
+Lexus	owner	Toyota	Toyota	resource
+Lexus	isPrimaryTopicOf	Lexus	Lexus	resource
+Lexus	type	Division(business)	Division (business)	resource
+Lexus	homepage	www.lexusglobal.com	http://www.lexus-global.com/	resource
+Lexus	keyPerson	Vicepresident	Vice president	resource
+Lexus	location	Nagoya	Nagoya	resource
+Lexus	industry	Automotiveindustry	Automotive industry	resource
+Lexus	owningCompany	Toyota	Toyota	resource
+Lexus	services	Financialservices	Financial services	resource
+Lexus	keyPerson	Chiefexecutiveofficer	Chief executive officer	resource
+Lexus	location	Japan	Japan	resource
+Lexus	products	Automobile	Automobile	resource
+Lexus	product	Automobile	Automobile	resource
+Lexus	wasDerivedFrom	Lexus?oldid=543119450	Lexus?oldid=543119450	resource

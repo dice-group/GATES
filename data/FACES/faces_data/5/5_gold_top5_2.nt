@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Richard_Mentor_Johnson> <http://dbpedia.org/property/state> <http://dbpedia.org/resource/Kentucky> .
+<http://dbpedia.org/resource/Richard_Mentor_Johnson> <http://dbpedia.org/ontology/termPeriod> <http://dbpedia.org/resource/Richard_Mentor_Johnson__2> .
+<http://dbpedia.org/resource/Richard_Mentor_Johnson> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/Democratic_Party_(United_States)> .
+<http://dbpedia.org/resource/Richard_Mentor_Johnson> <http://dbpedia.org/property/title> <http://dbpedia.org/resource/Vice_President_of_the_United_States> .
+<http://dbpedia.org/resource/Richard_Mentor_Johnson> <http://dbpedia.org/ontology/president> <http://dbpedia.org/resource/Martin_Van_Buren> .

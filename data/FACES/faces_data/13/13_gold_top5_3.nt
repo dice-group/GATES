@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Amsterdam> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Netherlands> .
+<http://dbpedia.org/resource/Amsterdam> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/Central_European_Time> .
+<http://dbpedia.org/resource/Amsterdam> <http://dbpedia.org/property/populationBlank1Title> <http://dbpedia.org/resource/Randstad> .
+<http://dbpedia.org/resource/Amsterdam> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/North_Holland> .
+<http://dbpedia.org/resource/Amsterdam> <http://dbpedia.org/property/region> <http://dbpedia.org/resource/List_of_World_Heritage_Sites_in_Europe> .

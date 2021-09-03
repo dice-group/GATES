@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Aladdin_(1992_Disney_film)> <http://dbpedia.org/property/starring> <http://dbpedia.org/resource/Frank_Welker> .
+<http://dbpedia.org/resource/Aladdin_(1992_Disney_film)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Robin_Williams> .
+<http://dbpedia.org/resource/Aladdin_(1992_Disney_film)> <http://dbpedia.org/property/studio> <http://dbpedia.org/resource/Walt_Disney_Animation_Studios> .
+<http://dbpedia.org/resource/Aladdin_(1992_Disney_film)> <http://dbpedia.org/property/starring> <http://dbpedia.org/resource/Gilbert_Gottfried> .
+<http://dbpedia.org/resource/Aladdin_(1992_Disney_film)> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Aladdin_(1992_Disney_film)> .

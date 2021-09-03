@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Ann_Arbor,_Michigan> <http://dbpedia.org/property/website> <http://www.a2gov.org/> .
+<http://dbpedia.org/resource/Ann_Arbor,_Michigan> <http://dbpedia.org/property/hasPhotoCollection> <http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Ann_Arbor,_Michigan> .
+<http://dbpedia.org/resource/Ann_Arbor,_Michigan> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Michigan> .
+<http://dbpedia.org/resource/Ann_Arbor,_Michigan> <http://dbpedia.org/property/timezone> <http://dbpedia.org/resource/Eastern_Time_Zone> .
+<http://dbpedia.org/resource/Ann_Arbor,_Michigan> <http://dbpedia.org/ontology/leaderName> <http://dbpedia.org/resource/John_Hieftje> .

@@ -1,0 +1,28 @@
+England	format	Ogg	Ogg	resource
+England	patronSaint	SaintGeorge	Saint George	resource
+England	demonym	Englishpeople	English people	resource
+England	regionalLanguage	Cornishlanguage	Cornish language	resource
+England	hasPhotoCollection	England	England	resource
+England	leaderTitle	MonarchyoftheUnitedKingdom	Monarchy of the United Kingdom	resource
+England	cctld	.uk	.uk	resource
+England	isPrimaryTopicOf	England	England	resource
+England	leaderName	ElizabethII	Elizabeth II	resource
+England	callingCode	+44	+44	resource
+England	leaderTitle	PrimeMinisteroftheUnitedKingdom	Prime Minister of the United Kingdom	resource
+England	language	Englishlanguage	English language	resource
+England	capital	London	London	resource
+England	homepage	www.direct.gov.uk	http://www.direct.gov.uk/	resource
+England	depiction	FlagofEngland.svg	Flag_of_England.svg	resource
+England	wasDerivedFrom	England?oldid=548583105	England?oldid=548583105	resource
+England	language	Cornishlanguage	Cornish language	resource
+England	leaderName	ElizabethII	Elizabeth II	resource
+England	currency	Poundsterling	Pound sterling	resource
+England	officialLanguage	Englishlanguage	English language	resource
+England	regionalLanguages	Cornishlanguage	Cornish language	resource
+England	governmentType	Devolution	Devolution	resource
+England	callingCode	TelephonenumbersintheUnitedKingdom	Telephone numbers in the United Kingdom	resource
+England	thumbnail	200pxFlagofEngland.svg.png	200px-Flag_of_England.svg.png	resource
+England	legislature	ParliamentoftheUnitedKingdom	Parliament of the United Kingdom	resource
+England	source	WilliamShakespeare	William Shakespeare	resource
+England	currency	Poundsterling	Pound sterling	resource
+England	capital	London	London	resource

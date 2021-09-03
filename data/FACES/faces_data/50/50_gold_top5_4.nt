@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Joe_Biden> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/Democratic_Party_(United_States)> .
+<http://dbpedia.org/resource/Joe_Biden> <http://xmlns.com/foaf/0.1/homepage> <http://www.whitehouse.gov/administration/vice-president-biden/> .
+<http://dbpedia.org/resource/Joe_Biden> <http://dbpedia.org/ontology/spouse> <http://dbpedia.org/resource/Jill_Biden> .
+<http://dbpedia.org/resource/Joe_Biden> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Pennsylvania> .
+<http://dbpedia.org/resource/Joe_Biden> <http://dbpedia.org/ontology/profession> <http://dbpedia.org/resource/Lawyer> .

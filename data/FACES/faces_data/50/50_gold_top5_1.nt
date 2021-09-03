@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Joe_Biden> <http://xmlns.com/foaf/0.1/homepage> <http://www.twitter.com/joebiden/> .
+<http://dbpedia.org/resource/Joe_Biden> <http://xmlns.com/foaf/0.1/homepage> <http://www.whitehouse.gov/administration/vice-president-biden/> .
+<http://dbpedia.org/resource/Joe_Biden> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Joe_Biden> .
+<http://dbpedia.org/resource/Joe_Biden> <http://dbpedia.org/property/party> <http://dbpedia.org/resource/Democratic_Party_(United_States)> .
+<http://dbpedia.org/resource/Joe_Biden> <http://dbpedia.org/property/profession> <http://dbpedia.org/resource/Lawyer> .

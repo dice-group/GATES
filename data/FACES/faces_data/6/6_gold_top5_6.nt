@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Family_Feud> <http://dbpedia.org/ontology/format> <http://dbpedia.org/resource/Game_show> .
+<http://dbpedia.org/resource/Family_Feud> <http://dbpedia.org/property/presenter> <http://dbpedia.org/resource/Richard_Dawson> .
+<http://dbpedia.org/resource/Family_Feud> <http://dbpedia.org/property/creator> <http://dbpedia.org/resource/Mark_Goodson> .
+<http://dbpedia.org/resource/Family_Feud> <http://dbpedia.org/property/director> <http://dbpedia.org/resource/Paul_Alter> .
+<http://dbpedia.org/resource/Family_Feud> <http://dbpedia.org/property/network> <http://dbpedia.org/resource/CBS> .

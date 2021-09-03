@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/J._C._Penney> <http://dbpedia.org/property/homepage> <http://www.jcpenney.com/> .
+<http://dbpedia.org/resource/J._C._Penney> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Retail> .
+<http://dbpedia.org/resource/J._C._Penney> <http://dbpedia.org/property/areaServed> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/J._C._Penney> <http://dbpedia.org/property/keyPeople> <http://dbpedia.org/resource/Ron_Johnson_(businessman)> .
+<http://dbpedia.org/resource/J._C._Penney> <http://dbpedia.org/ontology/foundedBy> <http://dbpedia.org/resource/James_Cash_Penney> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Aladdin_(1992_Disney_film)> <http://dbpedia.org/property/distributor> <http://dbpedia.org/resource/Walt_Disney_Pictures> .
+<http://dbpedia.org/resource/Aladdin_(1992_Disney_film)> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Ron_Clements> .
+<http://dbpedia.org/resource/Aladdin_(1992_Disney_film)> <http://dbpedia.org/property/director> <http://dbpedia.org/resource/John_Musker> .
+<http://dbpedia.org/resource/Aladdin_(1992_Disney_film)> <http://dbpedia.org/property/hasPhotoCollection> <http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Aladdin_(1992_Disney_film)> .
+<http://dbpedia.org/resource/Aladdin_(1992_Disney_film)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Frank_Welker> .

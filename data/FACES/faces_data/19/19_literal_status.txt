@@ -1,0 +1,36 @@
+AnnArbor,Michigan	timezone	EasternTimeZone	Eastern Time Zone	resource
+AnnArbor,Michigan	leaderName	JohnHieftje	John Hieftje	resource
+AnnArbor,Michigan	south	Toledo,Ohio	Toledo, Ohio	resource
+AnnArbor,Michigan	subdivisionName	Michigan	Michigan	resource
+AnnArbor,Michigan	timeZone	EasternDaylightTime	Eastern Daylight Time	resource
+AnnArbor,Michigan	blankName	FederalInformationProcessingStandard	Federal Information Processing Standard	resource
+AnnArbor,Michigan	governmentType	CouncilManager	Council-Manager	resource
+AnnArbor,Michigan	timeZone	EasternTimeZone	Eastern Time Zone	resource
+AnnArbor,Michigan	leaderTitle	CityManager	City Manager	resource
+AnnArbor,Michigan	timezone	EasternTimeZone(NorthAmerica)	Eastern Time Zone (North America)	resource
+AnnArbor,Michigan	populationBlank1Title	Demonym	Demonym	resource
+AnnArbor,Michigan	wasDerivedFrom	AnnArbor,Michigan?oldid=547839304	Ann_Arbor,_Michigan?oldid=547839304	resource
+AnnArbor,Michigan	website	www.a2gov.org	http://www.a2gov.org/	resource
+AnnArbor,Michigan	leaderTitle	Citymanager	City manager	resource
+AnnArbor,Michigan	isPartOf	WashtenawCounty,Michigan	Washtenaw County, Michigan	resource
+AnnArbor,Michigan	homepage	www.a2gov.org	http://www.a2gov.org/	resource
+AnnArbor,Michigan	isPrimaryTopicOf	AnnArbor,Michigan	Ann_Arbor,_Michigan	resource
+AnnArbor,Michigan	governmentType	Council%E2%80%93managergovernment	Council%E2%80%93manager_government	resource
+AnnArbor,Michigan	hasPhotoCollection	AnnArbor,Michigan	Ann_Arbor,_Michigan	resource
+AnnArbor,Michigan	west	Jackson,Michigan	Jackson, Michigan	resource
+AnnArbor,Michigan	governmentType	CouncilManager	Council-Manager	resource
+AnnArbor,Michigan	thumbnail	200pxAnnarborskyline.jpg	200px-Annarborskyline.jpg	resource
+AnnArbor,Michigan	depiction	Annarborskyline.jpg	Annarborskyline.jpg	resource
+AnnArbor,Michigan	southwest	Adrian,Michigan	Adrian, Michigan	resource
+AnnArbor,Michigan	timezoneDst	EasternTimeZone	Eastern Time Zone	resource
+AnnArbor,Michigan	subdivisionType	ListofcountiesinMichigan	List of counties in Michigan	resource
+AnnArbor,Michigan	north	Flint,Michigan	Flint, Michigan	resource
+AnnArbor,Michigan	leaderName	JohnHieftje	John Hieftje	resource
+AnnArbor,Michigan	southeast	Monroe,Michigan	Monroe, Michigan	resource
+AnnArbor,Michigan	isPartOf	Michigan	Michigan	resource
+AnnArbor,Michigan	west	Kalamazoo,Michigan	Kalamazoo, Michigan	resource
+AnnArbor,Michigan	subdivisionName	WashtenawCounty,Michigan	Washtenaw County, Michigan	resource
+AnnArbor,Michigan	timeZone	EasternTimeZone(NorthAmerica)	Eastern Time Zone (North America)	resource
+AnnArbor,Michigan	governmentType	Council%E2%80%93managergovernment	Council%E2%80%93manager_government	resource
+AnnArbor,Michigan	timezoneDst	EasternDaylightTime	Eastern Daylight Time	resource
+AnnArbor,Michigan	northwest	Lansing,Michigan	Lansing, Michigan	resource

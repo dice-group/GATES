@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Candle_in_the_Wind> <http://dbpedia.org/property/fromAlbum> <http://dbpedia.org/resource/Goodbye_Yellow_Brick_Road> .
+<http://dbpedia.org/resource/Candle_in_the_Wind> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/Bernie_Taupin> .
+<http://dbpedia.org/resource/Candle_in_the_Wind> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Pop_rock> .
+<http://dbpedia.org/resource/Candle_in_the_Wind> <http://dbpedia.org/property/artist> <http://dbpedia.org/resource/Elton_John> .
+<http://dbpedia.org/resource/Candle_in_the_Wind> <http://dbpedia.org/property/writer> <http://dbpedia.org/resource/Elton_John> .

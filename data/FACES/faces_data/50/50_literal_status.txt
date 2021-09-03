@@ -1,0 +1,55 @@
+JoeBiden	birthPlace	Scranton,Pennsylvania	Scranton, Pennsylvania	resource
+JoeBiden	order	UnitedStatesSenateCommitteeonForeignRelations	United States Senate Committee on Foreign Relations	resource
+JoeBiden	website	joebiden	http://www.facebook.com/joebiden/	resource
+JoeBiden	successor	DianneFeinstein	Dianne Feinstein	resource
+JoeBiden	successor	OrrinHatch	Orrin Hatch	resource
+JoeBiden	website	joebiden	http://www.twitter.com/joebiden/	resource
+JoeBiden	birthPlace	Pennsylvania	Pennsylvania	resource
+JoeBiden	termPeriod	JoeBiden6	Joe_Biden__6	resource
+JoeBiden	residence	Wilmington,Delaware	Wilmington, Delaware	resource
+JoeBiden	wasDerivedFrom	JoeBiden?oldid=547812672	Joe_Biden?oldid=547812672	resource
+JoeBiden	successor	TedKaufman	Ted Kaufman	resource
+JoeBiden	president	BarackObama	Barack Obama	resource
+JoeBiden	profession	Lawyer	Lawyer	resource
+JoeBiden	termPeriod	JoeBiden1	Joe_Biden__1	resource
+JoeBiden	predecessor	StromThurmond	Strom Thurmond	resource
+JoeBiden	successor	JohnKerry	John Kerry	resource
+JoeBiden	successor	RichardLugar	Richard Lugar	resource
+JoeBiden	president	BarackObama	Barack Obama	resource
+JoeBiden	successor	JohnKerry	John Kerry	resource
+JoeBiden	order	InternationalNarcoticsControlCaucus	International Narcotics Control Caucus	resource
+JoeBiden	isPrimaryTopicOf	JoeBiden	Joe_Biden	resource
+JoeBiden	region	Delaware	Delaware	resource
+JoeBiden	successor	TedKaufman	Ted Kaufman	resource
+JoeBiden	spouse	JillBiden	Jill Biden	resource
+JoeBiden	order	UnitedStatesSenateCommitteeontheJudiciary	United States Senate Committee on the Judiciary	resource
+JoeBiden	termPeriod	JoeBiden3	Joe_Biden__3	resource
+JoeBiden	predecessor	RichardLugar	Richard Lugar	resource
+JoeBiden	thumbnail	200pxBiden2013.jpg	200px-Biden_2013.jpg	resource
+JoeBiden	predecessor	DickCheney	Dick Cheney	resource
+JoeBiden	termPeriod	JoeBiden2	Joe_Biden__2	resource
+JoeBiden	child	HunterBiden	Hunter Biden	resource
+JoeBiden	homepage	vicepresidentbiden	http://www.whitehouse.gov/administration/vice-president-biden/	resource
+JoeBiden	successor	RichardLugar	Richard Lugar	resource
+JoeBiden	homepage	joebiden	http://www.facebook.com/joebiden/	resource
+JoeBiden	depiction	Biden2013.jpg	Biden_2013.jpg	resource
+JoeBiden	profession	Lawyer	Lawyer	resource
+JoeBiden	successor	DianneFeinstein	Dianne Feinstein	resource
+JoeBiden	termPeriod	JoeBiden4	Joe_Biden__4	resource
+JoeBiden	successor	JesseHelms	Jesse Helms	resource
+JoeBiden	child	BeauBiden	Beau Biden	resource
+JoeBiden	party	DemocraticParty(UnitedStates)	Democratic Party (United States)	resource
+JoeBiden	hasPhotoCollection	JoeBiden	Joe_Biden	resource
+JoeBiden	predecessor	ChuckGrassley	Chuck Grassley	resource
+JoeBiden	website	vicepresidentbiden	http://www.whitehouse.gov/administration/vice-president-biden/	resource
+JoeBiden	homepage	joebiden	http://www.twitter.com/joebiden/	resource
+JoeBiden	predecessor	JesseHelms	Jesse Helms	resource
+JoeBiden	residence	NumberOneObservatoryCircle	Number One Observatory Circle	resource
+JoeBiden	successor	OrrinHatch	Orrin Hatch	resource
+JoeBiden	predecessor	J.CalebBoggs	J. Caleb Boggs	resource
+JoeBiden	religion	CatholicChurch	Catholic Church	resource
+JoeBiden	termPeriod	JoeBiden5	Joe_Biden__5	resource
+JoeBiden	party	DemocraticParty(UnitedStates)	Democratic Party (United States)	resource
+JoeBiden	state	Delaware	Delaware	resource
+JoeBiden	religion	CatholicChurch	Catholic Church	resource
+JoeBiden	successor	JesseHelms	Jesse Helms	resource

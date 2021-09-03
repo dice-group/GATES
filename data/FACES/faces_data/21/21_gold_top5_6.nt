@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/England> <http://dbpedia.org/property/demonym> <http://dbpedia.org/resource/English_people> .
+<http://dbpedia.org/resource/England> <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/Pound_sterling> .
+<http://dbpedia.org/resource/England> <http://dbpedia.org/ontology/leaderName> <http://dbpedia.org/resource/Elizabeth_II> .
+<http://dbpedia.org/resource/England> <http://dbpedia.org/ontology/capital> <http://dbpedia.org/resource/London> .
+<http://dbpedia.org/resource/England> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/England> .

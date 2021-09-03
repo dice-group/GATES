@@ -1,0 +1,57 @@
+WaltDisney	religion	Congregationalist	Congregationalist	resource
+WaltDisney	birthPlace	Hermosa,Chicago	Hermosa, Chicago	resource
+WaltDisney	awards	GoldenGlobeCecilB.DeMilleAward	Golden Globe Cecil B. DeMille Award	resource
+WaltDisney	residence	Burbank,California	Burbank, California	resource
+WaltDisney	birthPlace	Chicago,Illinois	Chicago, Illinois	resource
+WaltDisney	children	DianeDisneyMiller	Diane Disney Miller	resource
+WaltDisney	occupation	WaltDisney1	Walt_Disney__1	resource
+WaltDisney	occupation	TheWaltDisneyCompany	The Walt Disney Company	resource
+WaltDisney	deathPlace	Burbank,California	Burbank, California	resource
+WaltDisney	relation	RoyE.Disney	Roy E. Disney	resource
+WaltDisney	spouse	LillianDisney	Lillian Disney	resource
+WaltDisney	spouse	LillianDisney	Lillian Disney	resource
+WaltDisney	after	JimmyMacDonald(soundeffectsartist)	Jimmy MacDonald (sound effects artist)	resource
+WaltDisney	boards	TheWaltDisneyCompany	The Walt Disney Company	resource
+WaltDisney	party	RepublicanParty(UnitedStates)	Republican Party (United States)	resource
+WaltDisney	restingPlace	ForestLawnMemorialPark,Glendale	Forest Lawn Memorial Park, Glendale	resource
+WaltDisney	child	DianeDisneyMiller	Diane Disney Miller	resource
+WaltDisney	award	EmmyAward	Emmy Award	resource
+WaltDisney	family	RoyO.Disney	Roy O. Disney	resource
+WaltDisney	award	GoldenGlobeCecilB.DeMilleAward	Golden Globe Cecil B. DeMille Award	resource
+WaltDisney	children	Disneyfamily	Disney family	resource
+WaltDisney	children	SharonMaeDisney	Sharon Mae Disney	resource
+WaltDisney	party	RepublicanParty(UnitedStates)	Republican Party (United States)	resource
+WaltDisney	child	SharonMaeDisney	Sharon Mae Disney	resource
+WaltDisney	board	TheWaltDisneyCompany	The Walt Disney Company	resource
+WaltDisney	child	DianeMarieDisney	Diane Marie Disney	resource
+WaltDisney	birthPlace	Illinois	Illinois	resource
+WaltDisney	parents	EliasDisney	Elias Disney	resource
+WaltDisney	relations	RonW.Miller	Ron W. Miller	resource
+WaltDisney	relations	Disneyfamily	Disney family	resource
+WaltDisney	parent	EliasDisney	Elias Disney	resource
+WaltDisney	award	AcademyAward	Academy Award	resource
+WaltDisney	thumbnail	200pxWaltdisneyportrait.jpg	200px-Walt_disney_portrait.jpg	resource
+WaltDisney	hasPhotoCollection	WaltDisney	Walt_Disney	resource
+WaltDisney	restingPlace	Glendale,California	Glendale, California	resource
+WaltDisney	title	MickeyMouse	Mickey Mouse	resource
+WaltDisney	family	Disneyfamily	Disney family	resource
+WaltDisney	relations	RonaldWilliamMiller	Ronald William Miller	resource
+WaltDisney	children	DianeMarieDisney	Diane Marie Disney	resource
+WaltDisney	award	CecilB.DeMilleAward	Cecil B. DeMille Award	resource
+WaltDisney	child	Disneyfamily	Disney family	resource
+WaltDisney	relation	RonaldWilliamMiller	Ronald William Miller	resource
+WaltDisney	birthPlace	Chicago	Chicago	resource
+WaltDisney	religion	Congregationalchurch	Congregational church	resource
+WaltDisney	wasDerivedFrom	WaltDisney?oldid=545713691	Walt_Disney?oldid=545713691	resource
+WaltDisney	relation	Disneyfamily	Disney family	resource
+WaltDisney	relation	RonW.Miller	Ron W. Miller	resource
+WaltDisney	parent	FloraCallDisney	Flora_Call_Disney	resource
+WaltDisney	isPrimaryTopicOf	WaltDisney	Walt_Disney	resource
+WaltDisney	occupation	WaltDisney2	Walt_Disney__2	resource
+WaltDisney	hometown	Illinois	Illinois	resource
+WaltDisney	education	ListofschoolsinChicagoPublicSchools	List of schools in Chicago Public Schools	resource
+WaltDisney	parents	FloraCallDisney	Flora_Call_Disney	resource
+WaltDisney	awards	CecilB.DeMilleAward	Cecil B. DeMille Award	resource
+WaltDisney	relations	RoyE.Disney	Roy E. Disney	resource
+WaltDisney	depiction	Waltdisneyportrait.jpg	Walt_disney_portrait.jpg	resource
+WaltDisney	hometown	Chicago	Chicago	resource

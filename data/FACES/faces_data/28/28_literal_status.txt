@@ -1,0 +1,33 @@
+Seychelles	leaderName	JamesMichel	James Michel	resource
+Seychelles	governmentType	Presidentialsystem	Presidential system	resource
+Seychelles	callingCode	TelephonenumbersinSeychelles	Telephone numbers in Seychelles	resource
+Seychelles	anthem	KosteSeselwa	Koste Seselwa	resource
+Seychelles	hasPhotoCollection	Seychelles	Seychelles	resource
+Seychelles	callingCode	+248	+248	resource
+Seychelles	governmentType	Republic	Republic	resource
+Seychelles	legislature	NationalAssembly(Seychelles)	National Assembly (Seychelles)	resource
+Seychelles	cctld	.sc	.sc	resource
+Seychelles	governmentType	Unitarystate	Unitary state	resource
+Seychelles	capital	Victoria,Seychelles	Victoria, Seychelles	resource
+Seychelles	thumbnail	200pxFlagoftheSeychelles.svg.png	200px-Flag_of_the_Seychelles.svg.png	resource
+Seychelles	timeZone	SeychellesTime	Seychelles Time	resource
+Seychelles	currency	Seychelloisrupee	Seychellois rupee	resource
+Seychelles	leaderTitle	ListofPresidentsofSeychelles	List of Presidents of Seychelles	resource
+Seychelles	leaderTitle	PresidentofSeychelles	President of Seychelles	resource
+Seychelles	leaderTitle	VicePresidentofSeychelles	Vice President of Seychelles	resource
+Seychelles	source	WorldMeteorologicalOrganization	World Meteorological Organization	resource
+Seychelles	isPrimaryTopicOf	Seychelles	Seychelles	resource
+Seychelles	leaderName	DannyFaure	Danny Faure	resource
+Seychelles	currency	Seychelloisrupee	Seychellois rupee	resource
+Seychelles	language	SeychelloisCreole	Seychellois Creole	resource
+Seychelles	languages	SeychelloisCreole	Seychellois Creole	resource
+Seychelles	leaderName	JamesMichel	James Michel	resource
+Seychelles	wasDerivedFrom	Seychelles?oldid=547744333	Seychelles?oldid=547744333	resource
+Seychelles	sovereigntyType	Independence	Independence	resource
+Seychelles	depiction	FlagoftheSeychelles.svg	Flag_of_the_Seychelles.svg	resource
+Seychelles	governmentType	Unitarystate	Unitary state	resource
+Seychelles	capital	Victoria,Seychelles	Victoria, Seychelles	resource
+Seychelles	largestCity	Capitalcity	Capital city	resource
+Seychelles	largestCity	Capital(political)	Capital (political)	resource
+Seychelles	leaderName	DannyFaure	Danny Faure	resource
+Seychelles	governmentType	Representativedemocracy	Representative democracy	resource

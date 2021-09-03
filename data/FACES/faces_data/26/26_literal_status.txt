@@ -1,0 +1,38 @@
+ReignofFire(film)	starring	ChristianBale	Christian Bale	resource
+ReignofFire(film)	distributor	TouchstonePictures	Touchstone Pictures	resource
+ReignofFire(film)	music	EdwardShearmur	Edward Shearmur	resource
+ReignofFire(film)	starring	IzabellaScorupco	Izabella Scorupco	resource
+ReignofFire(film)	producer	RogerBirnbaum	Roger Birnbaum	resource
+ReignofFire(film)	director	RobBowman(director)	Rob Bowman (director)	resource
+ReignofFire(film)	editing	ThomNoble	Thom Noble	resource
+ReignofFire(film)	cinematography	AdrianBiddle	Adrian Biddle	resource
+ReignofFire(film)	producer	RichardD.Zanuck	Richard D. Zanuck	resource
+ReignofFire(film)	artist	EdwardShearmur	Edward Shearmur	resource
+ReignofFire(film)	director	RobBowman(filmmaker)	Rob Bowman (filmmaker)	resource
+ReignofFire(film)	director	RobBowman(director)	Rob Bowman (director)	resource
+ReignofFire(film)	country	RepublicofIreland	Republic of Ireland	resource
+ReignofFire(film)	musicComposer	MadatGravity	Mad at Gravity	resource
+ReignofFire(film)	starring	MatthewMcConaughey	Matthew McConaughey	resource
+ReignofFire(film)	producer	GaryBarber	Gary Barber	resource
+ReignofFire(film)	distributor	TouchstonePictures	Touchstone Pictures	resource
+ReignofFire(film)	producer	RogerBirnbaum	Roger Birnbaum	resource
+ReignofFire(film)	thumbnail	200pxReignofFiremovie.jpg	200px-Reign_of_Fire_movie.jpg	resource
+ReignofFire(film)	producer	RichardD.Zanuck	Richard D. Zanuck	resource
+ReignofFire(film)	writer	MattGreenberg	Matt Greenberg	resource
+ReignofFire(film)	studio	SpyglassEntertainment	Spyglass Entertainment	resource
+ReignofFire(film)	starring	ChristianBale	Christian Bale	resource
+ReignofFire(film)	hasPhotoCollection	ReignofFire(film)	Reign_of_Fire_(film)	resource
+ReignofFire(film)	starring	IzabellaScorupco	Izabella Scorupco	resource
+ReignofFire(film)	music	MadatGravity	Mad at Gravity	resource
+ReignofFire(film)	isPrimaryTopicOf	ReignofFire(film)	Reign_of_Fire_(film)	resource
+ReignofFire(film)	editing	ThomNoble	Thom Noble	resource
+ReignofFire(film)	screenplay	MattGreenberg	Matt Greenberg	resource
+ReignofFire(film)	depiction	ReignofFiremovie.jpg	Reign_of_Fire_movie.jpg	resource
+ReignofFire(film)	musicComposer	EdwardShearmur	Edward Shearmur	resource
+ReignofFire(film)	starring	GerardButler	Gerard Butler	resource
+ReignofFire(film)	wasDerivedFrom	ReignofFire(film)?oldid=540286162	Reign_of_Fire_(film)?oldid=540286162	resource
+ReignofFire(film)	cinematography	AdrianBiddle	Adrian Biddle	resource
+ReignofFire(film)	director	RobBowman(filmmaker)	Rob Bowman (filmmaker)	resource
+ReignofFire(film)	starring	MatthewMcConaughey	Matthew McConaughey	resource
+ReignofFire(film)	starring	GerardButler	Gerard Butler	resource
+ReignofFire(film)	producer	GaryBarber	Gary Barber	resource

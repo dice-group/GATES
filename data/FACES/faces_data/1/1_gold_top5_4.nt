@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/Democratic_Party_(United_States)> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Hawaii> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/spouse> <http://dbpedia.org/resource/Michelle_Obama> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/residence> <http://dbpedia.org/resource/White_House> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/almaMater> <http://dbpedia.org/resource/Columbia_University> .

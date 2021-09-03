@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Argo_(2012_film)> <http://dbpedia.org/property/director> <http://dbpedia.org/resource/Ben_Affleck> .
+<http://dbpedia.org/resource/Argo_(2012_film)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Alan_Arkin> .
+<http://dbpedia.org/resource/Argo_(2012_film)> <http://xmlns.com/foaf/0.1/depiction> <http://upload.wikimedia.org/wikipedia/commons/e/e1/Argo2012Poster.jpg> .
+<http://dbpedia.org/resource/Argo_(2012_film)> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Grant_Heslov> .
+<http://dbpedia.org/resource/Argo_(2012_film)> <http://dbpedia.org/ontology/distributor> <http://dbpedia.org/resource/Warner_Bros.> .

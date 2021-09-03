@@ -1,0 +1,39 @@
+MarieCurie	homepage	articles.php?aid=1113	articles.php?aid=1113	resource
+MarieCurie	doctoralStudent	%C3%93scarMoreno	%C3%93scar_Moreno	resource
+MarieCurie	knownFor	Radioactivedecay	Radioactive decay	resource
+MarieCurie	thumbnail	200pxMarieCuriec1920.png	200px-Marie_Curie_c1920.png	resource
+MarieCurie	spouse	PierreCurie	Pierre Curie	resource
+MarieCurie	doctoralStudent	Andr%C3%A9LouisDebierne	Andr%C3%A9-Louis_Debierne	resource
+MarieCurie	wasDerivedFrom	MarieCurie?oldid=547107936	Marie_Curie?oldid=547107936	resource
+MarieCurie	doctoralStudents	MargueritePerey	Marguerite Perey	resource
+MarieCurie	knownFor	Radioactivedecay	Radioactive decay	resource
+MarieCurie	almaMater	UniversityofParis	University of Paris	resource
+MarieCurie	field	Physics	Physics	resource
+MarieCurie	depiction	MarieCuriec1920.png	Marie_Curie_c1920.png	resource
+MarieCurie	doctoralStudents	%C3%93scarMoreno	%C3%93scar_Moreno	resource
+MarieCurie	deathPlace	Passy,HauteSavoie	Passy, Haute-Savoie	resource
+MarieCurie	field	Chemistry	Chemistry	resource
+MarieCurie	workInstitutions	UniversityofParis	University of Paris	resource
+MarieCurie	knownFor	Radium	Radium	resource
+MarieCurie	almaMater	ESPCIParisTech	ESPCI ParisTech	resource
+MarieCurie	doctoralStudent	MargueritePerey	Marguerite Perey	resource
+MarieCurie	doctoralAdvisor	HenriBecquerel	Henri Becquerel	resource
+MarieCurie	doctoralStudents	Andr%C3%A9LouisDebierne	Andr%C3%A9-Louis_Debierne	resource
+MarieCurie	almaMater	ESPCIParisTech	ESPCI ParisTech	resource
+MarieCurie	almaMater	ESPCI	ESPCI	resource
+MarieCurie	knownFor	Radioactivity	Radioactivity	resource
+MarieCurie	hasPhotoCollection	MarieCurie	Marie_Curie	resource
+MarieCurie	knownFor	Radioactivity	Radioactivity	resource
+MarieCurie	birthPlace	CongressPoland	Congress Poland	resource
+MarieCurie	spouse	PierreCurie	Pierre Curie	resource
+MarieCurie	knownFor	Polonium	Polonium	resource
+MarieCurie	knownFor	Polonium	Polonium	resource
+MarieCurie	almaMater	ESPCI	ESPCI	resource
+MarieCurie	birthPlace	RussianEmpire	Russian Empire	resource
+MarieCurie	isPrimaryTopicOf	MarieCurie	Marie_Curie	resource
+MarieCurie	knownFor	Radium	Radium	resource
+MarieCurie	field	Chemistry	Chemistry	resource
+MarieCurie	deathPlace	Sancellemoz	Sancellemoz	resource
+MarieCurie	doctoralAdvisor	HenriBecquerel	Henri Becquerel	resource
+MarieCurie	field	Physics	Physics	resource
+MarieCurie	birthPlace	Warsaw	Warsaw	resource

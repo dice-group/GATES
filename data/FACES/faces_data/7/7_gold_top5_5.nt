@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/John_Napier> <http://dbpedia.org/property/birthPlace> <http://dbpedia.org/resource/Edinburgh> .
+<http://dbpedia.org/resource/John_Napier> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Henry_Briggs_(mathematician)> .
+<http://dbpedia.org/resource/John_Napier> <http://dbpedia.org/property/religion> <http://dbpedia.org/resource/Church_of_Scotland> .
+<http://dbpedia.org/resource/John_Napier> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Mathematician> .
+<http://dbpedia.org/resource/John_Napier> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Scotland> .

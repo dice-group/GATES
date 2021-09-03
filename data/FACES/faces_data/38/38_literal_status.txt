@@ -1,0 +1,46 @@
+KnightRider(1982TVseries)	genre	U.S.televisionsciencefiction	U.S. television science fiction	resource
+KnightRider(1982TVseries)	composer	MortonStevens	Morton Stevens	resource
+KnightRider(1982TVseries)	voice	WilliamDaniels	William Daniels	resource
+KnightRider(1982TVseries)	format	Monaural	Monaural	resource
+KnightRider(1982TVseries)	related	CodeofVengeance	Code of Vengeance	resource
+KnightRider(1982TVseries)	company	UniversalTelevision	Universal Television	resource
+KnightRider(1982TVseries)	format	Monophonicsound	Monophonic sound	resource
+KnightRider(1982TVseries)	genre	Adventure(genre)	Adventure (genre)	resource
+KnightRider(1982TVseries)	network	NBC	NBC	resource
+KnightRider(1982TVseries)	starring	PatriciaMcPherson	Patricia McPherson	resource
+KnightRider(1982TVseries)	related	TeamKnightRider	Team Knight Rider	resource
+KnightRider(1982TVseries)	starring	RebeccaHolden	Rebecca Holden	resource
+KnightRider(1982TVseries)	thumbnail	200pxKnightlogo.png	200px-Knightlogo.png	resource
+KnightRider(1982TVseries)	themeMusicComposer	StuPhillips(composer)	Stu Phillips (composer)	resource
+KnightRider(1982TVseries)	company	UniversalTelevision	Universal Television	resource
+KnightRider(1982TVseries)	format	Stereophonicsound	Stereophonic sound	resource
+KnightRider(1982TVseries)	depiction	Knightlogo.png	Knightlogo.png	resource
+KnightRider(1982TVseries)	composer	MortonStevens	Morton Stevens	resource
+KnightRider(1982TVseries)	starring	DavidHasselhoff	David Hasselhoff	resource
+KnightRider(1982TVseries)	creator	GlenA.Larson	Glen A. Larson	resource
+KnightRider(1982TVseries)	genre	Adventure(genre)	Adventure (genre)	resource
+KnightRider(1982TVseries)	distributor	NBCUniversalTelevisionDistribution	NBC Universal Television Distribution	resource
+KnightRider(1982TVseries)	composer	StuPhillips(composer)	Stu Phillips (composer)	resource
+KnightRider(1982TVseries)	genre	Adventurefiction	Adventure fiction	resource
+KnightRider(1982TVseries)	wasDerivedFrom	KnightRider(1982TVseries)?oldid=544395569	Knight_Rider_(1982_TV_series)?oldid=544395569	resource
+KnightRider(1982TVseries)	isPrimaryTopicOf	KnightRider(1982TVseries)	Knight_Rider_(1982_TV_series)	resource
+KnightRider(1982TVseries)	executiveProducer	GlenA.Larson	Glen A. Larson	resource
+KnightRider(1982TVseries)	starring	EdwardMulhare	Edward Mulhare	resource
+KnightRider(1982TVseries)	starring	RebeccaHolden	Rebecca Holden	resource
+KnightRider(1982TVseries)	genre	Action(fiction)	Action (fiction)	resource
+KnightRider(1982TVseries)	genre	Action(fiction)	Action (fiction)	resource
+KnightRider(1982TVseries)	hasPhotoCollection	KnightRider(1982TVseries)	Knight_Rider_(1982_TV_series)	resource
+KnightRider(1982TVseries)	starring	PeterParros	Peter Parros	resource
+KnightRider(1982TVseries)	subsequentWork	KnightRider(2008TVseries)	Knight Rider (2008 TV series)	resource
+KnightRider(1982TVseries)	distributor	NBCUniversalTelevisionDistribution	NBCUniversal Television Distribution	resource
+KnightRider(1982TVseries)	genre	U.S.televisionsciencefiction	U.S. television science fiction	resource
+KnightRider(1982TVseries)	distributor	NBCUniversalTelevisionDistribution	NBCUniversal Television Distribution	resource
+KnightRider(1982TVseries)	starring	DavidHasselhoff	David Hasselhoff	resource
+KnightRider(1982TVseries)	narrator	RichardBasehart	Richard Basehart	resource
+KnightRider(1982TVseries)	starring	EdwardMulhare	Edward Mulhare	resource
+KnightRider(1982TVseries)	starring	PeterParros	Peter Parros	resource
+KnightRider(1982TVseries)	creator	GlenA.Larson	Glen A. Larson	resource
+KnightRider(1982TVseries)	network	NBC	NBC	resource
+KnightRider(1982TVseries)	genre	Adventurefiction	Adventure fiction	resource
+KnightRider(1982TVseries)	distributor	NBCUniversalTelevisionDistribution	NBC Universal Television Distribution	resource
+KnightRider(1982TVseries)	starring	PatriciaMcPherson	Patricia McPherson	resource

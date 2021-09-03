@@ -1,0 +1,40 @@
+MortalKombatTrilogy	developer	PointofView,Inc.	Point of View, Inc.	resource
+MortalKombatTrilogy	depiction	MKTBox.jpg	MKTBox.jpg	resource
+MortalKombatTrilogy	computingPlatform	Personalcomputer	Personal computer	resource
+MortalKombatTrilogy	publisher	GTInteractive	GT Interactive	resource
+MortalKombatTrilogy	designer	JohnTobias	John Tobias	resource
+MortalKombatTrilogy	publisher	MidwayGames	Midway Games	resource
+MortalKombatTrilogy	computingPlatform	PlayStation(console)	PlayStation (console)	resource
+MortalKombatTrilogy	media	CDROM	CD-ROM	resource
+MortalKombatTrilogy	computingPlatform	SegaSaturn	Sega Saturn	resource
+MortalKombatTrilogy	wasDerivedFrom	MortalKombatTrilogy?oldid=541603965	Mortal_Kombat_Trilogy?oldid=541603965	resource
+MortalKombatTrilogy	media	ROMcartridge	ROM cartridge	resource
+MortalKombatTrilogy	platforms	SegaSaturn	Sega Saturn	resource
+MortalKombatTrilogy	hasPhotoCollection	MortalKombatTrilogy	Mortal_Kombat_Trilogy	resource
+MortalKombatTrilogy	publisher	SoftBank	SoftBank	resource
+MortalKombatTrilogy	publisher	SoftBank	SoftBank	resource
+MortalKombatTrilogy	publisher	GTInteractiveSoftware	GT Interactive Software	resource
+MortalKombatTrilogy	thumbnail	200pxMKTBox.jpg	200px-MKTBox.jpg	resource
+MortalKombatTrilogy	developer	AvalancheSoftware	Avalanche Software	resource
+MortalKombatTrilogy	developer	PointofView,Inc.	Point of View, Inc.	resource
+MortalKombatTrilogy	computingPlatform	RZone	R-Zone	resource
+MortalKombatTrilogy	publisher	WMSIndustries	WMS Industries	resource
+MortalKombatTrilogy	publisher	MidwayGames	Midway Games	resource
+MortalKombatTrilogy	platforms	Personalcomputer	Personal computer	resource
+MortalKombatTrilogy	publisher	GTInteractive	GT Interactive	resource
+MortalKombatTrilogy	designer	EdBoon	Ed Boon	resource
+MortalKombatTrilogy	genre	Fightinggame	Fighting game	resource
+MortalKombatTrilogy	computingPlatform	Game.com	Game.com	resource
+MortalKombatTrilogy	genre	Fightinggame	Fighting game	resource
+MortalKombatTrilogy	publisher	WMSIndustries	WMS Industries	resource
+MortalKombatTrilogy	computingPlatform	Nintendo64	Nintendo 64	resource
+MortalKombatTrilogy	platforms	PlayStation(console)	PlayStation (console)	resource
+MortalKombatTrilogy	platforms	RZone	R-Zone	resource
+MortalKombatTrilogy	publisher	GTInteractiveSoftware	GT Interactive Software	resource
+MortalKombatTrilogy	computingMedia	CDROM	CD-ROM	resource
+MortalKombatTrilogy	series	MortalKombat	Mortal Kombat	resource
+MortalKombatTrilogy	computingMedia	ROMcartridge	ROM cartridge	resource
+MortalKombatTrilogy	platforms	Game.com	Game.com	resource
+MortalKombatTrilogy	isPrimaryTopicOf	MortalKombatTrilogy	Mortal_Kombat_Trilogy	resource
+MortalKombatTrilogy	platforms	Nintendo64	Nintendo 64	resource
+MortalKombatTrilogy	developer	AvalancheSoftware	Avalanche Software	resource

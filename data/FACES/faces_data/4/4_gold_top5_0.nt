@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Bill_Gates> <http://dbpedia.org/property/almaMater> <http://dbpedia.org/resource/Harvard_University> .
+<http://dbpedia.org/resource/Bill_Gates> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Microsoft> .
+<http://dbpedia.org/resource/Bill_Gates> <http://dbpedia.org/ontology/residence> <http://dbpedia.org/resource/Medina,_Washington> .
+<http://dbpedia.org/resource/Bill_Gates> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Bill_&_Melinda_Gates_Foundation> .
+<http://dbpedia.org/resource/Bill_Gates> <http://dbpedia.org/property/title> <http://dbpedia.org/resource/List_of_billionaires> .

@@ -1,0 +1,38 @@
+LoveMe(JustinBiebersong)	subsequentWork	FirstDance(song)	First Dance (song)	resource
+LoveMe(JustinBiebersong)	recordedIn	Cincinnati,Ohio	Cincinnati, Ohio	resource
+LoveMe(JustinBiebersong)	writer	PeterSvensson	Peter Svensson	resource
+LoveMe(JustinBiebersong)	writer	NinaPersson	Nina Persson	resource
+LoveMe(JustinBiebersong)	genre	Synthpop	Synthpop	resource
+LoveMe(JustinBiebersong)	label	IslandDefJamMusicGroup	Island Def Jam Music Group	resource
+LoveMe(JustinBiebersong)	recordedIn	Denver	Denver	resource
+LoveMe(JustinBiebersong)	recordedIn	Cincinnati	Cincinnati	resource
+LoveMe(JustinBiebersong)	recordLabel	TheIslandDefJamMusicGroup	The Island Def Jam Music Group	resource
+LoveMe(JustinBiebersong)	writer	TheSmeezingtons	The Smeezingtons	resource
+LoveMe(JustinBiebersong)	genre	Electropop	Electropop	resource
+LoveMe(JustinBiebersong)	isPrimaryTopicOf	LoveMe(JustinBiebersong)	Love_Me_(Justin_Bieber_song)	resource
+LoveMe(JustinBiebersong)	genre	Dancepop	Dance-pop	resource
+LoveMe(JustinBiebersong)	artist	JustinBieber	Justin Bieber	resource
+LoveMe(JustinBiebersong)	producer	DJFrankE	DJ Frank E	resource
+LoveMe(JustinBiebersong)	label	TheIslandDefJamMusicGroup	The Island Def Jam Music Group	resource
+LoveMe(JustinBiebersong)	format	Musicdownload	Music download	resource
+LoveMe(JustinBiebersong)	genre	Electropop	Electropop	resource
+LoveMe(JustinBiebersong)	type	Promotionalrecording	Promotional recording	resource
+LoveMe(JustinBiebersong)	genre	Synthpop	Synthpop	resource
+LoveMe(JustinBiebersong)	label	RBMG	RBMG	resource
+LoveMe(JustinBiebersong)	wasDerivedFrom	LoveMe(JustinBiebersong)?oldid=547160061	Love_Me_(Justin_Bieber_song)?oldid=547160061	resource
+LoveMe(JustinBiebersong)	genre	Dancepop	Dance-pop	resource
+LoveMe(JustinBiebersong)	writer	TheSmeezingtons	The Smeezingtons	resource
+LoveMe(JustinBiebersong)	album	MyWorld(EP)	My World (EP)	resource
+LoveMe(JustinBiebersong)	format	Ogg	Ogg	resource
+LoveMe(JustinBiebersong)	writer	PeterSvensson	Peter Svensson	resource
+LoveMe(JustinBiebersong)	recordedIn	Denver,Colorado	Denver, Colorado	resource
+LoveMe(JustinBiebersong)	artist	JustinBieber	Justin Bieber	resource
+LoveMe(JustinBiebersong)	previousWork	OneLessLonelyGirl	One Less Lonely Girl	resource
+LoveMe(JustinBiebersong)	hasPhotoCollection	LoveMe(JustinBiebersong)	Love_Me_(Justin_Bieber_song)	resource
+LoveMe(JustinBiebersong)	writer	NinaPersson	Nina Persson	resource
+LoveMe(JustinBiebersong)	thumbnail	200pxResizedjustinbieberlovemecover.jpg	200px-Resized_justin_bieber_love_me_cover.jpg	resource
+LoveMe(JustinBiebersong)	recordLabel	RBMG	RBMG	resource
+LoveMe(JustinBiebersong)	album	MyWorld(EP)	My World (EP)	resource
+LoveMe(JustinBiebersong)	type	Promotionalrecording	Promotional recording	resource
+LoveMe(JustinBiebersong)	recordLabel	IslandDefJamMusicGroup	Island Def Jam Music Group	resource
+LoveMe(JustinBiebersong)	depiction	Resizedjustinbieberlovemecover.jpg	Resized_justin_bieber_love_me_cover.jpg	resource

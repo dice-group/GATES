@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Lexus> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Lexus> .
+<http://dbpedia.org/resource/Lexus> <http://dbpedia.org/property/homepage> <http://www.lexus-global.com/> .
+<http://dbpedia.org/resource/Lexus> <http://dbpedia.org/property/owner> <http://dbpedia.org/resource/Toyota> .
+<http://dbpedia.org/resource/Lexus> <http://dbpedia.org/ontology/division> <http://dbpedia.org/resource/Lexus_F> .
+<http://dbpedia.org/resource/Lexus> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/Automobiles> .

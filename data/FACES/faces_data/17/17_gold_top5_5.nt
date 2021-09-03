@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Manchester_City_F.C.> <http://dbpedia.org/ontology/season> <http://dbpedia.org/resource/2011%E2%80%9312_Premier_League> .
+<http://dbpedia.org/resource/Manchester_City_F.C.> <http://dbpedia.org/ontology/ground> <http://dbpedia.org/resource/City_of_Manchester_Stadium> .
+<http://dbpedia.org/resource/Manchester_City_F.C.> <http://dbpedia.org/property/ceo> <http://dbpedia.org/resource/Ferran_Soriano> .
+<http://dbpedia.org/resource/Manchester_City_F.C.> <http://dbpedia.org/ontology/chairman> <http://dbpedia.org/resource/Khaldoon_Al_Mubarak> .
+<http://dbpedia.org/resource/Manchester_City_F.C.> <http://dbpedia.org/property/league> <http://dbpedia.org/resource/Premier_League> .
