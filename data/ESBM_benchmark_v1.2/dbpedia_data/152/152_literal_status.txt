@@ -1,0 +1,39 @@
+Fleckistock	locatedInArea	Switzerland	Switzerland	resource
+Fleckistock	locatedInArea	CantonofUri	Canton of Uri	resource
+Fleckistock	otherName	RotStock	Rot Stock	literal
+Fleckistock	thumbnail	Sustenhorn.b.Oct.2010.JPG?width=300	Sustenhorn.b.Oct.2010.JPG?width=300	resource
+Fleckistock	prominence	761.0	761.0	literal
+Fleckistock	label	Fleckistock	Fleckistock	literal
+Fleckistock	point	46.707361111111118.497666666666667	46.70736111111111 8.497666666666667	literal
+Fleckistock	mountainRange	UriAlps	Uri Alps	resource
+Fleckistock	depiction	Sustenhorn.b.Oct.2010.JPG	Sustenhorn.b.Oct.2010.JPG	resource
+Fleckistock	lat	46.70736	46.70736	literal
+Fleckistock	elevation	3417.0	3417.0	literal
+Fleckistock	type	Place	Place	resource
+Fleckistock	type	Location	Location	resource
+Fleckistock	type	MountainsOfTheAlps	MountainsOfTheAlps	resource
+Fleckistock	type	SpatialThing	wgs84_pos#SpatialThing	resource
+Fleckistock	type	NaturalElevation109366317	NaturalElevation109366317	resource
+Fleckistock	type	NaturalPlace	natural place	resource
+Fleckistock	type	GeologicalFormation109287968	GeologicalFormation109287968	resource
+Fleckistock	type	Mountain	Mountain	resource
+Fleckistock	type	Object100002684	Object100002684	resource
+Fleckistock	type	Thing	Thing	resource
+Fleckistock	type	Q8502	Q8502	resource
+Fleckistock	type	YagoGeoEntity	YagoGeoEntity	resource
+Fleckistock	type	MountainsOfSwitzerland	MountainsOfSwitzerland	resource
+Fleckistock	type	YagoPermanentlyLocatedEntity	YagoPermanentlyLocatedEntity	resource
+Fleckistock	type	Place	place	resource
+Fleckistock	type	PhysicalEntity100001930	PhysicalEntity100001930	resource
+Fleckistock	type	Mountain	mountain	resource
+Fleckistock	type	Mountain109359803	Mountain109359803	resource
+Fleckistock	long	8.497666	8.497666	literal
+Rorspitzli	parentMountainPeak	Fleckistock	Fleckistock	resource
+Salbitschijen	parentMountainPeak	Fleckistock	Fleckistock	resource
+Stucklistock	parentMountainPeak	Fleckistock	Fleckistock	resource
+Fleckistock	parentMountainPeak	Dammastock	Dammastock	resource
+Fleckistock	name	Fleckistock	Fleckistock	literal
+Fleckistock	subject	MountainsofthecantonofUri	Mountains of the canton of Uri	resource
+Fleckistock	subject	MountainsofSwitzerland	Mountains of Switzerland	resource
+Fleckistock	subject	MountainsoftheAlps	Mountains of the Alps	resource
+Fleckistock	subject	Alpinethreethousanders	Alpine three-thousanders	resource

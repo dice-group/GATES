@@ -1,0 +1,34 @@
+PhongThạnhTây	type	Village	village
+PhongThạnhTây	type	YagoPermanentlyLocatedEntity	 Yago  Permanently  Located  Entity 
+PhongThạnhTây	type	Q486972	human settlement
+PhongThạnhTây	type	PopulatedPlace	populated place
+PhongThạnhTây	type	Object100002684	 Object 100002684 
+PhongThạnhTây	type	Thing	Thing
+PhongThạnhTây	type	Tract108673395	 Tract 108673395 
+PhongThạnhTây	type	Location	 Location 
+PhongThạnhTây	type	Region108630985	 Region 108630985 
+PhongThạnhTây	type	PhysicalEntity100001930	 Physical  Entity 100001930 
+PhongThạnhTây	type	Settlement	settlement
+PhongThạnhTây	type	PopulatedPlacesInBacLieuProvince	 Populated  Places  In  Bac  Lieu  Province 
+PhongThạnhTây	type	YagoLegalActorGeo	 Yago  Legal  Actor  Geo 
+PhongThạnhTây	type	Place	place
+PhongThạnhTây	type	GeographicalArea108574314	 Geographical  Area 108574314 
+PhongThạnhTây	type	Commune108541609	 Commune 108541609 
+PhongThạnhTây	type	District108552138	 District 108552138 
+PhongThạnhTây	type	Place	 Place 
+PhongThạnhTây	type	Site108651247	 Site 108651247 
+PhongThạnhTây	type	CommunesOfBacLieuProvince	 Communes  Of  Bac  Lieu  Province 
+PhongThạnhTây	type	YagoGeoEntity	 Yago  Geo  Entity 
+PhongThạnhTây	type	AdministrativeDistrict108491826	 Administrative  District 108491826 
+PhongThạnhTây	type	Q532	village
+PhongThạnhTây	type	Location100027167	 Location 100027167 
+PhongThạnhTây	isPartOf	BạcLiêuProvince	Bạc Liêu Province
+PhongThạnhTây	isPartOf	GiáRaiDistrict	Giá Rai District
+PhongThạnhTây	timeZone	00	UTC+07:00
+PhongThạnhTây	name	PhongThạnhTây	Phong Thạnh Tây
+PhongThạnhTây	type	Communelevelsubdivisions(Vietnam)	Commune-level subdivisions (Vietnam)
+PhongThạnhTây	label	PhongThạnhTây	Phong Thạnh Tây
+PhongThạnhTây	country	Vietnam	Vietnam
+PhongThạnhTây	utcOffset	+7	+7
+PhongThạnhTây	subject	CommunesofBacLieuProvince	Communes of Bac Lieu Province
+PhongThạnhTây	subject	PopulatedplacesinBacLieuProvince	Populated places in Bac Lieu Province

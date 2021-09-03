@@ -1,0 +1,38 @@
+Sky(FayeWongalbum)	type	CreativeWork	CreativeWork	resource
+Sky(FayeWongalbum)	type	MusicAlbum	MusicAlbum	resource
+Sky(FayeWongalbum)	type	Thing	Thing	resource
+Sky(FayeWongalbum)	type	Q482994	Q482994	resource
+Sky(FayeWongalbum)	type	Q2188189	Q2188189	resource
+Sky(FayeWongalbum)	type	MusicalWork	musical work	resource
+Sky(FayeWongalbum)	type	Artifact100021939	Artifact100021939	resource
+Sky(FayeWongalbum)	type	CinepolyRecordsAlbums	CinepolyRecordsAlbums	resource
+Sky(FayeWongalbum)	type	Work	work	resource
+Sky(FayeWongalbum)	type	Medium106254669	Medium106254669	resource
+Sky(FayeWongalbum)	type	Album106591815	Album106591815	resource
+Sky(FayeWongalbum)	type	MandopopAlbums	MandopopAlbums	resource
+Sky(FayeWongalbum)	type	Q386724	Q386724	resource
+Sky(FayeWongalbum)	type	FayeWongAlbums	FayeWongAlbums	resource
+Sky(FayeWongalbum)	type	Instrumentality103575240	Instrumentality103575240	resource
+Sky(FayeWongalbum)	type	Object100002684	Object100002684	resource
+Sky(FayeWongalbum)	type	1994Albums	1994Albums	resource
+Sky(FayeWongalbum)	type	Whole100003553	Whole100003553	resource
+Sky(FayeWongalbum)	type	Album	album	resource
+Sky(FayeWongalbum)	type	PhysicalEntity100001930	PhysicalEntity100001930	resource
+RandomThoughts(FayeWongalbum)	subsequentWork	Sky(FayeWongalbum)	Sky (Faye Wong album)	resource
+Sky(FayeWongalbum)	subsequentWork	PleaseMyself	Please Myself	resource
+Sky(FayeWongalbum)	runtime	2819.0	2819.0	literal
+Sky(FayeWongalbum)	previousWork	RandomThoughts(FayeWongalbum)	Random Thoughts (Faye Wong album)	resource
+PleaseMyself	previousWork	Sky(FayeWongalbum)	Sky (Faye Wong album)	resource
+Sky(FayeWongalbum)	releaseDate	19941110	1994-11-10	literal
+Sky(FayeWongalbum)	artist	FayeWong	Faye Wong	resource
+Sky(FayeWongalbum)	name	TianKong(Sky)	Tian Kong (Sky)	literal
+Sky(FayeWongalbum)	recordLabel	SonyMusicEntertainment	Sony Music Entertainment	resource
+Sky(FayeWongalbum)	recordLabel	CinepolyRecords	Cinepoly Records	resource
+Sky(FayeWongalbum)	label	Sky(FayeWongalbum)	Sky (Faye Wong album)	literal
+Sky(FayeWongalbum)	subject	Mandopopalbums	Mandopop albums	resource
+Sky(FayeWongalbum)	subject	FayeWongalbums	Faye Wong albums	resource
+Sky(FayeWongalbum)	subject	SonyMusicEntertainmentalbums	Sony Music Entertainment albums	resource
+Sky(FayeWongalbum)	subject	AlbumsbySingaporeanartists	Albums by Singaporean artists	resource
+Sky(FayeWongalbum)	subject	CinepolyRecordsalbums	Cinepoly Records albums	resource
+Sky(FayeWongalbum)	subject	1994albums	1994 albums	resource
+Sky(FayeWongalbum)	genre	Mandopop	Mandopop	resource

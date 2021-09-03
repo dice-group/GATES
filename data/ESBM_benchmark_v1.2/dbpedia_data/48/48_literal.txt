@@ -1,0 +1,36 @@
+StingMe	producer	TheBlackCrowes	The Black Crowes
+StingMe	producer	GeorgeDrakoulias	 George   Drakoulias 
+StingMe	runtime	279.0	279.0
+StingMe	musicalArtist	TheBlackCrowes	The Black Crowes
+StingMe	genre	Bluesrock	Blues rock
+StingMe	genre	Southernrock	Southern rock
+StingMe	type	Work	work
+StingMe	type	MusicalWork	musical work
+StingMe	type	Thing	Thing
+StingMe	type	Q134556	single
+StingMe	type	CreativeWork	 Creative  Work 
+StingMe	type	PhysicalEntity100001930	 Physical  Entity 100001930 
+StingMe	type	Q2188189	musical work
+StingMe	type	Object100002684	 Object 100002684 
+StingMe	type	Whole100003553	 Whole 100003553 
+StingMe	type	Single	single
+StingMe	type	Q386724	work
+StingMe	type	BillboardHotMainstreamRockTracksNumberoneSingles	 Billboard  Hot  Mainstream  Rock  Tracks  Number-one  Singles 
+StingMe	type	Instrumentality103575240	 Instrumentality 103575240 
+StingMe	type	1992Singles	1992 Singles 
+StingMe	type	Artifact100021939	 Artifact 100021939 
+StingMe	type	Medium106254669	 Medium 106254669 
+StingMe	subject	Bluesrocksongs	Blues rock songs
+StingMe	subject	Southernrocksongs	Southern rock songs
+StingMe	subject	SongswrittenbyChrisRobinson(singer)	Songs written by Chris Robinson (singer)
+StingMe	subject	TheBlackCrowessongs	The Black Crowes songs
+StingMe	subject	AmericanRecordings(recordlabel)singles	American Recordings (record label) singles
+StingMe	subject	BillboardMainstreamRocknumberonesingles	Billboard Mainstream Rock number-one singles
+StingMe	subject	SongswrittenbyRichRobinson	Songs written by Rich Robinson
+StingMe	subject	1992songs	1992 songs
+StingMe	subject	1992singles	1992 singles
+StingMe	musicalBand	TheBlackCrowes	The Black Crowes
+StingMe	name	StingMe	Sting Me
+StingMe	album	TheSouthernHarmonyandMusicalCompanion	The Southern Harmony and Musical Companion
+StingMe	recordLabel	AmericanRecordings(recordlabel)	American Recordings (record label)
+StingMe	label	StingMe	Sting Me

@@ -1,0 +1,38 @@
+JuhanMuks	label	JuhanMuks	Juhan Muks	literal
+JuhanMuks	surname	Muks	Muks	literal
+JuhanMuks	description	Estonianartist	Estonian artist	literal
+JuhanMuks	description	Estonianartist	Estonian artist	literal
+JuhanMuks	birthYear	1899	1899	literal
+JuhanMuks	givenName	Juhan	Juhan	literal
+JuhanMuks	deathDate	19831123	1983-11-23	literal
+JuhanMuks	deathYear	1983	1983	literal
+JuhanMuks	type	Q215627	Q215627	resource
+JuhanMuks	type	Object100002684	Object100002684	resource
+JuhanMuks	type	NaturalPerson	DUL.owl#NaturalPerson	resource
+JuhanMuks	type	LivingThing100004258	LivingThing100004258	resource
+JuhanMuks	type	PhysicalEntity100001930	PhysicalEntity100001930	resource
+JuhanMuks	type	Q5	Q5	resource
+JuhanMuks	type	EstonianPainters	EstonianPainters	resource
+JuhanMuks	type	Agent	agent	resource
+JuhanMuks	type	Organism100004475	Organism100004475	resource
+JuhanMuks	type	Person	Person	resource
+JuhanMuks	type	Person100007846	Person100007846	resource
+JuhanMuks	type	Painter110391653	Painter110391653	resource
+JuhanMuks	type	YagoLegalActorGeo	YagoLegalActorGeo	resource
+JuhanMuks	type	Agent	DUL.owl#Agent	resource
+JuhanMuks	type	CausalAgent100007347	CausalAgent100007347	resource
+JuhanMuks	type	Person	Person	resource
+JuhanMuks	type	Creator109614315	Creator109614315	resource
+JuhanMuks	type	Thing	Thing	resource
+JuhanMuks	type	Artist109812338	Artist109812338	resource
+JuhanMuks	type	Whole100003553	Whole100003553	resource
+JuhanMuks	type	Person	person	resource
+JuhanMuks	type	YagoLegalActor	YagoLegalActor	resource
+JuhanMuks	birthDate	1899	1899	literal
+JuhanMuks	name	JuhanMuks	Juhan Muks	literal
+JuhanMuks	name	Muks,Juhan	Muks, Juhan	literal
+JuhanMuks	subject	1899births	1899 births	resource
+JuhanMuks	subject	20thcenturyEstonianpainters	20th-century Estonian painters	resource
+JuhanMuks	subject	PeoplefromViljandiCounty	People from Viljandi County	resource
+JuhanMuks	subject	1983deaths	1983 deaths	resource
+JuhanMuks	subject	Estonianpainters	Estonian painters	resource

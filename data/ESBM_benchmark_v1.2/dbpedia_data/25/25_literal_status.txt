@@ -1,0 +1,28 @@
+ReamerBarn	architecturalStyle	ArtNouveau	Art Nouveau	resource
+ReamerBarn	depiction	ReamerBarn.jpg	Reamer_Barn.jpg	resource
+ReamerBarn	name	ReamerBarn	Reamer Barn	literal
+ReamerBarn	lat	41.293888	41.293888	literal
+ReamerBarn	location	Ohio	Ohio	resource
+ReamerBarn	location	OhioStateRoute511	Ohio State Route 511	resource
+ReamerBarn	location	Oberlin,Ohio	Oberlin, Ohio	resource
+ReamerBarn	subject	NationalRegisterofHistoricPlacesinLorainCounty,Ohio	National Register of Historic Places in Lorain County, Ohio	resource
+ReamerBarn	subject	Buildingsandstructurescompletedin1897	Buildings and structures completed in 1897	resource
+ReamerBarn	subject	ArtNouveaucommercialbuildings	Art Nouveau commercial buildings	resource
+ReamerBarn	subject	BarnsontheNationalRegisterofHistoricPlacesinOhio	Barns on the National Register of Historic Places in Ohio	resource
+ReamerBarn	subject	BuildingsandstructuresinLorainCounty,Ohio	Buildings and structures in Lorain County, Ohio	resource
+ReamerBarn	subject	ArtNouveauarchitectureintheUnitedStates	Art Nouveau architecture in the United States	resource
+ReamerBarn	long	82.245	-82.245	literal
+ReamerBarn	area	4046.8564224	4046.8564224	literal
+ReamerBarn	yearOfConstruction	1897	1897	literal
+ReamerBarn	nrhpReferenceNumber	79001889	79001889	literal
+ReamerBarn	thumbnail	ReamerBarn.jpg?width=300	Reamer_Barn.jpg?width=300	resource
+ReamerBarn	point	41.2938888888888982.245	41.29388888888889 -82.245	literal
+ReamerBarn	added	19790321	1979-03-21	literal
+ReamerBarn	type	HistoricPlace	historic place	resource
+ReamerBarn	type	SpatialThing	wgs84_pos#SpatialThing	resource
+ReamerBarn	type	Location	Location	resource
+ReamerBarn	type	Place	Place	resource
+ReamerBarn	type	Thing	Thing	resource
+ReamerBarn	type	Place	place	resource
+ReamerBarn	type	LandmarksOrHistoricalBuildings	LandmarksOrHistoricalBuildings	resource
+ReamerBarn	label	ReamerBarn	Reamer Barn	literal

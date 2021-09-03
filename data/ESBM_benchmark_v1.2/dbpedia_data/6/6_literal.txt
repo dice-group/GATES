@@ -1,0 +1,32 @@
+E.K.Mawlong	birthPlace	Mawmih	 Mawmih 
+E.K.Mawlong	birthPlace	EastKhasiHillsdistrict	East Khasi Hills district
+E.K.Mawlong	label	E.K.Mawlong	E. K. Mawlong
+E.K.Mawlong	deathPlace	Meghalaya	Meghalaya
+E.K.Mawlong	deathPlace	India	India
+E.K.Mawlong	deathPlace	Shillong	Shillong
+E.K.Mawlong	birthYear	1946	1946
+E.K.Mawlong	surname	Mawlong	Mawlong
+E.K.Mawlong	type	Person	person
+E.K.Mawlong	type	Person	 Person 
+E.K.Mawlong	type	Person	 Person 
+E.K.Mawlong	type	Thing	Thing
+E.K.Mawlong	type	Agent	 Agent 
+E.K.Mawlong	type	Q5	human
+E.K.Mawlong	type	NaturalPerson	 Natural  Person 
+E.K.Mawlong	type	Q215627	person
+E.K.Mawlong	type	Agent	agent
+E.K.Mawlong	givenName	E.K.	E.K.
+E.K.Mawlong	deathYear	2008	2008
+E.K.Mawlong	birthDate	19460201	1946-02-01
+E.K.Mawlong	deathDate	20081018	2008-10-18
+E.K.Mawlong	description	Indianpolitician	Indian politician
+E.K.Mawlong	description	Indianpolitician	Indian politician
+E.K.Mawlong	subject	PeoplefromEastKhasiHillsdistrict	People from East Khasi Hills district
+E.K.Mawlong	subject	SpeakersoftheMeghalayaLegislativeAssembly	Speakers of the Meghalaya Legislative Assembly
+E.K.Mawlong	subject	ChiefMinistersofMeghalaya	Chief Ministers of Meghalaya
+E.K.Mawlong	subject	2008deaths	2008 deaths
+E.K.Mawlong	subject	MembersoftheMeghalayaLegislativeAssembly	Members of the Meghalaya Legislative Assembly
+E.K.Mawlong	subject	1946births	1946 births
+E.K.Mawlong	subject	PeoplefromShillong	People from Shillong
+E.K.Mawlong	name	E.K.Mawlong	E.K. Mawlong
+E.K.Mawlong	name	Mawlong,E.K.	Mawlong, E.K.

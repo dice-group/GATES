@@ -1,0 +1,25 @@
+2010BelgianSuperCup	subject	K.A.A.Gentmatches	K.A.A. Gent matches	resource
+2010BelgianSuperCup	subject	R.S.C.Anderlechtmatches	R.S.C. Anderlecht matches	resource
+2010BelgianSuperCup	subject	2009–10inBelgianfootball	2009–10 in Belgian football	resource
+2010BelgianSuperCup	subject	BelgianSupercup	Belgian Supercup	resource
+2010BelgianSuperCup	label	2010BelgianSuperCup	2010 Belgian Super Cup	literal
+2010BelgianSuperCup	city	Anderlecht	Anderlecht	resource
+2010BelgianSuperCup	date	20100723	2010-07-23	literal
+2010BelgianSuperCup	previousEvent	2009BelgianSuperCup	2009 Belgian Super Cup	resource
+2011BelgianSuperCup	previousEvent	2010BelgianSuperCup	2010 Belgian Super Cup	resource
+2010BelgianSuperCup	type	Event	Event	resource
+2010BelgianSuperCup	type	SportsEvent	SportsEvent	resource
+2010BelgianSuperCup	type	Event	DUL.owl#Event	resource
+2010BelgianSuperCup	type	Thing	Thing	resource
+2010BelgianSuperCup	type	SocietalEvent	societal event	resource
+2010BelgianSuperCup	type	Q1656682	Q1656682	resource
+2010BelgianSuperCup	type	Event	event	resource
+2010BelgianSuperCup	type	FootballMatch	football match	resource
+2010BelgianSuperCup	type	SportsEvent	sports event	resource
+2010BelgianSuperCup	followingEvent	2011BelgianSuperCup	2011 Belgian Super Cup	resource
+2010BelgianSuperCup	team	R.S.C.Anderlecht	R.S.C. Anderlecht	resource
+2010BelgianSuperCup	team	K.A.A.Gent	K.A.A. Gent	resource
+2010BelgianSuperCup	time	45CET	20:45CET	literal
+2010BelgianSuperCup	name	2010BelgianSuperCup	2010 Belgian Super Cup	literal
+2009BelgianSuperCup	followingEvent	2010BelgianSuperCup	2010 Belgian Super Cup	resource
+2010BelgianSuperCup	location	ConstantVandenStockStadium	Constant Vanden Stock Stadium	resource

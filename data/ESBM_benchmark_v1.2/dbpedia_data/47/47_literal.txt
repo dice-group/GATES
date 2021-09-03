@@ -1,0 +1,38 @@
+Sky(FayeWongalbum)	type	CreativeWork	 Creative  Work 
+Sky(FayeWongalbum)	type	MusicAlbum	 Music  Album 
+Sky(FayeWongalbum)	type	Thing	Thing
+Sky(FayeWongalbum)	type	Q482994	album
+Sky(FayeWongalbum)	type	Q2188189	musical work
+Sky(FayeWongalbum)	type	MusicalWork	musical work
+Sky(FayeWongalbum)	type	Artifact100021939	 Artifact 100021939 
+Sky(FayeWongalbum)	type	CinepolyRecordsAlbums	 Cinepoly  Records  Albums 
+Sky(FayeWongalbum)	type	Work	work
+Sky(FayeWongalbum)	type	Medium106254669	 Medium 106254669 
+Sky(FayeWongalbum)	type	Album106591815	 Album 106591815 
+Sky(FayeWongalbum)	type	MandopopAlbums	 Mandopop  Albums 
+Sky(FayeWongalbum)	type	Q386724	work
+Sky(FayeWongalbum)	type	FayeWongAlbums	 Faye  Wong  Albums 
+Sky(FayeWongalbum)	type	Instrumentality103575240	 Instrumentality 103575240 
+Sky(FayeWongalbum)	type	Object100002684	 Object 100002684 
+Sky(FayeWongalbum)	type	1994Albums	1994 Albums 
+Sky(FayeWongalbum)	type	Whole100003553	 Whole 100003553 
+Sky(FayeWongalbum)	type	Album	album
+Sky(FayeWongalbum)	type	PhysicalEntity100001930	 Physical  Entity 100001930 
+RandomThoughts(FayeWongalbum)	subsequentWork	Sky(FayeWongalbum)	Sky (Faye Wong album)
+Sky(FayeWongalbum)	subsequentWork	PleaseMyself	Please Myself
+Sky(FayeWongalbum)	runtime	2819.0	2819.0
+Sky(FayeWongalbum)	previousWork	RandomThoughts(FayeWongalbum)	Random Thoughts (Faye Wong album)
+PleaseMyself	previousWork	Sky(FayeWongalbum)	Sky (Faye Wong album)
+Sky(FayeWongalbum)	releaseDate	19941110	1994-11-10
+Sky(FayeWongalbum)	artist	FayeWong	Faye Wong
+Sky(FayeWongalbum)	name	TianKong(Sky)	Tian Kong (Sky)
+Sky(FayeWongalbum)	recordLabel	SonyMusicEntertainment	Sony Music Entertainment
+Sky(FayeWongalbum)	recordLabel	CinepolyRecords	Cinepoly Records
+Sky(FayeWongalbum)	label	Sky(FayeWongalbum)	Sky (Faye Wong album)
+Sky(FayeWongalbum)	subject	Mandopopalbums	Mandopop albums
+Sky(FayeWongalbum)	subject	FayeWongalbums	Faye Wong albums
+Sky(FayeWongalbum)	subject	SonyMusicEntertainmentalbums	Sony Music Entertainment albums
+Sky(FayeWongalbum)	subject	AlbumsbySingaporeanartists	Albums by Singaporean artists
+Sky(FayeWongalbum)	subject	CinepolyRecordsalbums	Cinepoly Records albums
+Sky(FayeWongalbum)	subject	1994albums	1994 albums
+Sky(FayeWongalbum)	genre	Mandopop	Mandopop

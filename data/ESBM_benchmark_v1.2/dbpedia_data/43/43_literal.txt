@@ -1,0 +1,44 @@
+KingoftheMountain(film)	label	KingoftheMountain(film)	King of the Mountain (film)
+KingoftheMountain(film)	writer	LeighChapman	Leigh Chapman
+KingoftheMountain(film)	writer	H.R.Christian	 H.  R.   Christian 
+KingoftheMountain(film)	name	KingoftheMountain	King of the Mountain
+KingoftheMountain(film)	gross	2100000.0	2100000.0
+KingoftheMountain(film)	editing	WilliamSteinkamp	William Steinkamp
+KingoftheMountain(film)	runtime	5400.0	5400.0
+KingoftheMountain(film)	type	PsychologicalFeature100023100	 Psychological  Feature 100023100 
+KingoftheMountain(film)	type	Movie	 Movie 
+KingoftheMountain(film)	type	Movie106613686	 Movie 106613686 
+KingoftheMountain(film)	type	YagoPermanentlyLocatedEntity	 Yago  Permanently  Located  Entity 
+KingoftheMountain(film)	type	SocialEvent107288639	 Social  Event 107288639 
+KingoftheMountain(film)	type	Work	work
+KingoftheMountain(film)	type	Q11424	 Q 11424 
+KingoftheMountain(film)	type	Thing	Thing
+KingoftheMountain(film)	type	Film	movie
+KingoftheMountain(film)	type	1981Films	1981 Films 
+KingoftheMountain(film)	type	Q386724	work
+KingoftheMountain(film)	type	Object100002684	 Object 100002684 
+KingoftheMountain(film)	type	Show106619065	 Show 106619065 
+KingoftheMountain(film)	type	PhysicalEntity100001930	 Physical  Entity 100001930 
+KingoftheMountain(film)	type	Product104007894	 Product 104007894 
+KingoftheMountain(film)	type	Whole100003553	 Whole 100003553 
+KingoftheMountain(film)	type	Artifact100021939	 Artifact 100021939 
+KingoftheMountain(film)	type	Creation103129123	 Creation 103129123 
+KingoftheMountain(film)	type	Event100029378	 Event 100029378 
+KingoftheMountain(film)	type	Abstraction100002137	 Abstraction 100002137 
+KingoftheMountain(film)	type	CreativeWork	 Creative  Work 
+KingoftheMountain(film)	type	AmericanFilms	 American  Films 
+KingoftheMountain(film)	subject	Autoracingfilms	Auto racing films
+KingoftheMountain(film)	subject	Americanfilms	American films
+KingoftheMountain(film)	subject	1981films	1981 films
+KingoftheMountain(film)	subject	UniversalPicturesfilms	Universal Pictures films
+KingoftheMountain(film)	subject	PolyGramFilmedEntertainmentfilms	PolyGram Filmed Entertainment films
+KingoftheMountain(film)	releaseDate	19810501	1981-05-01
+KingoftheMountain(film)	starring	DeborahVanValkenburgh	Deborah Van Valkenburgh
+KingoftheMountain(film)	starring	RichardCox(actor)	Richard Cox (actor)
+KingoftheMountain(film)	starring	DennisHopper	Dennis Hopper
+KingoftheMountain(film)	starring	SeymourCassel	Seymour Cassel
+KingoftheMountain(film)	starring	JosephBottoms	Joseph Bottoms
+KingoftheMountain(film)	starring	HarryHamlin	Harry Hamlin
+KingoftheMountain(film)	producer	JackFrostSanders	 Jack   Frost   Sanders 
+KingoftheMountain(film)	distributor	UniversalStudios	Universal Studios
+KingoftheMountain(film)	director	NoelNosseck	 Noel   Nosseck 

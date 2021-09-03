@@ -1,0 +1,72 @@
+A.ScottSloan	name	AndrewScottSloan	Andrew Scott Sloan
+A.ScottSloan	name	Sloan,AndrewScott	Sloan, Andrew Scott
+A.ScottSloan	depiction	AndrewScottSloan(WisconsinCongressman).jpg	 Andrew   Scott   Sloan (  Wisconsin   Congressman).jpg 
+A.ScottSloan	party	RepublicanParty(UnitedStates)	Republican Party (United States)
+A.ScottSloan	birthDate	18200612	1820-06-12
+A.ScottSloan	surname	Sloan	Sloan
+A.ScottSloan	deathYear	1895	1895
+A.ScottSloan	successor	AmasaCobb	Amasa Cobb
+A.ScottSloan	activeYearsStartDate	18610304	1861-03-04
+A.ScottSloan	activeYearsEndDate	18630303	1863-03-03
+A.ScottSloan	subject	PeoplefromDodgeCounty,Wisconsin	People from Dodge County, Wisconsin
+A.ScottSloan	subject	WisconsinRepublicans	Wisconsin Republicans
+A.ScottSloan	subject	WisconsinAttorneysGeneral	Wisconsin Attorneys General
+A.ScottSloan	subject	NewYorklawyers	New York lawyers
+A.ScottSloan	subject	PeoplefromMorrisville,NewYork	People from Morrisville, New York
+A.ScottSloan	subject	PeoplefromBeaverDam,Wisconsin	People from Beaver Dam, Wisconsin
+A.ScottSloan	subject	RepublicanPartymembersoftheUnitedStatesHouseofRepresentatives	Republican Party members of the United States House of Representatives
+A.ScottSloan	subject	1895deaths	1895 deaths
+A.ScottSloan	subject	NewYorkRepublicans	New York Republicans
+A.ScottSloan	subject	Wisconsinstatecourtjudges	Wisconsin state court judges
+A.ScottSloan	subject	MembersoftheWisconsinStateAssembly	Members of the Wisconsin State Assembly
+A.ScottSloan	subject	MembersoftheUnitedStatesHouseofRepresentativesfromWisconsin	Members of the United States House of Representatives from Wisconsin
+A.ScottSloan	subject	Wisconsinlawyers	Wisconsin lawyers
+A.ScottSloan	subject	MayorsofplacesinWisconsin	Mayors of places in Wisconsin
+A.ScottSloan	subject	1820births	1820 births
+A.ScottSloan	birthYear	1820	1820
+A.ScottSloan	deathDate	18950408	1895-04-08
+A.ScottSloan	deathPlace	BeaverDam,Wisconsin	Beaver Dam, Wisconsin
+A.ScottSloan	deathPlace	Wisconsin	Wisconsin
+CharlesH.Larrabee	successor	A.ScottSloan	A. Scott Sloan
+A.ScottSloan	givenName	AndrewScott	Andrew Scott
+A.ScottSloan	description	Americanpolitician	American politician
+A.ScottSloan	description	Americanpolitician	American politician
+A.ScottSloan	thumbnail	AndrewScottSloan(WisconsinCongressman).jpg?width=300	 Andrew   Scott   Sloan (  Wisconsin   Congressman).jpg?width=300 
+A.ScottSloan	type	PhysicalEntity100001930	 Physical  Entity 100001930 
+A.ScottSloan	type	Authority109824609	 Authority 109824609 
+A.ScottSloan	type	Official110372373	 Official 110372373 
+A.ScottSloan	type	Object100002684	 Object 100002684 
+A.ScottSloan	type	Thing	Thing
+A.ScottSloan	type	WisconsinStateCourtJudges	 Wisconsin  State  Court  Judges 
+A.ScottSloan	type	CausalAgent100007347	 Causal  Agent 100007347 
+A.ScottSloan	type	Person100007846	 Person 100007846 
+A.ScottSloan	type	Leader109623038	 Leader 109623038 
+A.ScottSloan	type	Agent	agent
+A.ScottSloan	type	Mayor110303814	 Mayor 110303814 
+A.ScottSloan	type	Judge110225219	 Judge 110225219 
+A.ScottSloan	type	LivingThing100004258	 Living  Thing 100004258 
+A.ScottSloan	type	YagoLegalActor	 Yago  Legal  Actor 
+A.ScottSloan	type	Person	person
+A.ScottSloan	type	MayorsOfPlacesInWisconsin	 Mayors  Of  Places  In  Wisconsin 
+A.ScottSloan	type	YagoLegalActorGeo	 Yago  Legal  Actor  Geo 
+A.ScottSloan	type	Politician	politician
+A.ScottSloan	type	Whole100003553	 Whole 100003553 
+A.ScottSloan	type	Politician110451263	 Politician 110451263 
+A.ScottSloan	type	Congressman	congressman
+A.ScottSloan	type	Worker109632518	 Worker 109632518 
+A.ScottSloan	type	Q215627	person
+A.ScottSloan	type	NaturalPerson	 Natural  Person 
+A.ScottSloan	type	Q82955	politician
+A.ScottSloan	type	Person	 Person 
+A.ScottSloan	type	PeopleFromBeaverDam,Wisconsin	 People  From  Beaver  Dam,  Wisconsin 
+A.ScottSloan	type	PeopleFromDodgeCounty,Wisconsin	 People  From  Dodge  County,  Wisconsin 
+A.ScottSloan	type	Adjudicator109769636	 Adjudicator 109769636 
+A.ScottSloan	type	Q5	human
+A.ScottSloan	type	SkilledWorker110605985	 Skilled  Worker 110605985 
+A.ScottSloan	type	Agent	 Agent 
+A.ScottSloan	type	CivilAuthority110541833	 Civil  Authority 110541833 
+A.ScottSloan	type	Person	 Person 
+A.ScottSloan	type	Organism100004475	 Organism 100004475 
+A.ScottSloan	label	A.ScottSloan	A. Scott Sloan
+A.ScottSloan	birthPlace	Morrisville,NewYork	Morrisville, New York
+A.ScottSloan	birthPlace	NewYork	New York

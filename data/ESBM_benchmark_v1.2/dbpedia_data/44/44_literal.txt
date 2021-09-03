@@ -1,0 +1,26 @@
+OurLeadingCitizen(1939film)	name	OurLeadingCitizen	Our Leading Citizen
+OurLeadingCitizen(1939film)	label	OurLeadingCitizen(1939film)	Our Leading Citizen (1939 film)
+OurLeadingCitizen(1939film)	starring	CharlesBickford	Charles Bickford
+OurLeadingCitizen(1939film)	starring	BobBurns(comedian)	Bob Burns (comedian)
+OurLeadingCitizen(1939film)	starring	GeneLockhart	Gene Lockhart
+OurLeadingCitizen(1939film)	starring	SusanHayward	Susan Hayward
+OurLeadingCitizen(1939film)	starring	ElizabethPatterson(actress)	Elizabeth Patterson (actress)
+OurLeadingCitizen(1939film)	runtime	5340.0	5340.0
+OurLeadingCitizen(1939film)	type	Thing	Thing
+OurLeadingCitizen(1939film)	type	Film	movie
+OurLeadingCitizen(1939film)	type	CreativeWork	 Creative  Work 
+OurLeadingCitizen(1939film)	type	Work	work
+OurLeadingCitizen(1939film)	type	Q11424	 Q 11424 
+OurLeadingCitizen(1939film)	type	Movie	 Movie 
+OurLeadingCitizen(1939film)	type	Q386724	work
+OurLeadingCitizen(1939film)	director	AlfredSantell	Alfred Santell
+OurLeadingCitizen(1939film)	cinematography	VictorMilner	Victor Milner
+OurLeadingCitizen(1939film)	subject	ParamountPicturesfilms	Paramount Pictures films
+OurLeadingCitizen(1939film)	subject	1930scomedyfilms	1930s comedy films
+OurLeadingCitizen(1939film)	subject	Americancomedyfilms	American comedy films
+OurLeadingCitizen(1939film)	subject	1939films	1939 films
+OurLeadingCitizen(1939film)	subject	Americanfilms	American films
+OurLeadingCitizen(1939film)	subject	Englishlanguagefilms	English-language films
+OurLeadingCitizen(1939film)	subject	FilmsdirectedbyAlfredSantell	Films directed by Alfred Santell
+OurLeadingCitizen(1939film)	distributor	ParamountPictures	Paramount Pictures
+OurLeadingCitizen(1939film)	musicComposer	GerardCarbonara	Gerard Carbonara

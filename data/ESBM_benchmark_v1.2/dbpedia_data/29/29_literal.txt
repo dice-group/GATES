@@ -1,0 +1,26 @@
+Wernshausen	populationTotal	3073	3073
+Wernshausen	elevation	257.0	257.0
+Wernshausen	areaCode	SM	SM
+Wernshausen	areaCode	036848	036848
+Wernshausen	lat	50.716667	50.716667
+Wernshausen	long	10.35	10.35
+Wernshausen	depiction	WappenWernshausen.png	 Wappen   Wernshausen.png 
+Wernshausen	type	Settlement	settlement
+Wernshausen	type	SpatialThing	 Spatial  Thing 
+Wernshausen	type	Location	 Location 
+Wernshausen	type	Q486972	human settlement
+Wernshausen	type	PopulatedPlace	populated place
+Wernshausen	type	Place	 Place 
+Wernshausen	type	Place	place
+Wernshausen	type	Thing	Thing
+Wernshausen	country	Germany	Germany
+Wernshausen	district	SchmalkaldenMeiningen	Schmalkalden-Meiningen
+Wernshausen	label	Wernshausen	Wernshausen
+Wernshausen	populationAsOf	20061231	2006-12-31
+Wernshausen	city	Schmalkalden	Schmalkalden
+Wernshausen	homepage	wernshausen.de	wernshausen.de
+Wernshausen	thumbnail	WappenWernshausen.png?width=300	 Wappen   Wernshausen.png?width=300 
+Wernshausen	point	50.7166666666666710.35	50.71666666666667 10.35
+Wernshausen	subject	GeographyofThuringia	Geography of Thuringia
+Wernshausen	postalCode	98590	98590
+Wernshausen	areaTotal	2.629E7	2.629E7

@@ -1,0 +1,20 @@
+Melaleucasheathiana	binomialAuthority	WilliamVincentFitzgerald	William Vincent Fitzgerald
+Melaleucasheathiana	name	SilverCajuput	Silver Cajuput
+Melaleucasheathiana	label	Melaleucasheathiana	Melaleuca sheathiana
+Melaleucasheathiana	subject	Melaleuca	Melaleuca
+Melaleucasheathiana	subject	MyrtalesofAustralia	Myrtales of Australia
+Melaleucasheathiana	subject	FloraofWesternAustralia	Flora of Western Australia
+Melaleucasheathiana	subject	Plantsdescribedin1902	Plants described in 1902
+Melaleucasheathiana	genus	Melaleuca	Melaleuca
+Melaleucasheathiana	type	Q756	plant
+Melaleucasheathiana	type	Species	species
+Melaleucasheathiana	type	Plant	plant
+Melaleucasheathiana	type	Thing	Thing
+Melaleucasheathiana	type	Q19088	eukaryote
+Melaleucasheathiana	type	Eukaryote	eukaryote
+Melaleucasheathiana	family	Myrtaceae	Myrtaceae
+Melaleucasheathiana	class	Eudicots	Eudicots
+Melaleucasheathiana	class	Rosids	Rosids
+Melaleucasheathiana	kingdom	Plant	Plant
+Melaleucasheathiana	division	Floweringplant	Flowering plant
+Melaleucasheathiana	order	Myrtales	Myrtales

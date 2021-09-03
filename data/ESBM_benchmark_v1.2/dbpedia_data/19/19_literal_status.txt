@@ -1,0 +1,25 @@
+Massacreon34thStreet	previousEvent	NovembertoRemember	November to Remember	resource
+Massacreon34thStreet	type	Thing	Thing	resource
+Massacreon34thStreet	type	WrestlingEvent	wrestling event	resource
+Massacreon34thStreet	type	Q1656682	Q1656682	resource
+Massacreon34thStreet	type	SocietalEvent	societal event	resource
+Massacreon34thStreet	type	SportsEvent	sports event	resource
+Massacreon34thStreet	type	SportsEvent	SportsEvent	resource
+Massacreon34thStreet	type	Event	event	resource
+Massacreon34thStreet	type	Event	DUL.owl#Event	resource
+Massacreon34thStreet	type	Event	Event	resource
+Massacreon34thStreet	followingEvent	GuiltyasCharged	Guilty as Charged	resource
+Massacreon34thStreet	date	20001203	2000-12-03	literal
+Massacreon34thStreet	promotion	ExtremeChampionshipWrestling	Extreme Championship Wrestling	resource
+Massacreon34thStreet	subject	ExtremeChampionshipWrestlingshows	Extreme Championship Wrestling shows	resource
+Massacreon34thStreet	subject	ProfessionalwrestlinginNewYork	Category:Professional_wrestling_in_New_York	resource
+Massacreon34thStreet	subject	SportsinManhattan	Sports in Manhattan	resource
+Massacreon34thStreet	subject	2000inprofessionalwrestling	2000 in professional wrestling	resource
+Massacreon34thStreet	subject	2000inNewYork	Category:2000_in_New_York	resource
+Massacreon34thStreet	location	HammersteinBallroom	Hammerstein Ballroom	resource
+Massacreon34thStreet	location	NewYorkCity	New York City	resource
+NovembertoRemember	followingEvent	Massacreon34thStreet	Massacre on 34th Street	resource
+Massacreon34thStreet	label	Massacreon34thStreet	Massacre on 34th Street	literal
+Massacreon34thStreet	name	Massacreon34thStreet	Massacre on 34th Street	literal
+HolidayHell	previousEvent	Massacreon34thStreet	Massacre on 34th Street	resource
+GuiltyasCharged	previousEvent	Massacreon34thStreet	Massacre on 34th Street	resource

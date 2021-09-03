@@ -1,0 +1,21 @@
+Thaiasaprophytica	subject	Mycoheterotrophicorchids	Myco-heterotrophic orchids	resource
+Thaiasaprophytica	subject	Neottieae	Neottieae	resource
+Thaiasaprophytica	subject	OrchidsofLaos	Orchids of Laos	resource
+Thaiasaprophytica	subject	Plantsdescribedin1975	Plants described in 1975	resource
+Thaiasaprophytica	subject	OrchidsofThailand	Orchids of Thailand	resource
+Thaiasaprophytica	type	Eukaryote	eukaryote	resource
+Thaiasaprophytica	type	Thing	Thing	resource
+Thaiasaprophytica	type	Plant	plant	resource
+Thaiasaprophytica	type	Q19088	Q19088	resource
+Thaiasaprophytica	type	Q756	Q756	resource
+Thaiasaprophytica	type	Species	species	resource
+Thaiasaprophytica	order	Asparagales	Asparagales	resource
+Thaiasaprophytica	name	Thaia	Thaia	literal
+Thaiasaprophytica	label	Thaiasaprophytica	Thaia saprophytica	literal
+Thaiasaprophytica	binomialAuthority	GunnarSeidenfaden	Gunnar Seidenfaden	resource
+Thaiasaprophytica	family	Epidendroideae	Epidendroideae	resource
+Thaiasaprophytica	family	Orchidaceae	Orchidaceae	resource
+Thaiasaprophytica	family	Neottieae	Neottieae	resource
+Thaiasaprophytica	class	Monocotyledon	Monocotyledon	resource
+Thaiasaprophytica	division	Floweringplant	Flowering plant	resource
+Thaiasaprophytica	kingdom	Plant	Plant	resource

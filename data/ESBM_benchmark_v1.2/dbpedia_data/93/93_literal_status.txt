@@ -1,0 +1,25 @@
+If(Glasvegassong)	name	If	If	literal
+If(Glasvegassong)	label	If(Glasvegassong)	If (Glasvegas song)	literal
+If(Glasvegassong)	releaseDate	20130708	2013-07-08	literal
+If(Glasvegassong)	writer	JamesAllan(musician)	James Allan (musician)	resource
+If(Glasvegassong)	genre	Indierock	Indie rock	resource
+If(Glasvegassong)	producer	JamesAllan(musician)	James Allan (musician)	resource
+If(Glasvegassong)	musicalBand	Glasvegas	Glasvegas	resource
+If(Glasvegassong)	previousWork	I'dRatherBeDead(ThanBewithYou)	I'd Rather Be Dead (Than Be with You)	resource
+If(Glasvegassong)	type	Work	work	resource
+If(Glasvegassong)	type	Single	single	resource
+If(Glasvegassong)	type	MusicalWork	musical work	resource
+If(Glasvegassong)	type	Thing	Thing	resource
+If(Glasvegassong)	type	Q386724	Q386724	resource
+If(Glasvegassong)	type	Q134556	Q134556	resource
+If(Glasvegassong)	type	Q2188189	Q2188189	resource
+If(Glasvegassong)	type	CreativeWork	CreativeWork	resource
+I'dRatherBeDead(ThanBewithYou)	subsequentWork	If(Glasvegassong)	If (Glasvegas song)	resource
+If(Glasvegassong)	album	Later...WhentheTVTurnstoStatic	Later...When the TV Turns to Static	resource
+If(Glasvegassong)	musicalArtist	Glasvegas	Glasvegas	resource
+If(Glasvegassong)	format	Digitaldistribution	Digital distribution	resource
+If(Glasvegassong)	subject	2013songs	2013 songs	resource
+If(Glasvegassong)	subject	Glasvegassongs	Glasvegas songs	resource
+If(Glasvegassong)	subject	2013singles	2013 singles	resource
+If(Glasvegassong)	subject	SongswrittenbyJamesAllan(musician)	Songs written by James Allan (musician)	resource
+If(Glasvegassong)	runtime	269.0	269.0	literal

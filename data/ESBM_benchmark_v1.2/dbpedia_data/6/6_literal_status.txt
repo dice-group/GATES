@@ -1,0 +1,32 @@
+E.K.Mawlong	birthPlace	Mawmih	Mawmih	resource
+E.K.Mawlong	birthPlace	EastKhasiHillsdistrict	East Khasi Hills district	resource
+E.K.Mawlong	label	E.K.Mawlong	E. K. Mawlong	literal
+E.K.Mawlong	deathPlace	Meghalaya	Meghalaya	resource
+E.K.Mawlong	deathPlace	India	India	resource
+E.K.Mawlong	deathPlace	Shillong	Shillong	resource
+E.K.Mawlong	birthYear	1946	1946	literal
+E.K.Mawlong	surname	Mawlong	Mawlong	literal
+E.K.Mawlong	type	Person	person	resource
+E.K.Mawlong	type	Person	Person	resource
+E.K.Mawlong	type	Person	Person	resource
+E.K.Mawlong	type	Thing	Thing	resource
+E.K.Mawlong	type	Agent	DUL.owl#Agent	resource
+E.K.Mawlong	type	Q5	Q5	resource
+E.K.Mawlong	type	NaturalPerson	DUL.owl#NaturalPerson	resource
+E.K.Mawlong	type	Q215627	Q215627	resource
+E.K.Mawlong	type	Agent	agent	resource
+E.K.Mawlong	givenName	E.K.	E.K.	literal
+E.K.Mawlong	deathYear	2008	2008	literal
+E.K.Mawlong	birthDate	19460201	1946-02-01	literal
+E.K.Mawlong	deathDate	20081018	2008-10-18	literal
+E.K.Mawlong	description	Indianpolitician	Indian politician	literal
+E.K.Mawlong	description	Indianpolitician	Indian politician	literal
+E.K.Mawlong	subject	PeoplefromEastKhasiHillsdistrict	People from East Khasi Hills district	resource
+E.K.Mawlong	subject	SpeakersoftheMeghalayaLegislativeAssembly	Speakers of the Meghalaya Legislative Assembly	resource
+E.K.Mawlong	subject	ChiefMinistersofMeghalaya	Chief Ministers of Meghalaya	resource
+E.K.Mawlong	subject	2008deaths	2008 deaths	resource
+E.K.Mawlong	subject	MembersoftheMeghalayaLegislativeAssembly	Members of the Meghalaya Legislative Assembly	resource
+E.K.Mawlong	subject	1946births	1946 births	resource
+E.K.Mawlong	subject	PeoplefromShillong	People from Shillong	resource
+E.K.Mawlong	name	E.K.Mawlong	E.K. Mawlong	literal
+E.K.Mawlong	name	Mawlong,E.K.	Mawlong, E.K.	literal

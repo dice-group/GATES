@@ -1,0 +1,57 @@
+HiroshiMori(writer)	birthPlace	Japan	Japan
+HiroshiMori(writer)	birthPlace	AichiPrefecture	Aichi Prefecture
+HiroshiMori(writer)	genre	Mysteryfiction	Mystery fiction
+HiroshiMori(writer)	genre	Sciencefiction	Science fiction
+HiroshiMori(writer)	activeYearsStartYear	1996	1996
+HiroshiMori(writer)	influencedBy	ElleryQueen	Ellery Queen
+HiroshiMori(writer)	award	MephistoPrize	Mephisto Prize
+SubetegaFniNaru	author	HiroshiMori(writer)	Hiroshi Mori (writer)
+TheSkyCrawlers	author	HiroshiMori(writer)	Hiroshi Mori (writer)
+HiroshiMori(writer)	givenName	Hiroshi	Hiroshi
+HiroshiMori(writer)	type	Object100002684	 Object 100002684 
+HiroshiMori(writer)	type	Organism100004475	 Organism 100004475 
+HiroshiMori(writer)	type	Q36180	writer
+HiroshiMori(writer)	type	Q5	human
+HiroshiMori(writer)	type	PhysicalEntity100001930	 Physical  Entity 100001930 
+HiroshiMori(writer)	type	Agent	 Agent 
+HiroshiMori(writer)	type	Person	 Person 
+HiroshiMori(writer)	type	PeopleFromAichiPrefecture	 People  From  Aichi  Prefecture 
+HiroshiMori(writer)	type	CausalAgent100007347	 Causal  Agent 100007347 
+HiroshiMori(writer)	type	Writer	writer
+HiroshiMori(writer)	type	Q215627	person
+HiroshiMori(writer)	type	JapaneseNovelists	 Japanese  Novelists 
+HiroshiMori(writer)	type	Writer110794014	 Writer 110794014 
+HiroshiMori(writer)	type	Person	 Person 
+HiroshiMori(writer)	type	Novelist110363573	 Novelist 110363573 
+HiroshiMori(writer)	type	JapaneseMysteryWriters	 Japanese  Mystery  Writers 
+HiroshiMori(writer)	type	LivingPeople	 Living  People 
+HiroshiMori(writer)	type	Person100007846	 Person 100007846 
+HiroshiMori(writer)	type	Agent	agent
+HiroshiMori(writer)	type	Whole100003553	 Whole 100003553 
+HiroshiMori(writer)	type	LivingThing100004258	 Living  Thing 100004258 
+HiroshiMori(writer)	type	YagoLegalActorGeo	 Yago  Legal  Actor  Geo 
+HiroshiMori(writer)	type	Person	person
+HiroshiMori(writer)	type	Communicator109610660	 Communicator 109610660 
+HiroshiMori(writer)	type	NaturalPerson	 Natural  Person 
+HiroshiMori(writer)	type	YagoLegalActor	 Yago  Legal  Actor 
+HiroshiMori(writer)	type	Thing	Thing
+HiroshiMori(writer)	birthYear	1957	1957
+HiroshiMori(writer)	label	HiroshiMori(writer)	Hiroshi Mori (writer)
+HiroshiMori(writer)	description	Japanesewriter	Japanese writer
+HiroshiMori(writer)	description	Japanesewriter	Japanese writer
+HiroshiMori(writer)	nationality	Japanesepeople	Japanese people
+HiroshiMori(writer)	name	HiroshiMori	Hiroshi Mori
+HiroshiMori(writer)	name	Mori,Hiroshi	Mori, Hiroshi
+HiroshiMori(writer)	birthDate	19571207	1957-12-07
+HiroshiMori(writer)	notableWork	SubetegaFniNaru	Subete ga F ni Naru
+HiroshiMori(writer)	notableWork	TheSkyCrawlers	The Sky Crawlers
+HiroshiMori(writer)	surname	Mori	Mori
+HiroshiMori(writer)	language	Japanesepeople	Japanese people
+HiroshiMori(writer)	homepage	index.html	index.html
+HiroshiMori(writer)	subject	NagoyaUniversityfaculty	Nagoya University faculty
+HiroshiMori(writer)	subject	1957births	1957 births
+HiroshiMori(writer)	subject	NagoyaUniversityalumni	Nagoya University alumni
+HiroshiMori(writer)	subject	PeoplefromAichiPrefecture	People from Aichi Prefecture
+HiroshiMori(writer)	subject	Livingpeople	Living people
+HiroshiMori(writer)	subject	Japanesemysterywriters	Japanese mystery writers
+HiroshiMori(writer)	subject	Japanesenovelists	Japanese novelists

@@ -1,0 +1,47 @@
+FinnSchiander	description	Sailor	Sailor	literal
+FinnSchiander	description	Sailor	Sailor	literal
+FinnSchiander	surname	Schiander	Schiander	literal
+FinnSchiander	birthYear	1898	1898	literal
+FinnSchiander	type	OlympicMedalistsInSailing	OlympicMedalistsInSailing	resource
+FinnSchiander	type	SailorsAtThe1920SummerOlympics	SailorsAtThe1920SummerOlympics	resource
+FinnSchiander	type	Agent	DUL.owl#Agent	resource
+FinnSchiander	type	Winner110782940	Winner110782940	resource
+FinnSchiander	type	Organism100004475	Organism100004475	resource
+FinnSchiander	type	Whole100003553	Whole100003553	resource
+FinnSchiander	type	Agent	agent	resource
+FinnSchiander	type	NaturalPerson	DUL.owl#NaturalPerson	resource
+FinnSchiander	type	LivingThing100004258	LivingThing100004258	resource
+FinnSchiander	type	Object100002684	Object100002684	resource
+FinnSchiander	type	Sailor110546633	Sailor110546633	resource
+FinnSchiander	type	Q215627	Q215627	resource
+FinnSchiander	type	OlympicSilverMedalistsForNorway	OlympicSilverMedalistsForNorway	resource
+FinnSchiander	type	Worker109632518	Worker109632518	resource
+FinnSchiander	type	Contestant109613191	Contestant109613191	resource
+FinnSchiander	type	Medalist110305062	Medalist110305062	resource
+FinnSchiander	type	YagoLegalActor	YagoLegalActor	resource
+FinnSchiander	type	PhysicalEntity100001930	PhysicalEntity100001930	resource
+FinnSchiander	type	SkilledWorker110605985	SkilledWorker110605985	resource
+FinnSchiander	type	Person	Person	resource
+FinnSchiander	type	OlympicSailorsOfNorway	OlympicSailorsOfNorway	resource
+FinnSchiander	type	Athlete	athlete	resource
+FinnSchiander	type	Person	person	resource
+FinnSchiander	type	Thing	Thing	resource
+FinnSchiander	type	Person100007846	Person100007846	resource
+FinnSchiander	type	CausalAgent100007347	CausalAgent100007347	resource
+FinnSchiander	type	Q5	Q5	resource
+FinnSchiander	type	Person	Person	resource
+FinnSchiander	type	YagoLegalActorGeo	YagoLegalActorGeo	resource
+FinnSchiander	label	FinnSchiander	Finn Schiander	literal
+FinnSchiander	deathYear	1967	1967	literal
+FinnSchiander	subject	Norwegiansailors(sport)	Norwegian sailors (sport)	resource
+FinnSchiander	subject	OlympicsilvermedalistsforNorway	Olympic silver medalists for Norway	resource
+FinnSchiander	subject	Sailorsatthe1920SummerOlympics–8Metre	Sailors at the 1920 Summer Olympics – 8 Metre	resource
+FinnSchiander	subject	OlympicsailorsofNorway	Olympic sailors of Norway	resource
+FinnSchiander	subject	1967deaths	1967 deaths	resource
+FinnSchiander	subject	Olympicmedalistsinsailing	Olympic medalists in sailing	resource
+FinnSchiander	subject	1898births	1898 births	resource
+FinnSchiander	givenName	Finn	Finn	literal
+FinnSchiander	deathDate	1967	1967	literal
+FinnSchiander	name	Schiander,Finn	Schiander, Finn	literal
+FinnSchiander	name	FinnSchiander	Finn Schiander	literal
+FinnSchiander	birthDate	18980507	1898-05-07	literal

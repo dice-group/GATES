@@ -1,0 +1,23 @@
+Pseudanostrimaculatus	family	Anostomidae	Anostomidae	resource
+Pseudanostrimaculatus	genus	Pseudanos	Pseudanos	resource
+Pseudanostrimaculatus	label	Pseudanostrimaculatus	Pseudanos trimaculatus	literal
+Pseudanostrimaculatus	name	Pseudanostrimaculatus	Pseudanos trimaculatus	literal
+Pseudanostrimaculatus	subject	FishofArgentina	Fish of Argentina	resource
+Pseudanostrimaculatus	subject	FishofPeru	Fish of Peru	resource
+Pseudanostrimaculatus	subject	FishofBrazil	Fish of Brazil	resource
+Pseudanostrimaculatus	subject	FishofSouthAmerica	Fish of South America	resource
+Pseudanostrimaculatus	subject	Anostomidae	Anostomidae	resource
+Pseudanostrimaculatus	type	Q729	Q729	resource
+Pseudanostrimaculatus	type	Q19088	Q19088	resource
+Pseudanostrimaculatus	type	Q152	Q152	resource
+Pseudanostrimaculatus	type	Animal	animal	resource
+Pseudanostrimaculatus	type	Thing	Thing	resource
+Pseudanostrimaculatus	type	Fish	fish	resource
+Pseudanostrimaculatus	type	Species	species	resource
+Pseudanostrimaculatus	type	Eukaryote	eukaryote	resource
+Pseudanostrimaculatus	class	Actinopterygii	Actinopterygii	resource
+Pseudanostrimaculatus	order	Characiformes	Characiformes	resource
+Pseudanostrimaculatus	conservationStatusSystem	iucn3.1	iucn3.1	literal
+Pseudanostrimaculatus	phylum	Chordate	Chordate	resource
+Pseudanostrimaculatus	binomialAuthority	RudolfKner	Rudolf Kner	resource
+Pseudanostrimaculatus	kingdom	Animal	Animal	resource

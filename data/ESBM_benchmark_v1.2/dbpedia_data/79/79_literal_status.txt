@@ -1,0 +1,36 @@
+StaraBučka	elevation	262.2	262.2	literal
+StaraBučka	areaTotal	2950000.0	2950000.0	literal
+StaraBučka	isPartOf	LowerCarniola	Lower Carniola	resource
+StaraBučka	isPartOf	MunicipalityofŠkocjan	Municipality of Škocjan	resource
+StaraBučka	isPartOf	SoutheastSloveniaStatisticalRegion	Southeast Slovenia Statistical Region	resource
+StaraBučka	label	StaraBučka	Stara Bučka	literal
+StaraBučka	lat	45.9213	45.9213	literal
+StaraBučka	depiction	FlagofSlovenia.svg	Flag_of_Slovenia.svg	resource
+StaraBučka	point	45.921315.306447222222221	45.9213 15.306447222222221	literal
+StaraBučka	populationTotal	101	101	literal
+StaraBučka	name	StaraBučka	Stara Bučka	literal
+StaraBučka	subject	PopulatedplacesintheMunicipalityofŠkocjan	Populated places in the Municipality of Škocjan	resource
+StaraBučka	long	15.306447	15.306447	literal
+StaraBučka	country	Slovenia	Slovenia	resource
+StaraBučka	thumbnail	FlagofSlovenia.svg?width=300	Flag_of_Slovenia.svg?width=300	resource
+StaraBučka	type	Site108651247	Site108651247	resource
+StaraBučka	type	YagoLegalActorGeo	YagoLegalActorGeo	resource
+StaraBučka	type	Thing	Thing	resource
+StaraBučka	type	Location	Location	resource
+StaraBučka	type	SpatialThing	wgs84_pos#SpatialThing	resource
+StaraBučka	type	Object100002684	Object100002684	resource
+StaraBučka	type	PhysicalEntity100001930	PhysicalEntity100001930	resource
+StaraBučka	type	Place	Place	resource
+StaraBučka	type	Location100027167	Location100027167	resource
+StaraBučka	type	Q486972	Q486972	resource
+StaraBučka	type	YagoPermanentlyLocatedEntity	YagoPermanentlyLocatedEntity	resource
+StaraBučka	type	Region108630985	Region108630985	resource
+StaraBučka	type	YagoGeoEntity	YagoGeoEntity	resource
+StaraBučka	type	AdministrativeDistrict108491826	AdministrativeDistrict108491826	resource
+StaraBučka	type	PopulatedPlacesInTheMunicipalityOf%C5%A0kocjan	PopulatedPlacesInTheMunicipalityOf%C5%A0kocjan	resource
+StaraBučka	type	GeographicalArea108574314	GeographicalArea108574314	resource
+StaraBučka	type	Tract108673395	Tract108673395	resource
+StaraBučka	type	PopulatedPlace	populated place	resource
+StaraBučka	type	Place	place	resource
+StaraBučka	type	District108552138	District108552138	resource
+StaraBučka	type	Settlement	settlement	resource

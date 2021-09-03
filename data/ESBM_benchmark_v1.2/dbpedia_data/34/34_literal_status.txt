@@ -1,0 +1,22 @@
+Enallagmatruncatum	genus	Enallagma	Enallagma	resource
+Enallagmatruncatum	name	Enallagmatruncatum	Enallagma truncatum	literal
+Enallagmatruncatum	family	Coenagrionidae	Coenagrionidae	resource
+Enallagmatruncatum	type	Animal	animal	resource
+Enallagmatruncatum	type	Eukaryote	eukaryote	resource
+Enallagmatruncatum	type	Insect	insect	resource
+Enallagmatruncatum	type	Q729	Q729	resource
+Enallagmatruncatum	type	Q19088	Q19088	resource
+Enallagmatruncatum	type	Q1390	Q1390	resource
+Enallagmatruncatum	type	Species	species	resource
+Enallagmatruncatum	type	Thing	Thing	resource
+Enallagmatruncatum	kingdom	Animal	Animal	resource
+Enallagmatruncatum	conservationStatusSystem	IUCN3.1	IUCN3.1	literal
+Enallagmatruncatum	subject	Insectsdescribedin1888	Insects described in 1888	resource
+Enallagmatruncatum	subject	InsectsofCuba	Insects of Cuba	resource
+Enallagmatruncatum	subject	EndemicfaunaofCuba	Endemic fauna of Cuba	resource
+Enallagmatruncatum	subject	Coenagrionidae	Coenagrionidae	resource
+Enallagmatruncatum	label	Enallagmatruncatum	Enallagma truncatum	literal
+Enallagmatruncatum	conservationStatus	VU	VU	literal
+Enallagmatruncatum	phylum	Arthropod	Arthropod	resource
+Enallagmatruncatum	class	Insect	Insect	resource
+Enallagmatruncatum	order	Odonata	Odonata	resource

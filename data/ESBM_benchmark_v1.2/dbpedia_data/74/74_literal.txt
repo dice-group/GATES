@@ -1,0 +1,37 @@
+Kotumachagi	subject	VillagesinGadagdistrict	Villages in Gadag district
+Kotumachagi	lat	15.54259	15.54259
+Kotumachagi	depiction	KotumachagiVillageTemple.jpg	 Kotumachagi  Village  Temple.jpg 
+Kotumachagi	isPartOf	Karnataka	Karnataka
+Kotumachagi	isPartOf	GadagBetageri	Gadag-Betageri
+Kotumachagi	country	India	India
+Kotumachagi	type	Place	place
+Kotumachagi	type	PhysicalEntity100001930	 Physical  Entity 100001930 
+Kotumachagi	type	Village	village
+Kotumachagi	type	VillagesInGadagDistrict	 Villages  In  Gadag  District 
+Kotumachagi	type	Q532	village
+Kotumachagi	type	Location	 Location 
+Kotumachagi	type	SpatialThing	 Spatial  Thing 
+Kotumachagi	type	Place	 Place 
+Kotumachagi	type	YagoGeoEntity	 Yago  Geo  Entity 
+Kotumachagi	type	YagoLegalActorGeo	 Yago  Legal  Actor  Geo 
+Kotumachagi	type	Thing	Thing
+Kotumachagi	type	Settlement	settlement
+Kotumachagi	type	Village108672738	 Village 108672738 
+Kotumachagi	type	Location100027167	 Location 100027167 
+Kotumachagi	type	Q486972	human settlement
+Kotumachagi	type	Region108630985	 Region 108630985 
+Kotumachagi	type	PopulatedPlace	populated place
+Kotumachagi	type	Settlement108672562	 Settlement 108672562 
+Kotumachagi	type	YagoPermanentlyLocatedEntity	 Yago  Permanently  Located  Entity 
+Kotumachagi	type	GeographicalArea108574314	 Geographical  Area 108574314 
+Kotumachagi	type	Object100002684	 Object 100002684 
+Kotumachagi	utcOffset	30	+5:30
+Kotumachagi	thumbnail	KotumachagiVillageTemple.jpg?width=300	 Kotumachagi  Village  Temple.jpg?width=300 
+Kotumachagi	type	Village	Village
+Kotumachagi	timeZone	IndianStandardTime	Indian Standard Time
+Kotumachagi	label	Kotumachagi	Kotumachagi
+Kotumachagi	long	75.77102	75.77102
+Kotumachagi	point	15.5425975.77102	15.54259 75.77102
+Kotumachagi	populationTotal	6895	6895
+Kotumachagi	name	ಕೋಟುಮಚಗಿ	ಕೋಟುಮಚಗಿ
+Kotumachagi	name	Kotumachagi	Kotumachagi

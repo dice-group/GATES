@@ -1,0 +1,37 @@
+1967ItalianGrandPrix	fastestDriverTeam	TeamLotus	Team Lotus	resource
+1967ItalianGrandPrix	thumbnail	Monza1957.jpg?width=300	Monza_1957.jpg?width=300	resource
+GiancarloBaghetti	lastRace	1967ItalianGrandPrix	1967 Italian Grand Prix	resource
+1967ItalianGrandPrix	firstDriver	JohnSurtees	John Surtees	resource
+1967ItalianGrandPrix	location	Monza	Monza	resource
+1967ItalianGrandPrix	location	AutodromoNazionaleMonza	Autodromo Nazionale Monza	resource
+1967ItalianGrandPrix	location	Italy	Italy	resource
+1967ItalianGrandPrix	poleDriver	JimClark	Jim Clark	resource
+1967ItalianGrandPrix	thirdDriver	JimClark	Jim Clark	resource
+1967ItalianGrandPrix	thirdTeam	TeamLotus	Team Lotus	resource
+1967ItalianGrandPrix	distance	391006.21824	391006.21824	literal
+1967ItalianGrandPrix	distance	391006.0	391006.0	literal
+1967ItalianGrandPrix	secondDriver	JackBrabham	Jack Brabham	resource
+1967ItalianGrandPrix	type	Q1656682	Q1656682	resource
+1967ItalianGrandPrix	type	SportsEvent	SportsEvent	resource
+1967ItalianGrandPrix	type	Event	Event	resource
+1967ItalianGrandPrix	type	SocietalEvent	societal event	resource
+1967ItalianGrandPrix	type	SportsEvent	sports event	resource
+1967ItalianGrandPrix	type	GrandPrix	Grand Prix	resource
+1967ItalianGrandPrix	type	Thing	Thing	resource
+1967ItalianGrandPrix	type	Event	DUL.owl#Event	resource
+1967ItalianGrandPrix	type	Event	event	resource
+1967ItalianGrandPrix	depiction	Monza1957.jpg	Monza_1957.jpg	resource
+1967ItalianGrandPrix	country	Italy	Italy	resource
+1967ItalianGrandPrix	distanceLaps	68	68	literal
+1967ItalianGrandPrix	label	1967ItalianGrandPrix	1967 Italian Grand Prix	literal
+1967ItalianGrandPrix	subject	1967inItalianmotorsport	1967 in Italian motorsport	resource
+1967ItalianGrandPrix	subject	ItalianGrandPrix	Italian Grand Prix	resource
+1967ItalianGrandPrix	subject	EuropeanGrandPrix	European Grand Prix	resource
+1967ItalianGrandPrix	subject	1967FormulaOneraces	1967 Formula One races	resource
+1967ItalianGrandPrix	fastestDriver	JimClark	Jim Clark	resource
+1967ItalianGrandPrix	secondTeam	Brabham	Brabham	resource
+1967ItalianGrandPrix	course	5750.186112	5750.186112	literal
+1967ItalianGrandPrix	course	5750.0	5750.0	literal
+1967ItalianGrandPrix	poleDriverTeam	TeamLotus	Team Lotus	resource
+1967ItalianGrandPrix	firstDriverTeam	HondainFormulaOne	Honda in Formula One	resource
+1967ItalianGrandPrix	name	XXXIIGranPremiod'Italia	XXXII Gran Premio d'Italia	literal

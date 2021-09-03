@@ -1,0 +1,64 @@
+PeMaungTin	birthPlace	BritishruleinBurma	British rule in Burma	resource
+PeMaungTin	birthPlace	YangonRegion	Yangon Region	resource
+PeMaungTin	birthPlace	InseinTownship	Insein Township	resource
+PeMaungTin	birthDate	18880424	1888-04-24	literal
+PeMaungTin	nationality	Bamarpeople	Bamar people	resource
+PeMaungTin	thumbnail	PeMaungTin.jpg?width=300	Pe_Maung_Tin.jpg?width=300	resource
+GlassPalaceChronicle	translator	PeMaungTin	Pe Maung Tin	resource
+PeMaungTin	label	PeMaungTin	Pe Maung Tin	literal
+PeMaungTin	ethnicity	Monpeople	Mon people	resource
+PeMaungTin	birthName	BaTin	Ba Tin	literal
+PeMaungTin	birthYear	1888	1888	literal
+PeMaungTin	stateOfOrigin	Bamarpeople	Bamar people	resource
+PeMaungTin	religion	Anglicanism	Anglicanism	resource
+PeMaungTin	almaMater	BachelorofArts	Bachelor of Arts	resource
+PeMaungTin	almaMater	MasterofArts	Master of Arts	resource
+PeMaungTin	almaMater	UniversityofCalcutta	University of Calcutta	resource
+PeMaungTin	almaMater	UniversityofYangon	University of Yangon	resource
+PeMaungTin	depiction	PeMaungTin.jpg	Pe_Maung_Tin.jpg	resource
+PeMaungTin	subject	UniversityofCalcuttaalumni	University of Calcutta alumni	resource
+PeMaungTin	subject	LinguistsfromMyanmar	Linguists from Myanmar	resource
+PeMaungTin	subject	PeoplefromYangonRegion	People from Yangon Region	resource
+PeMaungTin	subject	1973deaths	1973 deaths	resource
+PeMaungTin	subject	Burmesestudiesscholars	Burmese studies scholars	resource
+PeMaungTin	subject	PresidentsofBurmaResearchSociety	Category:Presidents_of_Burma_Research_Society	resource
+PeMaungTin	subject	BurmeseAnglicans	Burmese Anglicans	resource
+PeMaungTin	subject	1888births	1888 births	resource
+PeMaungTin	subject	BurmesepeopleofMondescent	Burmese people of Mon descent	resource
+PeMaungTin	subject	Burmesewriters	Burmese writers	resource
+PeMaungTin	subject	UniversityofYangonalumni	University of Yangon alumni	resource
+PeMaungTin	subject	Burmeseeducators	Burmese educators	resource
+PeMaungTin	description	Burmascholar	Burma scholar	literal
+PeMaungTin	description	Burmascholar	Burma scholar	literal
+PeMaungTin	relative	TeeTeeLuce	Tee Tee Luce	resource
+PeMaungTin	occupation	Teacher	Teacher	resource
+PeMaungTin	occupation	PeMaungTin1	Pe_Maung_Tin__1	resource
+PeMaungTin	occupation	Pali	Pali	resource
+PeMaungTin	type	Person	Person	resource
+PeMaungTin	type	BurmeseStudiesScholars	BurmeseStudiesScholars	resource
+PeMaungTin	type	LivingThing100004258	LivingThing100004258	resource
+PeMaungTin	type	Whole100003553	Whole100003553	resource
+PeMaungTin	type	Organism100004475	Organism100004475	resource
+PeMaungTin	type	YagoLegalActor	YagoLegalActor	resource
+PeMaungTin	type	Intellectual109621545	Intellectual109621545	resource
+PeMaungTin	type	Agent	DUL.owl#Agent	resource
+PeMaungTin	type	Q5	Q5	resource
+PeMaungTin	type	Person	person	resource
+PeMaungTin	type	Person	Person	resource
+PeMaungTin	type	YagoLegalActorGeo	YagoLegalActorGeo	resource
+PeMaungTin	type	Thing	Thing	resource
+PeMaungTin	type	CausalAgent100007347	CausalAgent100007347	resource
+PeMaungTin	type	Person100007846	Person100007846	resource
+PeMaungTin	type	Agent	agent	resource
+PeMaungTin	type	Scholar110557854	Scholar110557854	resource
+PeMaungTin	type	NaturalPerson	DUL.owl#NaturalPerson	resource
+PeMaungTin	type	BurmeseWriters	BurmeseWriters	resource
+PeMaungTin	type	PhysicalEntity100001930	PhysicalEntity100001930	resource
+PeMaungTin	type	Communicator109610660	Communicator109610660	resource
+PeMaungTin	type	Object100002684	Object100002684	resource
+PeMaungTin	type	Writer110794014	Writer110794014	resource
+PeMaungTin	type	Q215627	Q215627	resource
+TeeTeeLuce	relative	PeMaungTin	Pe Maung Tin	resource
+PeMaungTin	name	PeMaungTin	Pe Maung Tin	literal
+PeMaungTin	deathYear	1973	1973	literal
+PeMaungTin	deathDate	19730322	1973-03-22	literal

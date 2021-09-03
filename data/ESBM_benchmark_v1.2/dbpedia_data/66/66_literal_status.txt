@@ -1,0 +1,24 @@
+2013SlovakCupFinal	name	2013SlovnaftCupFinal	2013 Slovnaft Cup Final	literal
+2013SlovakCupFinal	team	MŠKŽilina	MŠK Žilina	resource
+2013SlovakCupFinal	team	ŠKSlovanBratislava	ŠK Slovan Bratislava	resource
+2013SlovakCupFinal	previousEvent	2012SlovakCupFinal	2012 Slovak Cup Final	resource
+2013SlovakCupFinal	location	ŠtadiónpodČebraťom	Štadión pod Čebraťom	resource
+2013SlovakCupFinal	date	20130501	2013-05-01	literal
+2013SlovakCupFinal	city	Ružomberok	Ružomberok	resource
+2014SlovakCupFinal	previousEvent	2013SlovakCupFinal	2013 Slovak Cup Final	resource
+2013SlovakCupFinal	subject	SlovakCupFinals	Slovak Cup Finals	resource
+2013SlovakCupFinal	subject	MŠKŽilinamatches	MŠK Žilina matches	resource
+2013SlovakCupFinal	subject	ŠKSlovanBratislavamatches	ŠK Slovan Bratislava matches	resource
+2013SlovakCupFinal	type	SportsEvent	SportsEvent	resource
+2013SlovakCupFinal	type	Thing	Thing	resource
+2013SlovakCupFinal	type	Event	event	resource
+2013SlovakCupFinal	type	SportsEvent	sports event	resource
+2013SlovakCupFinal	type	SocietalEvent	societal event	resource
+2013SlovakCupFinal	type	Q1656682	Q1656682	resource
+2013SlovakCupFinal	type	Event	DUL.owl#Event	resource
+2013SlovakCupFinal	type	FootballMatch	football match	resource
+2013SlovakCupFinal	type	Event	Event	resource
+2012SlovakCupFinal	followingEvent	2013SlovakCupFinal	2013 Slovak Cup Final	resource
+2013SlovakCupFinal	label	2013SlovakCupFinal	2013 Slovak Cup Final	literal
+2013SlovakCupFinal	time	00CEST	16:00CEST	literal
+2013SlovakCupFinal	followingEvent	2014SlovakCupFinal	2014 Slovak Cup Final	resource

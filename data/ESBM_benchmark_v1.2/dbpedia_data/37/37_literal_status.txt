@@ -1,0 +1,23 @@
+Ovophis	type	Species	species	resource
+Ovophis	type	Reptile	reptile	resource
+Ovophis	type	Thing	Thing	resource
+Ovophis	type	Q729	Q729	resource
+Ovophis	type	Eukaryote	eukaryote	resource
+Ovophis	type	Q19088	Q19088	resource
+Ovophis	type	Animal	animal	resource
+Ovophis	kingdom	Animal	Animal	resource
+Ovophis	subject	Crotalinae	Crotalinae	resource
+Ovophis	name	Ovophis	Ovophis	literal
+Ovophis	family	Viperidae	Viperidae	resource
+Ovophis	family	Pitviper	Pit viper	resource
+Ovophis	label	Ovophis	Ovophis	literal
+Ovophis	phylum	Vertebrate	Vertebrate	resource
+Ovophis	phylum	Chordate	Chordate	resource
+Ovophis	order	Squamata	Squamata	resource
+Ovophis	order	Snake	Snake	resource
+Ovophischaseni	genus	Ovophis	Ovophis	resource
+Ovophismonticola	genus	Ovophis	Ovophis	resource
+Ovophisokinavensis	genus	Ovophis	Ovophis	resource
+Ovophis	class	Reptile	Reptile	resource
+Ovophis	synonym	InRomanoHoge,1981	In Romano-Hoge, 1981	literal
+Ovophis	synonym	*OvophisBurger	* Ovophis Burger	literal

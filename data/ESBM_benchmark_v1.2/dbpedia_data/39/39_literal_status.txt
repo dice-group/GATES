@@ -1,0 +1,27 @@
+Siamesemudcarp	class	Actinopterygii	Actinopterygii	resource
+Siamesemudcarp	name	Siamesemudcarp	Siamese mud carp	literal
+Siamesemudcarp	conservationStatusSystem	iucn3.1	iucn3.1	literal
+Siamesemudcarp	subject	Carp	Carp	resource
+Siamesemudcarp	subject	FishofThailand	Fish of Thailand	resource
+Siamesemudcarp	subject	FishofCambodia	Fish of Cambodia	resource
+Siamesemudcarp	subject	FishofLaos	Fish of Laos	resource
+Siamesemudcarp	subject	FishofVietnam	Fish of Vietnam	resource
+Siamesemudcarp	subject	FishoftheMekongBasin	Fish of the Mekong Basin	resource
+Siamesemudcarp	type	Q19088	Q19088	resource
+Siamesemudcarp	type	Q729	Q729	resource
+Siamesemudcarp	type	Thing	Thing	resource
+Siamesemudcarp	type	Fish	fish	resource
+Siamesemudcarp	type	Eukaryote	eukaryote	resource
+Siamesemudcarp	type	Animal	animal	resource
+Siamesemudcarp	type	Species	species	resource
+Siamesemudcarp	type	Q152	Q152	resource
+Siamesemudcarp	depiction	Mekongriverlocation.jpg	Mekong_river_location.jpg	resource
+Siamesemudcarp	order	Cypriniformes	Cypriniformes	resource
+Siamesemudcarp	conservationStatus	LC	LC	literal
+Siamesemudcarp	thumbnail	Mekongriverlocation.jpg?width=300	Mekong_river_location.jpg?width=300	resource
+Siamesemudcarp	genus	Henicorhynchus	Henicorhynchus	resource
+Siamesemudcarp	kingdom	Animal	Animal	resource
+Siamesemudcarp	phylum	Chordate	Chordate	resource
+Siamesemudcarp	family	Cyprinidae	Cyprinidae	resource
+Siamesemudcarp	binomialAuthority	HenriÉmileSauvage	Henri Émile Sauvage	resource
+Siamesemudcarp	label	Siamesemudcarp	Siamese mud carp	literal

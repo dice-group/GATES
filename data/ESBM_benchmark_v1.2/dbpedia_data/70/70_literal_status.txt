@@ -1,0 +1,54 @@
+OperationHump	depiction	US1503rdparatrooperOperationHumpSVNNovember1965.PNG	US_1_503rd_paratrooper_Operation_Hump_SVN_November_1965.PNG	resource
+OperationHump	isPartOfMilitaryConflict	VietnamWar	Vietnam War	resource
+173rdAirborneBrigadeCombatTeam	battle	OperationHump	Operation Hump	resource
+LawrenceJoel	battle	OperationHump	Operation Hump	resource
+1stBrigadeCombatTeam,1stCavalryDivision(UnitedStates)	battle	OperationHump	Operation Hump	resource
+OperationHump	subject	BattlesoftheVietnamWarinvolvingNewZealand	Battles of the Vietnam War involving New Zealand	resource
+OperationHump	subject	CampaignsoftheVietnamWar	Campaigns of the Vietnam War	resource
+OperationHump	subject	1965inVietnam	1965 in Vietnam	resource
+OperationHump	subject	BattlesoftheVietnamWarinvolvingtheUnitedStates	Battles of the Vietnam War involving the United States	resource
+OperationHump	subject	DongNaiProvince	Dong Nai Province	resource
+OperationHump	subject	BattlesinvolvingVietnam	Battles involving Vietnam	resource
+OperationHump	subject	Conflictsin1965	Conflicts in 1965	resource
+OperationHump	subject	BattlesoftheVietnamWarinvolvingAustralia	Battles of the Vietnam War involving Australia	resource
+OperationHump	date	19651108	1965-11-08	literal
+OperationHump	thumbnail	US1503rdparatrooperOperationHumpSVNNovember1965.PNG?width=300	US_1_503rd_paratrooper_Operation_Hump_SVN_November_1965.PNG?width=300	resource
+OperationHump	result	Australianvictory,VietCongretreats.	United States/Australian victory, Viet Cong retreats.	literal
+OperationHump	causalties	48USkilled	48 US killed	literal
+OperationHump	causalties	manymorewounded	many more wounded	literal
+OperationHump	causalties	2AustralianMIA(locatedandrepatriatedtoAustralia5June2007)	2 Australian MIA (located and repatriated to Australia 5 June 2007)	literal
+OperationHump	label	OperationHump	Operation Hump	literal
+OperationHump	place	BiênHòa	Biên Hòa	resource
+OperationHump	place	SouthVietnam	South Vietnam	resource
+OperationHump	name	OperationHump	Operation Hump	literal
+OperationHump	strength	TotalForcearound400	Total Force around 400	literal
+OperationHump	strength	around1200	around 1200	literal
+OperationHump	type	Contest107456188	Contest107456188	resource
+OperationHump	type	Conflict100958896	Conflict100958896	resource
+OperationHump	type	BattlesOfTheVietnamWarInvolvingNewZealand	BattlesOfTheVietnamWarInvolvingNewZealand	resource
+OperationHump	type	Q1656682	Q1656682	resource
+OperationHump	type	CampaignsOfTheVietnamWar	CampaignsOfTheVietnamWar	resource
+OperationHump	type	Battle100953559	Battle100953559	resource
+OperationHump	type	GroupAction101080366	GroupAction101080366	resource
+OperationHump	type	Event100029378	Event100029378	resource
+OperationHump	type	Thing	Thing	resource
+OperationHump	type	BattlesOfTheVietnamWarInvolvingAustralia	BattlesOfTheVietnamWarInvolvingAustralia	resource
+OperationHump	type	ConflictsIn1965	ConflictsIn1965	resource
+OperationHump	type	PsychologicalFeature100023100	PsychologicalFeature100023100	resource
+OperationHump	type	SocialEvent107288639	SocialEvent107288639	resource
+OperationHump	type	Race107472657	Race107472657	resource
+OperationHump	type	Event	event	resource
+OperationHump	type	Abstraction100002137	Abstraction100002137	resource
+OperationHump	type	PoliticalCampaign107472929	PoliticalCampaign107472929	resource
+OperationHump	type	Act100030358	Act100030358	resource
+OperationHump	type	MilitaryConflict	military conflict	resource
+OperationHump	type	MilitaryAction100952963	MilitaryAction100952963	resource
+OperationHump	type	Event	DUL.owl#Event	resource
+OperationHump	type	Event	Event	resource
+OperationHump	type	SocietalEvent	societal event	resource
+OperationHump	type	BattlesInvolvingVietnam	BattlesInvolvingVietnam	resource
+OperationHump	type	BattlesOfTheVietnamWarInvolvingTheUnitedStates	BattlesOfTheVietnamWarInvolvingTheUnitedStates	resource
+OperationHump	type	YagoPermanentlyLocatedEntity	YagoPermanentlyLocatedEntity	resource
+OperationHump	combatant	22pxVietCong	22pxViet Cong	literal
+OperationHump	combatant	22pxUnitedStates	22pxUnited States	literal
+OperationHump	combatant	22pxAustralia	22pxAustralia	literal

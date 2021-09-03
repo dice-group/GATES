@@ -1,0 +1,23 @@
+2012LeagueofIrelandCupFinal	previousEvent	2011LeagueofIrelandCupFinal	2011 League of Ireland Cup Final	resource
+2011LeagueofIrelandCupFinal	label	2011LeagueofIrelandCupFinal	2011 League of Ireland Cup Final	literal
+2011LeagueofIrelandCupFinal	location	TurnersCross(stadium)	Turners Cross (stadium)	resource
+2011LeagueofIrelandCupFinal	city	Cork(city)	Cork (city)	resource
+2011LeagueofIrelandCupFinal	type	Event	event	resource
+2011LeagueofIrelandCupFinal	type	FootballMatch	football match	resource
+2011LeagueofIrelandCupFinal	type	Event	DUL.owl#Event	resource
+2011LeagueofIrelandCupFinal	type	Thing	Thing	resource
+2011LeagueofIrelandCupFinal	type	SocietalEvent	societal event	resource
+2011LeagueofIrelandCupFinal	type	SportsEvent	sports event	resource
+2011LeagueofIrelandCupFinal	type	SportsEvent	SportsEvent	resource
+2011LeagueofIrelandCupFinal	type	Q1656682	Q1656682	resource
+2011LeagueofIrelandCupFinal	type	Event	Event	resource
+2011LeagueofIrelandCupFinal	date	20110924	2011-09-24	literal
+2011LeagueofIrelandCupFinal	time	00IST	18:00IST	literal
+2011LeagueofIrelandCupFinal	team	DerryCityF.C.	Derry City F.C.	resource
+2011LeagueofIrelandCupFinal	team	CorkCityF.C.	Cork City F.C.	resource
+2011LeagueofIrelandCupFinal	subject	CorkCityF.C.matches	Cork City F.C. matches	resource
+2011LeagueofIrelandCupFinal	subject	DerryCityF.C.matches	Derry City F.C. matches	resource
+2011LeagueofIrelandCupFinal	subject	2011inRepublicofIrelandfootballcups	2011 in Republic of Ireland football cups	resource
+2011LeagueofIrelandCupFinal	subject	LeagueofIrelandCupfinals	League of Ireland Cup finals	resource
+2011LeagueofIrelandCupFinal	subject	2011LeagueofIreland	2011 League of Ireland	resource
+2011LeagueofIrelandCupFinal	name	2011LeagueofIrelandCupFinal	2011 League of Ireland Cup Final	literal

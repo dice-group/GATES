@@ -1,0 +1,37 @@
+KingsRipton	lat	52.37	52.37	literal
+KingsRipton	gridReference	TL260765	TL260765	literal
+KingsRipton	country	UnitedKingdom	United Kingdom	resource
+KingsRipton	country	England	England	resource
+KingsRipton	country	Cambridgeshire	Cambridgeshire	resource
+KingsRipton	thumbnail	StPeter's,KingsRiptongeograph.org.uk839692.jpg?width=300	St_Peter's,_Kings_Ripton_-_geograph.org.uk_-_839692.jpg?width=300	resource
+KingsRipton	long	0.15	-0.15	literal
+KingsRipton	depiction	StPeter's,KingsRiptongeograph.org.uk839692.jpg	St_Peter's,_Kings_Ripton_-_geograph.org.uk_-_839692.jpg	resource
+KingsRipton	type	GeographicalArea108574314	GeographicalArea108574314	resource
+KingsRipton	type	YagoPermanentlyLocatedEntity	YagoPermanentlyLocatedEntity	resource
+KingsRipton	type	Location100027167	Location100027167	resource
+KingsRipton	type	Place	place	resource
+KingsRipton	type	Object100002684	Object100002684	resource
+KingsRipton	type	Village108672738	Village108672738	resource
+KingsRipton	type	SpatialThing	wgs84_pos#SpatialThing	resource
+KingsRipton	type	Settlement	settlement	resource
+KingsRipton	type	PopulatedPlace	populated place	resource
+KingsRipton	type	Place	Place	resource
+KingsRipton	type	VillagesInCambridgeshire	VillagesInCambridgeshire	resource
+KingsRipton	type	YagoLegalActorGeo	YagoLegalActorGeo	resource
+KingsRipton	type	PhysicalEntity100001930	PhysicalEntity100001930	resource
+KingsRipton	type	Region108630985	Region108630985	resource
+KingsRipton	type	Q486972	Q486972	resource
+KingsRipton	type	YagoGeoEntity	YagoGeoEntity	resource
+KingsRipton	type	Settlement108672562	Settlement108672562	resource
+KingsRipton	type	Thing	Thing	resource
+KingsRipton	type	Location	Location	resource
+KingsRipton	postalCode	PE282	PE28 2	literal
+KingsRipton	district	Huntingdonshire	Huntingdonshire	resource
+KingsRipton	populationTotal	168	168	literal
+KingsRipton	subject	VillagesinCambridgeshire	Villages in Cambridgeshire	resource
+KingsRipton	subject	Huntingdonshire	Huntingdonshire	resource
+KingsRipton	subject	CivilparishesinCambridgeshire	Civil parishes in Cambridgeshire	resource
+KingsRipton	label	KingsRipton	Kings Ripton	literal
+KingsRipton	point	52.370.15	52.37 -0.15	literal
+KingsRipton	name	KingsRipton	Kings Ripton	literal
+KingsRipton	areaCode	01487	01487	literal
