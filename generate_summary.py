@@ -61,13 +61,14 @@ def generate_summary(ds_name, test_adjs, test_facts, test_labels, pred_dict, ent
           
           favg_top = _eval_Fmeasure(top_list_output_top, gold_list_top)
           favg_top_list.append(favg_top)
-          favg_top_all.append(favg_top)
       
       
         test_favg_top = np.mean(favg_top_list)
         print('top {} of {} testing fold %d:'.format(topk, ds_name) % num, test_favg_top)
+        favg_top_all.append(test_favg_top)
+        
             
-        test_favg_top_all = np.mean(favg_top_all)
+  test_favg_top_all = np.mean(favg_top_all)
   print("### Single Score ###")
   if ds_name=='faces':
       print("dataset: {}".format(ds_name))
