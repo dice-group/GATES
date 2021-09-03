@@ -61,21 +61,20 @@ def generate_summary(ds_name, test_adjs, test_facts, test_labels, pred_dict, ent
           
           favg_top = _eval_Fmeasure(top_list_output_top, gold_list_top)
           favg_top_list.append(favg_top)
+          favg_top_all.append(favg_top)
       
       
         test_favg_top = np.mean(favg_top_list)
         print('top {} of {} testing fold %d:'.format(topk, ds_name) % num, test_favg_top)
-        favg_top_all.append(test_favg_top)
-        
             
-  test_favg_top_all = np.mean(favg_top_all)
+        test_favg_top_all = np.mean(favg_top_all)
   print("### Single Score ###")
-  if ds_name=='faces':
-      print("dataset: {}".format(ds_name))
-      print("############################################")
-      print('Results({}@{}: {}'.format(ds_name, topk, test_favg_top_all))
-      print("#######################################")
-      print("\n")
+  #if ds_name=='faces':
+  print("dataset: {}".format(ds_name))
+  print("############################################")
+  print('Results({}@{}: {}'.format(ds_name, topk, test_favg_top_all))
+  print("#######################################")
+  print("\n")
   
   if ds_name=="faces":
       with open(print_to, 'a') as f:
@@ -97,11 +96,9 @@ def ensembled_generating_summary(ds_name, test_adjs, test_facts, test_labels, pr
     for num in tqdm(range(5)):
         CHECK_DIR = path.join("models", "gates_checkpoint-{}-{}-{}".format(ds_name, topk, num))
         gates = GATES(pred2ix_size, entity2ix_size, pred_emb_dim, ent_emb_dim, device, dropout, hidden_layers, nheads)
-        #print(path.join(CHECK_DIR, "checkpoint_epoch_{}.pt".format(use_epoch[num])))
         checkpoint = torch.load(path.join(CHECK_DIR, "checkpoint_epoch_{}.pt".format(use_epoch[num])))
         gates.load_state_dict(checkpoint["model_state_dict"])
         gates.to(device)
-        #print(gates)
         models.append(gates)
         
     for num in tqdm(range(5)):
@@ -143,12 +140,12 @@ def ensembled_generating_summary(ds_name, test_adjs, test_facts, test_labels, pr
             test_favg_top_all = np.mean(favg_top_all)
     print("\n")
     print("### Ensembled score ###")
-    if ds_name=='faces':
-        print("dataset: {}".format(ds_name))
-        print("############################################")
-        print('Results({}@{}: {}'.format(ds_name, topk, test_favg_top_all))
-        print("#######################################")
-        print("\n")
+    #if ds_name=='faces':
+    print("dataset: {}".format(ds_name))
+    print("############################################")
+    print('Results({}@{}: {}'.format(ds_name, topk, test_favg_top_all))
+    print("#######################################")
+    print("\n")
       
     if ds_name=="faces":
         with open(print_to, 'a') as f:
@@ -159,13 +156,8 @@ def ensembled_generating_summary(ds_name, test_adjs, test_facts, test_labels, pr
 
 # evaluate a specific number of members in an ensemble
 def evaluate_n_members(members, n_members, input_tensor, adj):
-    # select a subset of members
-    #print(members)
     subset = members[:n_members]
-    # make prediction
     yhat = ensemble_predictions(subset, input_tensor, adj)
-    #print(yhat)
-    #print(yhat.shape)
     return yhat
 
 # make an ensemble prediction for multi-class classification

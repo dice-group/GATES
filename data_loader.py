@@ -9,6 +9,8 @@ import re # is stand for regex expression
 import os.path as path
 from utils import _compact, _extract, build_dict, build_vec
 import scipy.sparse as sp
+from tqdm import tqdm
+from SPARQLWrapper import SPARQLWrapper, JSON
 
 IN_ESBM_DIR = os.path.join(path.dirname(os.getcwd()), 'GATES/data', 'ESBM_benchmark_v1.2')
 IN_DBPEDIA_DIR = os.path.join(path.dirname(os.getcwd()), 'GATES/data/ESBM_benchmark_v1.2', 'dbpedia_data')
@@ -58,13 +60,12 @@ def _read_split(fold_path, split_name):
 # Prepare data for per entity
 def get_entity_desc(ds_name, db_path, num):
   data=list()
-  
-  with open(path.join(db_path, "{}".format(num), "{}_desc.nt".format(num)), encoding="utf8") as reader:
+  with open(path.join(db_path, "{}".format(num), "{}_literal_status.txt".format(num)), encoding="utf8") as reader:
       for i, triple in enumerate(reader):
-          if len(triple)==1:
-              continue
-          sub, pred, obj, obj_ori = parserline(triple)
-          edesc = (num, sub, pred, obj, obj_ori)
+          #print(i, triple)
+          sub, pred, obj, literal, _ = triple.split("\t")
+          edesc = (num, sub, pred, obj, literal)
+          #print(i, edesc)
           data.append(edesc)
           
   return data
@@ -73,14 +74,12 @@ def get_entity_desc(ds_name, db_path, num):
 def build_graph(db_path, num, weighted_edges_model):
   triples_idx=list()
   
-  with open(path.join(db_path, "{}".format(num), "{}_desc.nt".format(num)), encoding="utf8") as reader:
+  with open(path.join(db_path, "{}".format(num), "{}_literal_status.txt".format(num)), encoding="utf8") as reader:
     subjectList = list()
     relationList = list()
     objectList = list()
-    for i, triple in enumerate(reader):
-      if len(triple) == 1:
-          continue
-      sub, pred, obj, _ = parserline(triple)
+    for i, items in enumerate(reader):
+      sub, pred, obj, _, _ = items.split("\t")
       subjectList.append(sub)
       relationList.append(pred)
       objectList.append(obj)
@@ -103,17 +102,15 @@ def build_graph(db_path, num, weighted_edges_model):
   predicatesObjectsFreq = {} 
   weighted_edges = []
   triples_list=[]
-  with open(path.join(db_path, "{}".format(num), "{}_desc.nt".format(num)), encoding="utf8") as reader:
-    for i, triple in enumerate(reader):
-      if len(triple) == 1:
-          continue
-      sub, pred, obj, _ = parserline(triple)
+  with open(path.join(db_path, "{}".format(num), "{}_literal_status.txt".format(num)), encoding="utf8") as reader:
+    for i, items in enumerate(reader):
+      sub, pred, obj, _, _ = items.split("\t")
       triples = (sub, pred, obj)
       triple_tuple_idx = (nodes_dict[sub], relations_dict[pred], nodes_dict[obj])
       #print(triple_tuple_idx)
       triples_idx.append(triple_tuple_idx)
       triples_list.append(triples)
-  
+  #print(num, triples_list, len(triples_idx), triples_idx)
   for sub, pred, obj in triples_list:    
       if (sub, pred) not in predicatesObjectsFreq:
           predicatesObjectsFreq[(sub, pred)] = 1
@@ -152,6 +149,7 @@ def build_graph(db_path, num, weighted_edges_model):
   #print(adj)
   return adj
 
+'''
 def parserline(triple):
   literal = re.findall('\^\^', triple)
   if len(literal) > 0:
@@ -192,8 +190,9 @@ def parserline(triple):
   if obj_literal == '':
       obj_literal="UNK"
   #print('obj', obj, 'obj literal', obj_literal)
-  quad_tuple = (sub, pred, obj, obj_literal)
-  return quad_tuple
+  triple_tuple = (sub, pred, obj)
+  return triple_tuple
+'''
 
 def get_data_gold(db_path, num, top_n, file_n):
   import glob
@@ -203,7 +202,7 @@ def get_data_gold(db_path, num, top_n, file_n):
     for i, triple in enumerate(reader):
       if len(triple)==1:
         continue  
-      triple_tuple = parserline(triple)
+      triple_tuple = triple.replace("\n", "").strip()#parserline(triple)
       if triple_tuple not in triples_dict:
         triples_dict[triple_tuple] = len(triples_dict)
   gold_list = []
@@ -223,7 +222,7 @@ def get_data_gold(db_path, num, top_n, file_n):
       for i, triple in enumerate(reader):
         if len(triple)==1:
             continue
-        triple_tuple = parserline(triple)
+        triple_tuple = triple.replace("\n", "").strip()#parserline(triple)
         gold_id = triples_dict[triple_tuple]
         n_list.append(gold_id)
       gold_list.append(n_list)
@@ -236,6 +235,7 @@ def get_data(ds_name, data_eids, db_dir, weighted_edges_model):
   adj_data = list()
   edesc_data = list() 
   for eid in data_eids:
+    #print("eid", eid)
     adj = build_graph(db_dir, eid, weighted_edges_model)
     edesc = get_entity_desc(ds_name, db_dir, eid)
     adj_data.append(adj)
@@ -321,9 +321,7 @@ def prepare_label(ds_name, num, top_n, file_n):
   for i in range(file_n):
     with open(path.join(db_path, "{}".format(num), "{}_gold_top{}_{}.nt".format(num, top_n, i).format(num)), encoding="utf8") as reader:
       for i, triple in enumerate(reader):
-        if len(triple)== 1:
-            continue
-        sub, pred, obj, _ = parserline(triple)
+        sub, pred, obj, _, _ = parserline_get_literal(triple, False)
         counter(per_entity_label_dict, "{}++$++{}".format(pred, obj))
   return per_entity_label_dict
 
@@ -404,6 +402,157 @@ def load_emb(ds_name, emb_model):
     pred2vec = build_vec(pred2ix, pred_embedding)
 	
     return entity2vec, pred2vec, entity2ix, pred2ix
+
+def gen_literal(ds_name):
+    
+    if ds_name == "dbpedia":
+        db_path = IN_DBPEDIA_DIR
+        db_start, db_end = [1, 141], [101, 166]
+    elif ds_name == "lmdb":
+        db_path = IN_LMDB_DIR
+        db_start, db_end = [101, 166], [141, 176]
+    elif ds_name == "faces":
+        db_path = IN_FACES_DIR
+        db_start, db_end = [1, 26], [26, 51]
+    else:
+        raise ValueError("The database's name must be dbpedia or lmdb or faces")
+    #print("stage 1")    
+    for i in tqdm(range(db_start[0], db_end[0])):
+        with open(path.join(db_path, "{}".format(i), "{}_literal_status.txt".format(i)), "w", encoding="utf-8") as f:
+            with open(path.join(db_path, "{}".format(i), "{}_desc.nt".format(i)), encoding="utf8") as reader:
+                for triple in reader:
+                    sub, pred, obj, obj_literal, status = parserline_get_literal(triple, True)
+                    f.write("{}\t{}\t{}\t{}\t{}\n".format(sub, pred, obj, obj_literal, status))            
+    
+    #print("stage 2")
+    for i in tqdm(range(db_start[1], db_end[1])):
+        with open(path.join(db_path, "{}".format(i), "{}_literal_status.txt".format(i)), "w", encoding="utf-8") as f:
+            with open(path.join(db_path, "{}".format(i), "{}_desc.nt".format(i)), encoding="utf8") as reader:
+                for triple in reader:
+                    sub, pred, obj, obj_literal, status = parserline_get_literal(triple, True)
+                    f.write("{}\t{}\t{}\t{}\t{}\n".format(sub, pred, obj, obj_literal, status))
+                    
+def parserline_get_literal(triple, getLabelFlag):
+  literal = re.findall('\^\^', triple)
+  if len(literal) > 0:
+    components = re.findall('\^\^', triple)
+  else:
+    components = re.findall('<([^:]+:[^\s"<>]*)>', triple)
+    
+  if len(components) == 2:
+    sub, pred = components
+    remaining_triple = triple[triple.index(pred) + len(pred) + 2:]
+    literal = remaining_triple[:-1]
+    obj = literal
+    if literal != '"" .':
+        obj = re.sub(r'\\', '', obj)
+        obj = re.sub(r'""', '"', obj)
+    obj =  re.findall(r'"([^"]*)"', obj)[0]
+    obj_literal = obj
+    status = "literal"
+    
+  elif len(components) == 3:
+    sub, pred, obj = components
+    #print(components)
+    status = "resource"
+    if getLabelFlag:
+        uri = obj.split("/")
+        if uri[2]=="data.linkedmdb.org":
+            id_ = uri[-1]
+            key= uri[-2]
+            if key!="movie":
+                keyword = "{}:{}".format(key, id_)
+                obj_literal = get_label_of_entity_lmdb(keyword)
+                if obj_literal == "None":
+                    obj_literal = uri[-1]
+            else:
+                obj_literal = uri[-1]
+        else:
+            obj_literal = get_label_of_entity(obj)
+            if obj_literal == "None":
+                obj_literal = uri[-1]
+                if obj_literal=="":
+                    obj_literal = obj
+    else:
+      obj_literal = obj.split("/")[-1].replace("_", " ")  
+  else:
+    components = triple.split(" ")
+    sub = components[0]
+    pred = components[1]
+    obj = components[2].split("^^")[0]
+    obj =  re.findall(r'"([^"]*)"', obj)[0]
+    obj_literal =  obj
+    status = "literal"
+    
+  sub = _compact(_extract(sub))
+  pred = _extract(pred)
+  obj = _compact(_extract(obj))
+  if obj == '':
+    obj = 'UNK'
+    obj_literal='UNK'
+  
+  return sub, pred, obj, obj_literal, status
+
+def get_label_of_entity(uri):
+    sparql = SPARQLWrapper("http://dbpedia.org/sparql")
+    sparql.setQuery("""
+        PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+        SELECT ?label
+        WHERE { <%s> rdfs:label ?label }
+    """ % (uri))
+    sparql.setReturnFormat(JSON)
+    results = sparql.query().convert()
+    
+    for result in results["results"]["bindings"]:
+        try:
+            if result["label"]["xml:lang"] == "en":
+                return result["label"]["value"]
+        except:
+            return result["label"]["value"]
+    
+    return "None"
+
+def get_label_of_entity_lmdb(uri):
+    sparql = SPARQLWrapper("https://api.triplydb.com/datasets/Triply/linkedmdb/services/linkedmdb/sparql")
+    sparql.setQuery("""
+        PREFIX film_set_designer: <https://triplydb.com/Triply/linkedmdb/id/film_set_designer/>
+        PREFIX film_format: <https://triplydb.com/Triply/linkedmdb/id/film_format/>
+        PREFIX country: <https://triplydb.com/Triply/linkedmdb/id/country/>
+        PREFIX film_subject: <https://triplydb.com/Triply/linkedmdb/id/film_subject/>
+        PREFIX cinematographer: <https://triplydb.com/Triply/linkedmdb/id/cinematographer/>
+        PREFIX production_company: <https://triplydb.com/Triply/linkedmdb/id/production_company/>
+        PREFIX music_contributor: <https://triplydb.com/Triply/linkedmdb/id/music_contributor/>
+        PREFIX editor: <https://triplydb.com/Triply/linkedmdb/id/editor/>
+        PREFIX film_cut: <https://triplydb.com/Triply/linkedmdb/id/film_cut/>
+        PREFIX director: <https://triplydb.com/Triply/linkedmdb/id/director/>
+        PREFIX producer: <https://triplydb.com/Triply/linkedmdb/id/producer/>
+        PREFIX writer: <https://triplydb.com/Triply/linkedmdb/id/writer/>
+        PREFIX film_story_contributor: <https://triplydb.com/Triply/linkedmdb/id/film_story_contributor/> 
+        PREFIX film_genre: <https://triplydb.com/Triply/linkedmdb/id/film_genre/>
+        PREFIX performance: <https://triplydb.com/Triply/linkedmdb/id/performance/>
+        PREFIX actor: <https://triplydb.com/Triply/linkedmdb/id/actor/>
+        PREFIX film_art_director: <https://triplydb.com/Triply/linkedmdb/id/film_art_director/>
+        PREFIX film: <https://triplydb.com/Triply/linkedmdb/id/film/>
+        PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+        PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+        PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+        SELECT ?s ?label
+        WHERE { %s rdfs:label ?label }
+    """ % uri)
+    sparql.setReturnFormat(JSON)
+    results = sparql.query().convert()
+    
+    for result in results["results"]["bindings"]:
+        try:
+            if result["label"]["xml:lang"] == "en":
+                return result["label"]["value"]
+        except:
+            return result["label"]["value"]
+    
+    return "None"
+
+def split_upper(s):
+    return re.split("([A-Z][^A-Z]*)", s)
 
 def main():
     ds_name = "faces"

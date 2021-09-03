@@ -133,32 +133,42 @@ def tensor_concatenation_model_1(entity_dict, pred_dict, edesc, word_emb, word_e
     Tensor concatenation model 1 is obtained by the concatenation of KGE (DistMult/ComplEx) as predicate embeddings and
     word embeddings as object embeddings 
     '''
+    #print("#####")
+    #print(edesc)
     pred_list, obj_list, obj_literal_list = [], [], []
     for _, _, pred, obj, obj_literal in edesc:
         pred_list.append(pred_dict[pred])
         obj_list.append(obj)
         obj_literal_list.append(obj_literal)
-  
+    
     pred_tensor = torch.tensor(pred_list).unsqueeze(1)
   
     arrays_obj_literal_list=[]
     for obj in obj_literal_list:
         arrays=[]
         tokens = nltk.word_tokenize(obj)
+        #print("tokens", tokens, obj)
         for token in tokens:
             try:
                 vec = word_emb[token]
             except:
                 vec = np.zeros([300,])
                 #flag=False
+            #print(token, vec, vec.shape)
             arrays.append(vec)
-        if word_emb_calc=="SUM":    
-            obj_vector = np.sum(arrays, axis=0)
+        if len(tokens)>1:    
+            if word_emb_calc=="SUM":    
+                obj_vector = np.sum(arrays, axis=0)
+            else:
+                obj_vector = np.average(arrays, axis=0)
         else:
-            obj_vector = np.average(arrays, axis=0)
+            obj_vector = arrays[0]
+        #print(obj)
+        #print(obj_vector)
         arrays_obj_literal_list.append(obj_vector)
-    #print(arrays_obj_literal_list)
-    obj_tensor = torch.tensor(arrays_obj_literal_list).unsqueeze(1) 
+    #arrays_obj_literal_list = np.array(arrays_obj_literal_list)
+    #print(arrays_obj_literal_list.shape)
+    obj_tensor = torch.tensor(arrays_obj_literal_list).unsqueeze(1)
   
     return pred_tensor, obj_tensor    
 
@@ -236,7 +246,9 @@ def tensor_from_weight(tensor_size, edesc, label):
 
 def _eval_Fmeasure(summ_tids, gold_list):
   k = len(summ_tids)
+  #print(summ_tids)
   f_list = []
+  #print(gold_list)
   for gold in gold_list:
     #print(gold)        
     if len(gold) !=k:
