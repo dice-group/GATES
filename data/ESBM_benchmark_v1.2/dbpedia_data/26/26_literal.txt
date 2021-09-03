@@ -1,0 +1,34 @@
+Richmond–PetersburgTurnpike	thumbnail	ConstructionofInterstate95,downtownRichmond(2899336022).jpg?width=300	 Construction of   Interstate 95, downtown   Richmond (2899336022).jpg?width=300 
+Richmond–PetersburgTurnpike	name	Richmond–PetersburgTurnpike	Richmond–Petersburg Turnpike
+Richmond–PetersburgTurnpike	routeTypeAbbreviation	I	I
+Richmond–PetersburgTurnpike	type	PhysicalEntity100001930	 Physical  Entity 100001930 
+Richmond–PetersburgTurnpike	type	Road104096066	 Road 104096066 
+Richmond–PetersburgTurnpike	type	Expressway103306610	 Expressway 103306610 
+Richmond–PetersburgTurnpike	type	Turnpike104501018	 Turnpike 104501018 
+Richmond–PetersburgTurnpike	type	FormerTollRoadsInTheUnitedStates	 Former  Toll  Roads  In  The  United  States 
+Richmond–PetersburgTurnpike	type	Road	road
+Richmond–PetersburgTurnpike	type	Place	place
+Richmond–PetersburgTurnpike	type	Way104564698	 Way 104564698 
+Richmond–PetersburgTurnpike	type	Infrastructure	infrastructure
+Richmond–PetersburgTurnpike	type	Highway103519981	 Highway 103519981 
+Richmond–PetersburgTurnpike	type	Q34442	road
+Richmond–PetersburgTurnpike	type	Object100002684	 Object 100002684 
+Richmond–PetersburgTurnpike	type	YagoPermanentlyLocatedEntity	 Yago  Permanently  Located  Entity 
+Richmond–PetersburgTurnpike	type	Place	 Place 
+Richmond–PetersburgTurnpike	type	TollRoadsInVirginia	 Toll  Roads  In  Virginia 
+Richmond–PetersburgTurnpike	type	Whole100003553	 Whole 100003553 
+Richmond–PetersburgTurnpike	type	ArchitecturalStructure	architectural structure
+Richmond–PetersburgTurnpike	type	YagoGeoEntity	 Yago  Geo  Entity 
+Richmond–PetersburgTurnpike	type	RouteOfTransportation	route of transportation
+Richmond–PetersburgTurnpike	type	Thing	Thing
+Richmond–PetersburgTurnpike	type	Location	 Location 
+Richmond–PetersburgTurnpike	type	Artifact100021939	 Artifact 100021939 
+Richmond–PetersburgTurnpike	depiction	ConstructionofInterstate95,downtownRichmond(2899336022).jpg	 Construction of   Interstate 95, downtown   Richmond (2899336022).jpg 
+Richmond–PetersburgTurnpike	label	Richmond–PetersburgTurnpike	Richmond–Petersburg Turnpike
+Richmond–PetersburgTurnpike	length	56327.04	56327.04
+Richmond–PetersburgTurnpike	subject	TolledsectionsofInterstateHighways	Tolled sections of Interstate Highways
+Richmond–PetersburgTurnpike	subject	FormertollroadsinVirginia	Former toll roads in Virginia
+Richmond–PetersburgTurnpike	subject	TransportationinPetersburg,Virginia	Transportation in Petersburg, Virginia
+Richmond–PetersburgTurnpike	subject	TransportationinRichmond,Virginia	Transportation in Richmond, Virginia
+Richmond–PetersburgTurnpike	subject	Interstate95	Interstate 95
+Richmond–PetersburgTurnpike	subject	Interstate85	Interstate 85

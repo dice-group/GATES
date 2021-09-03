@@ -1,0 +1,67 @@
+SaintRaphaël,Var	subject	CommunesofVar(department)	Communes of Var (department)	resource
+SaintRaphaël,Var	name	SaintRaphaël	Saint-Raphaël	literal
+SaintRaphaël,Var	area	8.959E7	8.959E7	literal
+HenryBérenger	deathPlace	SaintRaphaël,Var	Saint-Raphaël, Var	resource
+Sim(actor)	deathPlace	SaintRaphaël,Var	Saint-Raphaël, Var	resource
+LouisHon	deathPlace	SaintRaphaël,Var	Saint-Raphaël, Var	resource
+FrançoisSimiand	deathPlace	SaintRaphaël,Var	Saint-Raphaël, Var	resource
+BasilSpaldingdeGarmendia	deathPlace	SaintRaphaël,Var	Saint-Raphaël, Var	resource
+ArthurCoadou	deathPlace	SaintRaphaël,Var	Saint-Raphaël, Var	resource
+JosepIrlaiBosch	deathPlace	SaintRaphaël,Var	Saint-Raphaël, Var	resource
+HenriGuisol	deathPlace	SaintRaphaël,Var	Saint-Raphaël, Var	resource
+MelchiorTreub	deathPlace	SaintRaphaël,Var	Saint-Raphaël, Var	resource
+AdrienDouady	deathPlace	SaintRaphaël,Var	Saint-Raphaël, Var	resource
+RalphPaget	deathPlace	SaintRaphaël,Var	Saint-Raphaël, Var	resource
+GermaineSablon	deathPlace	SaintRaphaël,Var	Saint-Raphaël, Var	resource
+ShahanShahnour	deathPlace	SaintRaphaël,Var	Saint-Raphaël, Var	resource
+SaintRaphaël,Var	elevation	10.0	10.0	literal
+SaintRaphaël,Var	type	District108552138	District108552138	resource
+SaintRaphaël,Var	type	Object100002684	Object100002684	resource
+SaintRaphaël,Var	type	AdministrativeDistrict108491826	AdministrativeDistrict108491826	resource
+SaintRaphaël,Var	type	SpatialThing	wgs84_pos#SpatialThing	resource
+SaintRaphaël,Var	type	Region108630985	Region108630985	resource
+SaintRaphaël,Var	type	Place	place	resource
+SaintRaphaël,Var	type	Location	Location	resource
+SaintRaphaël,Var	type	Settlement	settlement	resource
+SaintRaphaël,Var	type	Thing	Thing	resource
+SaintRaphaël,Var	type	YagoPermanentlyLocatedEntity	YagoPermanentlyLocatedEntity	resource
+SaintRaphaël,Var	type	YagoLegalActorGeo	YagoLegalActorGeo	resource
+SaintRaphaël,Var	type	Location100027167	Location100027167	resource
+SaintRaphaël,Var	type	Place	Place	resource
+SaintRaphaël,Var	type	PopulatedPlace	populated place	resource
+SaintRaphaël,Var	type	PhysicalEntity100001930	PhysicalEntity100001930	resource
+SaintRaphaël,Var	type	YagoGeoEntity	YagoGeoEntity	resource
+SaintRaphaël,Var	type	Q486972	Q486972	resource
+SaintRaphaël,Var	type	CommunesOfVar(department)	CommunesOfVar(department)	resource
+SaintRaphaël,Var	type	Commune108541609	Commune108541609	resource
+SaintRaphaël,Var	lat	43.4252	43.4252	literal
+SaintRaphaël,Var	thumbnail	MairieStRaphaël.JPG?width=300	MairieStRaphaël.JPG?width=300	resource
+SaintRaphaël,Var	long	6.7684	6.7684	literal
+SaintRaphaël,Var	country	France	France	resource
+SaintRaphaël,Var	department	Var(department)	Var (department)	resource
+SaintRaphaël,Var	seeAlso	Listsoftwintownsandsistercities	Lists of twin towns and sister cities	resource
+SaintRaphaël,Var	seeAlso	Twintownsandsistercities	Twin towns and sister cities	resource
+SaintRaphaël,Var	seeAlso	France	France	resource
+SaintRaphaël,Var	point	43.42526.7684	43.4252 6.7684	literal
+SaintRaphaël,Var	postalCode	83700and83530	83700 and 83530	literal
+SaintRaphaël,Var	label	SaintRaphaël,Var	Saint-Raphaël, Var	literal
+SaintRaphaël,Var	maximumElevation	560.0	560.0	literal
+SaintRaphaël,Var	depiction	MairieStRaphaël.JPG	MairieStRaphaël.JPG	resource
+StadeLouisHon	location	SaintRaphaël,Var	Saint-Raphaël, Var	resource
+SaintRaphaël,Var	minimumElevation	0.0	0.0	literal
+SaintRaphaël,Var	populationTotal	34425	34425	literal
+Capucine	birthPlace	SaintRaphaël,Var	Saint-Raphaël, Var	resource
+EyemenHenaini	birthPlace	SaintRaphaël,Var	Saint-Raphaël, Var	resource
+FabienDaoCastellana	birthPlace	SaintRaphaël,Var	Saint-Raphaël, Var	resource
+JeanChristophe,PrinceNapoléon	birthPlace	SaintRaphaël,Var	Saint-Raphaël, Var	resource
+ValérieAllain	birthPlace	SaintRaphaël,Var	Saint-Raphaël, Var	resource
+DavidMichie	birthPlace	SaintRaphaël,Var	Saint-Raphaël, Var	resource
+GrégoryTony	birthPlace	SaintRaphaël,Var	Saint-Raphaël, Var	resource
+EdgarGivry	birthPlace	SaintRaphaël,Var	Saint-Raphaël, Var	resource
+PrincessBéatriceofBourbonTwoSicilies	birthPlace	SaintRaphaël,Var	Saint-Raphaël, Var	resource
+AnthonyBraizat	birthPlace	SaintRaphaël,Var	Saint-Raphaël, Var	resource
+EarvinN'Gapeth	birthPlace	SaintRaphaël,Var	Saint-Raphaël, Var	resource
+AbdellahEzbiri	birthPlace	SaintRaphaël,Var	Saint-Raphaël, Var	resource
+PrinceCarlo,DukeofCastro	birthPlace	SaintRaphaël,Var	Saint-Raphaël, Var	resource
+SaintRaphaël,Var	region	ProvenceAlpesCôted'Azur	Provence-Alpes-Côte d'Azur	resource
+SaintRaphaël,Var	inseeCode	83118	83118	literal

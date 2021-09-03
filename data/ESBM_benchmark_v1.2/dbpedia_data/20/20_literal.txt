@@ -1,0 +1,22 @@
+Triathlonatthe2000SummerOlympics–Men's	depiction	Triathlonpictogram.svg	 Triathlon pictogram.svg 
+Triathlonatthe2000SummerOlympics–Men's	goldMedalist	SimonWhitfield	Simon Whitfield
+Triathlonatthe2000SummerOlympics–Men's	nextEvent	Triathlonatthe2004SummerOlympics–Men's	Triathlon at the 2004 Summer Olympics – Men's
+Triathlonatthe2000SummerOlympics–Men's	bronzeMedalist	JanŘehula	Jan Řehula
+Triathlonatthe2004SummerOlympics–Men's	previousEvent	Triathlonatthe2000SummerOlympics–Men's	Triathlon at the 2000 Summer Olympics – Men's
+Triathlonatthe2000SummerOlympics–Men's	homepage	reportsfrmst.htm	reports frmst.htm
+Triathlonatthe2000SummerOlympics–Men's	silverMedalist	StephanVuckovic	Stephan Vuckovic
+Triathlonatthe2000SummerOlympics–Men's	subject	2000intriathlon	2000 in triathlon
+Triathlonatthe2000SummerOlympics–Men's	subject	Triathlonatthe2000SummerOlympics	Triathlon at the 2000 Summer Olympics
+Triathlonatthe2000SummerOlympics–Men's	games	2000Summer	2000 Summer
+Triathlonatthe2000SummerOlympics–Men's	type	Event	event
+Triathlonatthe2000SummerOlympics–Men's	type	Olympics	olympics
+Triathlonatthe2000SummerOlympics–Men's	type	SportsEvent	sports event
+Triathlonatthe2000SummerOlympics–Men's	type	SportsEvent	 Sports  Event 
+Triathlonatthe2000SummerOlympics–Men's	type	Q1656682	event
+Triathlonatthe2000SummerOlympics–Men's	type	Thing	Thing
+Triathlonatthe2000SummerOlympics–Men's	type	SocietalEvent	societal event
+Triathlonatthe2000SummerOlympics–Men's	type	Event	 Event 
+Triathlonatthe2000SummerOlympics–Men's	type	Event	 Event 
+Triathlonatthe2000SummerOlympics–Men's	type	OlympicEvent	olympic event
+Triathlonatthe2000SummerOlympics–Men's	thumbnail	Triathlonpictogram.svg?width=300	 Triathlon pictogram.svg?width=300 
+Triathlonatthe2000SummerOlympics–Men's	label	Triathlonatthe2000SummerOlympics–Men's	Triathlon at the 2000 Summer Olympics – Men's

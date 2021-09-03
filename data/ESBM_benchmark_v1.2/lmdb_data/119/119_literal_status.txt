@@ -1,0 +1,30 @@
+7963	title	TheAftermath	The Aftermath	literal
+7963	language	en	en	resource
+7963	page	9202a8c04000641f8000000000d192d4	9202a8c04000641f8000000000d192d4	resource
+7963	page	alias?type=imdbid&s=0758789	alias?type=imdbid&s=0758789	resource
+7963	page	tt0758789	tt0758789	resource
+7963	basednear	2635167	http://sws.geonames.org/2635167/	resource
+7963	performance	29135	29135	resource
+7963	performance	29134	29134	resource
+7963	performance	29132	29132	resource
+7963	performance	29133	29133	resource
+7963	performance	29131	29131	resource
+7963	director	11682	11682	resource
+7963	actor	36466	36466	resource
+7963	actor	37594	37594	resource
+7963	actor	32015	32015	resource
+7963	actor	37715	37715	resource
+7963	actor	31908	31908	resource
+7963	type	film	film	resource
+7963	filmid	7963	7963	literal
+11682	made	7963	7963	resource
+7963	cinematographer	692	692	resource
+7963	writer	4850	4850	resource
+7963	producer	997	997	resource
+7963	country	GB	GB	resource
+7963	label	TheAftermath	The Aftermath	literal
+7963	editor	1709	1709	resource
+140699	linksource	7963	7963	resource
+63652	linksource	7963	7963	resource
+72987	linksource	7963	7963	resource
+11639	filmofdistributor	7963	7963	resource

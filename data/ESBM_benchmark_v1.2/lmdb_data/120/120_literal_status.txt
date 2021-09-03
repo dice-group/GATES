@@ -1,0 +1,35 @@
+8446	actor	31581	31581	resource
+8446	actor	32793	32793	resource
+8446	actor	29405	29405	resource
+11436	made	8446	8446	resource
+8446	language	en	en	resource
+73136	linksource	8446	8446	resource
+141053	linksource	8446	8446	resource
+8446	runtime	114	114	literal
+8446	editor	36	36	resource
+8446	producer	3604	3604	resource
+8446	producer	5959	5959	resource
+8446	producer	1174	1174	resource
+8446	director	11436	11436	resource
+8446	genre	15	15	resource
+8446	writer	3287	3287	resource
+8446	writer	2112	2112	resource
+8446	writer	2113	2113	resource
+8446	writer	110	110	resource
+8446	page	alias?type=imdbid&s=0120751	alias?type=imdbid&s=0120751	resource
+8446	page	9202a8c04000641f8000000000db9872	9202a8c04000641f8000000000db9872	resource
+8446	page	tt0120751	tt0120751	resource
+8446	filmid	8446	8446	literal
+8446	musiccontributor	5196	5196	resource
+8446	musiccontributor	4592	4592	resource
+8446	title	MightyJoeYoung	Mighty Joe Young	literal
+8446	cinematographer	157	157	resource
+8446	initialreleasedate	19981225	1998-12-25	literal
+8446	type	film	film	resource
+8446	filmcut	4184	4184	resource
+8446	date	19981225	1998-12-25	literal
+8446	performance	19600	19600	resource
+8446	performance	19601	19601	resource
+8446	performance	173853	173853	resource
+8446	label	MightyJoeYoung	Mighty Joe Young	literal
+5652	filmofdistributor	8446	8446	resource

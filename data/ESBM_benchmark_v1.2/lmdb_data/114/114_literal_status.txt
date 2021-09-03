@@ -1,0 +1,32 @@
+6191	language	ja	ja	resource
+61136	linksource	6191	6191	resource
+139288	linksource	6191	6191	resource
+6191	country	JP	JP	resource
+6191	writer	14150	14150	resource
+6191	writer	4410	4410	resource
+6191	date	19831012	1983-10-12	literal
+6191	basednear	1861060	http://sws.geonames.org/1861060/	resource
+8972	made	6191	6191	resource
+6191	performance	87740	87740	resource
+6191	performance	25385	25385	resource
+6191	performance	25386	25386	resource
+6191	performance	25387	25387	resource
+6191	title	SatomiHakkenden	Satomi Hakkenden	literal
+6191	page	tt0086244	tt0086244	resource
+6191	page	alias?type=imdbid&s=0086244	alias?type=imdbid&s=0086244	resource
+6191	page	9202a8c04000641f8000000000abf0a2	9202a8c04000641f8000000000abf0a2	resource
+6191	type	film	film	resource
+6191	producer	4154	4154	resource
+6191	producer	14066	14066	resource
+6191	director	8972	8972	resource
+6191	filmcut	5444	5444	resource
+6191	initialreleasedate	19831012	1983-10-12	literal
+6191	musiccontributor	180	180	resource
+6191	filmid	6191	6191	literal
+6191	cinematographer	1122	1122	resource
+6191	runtime	136	136	literal
+6191	actor	34973	34973	resource
+6191	actor	44257	44257	resource
+6191	actor	32168	32168	resource
+6191	actor	36373	36373	resource
+6191	label	SatomiHakkenden	Satomi Hakkenden	literal

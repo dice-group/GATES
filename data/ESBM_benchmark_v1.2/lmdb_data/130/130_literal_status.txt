@@ -1,0 +1,34 @@
+34577	type	actor	actor	resource
+34577	type	Person	Person	resource
+34577	actoractorid	34577	34577	literal
+34577	actornytimesid	UNK	UNK	literal
+34577	page	9202a8c04000641f80000000003be85d	9202a8c04000641f80000000003be85d	resource
+34577	actornetflixid	UNK	UNK	literal
+34577	performance	43959	43959	resource
+34577	performance	22244	22244	resource
+34577	performance	40313	40313	resource
+34577	performance	64965	64965	resource
+34577	performance	40312	40312	resource
+34577	performance	40275	40275	resource
+34577	performance	124550	124550	resource
+34577	performance	178186	178186	resource
+34577	performance	40276	40276	resource
+34577	performance	119836	119836	resource
+34577	performance	120141	120141	resource
+34577	performance	48963	48963	resource
+34577	performance	40281	40281	resource
+39205	actor	34577	34577	resource
+10004	actor	34577	34577	resource
+5509	actor	34577	34577	resource
+42370	actor	34577	34577	resource
+1044	actor	34577	34577	resource
+6563	actor	34577	34577	resource
+15764	actor	34577	34577	resource
+7238	actor	34577	34577	resource
+57806	actor	34577	34577	resource
+6025	actor	34577	34577	resource
+57576	actor	34577	34577	resource
+87493	actor	34577	34577	resource
+60932	actor	34577	34577	resource
+34577	actorname	JamesNaughton	James Naughton	literal
+34577	label	JamesNaughton(Actor)	James Naughton (Actor)	literal

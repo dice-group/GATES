@@ -1,0 +1,34 @@
+It'sStillRockandRolltoMe	subsequentWork	Don'tAskMeWhy(BillyJoelsong)	Don't Ask Me Why (Billy Joel song)	resource
+It'sStillRockandRolltoMe	previousWork	YouMayBeRight(song)	You May Be Right (song)	resource
+It'sStillRockandRolltoMe	runtime	177.0	177.0	literal
+It'sStillRockandRolltoMe	label	It'sStillRockandRolltoMe	It's Still Rock and Roll to Me	literal
+It'sStillRockandRolltoMe	name	It'sStillRockandRolltoMe	It's Still Rock and Roll to Me	literal
+It'sStillRockandRolltoMe	certification	Platinum(RIAA)	Platinum (RIAA)	literal
+YouMayBeRight(song)	subsequentWork	It'sStillRockandRolltoMe	It's Still Rock and Roll to Me	resource
+It'sStillRockandRolltoMe	genre	Rockmusic	Rock music	resource
+It'sStillRockandRolltoMe	genre	Newwavemusic	New wave music	resource
+It'sStillRockandRolltoMe	writer	BillyJoel	Billy Joel	resource
+It'sStillRockandRolltoMe	releaseDate	19800512	1980-05-12	literal
+It'sStillRockandRolltoMe	producer	PhilRamone	Phil Ramone	resource
+Don'tAskMeWhy(BillyJoelsong)	previousWork	It'sStillRockandRolltoMe	It's Still Rock and Roll to Me	resource
+It'sStillRockandRolltoMe	musicalBand	BillyJoel	Billy Joel	resource
+It'sStillRockandRolltoMe	type	Thing	Thing	resource
+It'sStillRockandRolltoMe	type	Q386724	Q386724	resource
+It'sStillRockandRolltoMe	type	Work	work	resource
+It'sStillRockandRolltoMe	type	CreativeWork	CreativeWork	resource
+It'sStillRockandRolltoMe	type	MusicalWork	musical work	resource
+It'sStillRockandRolltoMe	type	Q2188189	Q2188189	resource
+It'sStillRockandRolltoMe	type	Single	single	resource
+It'sStillRockandRolltoMe	type	Q134556	Q134556	resource
+It'sStillRockandRolltoMe	recordLabel	ColumbiaRecords	Columbia Records	resource
+It'sStillRockandRolltoMe	musicalArtist	BillyJoel	Billy Joel	resource
+It'sStillRockandRolltoMe	subject	BillboardHot100numberonesingles	Billboard Hot 100 number-one singles	resource
+It'sStillRockandRolltoMe	subject	SinglescertifiedplatinumbytheRecordingIndustryAssociationofAmerica	Category:Singles_certified_platinum_by_the_Recording_Industry_Association_of_America	resource
+It'sStillRockandRolltoMe	subject	SongswrittenbyBillyJoel	Songs written by Billy Joel	resource
+It'sStillRockandRolltoMe	subject	ColumbiaRecordssingles	Columbia Records singles	resource
+It'sStillRockandRolltoMe	subject	Songsaboutmusic	Songs about music	resource
+It'sStillRockandRolltoMe	subject	SongrecordingsproducedbyPhilRamone	Song recordings produced by Phil Ramone	resource
+It'sStillRockandRolltoMe	subject	BillyJoelsongs	Billy Joel songs	resource
+It'sStillRockandRolltoMe	subject	1980singles	1980 singles	resource
+It'sStillRockandRolltoMe	subject	1980songs	1980 songs	resource
+It'sStillRockandRolltoMe	album	GlassHouses	Glass Houses	resource

@@ -1,0 +1,32 @@
+47032	performance	91100	91100	resource
+47032	performance	45160	45160	resource
+47032	performance	184656	184656	resource
+47032	performance	83567	83567	resource
+47032	performance	184809	184809	resource
+47032	performance	134547	134547	resource
+47032	performance	75295	75295	resource
+47032	performance	198141	198141	resource
+47032	performance	67713	67713	resource
+47032	performance	115382	115382	resource
+47032	performance	146941	146941	resource
+47032	performance	114368	114368	resource
+95572	actor	47032	47032	resource
+13716	actor	47032	47032	resource
+20724	actor	47032	47032	resource
+70465	actor	47032	47032	resource
+95541	actor	47032	47032	resource
+53299	actor	47032	47032	resource
+17222	actor	47032	47032	resource
+47737	actor	47032	47032	resource
+53825	actor	47032	47032	resource
+98212	actor	47032	47032	resource
+54847	actor	47032	47032	resource
+11393	actor	47032	47032	resource
+47032	actornetflixid	UNK	UNK	literal
+47032	actorname	ColumbusShort	Columbus Short	literal
+47032	page	9202a8c04000641f8000000000d56ae3	9202a8c04000641f8000000000d56ae3	resource
+47032	actoractorid	47032	47032	literal
+47032	type	actor	actor	resource
+47032	type	Person	Person	resource
+47032	label	ColumbusShort(Actor)	Columbus Short (Actor)	literal
+47032	actornytimesid	UNK	UNK	literal

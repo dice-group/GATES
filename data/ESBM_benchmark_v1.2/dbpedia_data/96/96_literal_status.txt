@@ -1,0 +1,43 @@
+Politiken	thumbnail	Politikennewspaperlogo.svg?width=300	Politiken_newspaper_logo.svg?width=300	resource
+Politiken	homepage	politiken.dk	http://politiken.dk/	resource
+Politiken	sisterNewspaper	JyllandsPosten	Jyllands-Posten	resource
+Politiken	circulation	88597	88597	literal
+Politiken	depiction	Politikennewspaperlogo.svg	Politiken_newspaper_logo.svg	resource
+Politiken	format	Broadsheet	Broadsheet	resource
+Politiken	publisher	PolitikensHus	JP/Politikens Hus	resource
+Politiken	label	Politiken	Politiken	literal
+Politiken	editor	BoLidegaard	Bo Lidegaard	resource
+Politiken	language	Danishlanguage	Danish language	resource
+Politiken	type	Publication106589574	Publication106589574	resource
+Politiken	type	Whole100003553	Whole100003553	resource
+Politiken	type	PublicationsEstablishedIn1884	PublicationsEstablishedIn1884	resource
+Politiken	type	Press106263369	Press106263369	resource
+Politiken	type	PhysicalEntity100001930	PhysicalEntity100001930	resource
+Politiken	type	Q386724	Q386724	resource
+Politiken	type	Medium106254669	Medium106254669	resource
+Politiken	type	Newspaper106267145	Newspaper106267145	resource
+Politiken	type	Object100002684	Object100002684	resource
+Politiken	type	DanishlanguageNewspapers	Danish-languageNewspapers	resource
+Politiken	type	Artifact100021939	Artifact100021939	resource
+Politiken	type	WrittenWork	written work	resource
+Politiken	type	Product104007894	Product104007894	resource
+Politiken	type	NewspapersPublishedInDenmark	NewspapersPublishedInDenmark	resource
+Politiken	type	Work104599396	Work104599396	resource
+Politiken	type	Creation103129123	Creation103129123	resource
+Politiken	type	Newspaper	newspaper	resource
+Politiken	type	Work	work	resource
+Politiken	type	Thing	Thing	resource
+Politiken	type	Instrumentality103575240	Instrumentality103575240	resource
+Politiken	type	PeriodicalLiterature	periodical literature	resource
+Politiken	type	PrintMedia106263609	PrintMedia106263609	resource
+Politiken	type	Q1092563	Q1092563	resource
+Politiken	type	Q11032	Q11032	resource
+Politiken	type	CreativeWork	CreativeWork	resource
+Politiken	name	Politiken	Politiken	literal
+Politiken	subject	Publicationsestablishedin1884	Publications established in 1884	resource
+Politiken	subject	NewspaperspublishedinDenmark	Newspapers published in Denmark	resource
+Politiken	subject	Danishlanguagenewspapers	Danish-language newspapers	resource
+Politiken	subject	MediainCopenhagen	Category:Media_in_Copenhagen	resource
+Politiken	subject	1884establishmentsinDenmark	1884 establishments in Denmark	resource
+Politiken	headquarter	Copenhagen	Copenhagen	resource
+Politiken	headquarter	Denmark	Denmark	resource

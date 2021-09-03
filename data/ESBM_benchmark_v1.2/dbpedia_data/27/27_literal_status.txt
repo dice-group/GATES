@@ -1,0 +1,40 @@
+Uelsby	subject	SchleswigFlensburg	Schleswig-Flensburg	resource
+Uelsby	subject	MunicipalitiesinSchleswigHolstein	Municipalities in Schleswig-Holstein	resource
+Uelsby	thumbnail	UelsbyWappen.png?width=300	Uelsby_Wappen.png?width=300	resource
+Uelsby	district	SchleswigFlensburg	Schleswig-Flensburg	resource
+Uelsby	label	Uelsby	Uelsby	literal
+Uelsby	point	54.69.566666666666666	54.6 9.566666666666666	literal
+Uelsby	areaTotal	1.06E7	1.06E7	literal
+Uelsby	lat	54.6	54.6	literal
+Uelsby	homepage	www.amtsuedangeln.de	http://www.amt-suedangeln.de/	resource
+Uelsby	elevation	34.0	34.0	literal
+Uelsby	areaCode	SL	SL	literal
+Uelsby	areaCode	04623	04623	literal
+Uelsby	country	Germany	Germany	resource
+Uelsby	populationAsOf	20061231	2006-12-31	literal
+Uelsby	populationTotal	461	461	literal
+Uelsby	postalCode	24860	24860	literal
+Uelsby	long	9.566667	9.566667	literal
+Uelsby	federalState	SchleswigHolstein	Schleswig-Holstein	resource
+Uelsby	type	Region108630985	Region108630985	resource
+Uelsby	type	PopulatedPlace	populated place	resource
+Uelsby	type	Municipality108626283	Municipality108626283	resource
+Uelsby	type	GeographicalArea108574314	GeographicalArea108574314	resource
+Uelsby	type	Settlement	settlement	resource
+Uelsby	type	Location	Location	resource
+Uelsby	type	Location100027167	Location100027167	resource
+Uelsby	type	Place	place	resource
+Uelsby	type	AdministrativeDistrict108491826	AdministrativeDistrict108491826	resource
+Uelsby	type	YagoPermanentlyLocatedEntity	YagoPermanentlyLocatedEntity	resource
+Uelsby	type	Object100002684	Object100002684	resource
+Uelsby	type	Place	Place	resource
+Uelsby	type	YagoLegalActorGeo	YagoLegalActorGeo	resource
+Uelsby	type	YagoGeoEntity	YagoGeoEntity	resource
+Uelsby	type	District108552138	District108552138	resource
+Uelsby	type	SpatialThing	wgs84_pos#SpatialThing	resource
+Uelsby	type	PhysicalEntity100001930	PhysicalEntity100001930	resource
+Uelsby	type	UrbanArea108675967	UrbanArea108675967	resource
+Uelsby	type	MunicipalitiesInSchleswigHolstein	MunicipalitiesInSchleswig-Holstein	resource
+Uelsby	type	Q486972	Q486972	resource
+Uelsby	type	Thing	Thing	resource
+Uelsby	depiction	UelsbyWappen.png	Uelsby_Wappen.png	resource

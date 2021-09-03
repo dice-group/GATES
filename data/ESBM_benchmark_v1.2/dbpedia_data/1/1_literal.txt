@@ -1,0 +1,23 @@
+3WAYFM	slogan	GreatOceanRadio	Great Ocean Radio
+3WAYFM	label	3WAYFM	3WAY FM
+3WAYFM	homepage	3wayfm.org.au	3wayfm.org.au
+3WAYFM	type	RadioStation	 Radio  Station 
+3WAYFM	type	Agent	 Agent 
+3WAYFM	type	Q15265344	broadcaster
+3WAYFM	type	Broadcaster	broadcaster
+3WAYFM	type	RadioStation	radio station
+3WAYFM	type	Agent	agent
+3WAYFM	type	Organization	 Organization 
+3WAYFM	type	Thing	Thing
+3WAYFM	type	Organisation	organisation
+3WAYFM	type	Q43229	organization
+3WAYFM	type	SocialPerson	 Social  Person 
+3WAYFM	broadcastArea	Warrnambool	Warrnambool
+3WAYFM	broadcastArea	Victoria(Australia)	Victoria (Australia)
+3WAYFM	name	3WAYFM	3WAY FM
+3WAYFM	callsignMeaning	3Victoria	3 - Victoria
+3WAYFM	callsignMeaning	WarrnamboolAndYou	Warrnambool And You
+3WAYFM	programmeFormat	Communityradio	Community radio
+3WAYFM	subject	CommunityradiostationsinAustralia	Community radio stations in Australia
+3WAYFM	subject	RadiostationsinVictoria	Radio stations in Victoria
+3WAYFM	subject	Radiostationsestablishedin1990	Radio stations established in 1990

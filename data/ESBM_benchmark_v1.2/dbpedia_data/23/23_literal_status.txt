@@ -1,0 +1,26 @@
+KulehBayan	long	47.22167	47.22167	literal
+KulehBayan	point	35.4247222222222247.221666666666664	35.42472222222222 47.221666666666664	literal
+KulehBayan	utcOffset	30	+3:30	literal
+KulehBayan	utcOffset	30	+4:30	literal
+KulehBayan	lat	35.42472	35.42472	literal
+KulehBayan	isPartOf	KurdestanProvince	Kurdestan Province	resource
+KulehBayan	isPartOf	DehgolanCounty	Dehgolan County	resource
+KulehBayan	isPartOf	CentralDistrict(DehgolanCounty)	Central District (Dehgolan County)	resource
+KulehBayan	isPartOf	QuriChayRuralDistrict	Quri Chay Rural District	resource
+KulehBayan	type	Location	Location	resource
+KulehBayan	type	Q486972	Q486972	resource
+KulehBayan	type	PopulatedPlace	populated place	resource
+KulehBayan	type	Q532	Q532	resource
+KulehBayan	type	Village	village	resource
+KulehBayan	type	Place	place	resource
+KulehBayan	type	SpatialThing	wgs84_pos#SpatialThing	resource
+KulehBayan	type	Settlement	settlement	resource
+KulehBayan	type	Thing	Thing	resource
+KulehBayan	type	Place	Place	resource
+KulehBayan	populationTotal	36	36	literal
+KulehBayan	timeZone	IranStandardTime	Iran Standard Time	resource
+KulehBayan	label	KulehBayan	Kuleh Bayan	literal
+KulehBayan	country	Iran	Iran	resource
+KulehBayan	name	كولهبيان	كوله بيان	literal
+KulehBayan	name	KulehBayan	Kuleh Bayan	literal
+KulehBayan	subject	PopulatedplacesinDehgolanCounty	Populated places in Dehgolan County	resource

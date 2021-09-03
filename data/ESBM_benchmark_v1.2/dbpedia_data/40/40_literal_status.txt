@@ -1,0 +1,22 @@
+Trachelipusdimorphus	family	Trachelipodidae	Trachelipodidae	resource
+Trachelipusdimorphus	class	Malacostraca	Malacostraca	resource
+Trachelipusdimorphus	synonym	*Trachelipuswaechtleri	*Trachelipus waechtleri	literal
+Trachelipusdimorphus	synonym	*Tracheoniscuswaechtleri	*Tracheoniscus waechtleri	literal
+Trachelipusdimorphus	synonym	*Porcelliodimorphus	*Porcellio dimorphus	literal
+Trachelipusdimorphus	synonym	*Tracheoniscusdimorphus	*Tracheoniscus dimorphus	literal
+Trachelipusdimorphus	label	Trachelipusdimorphus	Trachelipus dimorphus	literal
+Trachelipusdimorphus	genus	Trachelipus	Trachelipus	resource
+Trachelipusdimorphus	type	Thing	Thing	resource
+Trachelipusdimorphus	type	Q19088	Q19088	resource
+Trachelipusdimorphus	type	Q729	Q729	resource
+Trachelipusdimorphus	type	Eukaryote	eukaryote	resource
+Trachelipusdimorphus	type	Species	species	resource
+Trachelipusdimorphus	type	Crustacean	crustacean	resource
+Trachelipusdimorphus	type	Animal	animal	resource
+Trachelipusdimorphus	subject	Trachelipodidae	Trachelipodidae	resource
+Trachelipusdimorphus	subject	Animalsdescribedin1941	Animals described in 1941	resource
+Trachelipusdimorphus	subject	WoodliceofEurope	Woodlice of Europe	resource
+Trachelipusdimorphus	kingdom	Animal	Animal	resource
+Trachelipusdimorphus	order	Isopoda	Isopoda	resource
+Trachelipusdimorphus	phylum	Arthropod	Arthropod	resource
+Trachelipusdimorphus	phylum	Crustacean	Crustacean	resource

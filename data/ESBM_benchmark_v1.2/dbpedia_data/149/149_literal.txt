@@ -1,0 +1,20 @@
+ConvoyHX156	isPartOfMilitaryConflict	WorldWarII	World War II
+ConvoyHX156	date	19411022	1941-10-22
+ConvoyHX156	commander	Admiral	Admiral
+ConvoyHX156	label	ConvoyHX156	Convoy HX 156
+ConvoyHX156	depiction	WarEnsignofGermany19381945.svg	 War   Ensign of   Germany 1938-1945.svg 
+ConvoyHX156	combatant	25pxGermany	25pxGermany
+ConvoyHX156	combatant	25pxUnitedKingdom	25pxUnited Kingdom
+ConvoyHX156	place	AtlanticOcean	Atlantic Ocean
+ConvoyHX156	name	ConvoyHX.156	Convoy HX.156
+ConvoyHX156	strength	16escorts	16 escorts
+ConvoyHX156	strength	52merchantships	52 merchant ships
+ConvoyHX156	type	MilitaryConflict	military conflict
+ConvoyHX156	type	Event	 Event 
+ConvoyHX156	type	Thing	Thing
+ConvoyHX156	type	Event	 Event 
+ConvoyHX156	type	Q1656682	event
+ConvoyHX156	type	Event	event
+ConvoyHX156	type	SocietalEvent	societal event
+ConvoyHX156	subject	NorthAtlanticconvoysofWorldWarII	North Atlantic convoys of World War II
+ConvoyHX156	thumbnail	WarEnsignofGermany19381945.svg?width=300	 War   Ensign of   Germany 1938-1945.svg?width=300 

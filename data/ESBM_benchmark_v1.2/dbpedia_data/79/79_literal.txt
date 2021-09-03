@@ -1,0 +1,36 @@
+StaraBučka	elevation	262.2	262.2
+StaraBučka	areaTotal	2950000.0	2950000.0
+StaraBučka	isPartOf	LowerCarniola	Lower Carniola
+StaraBučka	isPartOf	MunicipalityofŠkocjan	Municipality of Škocjan
+StaraBučka	isPartOf	SoutheastSloveniaStatisticalRegion	Southeast Slovenia Statistical Region
+StaraBučka	label	StaraBučka	Stara Bučka
+StaraBučka	lat	45.9213	45.9213
+StaraBučka	depiction	FlagofSlovenia.svg	 Flag of   Slovenia.svg 
+StaraBučka	point	45.921315.306447222222221	45.9213 15.306447222222221
+StaraBučka	populationTotal	101	101
+StaraBučka	name	StaraBučka	Stara Bučka
+StaraBučka	subject	PopulatedplacesintheMunicipalityofŠkocjan	Populated places in the Municipality of Škocjan
+StaraBučka	long	15.306447	15.306447
+StaraBučka	country	Slovenia	Slovenia
+StaraBučka	thumbnail	FlagofSlovenia.svg?width=300	 Flag of   Slovenia.svg?width=300 
+StaraBučka	type	Site108651247	 Site 108651247 
+StaraBučka	type	YagoLegalActorGeo	 Yago  Legal  Actor  Geo 
+StaraBučka	type	Thing	Thing
+StaraBučka	type	Location	 Location 
+StaraBučka	type	SpatialThing	 Spatial  Thing 
+StaraBučka	type	Object100002684	 Object 100002684 
+StaraBučka	type	PhysicalEntity100001930	 Physical  Entity 100001930 
+StaraBučka	type	Place	 Place 
+StaraBučka	type	Location100027167	 Location 100027167 
+StaraBučka	type	Q486972	human settlement
+StaraBučka	type	YagoPermanentlyLocatedEntity	 Yago  Permanently  Located  Entity 
+StaraBučka	type	Region108630985	 Region 108630985 
+StaraBučka	type	YagoGeoEntity	 Yago  Geo  Entity 
+StaraBučka	type	AdministrativeDistrict108491826	 Administrative  District 108491826 
+StaraBučka	type	PopulatedPlacesInTheMunicipalityOf%C5%A0kocjan	 Populated  Places  In  The  Municipality  Of%  C5%  A0kocjan 
+StaraBučka	type	GeographicalArea108574314	 Geographical  Area 108574314 
+StaraBučka	type	Tract108673395	 Tract 108673395 
+StaraBučka	type	PopulatedPlace	populated place
+StaraBučka	type	Place	place
+StaraBučka	type	District108552138	 District 108552138 
+StaraBučka	type	Settlement	settlement

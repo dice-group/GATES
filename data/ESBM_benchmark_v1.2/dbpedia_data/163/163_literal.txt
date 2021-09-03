@@ -1,0 +1,38 @@
+SilenceIsEasy(song)	writer	Starsailor(band)	Starsailor (band)
+SilenceIsEasy(song)	runtime	220.0	220.0
+SilenceIsEasy(song)	musicalArtist	Starsailor(band)	Starsailor (band)
+SilenceIsEasy(song)	label	SilenceIsEasy(song)	Silence Is Easy (song)
+SilenceIsEasy(song)	type	CreativeWork	 Creative  Work 
+SilenceIsEasy(song)	type	MusicalWork	musical work
+SilenceIsEasy(song)	type	2003Singles	2003 Singles 
+SilenceIsEasy(song)	type	Whole100003553	 Whole 100003553 
+SilenceIsEasy(song)	type	Thing	Thing
+SilenceIsEasy(song)	type	Object100002684	 Object 100002684 
+SilenceIsEasy(song)	type	Single	single
+SilenceIsEasy(song)	type	Medium106254669	 Medium 106254669 
+SilenceIsEasy(song)	type	Q386724	work
+SilenceIsEasy(song)	type	PhysicalEntity100001930	 Physical  Entity 100001930 
+SilenceIsEasy(song)	type	Q2188189	musical work
+SilenceIsEasy(song)	type	Instrumentality103575240	 Instrumentality 103575240 
+SilenceIsEasy(song)	type	Artifact100021939	 Artifact 100021939 
+SilenceIsEasy(song)	type	Work	work
+SilenceIsEasy(song)	type	Q134556	single
+SilenceIsEasy(song)	producer	PhilSpector	Phil Spector
+SilenceIsEasy(song)	recordLabel	EMI	EMI
+PoorMisguidedFool	subsequentWork	SilenceIsEasy(song)	Silence Is Easy (song)
+SilenceIsEasy(song)	previousWork	PoorMisguidedFool	Poor Misguided Fool
+SilenceIsEasy(song)	subject	EMIRecordssingles	EMI Records singles
+SilenceIsEasy(song)	subject	SongswrittenbyJamesWalsh(musician)	Songs written by James Walsh (musician)
+SilenceIsEasy(song)	subject	SongswrittenbyBarryWesthead	Songs written by Barry Westhead
+SilenceIsEasy(song)	subject	2003singles	2003 singles
+SilenceIsEasy(song)	subject	Starsailor(band)songs	Starsailor (band) songs
+SilenceIsEasy(song)	subject	SongswrittenbyJamesStelfox	Songs written by James Stelfox
+SilenceIsEasy(song)	subject	SongrecordingsproducedbyPhilSpector	Song recordings produced by Phil Spector
+SilenceIsEasy(song)	subject	2003songs	2003 songs
+SilenceIsEasy(song)	releaseDate	20030901	2003-09-01
+SilenceIsEasy(song)	genre	Alternativerock	Alternative rock
+SilenceIsEasy(song)	subsequentWork	BornAgain(Starsailorsong)	Born Again (Starsailor song)
+SilenceIsEasy(song)	musicalBand	Starsailor(band)	Starsailor (band)
+SilenceIsEasy(song)	name	SilenceIsEasy	Silence Is Easy
+BornAgain(Starsailorsong)	previousWork	SilenceIsEasy(song)	Silence Is Easy (song)
+SilenceIsEasy(song)	album	SilenceIsEasy	Silence Is Easy

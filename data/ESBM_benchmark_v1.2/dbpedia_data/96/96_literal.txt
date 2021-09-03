@@ -1,0 +1,43 @@
+Politiken	thumbnail	Politikennewspaperlogo.svg?width=300	 Politiken newspaper logo.svg?width=300 
+Politiken	homepage	politiken.dk	politiken.dk
+Politiken	sisterNewspaper	JyllandsPosten	Jyllands-Posten
+Politiken	circulation	88597	88597
+Politiken	depiction	Politikennewspaperlogo.svg	 Politiken newspaper logo.svg 
+Politiken	format	Broadsheet	Broadsheet
+Politiken	publisher	PolitikensHus	JP/Politikens Hus
+Politiken	label	Politiken	Politiken
+Politiken	editor	BoLidegaard	Bo Lidegaard
+Politiken	language	Danishlanguage	Danish language
+Politiken	type	Publication106589574	 Publication 106589574 
+Politiken	type	Whole100003553	 Whole 100003553 
+Politiken	type	PublicationsEstablishedIn1884	 Publications  Established  In 1884 
+Politiken	type	Press106263369	 Press 106263369 
+Politiken	type	PhysicalEntity100001930	 Physical  Entity 100001930 
+Politiken	type	Q386724	work
+Politiken	type	Medium106254669	 Medium 106254669 
+Politiken	type	Newspaper106267145	 Newspaper 106267145 
+Politiken	type	Object100002684	 Object 100002684 
+Politiken	type	DanishlanguageNewspapers	 Danish-language  Newspapers 
+Politiken	type	Artifact100021939	 Artifact 100021939 
+Politiken	type	WrittenWork	written work
+Politiken	type	Product104007894	 Product 104007894 
+Politiken	type	NewspapersPublishedInDenmark	 Newspapers  Published  In  Denmark 
+Politiken	type	Work104599396	 Work 104599396 
+Politiken	type	Creation103129123	 Creation 103129123 
+Politiken	type	Newspaper	newspaper
+Politiken	type	Work	work
+Politiken	type	Thing	Thing
+Politiken	type	Instrumentality103575240	 Instrumentality 103575240 
+Politiken	type	PeriodicalLiterature	periodical literature
+Politiken	type	PrintMedia106263609	 Print  Media 106263609 
+Politiken	type	Q1092563	periodical literature
+Politiken	type	Q11032	newspaper
+Politiken	type	CreativeWork	 Creative  Work 
+Politiken	name	Politiken	Politiken
+Politiken	subject	Publicationsestablishedin1884	Publications established in 1884
+Politiken	subject	NewspaperspublishedinDenmark	Newspapers published in Denmark
+Politiken	subject	Danishlanguagenewspapers	Danish-language newspapers
+Politiken	subject	MediainCopenhagen	Media in Copenhagen
+Politiken	subject	1884establishmentsinDenmark	1884 establishments in Denmark
+Politiken	headquarter	Copenhagen	Copenhagen
+Politiken	headquarter	Denmark	Denmark

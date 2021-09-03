@@ -1,0 +1,49 @@
+FabriceGautrat	birthYear	1987	1987
+FabriceGautrat	subject	SanDiegoTorerosmen'ssoccerplayers	San Diego Toreros men's soccer players
+FabriceGautrat	subject	SoccerplayersfromCalifornia	Soccer players from California
+FabriceGautrat	subject	Americansoccerplayers	American soccer players
+FabriceGautrat	subject	OrangeCountyBluesFCplayers	Orange County Blues FC players
+FabriceGautrat	subject	Livingpeople	Living people
+FabriceGautrat	subject	1987births	1987 births
+FabriceGautrat	subject	SouthernCaliforniaSeahorsesplayers	Southern California Seahorses players
+FabriceGautrat	subject	Americanexpatriatesoccerplayers	American expatriate soccer players
+FabriceGautrat	subject	AtlantaSilverbacksplayers	Atlanta Silverbacks players
+FabriceGautrat	subject	UnitedSoccerLeagueplayers	United Soccer League players
+FabriceGautrat	subject	PremierDevelopmentLeagueplayers	Premier Development League players
+FabriceGautrat	subject	NorthAmericanSoccerLeagueplayers	North American Soccer League players
+FabriceGautrat	label	FabriceGautrat	Fabrice Gautrat
+FabriceGautrat	number	5	5
+FabriceGautrat	type	Athlete	athlete
+FabriceGautrat	type	Agent	 Agent 
+FabriceGautrat	type	Q937857	association football player
+FabriceGautrat	type	Person	 Person 
+FabriceGautrat	type	Person	 Person 
+FabriceGautrat	type	NaturalPerson	 Natural  Person 
+FabriceGautrat	type	Agent	agent
+FabriceGautrat	type	Q5	human
+FabriceGautrat	type	Thing	Thing
+FabriceGautrat	type	Person	person
+FabriceGautrat	type	SoccerPlayer	soccer player
+FabriceGautrat	type	Q215627	person
+FabriceGautrat	name	Gautrat,Fabrice	Gautrat, Fabrice
+FabriceGautrat	name	FabriceGautrat	Fabrice Gautrat
+FabriceGautrat	birthDate	19871104	1987-11-04
+FabriceGautrat	givenName	Fabrice	Fabrice
+FabriceGautrat	surname	Gautrat	Gautrat
+FabriceGautrat	birthPlace	CulverCity,California	Culver City, California
+FabriceGautrat	height	1.8796	1.8796
+FabriceGautrat	careerStation	FabriceGautrat1	 Fabrice   Gautrat 1 
+FabriceGautrat	careerStation	FabriceGautrat4	 Fabrice   Gautrat 4 
+FabriceGautrat	careerStation	FabriceGautrat3	 Fabrice   Gautrat 3 
+FabriceGautrat	careerStation	FabriceGautrat2	 Fabrice   Gautrat 2 
+FabriceGautrat	careerStation	FabriceGautrat6	 Fabrice   Gautrat 6 
+FabriceGautrat	careerStation	FabriceGautrat5	 Fabrice   Gautrat 5 
+FabriceGautrat	position	Defender(associationfootball)	Defender (association football)
+FabriceGautrat	team	SanDiegoToreros	San Diego Toreros
+FabriceGautrat	team	AtlantaSilverbacks	Atlanta Silverbacks
+FabriceGautrat	team	SouthernCaliforniaSeahorses	Southern California Seahorses
+FabriceGautrat	team	UJAMaccabiParisMétropole	UJA Maccabi Paris Métropole
+FabriceGautrat	team	TheMaster'sCollege	The Master's College
+FabriceGautrat	team	OrangeCountyBluesFC	Orange County Blues FC
+FabriceGautrat	description	Footballer	Footballer
+FabriceGautrat	description	Footballer	Footballer

@@ -1,0 +1,31 @@
+DramaCity	completionDate	20080329	2008-03-29
+DramaCity	genre	Drama	Drama
+DramaCity	type	Thing	Thing
+DramaCity	type	Whole100003553	 Whole 100003553 
+DramaCity	type	PhysicalEntity100001930	 Physical  Entity 100001930 
+DramaCity	type	TelevisionShow	television show
+DramaCity	type	CreativeWork	 Creative  Work 
+DramaCity	type	Work	work
+DramaCity	type	Medium106254669	 Medium 106254669 
+DramaCity	type	Q15416	television program
+DramaCity	type	Telecommunication106271778	 Telecommunication 106271778 
+DramaCity	type	Broadcasting106276697	 Broadcasting 106276697 
+DramaCity	type	Q386724	work
+DramaCity	type	Object100002684	 Object 100002684 
+DramaCity	type	Instrumentality103575240	 Instrumentality 103575240 
+DramaCity	type	Artifact100021939	 Artifact 100021939 
+DramaCity	type	Television106277280	 Television 106277280 
+DramaCity	name	DramaCity	Drama City
+DramaCity	homepage	dramacity	dramacity
+DramaCity	location	SouthKorea	South Korea
+DramaCity	country	SouthKorea	South Korea
+DramaCity	subject	KoreanBroadcastingSystemtelevisiondramas	Korean Broadcasting System television dramas
+DramaCity	label	DramaCity	Drama City
+DramaCity	language	Koreanlanguage	Korean language
+DramaCity	releaseDate	19841130	1984-11-30
+DramaCity	network	KoreanBroadcastingSystem	Korean Broadcasting System
+DramaCity	starring	KuHyesun	Ku Hye-sun
+DramaCity	starring	LeePilmo	Lee Pil-mo
+DramaCity	starring	LeeMinki	Lee Min-ki
+DramaCity	starring	KimJiwoo	Kim Ji-woo
+DramaCity	starring	KimJeonghoon	Kim Jeong-hoon

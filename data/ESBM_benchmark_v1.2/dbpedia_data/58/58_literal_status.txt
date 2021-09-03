@@ -1,0 +1,38 @@
+StormeWarren	birthDate	19700303	1970-03-03	literal
+StormeWarren	surname	Warren	Warren	literal
+StormeWarren	description	Televisionpersonality	Television personality	literal
+StormeWarren	description	Televisionpersonality	Television personality	literal
+StormeWarren	subject	1970births	1970 births	resource
+StormeWarren	subject	Livingpeople	Living people	resource
+StormeWarren	subject	Americantelevisionpersonalities	American television personalities	resource
+StormeWarren	birthYear	1970	1970	literal
+StormeWarren	name	Warren,Storme	Warren, Storme	literal
+StormeWarren	name	StormeWarren	Storme Warren	literal
+StormeWarren	birthName	StormeWarren	Storme Warren	literal
+StormeWarren	imdbId	2153141	2153141	literal
+StormeWarren	type	Q215627	Q215627	resource
+StormeWarren	type	CausalAgent100007347	CausalAgent100007347	resource
+StormeWarren	type	Object100002684	Object100002684	resource
+StormeWarren	type	Thing	Thing	resource
+StormeWarren	type	LivingPeople	LivingPeople	resource
+StormeWarren	type	Agent	agent	resource
+StormeWarren	type	Organism100004475	Organism100004475	resource
+StormeWarren	type	LivingThing100004258	LivingThing100004258	resource
+StormeWarren	type	Person100007846	Person100007846	resource
+StormeWarren	type	NaturalPerson	DUL.owl#NaturalPerson	resource
+StormeWarren	type	Person	person	resource
+StormeWarren	type	Q5	Q5	resource
+StormeWarren	type	YagoLegalActor	YagoLegalActor	resource
+StormeWarren	type	YagoLegalActorGeo	YagoLegalActorGeo	resource
+StormeWarren	type	Agent	DUL.owl#Agent	resource
+StormeWarren	type	Person	Person	resource
+StormeWarren	type	Person	Person	resource
+StormeWarren	type	Whole100003553	Whole100003553	resource
+StormeWarren	type	PhysicalEntity100001930	PhysicalEntity100001930	resource
+StormeWarren	label	StormeWarren	Storme Warren	literal
+StormeWarren	givenName	Storme	Storme	literal
+StormeWarren	occupation	Host	Host	resource
+StormeWarren	occupation	StormeWarren1	Storme_Warren__1	resource
+StormeWarren	birthPlace	Ohio	Ohio	resource
+StormeWarren	birthPlace	UnitedStates	United States	resource
+StormeWarren	birthPlace	Cincinnati	Cincinnati	resource

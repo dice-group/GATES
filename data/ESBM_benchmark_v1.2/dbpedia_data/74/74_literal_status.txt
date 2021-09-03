@@ -1,0 +1,37 @@
+Kotumachagi	subject	VillagesinGadagdistrict	Villages in Gadag district	resource
+Kotumachagi	lat	15.54259	15.54259	literal
+Kotumachagi	depiction	KotumachagiVillageTemple.jpg	KotumachagiVillageTemple.jpg	resource
+Kotumachagi	isPartOf	Karnataka	Karnataka	resource
+Kotumachagi	isPartOf	GadagBetageri	Gadag-Betageri	resource
+Kotumachagi	country	India	India	resource
+Kotumachagi	type	Place	place	resource
+Kotumachagi	type	PhysicalEntity100001930	PhysicalEntity100001930	resource
+Kotumachagi	type	Village	village	resource
+Kotumachagi	type	VillagesInGadagDistrict	VillagesInGadagDistrict	resource
+Kotumachagi	type	Q532	Q532	resource
+Kotumachagi	type	Location	Location	resource
+Kotumachagi	type	SpatialThing	wgs84_pos#SpatialThing	resource
+Kotumachagi	type	Place	Place	resource
+Kotumachagi	type	YagoGeoEntity	YagoGeoEntity	resource
+Kotumachagi	type	YagoLegalActorGeo	YagoLegalActorGeo	resource
+Kotumachagi	type	Thing	Thing	resource
+Kotumachagi	type	Settlement	settlement	resource
+Kotumachagi	type	Village108672738	Village108672738	resource
+Kotumachagi	type	Location100027167	Location100027167	resource
+Kotumachagi	type	Q486972	Q486972	resource
+Kotumachagi	type	Region108630985	Region108630985	resource
+Kotumachagi	type	PopulatedPlace	populated place	resource
+Kotumachagi	type	Settlement108672562	Settlement108672562	resource
+Kotumachagi	type	YagoPermanentlyLocatedEntity	YagoPermanentlyLocatedEntity	resource
+Kotumachagi	type	GeographicalArea108574314	GeographicalArea108574314	resource
+Kotumachagi	type	Object100002684	Object100002684	resource
+Kotumachagi	utcOffset	30	+5:30	literal
+Kotumachagi	thumbnail	KotumachagiVillageTemple.jpg?width=300	KotumachagiVillageTemple.jpg?width=300	resource
+Kotumachagi	type	Village	Village	resource
+Kotumachagi	timeZone	IndianStandardTime	Indian Standard Time	resource
+Kotumachagi	label	Kotumachagi	Kotumachagi	literal
+Kotumachagi	long	75.77102	75.77102	literal
+Kotumachagi	point	15.5425975.77102	15.54259 75.77102	literal
+Kotumachagi	populationTotal	6895	6895	literal
+Kotumachagi	name	ಕೋಟುಮಚಗಿ	ಕೋಟುಮಚಗಿ	literal
+Kotumachagi	name	Kotumachagi	Kotumachagi	literal

@@ -1,0 +1,50 @@
+CindyMackey	type	Whole100003553	Whole100003553	resource
+CindyMackey	type	Q5	Q5	resource
+CindyMackey	type	PhysicalEntity100001930	PhysicalEntity100001930	resource
+CindyMackey	type	Player110439851	Player110439851	resource
+CindyMackey	type	GolfersFromGeorgia(U.S.State)	GolfersFromGeorgia(U.S.State)	resource
+CindyMackey	type	GeorgiaBulldogsWomen'sGolfers	GeorgiaBulldogsWomen'sGolfers	resource
+CindyMackey	type	YagoLegalActor	YagoLegalActor	resource
+CindyMackey	type	Thing	Thing	resource
+CindyMackey	type	Object100002684	Object100002684	resource
+CindyMackey	type	CausalAgent100007347	CausalAgent100007347	resource
+CindyMackey	type	LivingThing100004258	LivingThing100004258	resource
+CindyMackey	type	Agent	DUL.owl#Agent	resource
+CindyMackey	type	YagoLegalActorGeo	YagoLegalActorGeo	resource
+CindyMackey	type	Q13156709	Q13156709	resource
+CindyMackey	type	Golfer110136959	Golfer110136959	resource
+CindyMackey	type	Person	person	resource
+CindyMackey	type	Person	Person	resource
+CindyMackey	type	GolfPlayer	golf player	resource
+CindyMackey	type	Athlete	athlete	resource
+CindyMackey	type	Contestant109613191	Contestant109613191	resource
+CindyMackey	type	LPGATourGolfers	LPGATourGolfers	resource
+CindyMackey	type	Person100007846	Person100007846	resource
+CindyMackey	type	AmericanFemaleGolfers	AmericanFemaleGolfers	resource
+CindyMackey	type	PeopleFromAthens,Georgia	PeopleFromAthens,Georgia	resource
+CindyMackey	type	Q215627	Q215627	resource
+CindyMackey	type	LivingPeople	LivingPeople	resource
+CindyMackey	type	Person	Person	resource
+CindyMackey	type	NaturalPerson	DUL.owl#NaturalPerson	resource
+CindyMackey	type	Organism100004475	Organism100004475	resource
+CindyMackey	type	Agent	agent	resource
+CindyMackey	description	Professionalgolfer	Professional golfer	literal
+CindyMackey	description	Professionalgolfer	Professional golfer	literal
+CindyMackey	college	UniversityofGeorgia	University of Georgia	resource
+CindyMackey	name	CindyMackey	Cindy Mackey	literal
+CindyMackey	name	Mackey,Cindy	Mackey, Cindy	literal
+CindyMackey	name	CindyPlegerMackey	Cindy Pleger Mackey	literal
+CindyMackey	subject	1961births	1961 births	resource
+CindyMackey	subject	GolfersfromGeorgia(U.S.state)	Golfers from Georgia (U.S. state)	resource
+CindyMackey	subject	GeorgiaBulldogswomen'sgolfers	Georgia Bulldogs women's golfers	resource
+CindyMackey	subject	SportspeoplefromAthens,Georgia	Sportspeople from Athens, Georgia	resource
+CindyMackey	subject	Livingpeople	Living people	resource
+CindyMackey	subject	LPGATourgolfers	LPGA Tour golfers	resource
+CindyMackey	subject	Americanfemalegolfers	American female golfers	resource
+CindyMackey	birthDate	19610402	1961-04-02	literal
+CindyMackey	surname	Mackey	Mackey	literal
+CindyMackey	birthYear	1961	1961	literal
+CindyMackey	givenName	Cindy	Cindy	literal
+CindyMackey	height	1.7526	1.7526	literal
+CindyMackey	alias	Pleger,Cindy	Pleger, Cindy	literal
+CindyMackey	label	CindyMackey	Cindy Mackey	literal

@@ -1,0 +1,22 @@
+Wehlaberg	name	Wehlaberg	Wehlaberg
+Wehlaberg	label	Wehlaberg	Wehlaberg
+Wehlaberg	type	PhysicalEntity100001930	 Physical  Entity 100001930 
+Wehlaberg	type	YagoPermanentlyLocatedEntity	 Yago  Permanently  Located  Entity 
+Wehlaberg	type	Location	 Location 
+Wehlaberg	type	Place	place
+Wehlaberg	type	Thing	Thing
+Wehlaberg	type	GeologicalFormation109287968	 Geological  Formation 109287968 
+Wehlaberg	type	HillsOfBrandenburg	 Hills  Of  Brandenburg 
+Wehlaberg	type	Mountain	mountain
+Wehlaberg	type	Mountain109359803	 Mountain 109359803 
+Wehlaberg	type	Mountain	 Mountain 
+Wehlaberg	type	Object100002684	 Object 100002684 
+Wehlaberg	type	NaturalElevation109366317	 Natural  Elevation 109366317 
+Wehlaberg	type	Place	 Place 
+Wehlaberg	type	Q8502	mountain
+Wehlaberg	type	Hill109303008	 Hill 109303008 
+Wehlaberg	type	NaturalPlace	natural place
+Wehlaberg	type	YagoGeoEntity	 Yago  Geo  Entity 
+Wehlaberg	subject	HillsofBrandenburg	Hills of Brandenburg
+Wehlaberg	locatedInArea	Brandenburg	Brandenburg
+Wehlaberg	locatedInArea	Germany	Germany

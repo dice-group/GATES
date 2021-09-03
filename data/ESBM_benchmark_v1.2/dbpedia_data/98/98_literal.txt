@@ -1,0 +1,51 @@
+TerroristThreats	label	TerroristThreats	Terrorist Threats
+TerroristThreats	name	TerroristThreats	Terrorist Threats
+GangstaNation	album	TerroristThreats	Terrorist Threats
+TerroristThreats	previousWork	BowDown	Bow Down
+BowDown	subsequentWork	TerroristThreats	Terrorist Threats
+TerroristThreats	recordLabel	CapitolRecords	Capitol Records
+TerroristThreats	recordLabel	HooBangin'Records	Hoo-Bangin' Records
+TerroristThreats	recordLabel	EMI	EMI
+TerroristThreats	runtime	3081.0	3081.0
+TerroristThreats	genre	WestCoasthiphop	West Coast hip hop
+TerroristThreats	genre	Gangstarap	Gangsta rap
+TerroristThreats	producer	Fredwreck	Fredwreck
+TerroristThreats	producer	Hertz	Hertz
+TerroristThreats	producer	Damizza	Damizza
+TerroristThreats	producer	SirJinx	Sir Jinx
+TerroristThreats	artist	WestsideConnection	Westside Connection
+TerroristThreats	subject	AlbumscertifiedgoldbytheRecordingIndustryAssociationofAmerica	 Albums certified gold by the   Recording   Industry   Association of   America 
+TerroristThreats	subject	2003albums	2003 albums
+TerroristThreats	subject	IceCubealbums	Ice Cube albums
+TerroristThreats	subject	CapitolRecordsalbums	Capitol Records albums
+TerroristThreats	subject	WestsideConnectionalbums	Westside Connection albums
+TerroristThreats	subject	AlbumsproducedbyFredwreck	Albums produced by Fredwreck
+TerroristThreats	subject	Englishlanguagealbums	English-language albums
+TerroristThreats	subject	WC(rapper)albums	WC (rapper) albums
+TerroristThreats	subject	Gangstarapalbums	Gangsta rap albums
+TerroristThreats	subject	Mack10albums	Mack 10 albums
+TerroristThreats	releaseDate	20031209	2003-12-09
+TerroristThreats	type	Whole100003553	 Whole 100003553 
+TerroristThreats	type	EnglishlanguageAlbums	 English-language  Albums 
+TerroristThreats	type	Q386724	work
+TerroristThreats	type	Work	work
+TerroristThreats	type	MusicalWork	musical work
+TerroristThreats	type	MusicAlbum	 Music  Album 
+TerroristThreats	type	Artifact100021939	 Artifact 100021939 
+TerroristThreats	type	Thing	Thing
+TerroristThreats	type	Object100002684	 Object 100002684 
+TerroristThreats	type	AlbumsProducedByFredwreck	 Albums  Produced  By  Fredwreck 
+TerroristThreats	type	IceCubeAlbums	 Ice  Cube  Albums 
+TerroristThreats	type	CapitolRecordsAlbums	 Capitol  Records  Albums 
+TerroristThreats	type	PhysicalEntity100001930	 Physical  Entity 100001930 
+TerroristThreats	type	CreativeWork	 Creative  Work 
+TerroristThreats	type	Q2188189	musical work
+TerroristThreats	type	WC(rapper)Albums	 W  C(rapper)  Albums 
+TerroristThreats	type	Instrumentality103575240	 Instrumentality 103575240 
+TerroristThreats	type	2003Albums	2003 Albums 
+TerroristThreats	type	WestsideConnectionAlbums	 Westside  Connection  Albums 
+TerroristThreats	type	Album	album
+TerroristThreats	type	Q482994	album
+TerroristThreats	type	Album106591815	 Album 106591815 
+TerroristThreats	type	Medium106254669	 Medium 106254669 
+TerroristThreats	type	Mack10Albums	 Mack 10 

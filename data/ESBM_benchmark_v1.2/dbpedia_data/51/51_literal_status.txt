@@ -1,0 +1,68 @@
+AshotIofIberia	subject	ChristiansaintskilledbyMuslims	Christian saints killed by Muslims	resource
+AshotIofIberia	subject	830deaths	830 deaths	resource
+AshotIofIberia	subject	MonarchsofGeorgia(country)	Monarchs of Georgia (country)	resource
+AshotIofIberia	subject	9thcenturymonarchsinAsia	9th-century monarchs in Asia	resource
+AshotIofIberia	subject	8thcenturybirths	8th-century births	resource
+AshotIofIberia	subject	VassalrulersoftheAbbasidCaliphate	Vassal rulers of the Abbasid Caliphate	resource
+AshotIofIberia	subject	BagrationidynastyofTaoKlarjeti	Bagrationi dynasty of Tao-Klarjeti	resource
+AshotIofIberia	subject	9thcenturyChristiansaints	9th-century Christian saints	resource
+AshotIofIberia	subject	9thcenturyChristianmartyrs	9th-century Christian martyrs	resource
+AshotIofIberia	subject	SaintsofGeorgia(country)	Saints of Georgia (country)	resource
+BagratIofIberia	predecessor	AshotIofIberia	Ashot I of Iberia	resource
+AshotIofIberia	successor	GuaramMampali	Guaram Mampali	resource
+AshotIofIberia	successor	BagratIofIberia	Bagrat I of Iberia	resource
+AshotIofIberia	successor	AdarnaseIIofTaoKlarjeti	Adarnase II of Tao-Klarjeti	resource
+AshotIofIberia	activeYearsEndYear	0830	0830	literal
+AshotIofIberia	name	აშოტI	აშოტ I	literal
+AshotIofIberia	name	AshotI	Ashot I	literal
+AshotIofIberia	name	Ashot01OfIberia	Ashot 01 Of Iberia	literal
+BagratIofIberia	parent	AshotIofIberia	Ashot I of Iberia	resource
+AshotIofIberia	description	PrinceofIberia	Prince of Iberia	literal
+AshotIofIberia	description	PrinceofIberia	Prince of Iberia	literal
+AshotIofIberia	deathYear	0830	0830	literal
+AshotIofIberia	label	AshotIofIberia	Ashot I of Iberia	literal
+AshotIofIberia	type	Q215627	Q215627	resource
+AshotIofIberia	type	Saint110546850	Saint110546850	resource
+AshotIofIberia	type	Representative110522035	Representative110522035	resource
+AshotIofIberia	type	Agent	DUL.owl#Agent	resource
+AshotIofIberia	type	Person	Person	resource
+AshotIofIberia	type	HeadOfState110164747	HeadOfState110164747	resource
+AshotIofIberia	type	YagoLegalActorGeo	YagoLegalActorGeo	resource
+AshotIofIberia	type	Communicator109610660	Communicator109610660	resource
+AshotIofIberia	type	NaturalPerson	DUL.owl#NaturalPerson	resource
+AshotIofIberia	type	Agent	agent	resource
+AshotIofIberia	type	SaintsOfGeorgia(country)	SaintsOfGeorgia(country)	resource
+AshotIofIberia	type	Victim110752093	Victim110752093	resource
+AshotIofIberia	type	LivingThing100004258	LivingThing100004258	resource
+AshotIofIberia	type	Ruler110541229	Ruler110541229	resource
+AshotIofIberia	type	Person	Person	resource
+AshotIofIberia	type	Q5	Q5	resource
+AshotIofIberia	type	GoodPerson110138767	GoodPerson110138767	resource
+AshotIofIberia	type	Whole100003553	Whole100003553	resource
+AshotIofIberia	type	Martyr110296618	Martyr110296618	resource
+AshotIofIberia	type	9thcenturyChristianMartyrs	9th-centuryChristianMartyrs	resource
+AshotIofIberia	type	Royalty	royalty	resource
+AshotIofIberia	type	Person	person	resource
+AshotIofIberia	type	9thcenturyMonarchsInAsia	9th-centuryMonarchsInAsia	resource
+AshotIofIberia	type	Thing	Thing	resource
+AshotIofIberia	type	Person100007846	Person100007846	resource
+AshotIofIberia	type	YagoLegalActor	YagoLegalActor	resource
+AshotIofIberia	type	Sovereign110628644	Sovereign110628644	resource
+AshotIofIberia	type	Negotiator110351874	Negotiator110351874	resource
+AshotIofIberia	type	Organism100004475	Organism100004475	resource
+AshotIofIberia	type	PhysicalEntity100001930	PhysicalEntity100001930	resource
+AshotIofIberia	type	Object100002684	Object100002684	resource
+AshotIofIberia	type	MonarchsOfGeorgia(country)	MonarchsOfGeorgia(country)	resource
+AshotIofIberia	type	ChristianSaintsKilledByMuslims	ChristianSaintsKilledByMuslims	resource
+AshotIofIberia	type	9thcenturyChristianSaints	9th-centuryChristianSaints	resource
+AshotIofIberia	type	CausalAgent100007347	CausalAgent100007347	resource
+AshotIofIberia	type	Unfortunate109630641	Unfortunate109630641	resource
+AshotIofIberia	parent	AdarnaseIofTaoKlarjeti	Adarnase I of Tao-Klarjeti	resource
+AshotIofIberia	activeYearsStartYear	0813	0813	literal
+AshotIofIberia	deathDate	0830	0830	literal
+AshotIofIberia	depiction	Ashotkurapalatgeorgia.jpg	Ashotkurapalatgeorgia.jpg	resource
+AshotIofIberia	deathPlace	Nigalivalley	Nigali valley	resource
+AshotIofIberia	thumbnail	Ashotkurapalatgeorgia.jpg?width=300	Ashotkurapalatgeorgia.jpg?width=300	resource
+AshotIofIberia	title	Kouropalatēs	Kouropalatēs	literal
+AshotIofIberia	title	PrinceofIberia	Prince of Iberia	literal
+AshotIofIberia	predecessor	StephenIIIofIberia	Stephen III of Iberia	resource

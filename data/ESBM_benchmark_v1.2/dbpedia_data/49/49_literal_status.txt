@@ -1,0 +1,22 @@
+TheCrowdSnores	label	TheCrowdSnores	The Crowd Snores	literal
+TheCrowdSnores	type	Work	work	resource
+TheCrowdSnores	type	CreativeWork	CreativeWork	resource
+TheCrowdSnores	type	Q386724	Q386724	resource
+TheCrowdSnores	type	Cartoon	cartoon	resource
+TheCrowdSnores	type	Q627603	Q627603	resource
+TheCrowdSnores	type	Thing	Thing	resource
+TheCrowdSnores	type	HollywoodCartoon	hollywood cartoon	resource
+TheCrowdSnores	name	TheCrowdSnores	The Crowd Snores	literal
+TheCrowdSnores	subject	1930scomedyfilms	1930s comedy films	resource
+TheCrowdSnores	subject	Englishlanguagefilms	English-language films	resource
+TheCrowdSnores	subject	UniversalPicturesfilms	Universal Pictures films	resource
+TheCrowdSnores	subject	FilmsdirectedbyWalterLantz	Films directed by Walter Lantz	resource
+TheCrowdSnores	subject	Americanfilms	American films	resource
+TheCrowdSnores	subject	1932animatedfilms	1932 animated films	resource
+TheCrowdSnores	subject	Autoracingfilms	Auto racing films	resource
+TheCrowdSnores	subject	Filmsaboutdogs	Films about dogs	resource
+TheCrowdSnores	subject	Blackandwhitefilms	Black-and-white films	resource
+TheCrowdSnores	subject	WalterLantzProductionsshorts	Walter Lantz Productions shorts	resource
+TheCrowdSnores	subject	1930sAmericananimatedfilms	1930s American animated films	resource
+TheCrowdSnores	director	WalterLantz	Walter Lantz	resource
+TheCrowdSnores	series	PoochthePup	Pooch the Pup	resource

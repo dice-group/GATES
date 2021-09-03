@@ -1,0 +1,37 @@
+38225	actorname	DanteBasco	Dante Basco	literal
+38225	actornytimesid	UNK	UNK	literal
+38225	performance	122675	122675	resource
+38225	performance	152327	152327	resource
+38225	performance	121760	121760	resource
+38225	performance	44873	44873	resource
+38225	performance	187452	187452	resource
+38225	performance	123155	123155	resource
+38225	performance	184389	184389	resource
+38225	performance	30620	30620	resource
+38225	performance	83942	83942	resource
+38225	performance	82695	82695	resource
+38225	performance	77341	77341	resource
+38225	performance	10502	10502	resource
+38225	performance	28513	28513	resource
+38225	performance	84005	84005	resource
+38225	performance	120534	120534	resource
+905	actor	38225	38225	resource
+58958	actor	38225	38225	resource
+5215	actor	38225	38225	resource
+41946	actor	38225	38225	resource
+45096	actor	38225	38225	resource
+47819	actor	38225	38225	resource
+59934	actor	38225	38225	resource
+46420	actor	38225	38225	resource
+58102	actor	38225	38225	resource
+94383	actor	38225	38225	resource
+11541	actor	38225	38225	resource
+1393	actor	38225	38225	resource
+96372	actor	38225	38225	resource
+59607	actor	38225	38225	resource
+38225	label	DanteBasco(Actor)	Dante Basco (Actor)	literal
+38225	actoractorid	38225	38225	literal
+38225	actornetflixid	UNK	UNK	literal
+38225	type	Person	Person	resource
+38225	type	actor	actor	resource
+38225	page	9202a8c04000641f8000000000646474	9202a8c04000641f8000000000646474	resource

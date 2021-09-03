@@ -1,0 +1,37 @@
+1967ItalianGrandPrix	fastestDriverTeam	TeamLotus	Team Lotus
+1967ItalianGrandPrix	thumbnail	Monza1957.jpg?width=300	 Monza 1957.jpg?width=300 
+GiancarloBaghetti	lastRace	1967ItalianGrandPrix	1967 Italian Grand Prix
+1967ItalianGrandPrix	firstDriver	JohnSurtees	John Surtees
+1967ItalianGrandPrix	location	Monza	Monza
+1967ItalianGrandPrix	location	AutodromoNazionaleMonza	Autodromo Nazionale Monza
+1967ItalianGrandPrix	location	Italy	Italy
+1967ItalianGrandPrix	poleDriver	JimClark	Jim Clark
+1967ItalianGrandPrix	thirdDriver	JimClark	Jim Clark
+1967ItalianGrandPrix	thirdTeam	TeamLotus	Team Lotus
+1967ItalianGrandPrix	distance	391006.21824	391006.21824
+1967ItalianGrandPrix	distance	391006.0	391006.0
+1967ItalianGrandPrix	secondDriver	JackBrabham	Jack Brabham
+1967ItalianGrandPrix	type	Q1656682	event
+1967ItalianGrandPrix	type	SportsEvent	 Sports  Event 
+1967ItalianGrandPrix	type	Event	 Event 
+1967ItalianGrandPrix	type	SocietalEvent	societal event
+1967ItalianGrandPrix	type	SportsEvent	sports event
+1967ItalianGrandPrix	type	GrandPrix	Grand Prix
+1967ItalianGrandPrix	type	Thing	Thing
+1967ItalianGrandPrix	type	Event	 Event 
+1967ItalianGrandPrix	type	Event	event
+1967ItalianGrandPrix	depiction	Monza1957.jpg	 Monza 1957.jpg 
+1967ItalianGrandPrix	country	Italy	Italy
+1967ItalianGrandPrix	distanceLaps	68	68
+1967ItalianGrandPrix	label	1967ItalianGrandPrix	1967 Italian Grand Prix
+1967ItalianGrandPrix	subject	1967inItalianmotorsport	1967 in Italian motorsport
+1967ItalianGrandPrix	subject	ItalianGrandPrix	Italian Grand Prix
+1967ItalianGrandPrix	subject	EuropeanGrandPrix	European Grand Prix
+1967ItalianGrandPrix	subject	1967FormulaOneraces	1967 Formula One races
+1967ItalianGrandPrix	fastestDriver	JimClark	Jim Clark
+1967ItalianGrandPrix	secondTeam	Brabham	Brabham
+1967ItalianGrandPrix	course	5750.186112	5750.186112
+1967ItalianGrandPrix	course	5750.0	5750.0
+1967ItalianGrandPrix	poleDriverTeam	TeamLotus	Team Lotus
+1967ItalianGrandPrix	firstDriverTeam	HondainFormulaOne	Honda in Formula One
+1967ItalianGrandPrix	name	XXXIIGranPremiod'Italia	XXXII Gran Premio d'Italia

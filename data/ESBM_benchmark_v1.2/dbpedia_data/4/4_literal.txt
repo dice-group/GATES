@@ -1,0 +1,40 @@
+AnthonyBeaumontDark	subject	UKMPs1987–92	UK MPs 1987–92
+AnthonyBeaumontDark	subject	MembersoftheParliamentoftheUnitedKingdomforEnglishconstituencies	Members of the Parliament of the United Kingdom for English constituencies
+AnthonyBeaumontDark	subject	UKMPs1983–87	UK MPs 1983–87
+AnthonyBeaumontDark	subject	2006deaths	2006 deaths
+AnthonyBeaumontDark	subject	ConservativeParty(UK)MPs	Conservative Party (UK) MPs
+AnthonyBeaumontDark	subject	UKMPs1979–83	UK MPs 1979–83
+AnthonyBeaumontDark	subject	1932births	1932 births
+AnthonyBeaumontDark	subject	AlumnioftheUniversityofBirmingham	Alumni of the University of Birmingham
+AnthonyBeaumontDark	subject	KnightsBachelor	Knights Bachelor
+AnthonyBeaumontDark	subject	PeoplefromBirmingham,WestMidlands	People from Birmingham, West Midlands
+AnthonyBeaumontDark	birthYear	1932	1932
+AnthonyBeaumontDark	label	AnthonyBeaumontDark	Anthony Beaumont-Dark
+AnthonyBeaumontDark	birthDate	19321011	1932-10-11
+AnthonyBeaumontDark	deathYear	2006	2006
+AnthonyBeaumontDark	givenName	Anthony	Anthony
+AnthonyBeaumontDark	name	BeaumontDark,Anthony	Beaumont-Dark, Anthony
+AnthonyBeaumontDark	name	AnthonyBeaumontDark	Anthony Beaumont-Dark
+AnthonyBeaumontDark	type	LivingThing100004258	 Living  Thing 100004258 
+AnthonyBeaumontDark	type	Organism100004475	 Organism 100004475 
+AnthonyBeaumontDark	type	YagoLegalActor	 Yago  Legal  Actor 
+AnthonyBeaumontDark	type	PeopleFromBirmingham,WestMidlands	 People  From  Birmingham,  West  Midlands 
+AnthonyBeaumontDark	type	Q5	human
+AnthonyBeaumontDark	type	Whole100003553	 Whole 100003553 
+AnthonyBeaumontDark	type	Person	person
+AnthonyBeaumontDark	type	Object100002684	 Object 100002684 
+AnthonyBeaumontDark	type	NaturalPerson	 Natural  Person 
+AnthonyBeaumontDark	type	CausalAgent100007347	 Causal  Agent 100007347 
+AnthonyBeaumontDark	type	Agent	agent
+AnthonyBeaumontDark	type	PhysicalEntity100001930	 Physical  Entity 100001930 
+AnthonyBeaumontDark	type	Agent	 Agent 
+AnthonyBeaumontDark	type	YagoLegalActorGeo	 Yago  Legal  Actor  Geo 
+AnthonyBeaumontDark	type	Person100007846	 Person 100007846 
+AnthonyBeaumontDark	type	Person	 Person 
+AnthonyBeaumontDark	type	Person	 Person 
+AnthonyBeaumontDark	type	Thing	Thing
+AnthonyBeaumontDark	type	Q215627	person
+AnthonyBeaumontDark	deathDate	20060402	2006-04-02
+AnthonyBeaumontDark	surname	BeaumontDark	Beaumont-Dark
+AnthonyBeaumontDark	description	Britishpolitician	British politician
+AnthonyBeaumontDark	description	Britishpolitician	British politician

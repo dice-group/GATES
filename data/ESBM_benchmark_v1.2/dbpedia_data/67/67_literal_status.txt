@@ -1,0 +1,29 @@
+BattleofCalicut(1502)	commander	VascodaGama	Vasco da Gama	resource
+BattleofCalicut(1502)	type	Thing	Thing	resource
+BattleofCalicut(1502)	type	Q1656682	Q1656682	resource
+BattleofCalicut(1502)	type	Event	DUL.owl#Event	resource
+BattleofCalicut(1502)	type	Event	event	resource
+BattleofCalicut(1502)	type	MilitaryConflict	military conflict	resource
+BattleofCalicut(1502)	type	Event	Event	resource
+BattleofCalicut(1502)	type	SocietalEvent	societal event	resource
+BattleofCalicut(1502)	subject	NavalbattlesinvolvingPortugal	Naval battles involving Portugal	resource
+BattleofCalicut(1502)	subject	1503inIndia	1503 in India	resource
+BattleofCalicut(1502)	subject	Conflictsin1503	Conflicts in 1503	resource
+BattleofCalicut(1502)	subject	HistoryofKozhikode	History of Kozhikode	resource
+BattleofCalicut(1502)	causalties	Low	Low	literal
+BattleofCalicut(1502)	date	15020106	1502-01-06	literal
+BattleofCalicut(1502)	depiction	FlagPortugal(1495).svg	Flag_Portugal_(1495).svg	resource
+BattleofCalicut(1502)	place	India	India	resource
+BattleofCalicut(1502)	place	Kozhikode	Kozhikode	resource
+BattleofCalicut(1502)	name	BattleofCalicut	Battle of Calicut	literal
+BattleofCalicut(1502)	result	Portuguesevictory	Portuguesevictory	literal
+BattleofCalicut(1502)	combatant	Arabprivateers	Arab privateers	literal
+BattleofCalicut(1502)	combatant	Calicut	Calicut	literal
+BattleofCalicut(1502)	combatant	PortugueseEmpire	Portuguese Empire	literal
+BattleofCalicut(1502)	thumbnail	FlagPortugal(1495).svg?width=300	Flag_Portugal_(1495).svg?width=300	resource
+BattleofCalicut(1502)	strength	Hundredsofsmallerships	Hundreds of smaller ships	literal
+BattleofCalicut(1502)	strength	20largeships	20 large ships	literal
+BattleofCalicut(1502)	strength	10carracks	10 carracks	literal
+BattleofCalicut(1502)	strength	40gunmountedsambuks	40 gun-mountedsambuks	literal
+BattleofCalicut(1502)	strength	6caravels	6 caravels	literal
+BattleofCalicut(1502)	label	BattleofCalicut(1502)	Battle of Calicut (1502)	literal

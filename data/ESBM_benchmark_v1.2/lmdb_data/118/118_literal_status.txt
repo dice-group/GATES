@@ -1,0 +1,34 @@
+7348	prequel	7347	7347	resource
+15854	made	7348	7348	resource
+7348	language	en	en	resource
+7348	initialreleasedate	1983	1983	literal
+7348	date	1983	1983	literal
+7348	filmcut	872	872	resource
+7348	title	OnHisOwn	Bill: On His Own	literal
+7348	director	15854	15854	resource
+7348	page	tt0085247	tt0085247	resource
+7348	page	alias?type=imdbid&s=0085247	alias?type=imdbid&s=0085247	resource
+7348	page	9202a8c04000641f8000000000c6ae93	9202a8c04000641f8000000000c6ae93	resource
+7348	runtime	100	100	literal
+7348	writer	1389	1389	resource
+7347	prequel	7348	7348	resource
+7348	performance	4371	4371	resource
+7348	performance	4369	4369	resource
+7348	performance	4370	4370	resource
+7348	performance	4368	4368	resource
+7348	performance	159456	159456	resource
+7348	performance	4367	4367	resource
+7347	sequel	7348	7348	resource
+140209	linksource	7348	7348	resource
+7348	type	film	film	resource
+7348	genre	30	30	resource
+7348	genre	4	4	resource
+7348	sequel	7347	7347	resource
+7348	label	OnHisOwn	Bill: On His Own	literal
+7348	actor	46165	46165	resource
+7348	actor	29477	29477	resource
+7348	actor	29778	29778	resource
+7348	actor	30837	30837	resource
+7348	actor	38081	38081	resource
+7348	actor	30114	30114	resource
+7348	filmid	7348	7348	literal

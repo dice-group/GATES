@@ -1,0 +1,20 @@
+Gerbilmouse	kingdom	Animal	Animal	resource
+Gerbilmouse	phylum	Chordate	Chordate	resource
+Gerbilmouse	conservationStatus	LC	LC	literal
+Gerbilmouse	label	Gerbilmouse	Gerbil mouse	literal
+Gerbilmouse	subject	Nesomyidrodents	Nesomyid rodents	resource
+Gerbilmouse	subject	Animalsdescribedin1834	Animals described in 1834	resource
+Gerbilmouse	class	Mammal	Mammal	resource
+Gerbilmouse	conservationStatusSystem	IUCN3.1	IUCN3.1	literal
+Gerbilmouse	type	Thing	Thing	resource
+Gerbilmouse	type	Mammal	mammal	resource
+Gerbilmouse	type	Animal	animal	resource
+Gerbilmouse	type	Q19088	Q19088	resource
+Gerbilmouse	type	Eukaryote	eukaryote	resource
+Gerbilmouse	type	Q7377	Q7377	resource
+Gerbilmouse	type	Q729	Q729	resource
+Gerbilmouse	type	Species	species	resource
+Gerbilmouse	name	Gerbilmouse	Gerbil mouse	literal
+Gerbilmouse	family	Nesomyidae	Nesomyidae	resource
+Gerbilmouse	family	Dendromurinae	Dendromurinae	resource
+Gerbilmouse	order	Rodent	Rodent	resource

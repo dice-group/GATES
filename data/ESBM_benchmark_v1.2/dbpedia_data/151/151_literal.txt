@@ -1,0 +1,20 @@
+Ayrovo	timeZone	EasternEuropeanTime	Eastern European Time
+Ayrovo	timeZone	EasternEuropeanSummerTime	Eastern European Summer Time
+Ayrovo	utcOffset	+3	+3
+Ayrovo	utcOffset	+2	+2
+Ayrovo	country	Bulgaria	Bulgaria
+Ayrovo	name	Ayrovo	Ayrovo
+Ayrovo	name	Айрово	Айрово
+Ayrovo	label	Ayrovo	Ayrovo
+Ayrovo	type	PopulatedPlace	populated place
+Ayrovo	type	Place	place
+Ayrovo	type	Thing	Thing
+Ayrovo	type	Village	village
+Ayrovo	type	Settlement	settlement
+Ayrovo	type	Q486972	human settlement
+Ayrovo	type	Location	 Location 
+Ayrovo	type	Q532	village
+Ayrovo	type	Place	 Place 
+Ayrovo	subject	VillagesinKardzhaliProvince	Villages in Kardzhali Province
+Ayrovo	isPartOf	KardzhaliMunicipality	Kardzhali Municipality
+Ayrovo	isPartOf	KardzhaliProvince	Kardzhali Province

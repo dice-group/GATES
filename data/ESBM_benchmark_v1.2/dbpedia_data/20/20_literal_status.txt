@@ -1,0 +1,22 @@
+Triathlonatthe2000SummerOlympics–Men's	depiction	Triathlonpictogram.svg	Triathlon_pictogram.svg	resource
+Triathlonatthe2000SummerOlympics–Men's	goldMedalist	SimonWhitfield	Simon Whitfield	resource
+Triathlonatthe2000SummerOlympics–Men's	nextEvent	Triathlonatthe2004SummerOlympics–Men's	Triathlon at the 2004 Summer Olympics – Men's	resource
+Triathlonatthe2000SummerOlympics–Men's	bronzeMedalist	JanŘehula	Jan Řehula	resource
+Triathlonatthe2004SummerOlympics–Men's	previousEvent	Triathlonatthe2000SummerOlympics–Men's	Triathlon at the 2000 Summer Olympics – Men's	resource
+Triathlonatthe2000SummerOlympics–Men's	homepage	reportsfrmst.htm	reports_frmst.htm	resource
+Triathlonatthe2000SummerOlympics–Men's	silverMedalist	StephanVuckovic	Stephan Vuckovic	resource
+Triathlonatthe2000SummerOlympics–Men's	subject	2000intriathlon	2000 in triathlon	resource
+Triathlonatthe2000SummerOlympics–Men's	subject	Triathlonatthe2000SummerOlympics	Triathlon at the 2000 Summer Olympics	resource
+Triathlonatthe2000SummerOlympics–Men's	games	2000Summer	2000 Summer	literal
+Triathlonatthe2000SummerOlympics–Men's	type	Event	event	resource
+Triathlonatthe2000SummerOlympics–Men's	type	Olympics	olympics	resource
+Triathlonatthe2000SummerOlympics–Men's	type	SportsEvent	sports event	resource
+Triathlonatthe2000SummerOlympics–Men's	type	SportsEvent	SportsEvent	resource
+Triathlonatthe2000SummerOlympics–Men's	type	Q1656682	Q1656682	resource
+Triathlonatthe2000SummerOlympics–Men's	type	Thing	Thing	resource
+Triathlonatthe2000SummerOlympics–Men's	type	SocietalEvent	societal event	resource
+Triathlonatthe2000SummerOlympics–Men's	type	Event	Event	resource
+Triathlonatthe2000SummerOlympics–Men's	type	Event	DUL.owl#Event	resource
+Triathlonatthe2000SummerOlympics–Men's	type	OlympicEvent	olympic event	resource
+Triathlonatthe2000SummerOlympics–Men's	thumbnail	Triathlonpictogram.svg?width=300	Triathlon_pictogram.svg?width=300	resource
+Triathlonatthe2000SummerOlympics–Men's	label	Triathlonatthe2000SummerOlympics–Men's	Triathlon at the 2000 Summer Olympics – Men's	literal

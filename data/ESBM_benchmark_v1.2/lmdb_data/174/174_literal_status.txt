@@ -1,0 +1,32 @@
+47469	actorname	AliceBraga	Alice Braga	literal
+47469	actornytimesid	UNK	UNK	literal
+47469	performance	59117	59117	resource
+47469	performance	123172	123172	resource
+47469	performance	91784	91784	resource
+47469	performance	108924	108924	resource
+47469	performance	70346	70346	resource
+47469	performance	18592	18592	resource
+47469	performance	187510	187510	resource
+47469	performance	186417	186417	resource
+47469	performance	137673	137673	resource
+47469	performance	159886	159886	resource
+47469	performance	79634	79634	resource
+47469	performance	85196	85196	resource
+47469	type	Person	Person	resource
+47469	type	actor	actor	resource
+59947	actor	47469	47469	resource
+18729	actor	47469	47469	resource
+23446	actor	47469	47469	resource
+944	actor	47469	47469	resource
+96426	actor	47469	47469	resource
+67438	actor	47469	47469	resource
+10791	actor	47469	47469	resource
+83977	actor	47469	47469	resource
+7756	actor	47469	47469	resource
+8961	actor	47469	47469	resource
+18644	actor	47469	47469	resource
+19258	actor	47469	47469	resource
+47469	page	9202a8c04000641f8000000000dc5776	9202a8c04000641f8000000000dc5776	resource
+47469	actornetflixid	UNK	UNK	literal
+47469	label	AliceBraga(Actor)	Alice Braga (Actor)	literal
+47469	actoractorid	47469	47469	literal

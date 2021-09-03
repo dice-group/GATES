@@ -1,0 +1,33 @@
+BattleofSampur	isPartOfMilitaryConflict	SriLankanCivilWar	Sri Lankan Civil War
+BattleofSampur	type	YagoPermanentlyLocatedEntity	 Yago  Permanently  Located  Entity 
+BattleofSampur	type	PsychologicalFeature100023100	 Psychological  Feature 100023100 
+BattleofSampur	type	Event	 Event 
+BattleofSampur	type	Thing	Thing
+BattleofSampur	type	GroupAction101080366	 Group  Action 101080366 
+BattleofSampur	type	Battle100953559	 Battle 100953559 
+BattleofSampur	type	BattlesOfTheSriLankanCivilWar	 Battles  Of  The  Sri  Lankan  Civil  War 
+BattleofSampur	type	Act100030358	 Act 100030358 
+BattleofSampur	type	Q1656682	event
+BattleofSampur	type	Conflict100958896	 Conflict 100958896 
+BattleofSampur	type	Abstraction100002137	 Abstraction 100002137 
+BattleofSampur	type	Event100029378	 Event 100029378 
+BattleofSampur	type	SocietalEvent	societal event
+BattleofSampur	type	MilitaryAction100952963	 Military  Action 100952963 
+BattleofSampur	type	Event	event
+BattleofSampur	type	MilitaryConflict	military conflict
+BattleofSampur	type	Event	 Event 
+BattleofSampur	type	ConflictsIn2006	 Conflicts  In 2006 
+BattleofSampur	result	SriLankanArmyvictory	Sri Lankan Army victory
+BattleofSampur	label	BattleofSampur	Battle of Sampur
+BattleofSampur	causalties	33killed(SLAclaim)	33 killed (SLA claim)
+BattleofSampur	depiction	CoatofarmsofSriLanka.svg	 Coat of arms of   Sri   Lanka.svg 
+BattleofSampur	date	20060828	2006-08-28
+BattleofSampur	place	SriLanka	Sri Lanka
+BattleofSampur	place	Sampur,Trincomalee	Sampur, Trincomalee
+BattleofSampur	thumbnail	CoatofarmsofSriLanka.svg?width=300	 Coat of arms of   Sri   Lanka.svg?width=300 
+BattleofSampur	combatant	18pxMilitaryofSriLanka	18pxMilitary of Sri Lanka
+BattleofSampur	combatant	LiberationTigersofTamilEelam	Liberation Tigers of Tamil Eelam
+BattleofSampur	subject	Conflictsin2006	Conflicts in 2006
+BattleofSampur	subject	2006inSriLanka	2006 in Sri Lanka
+BattleofSampur	subject	BattlesoftheEasternTheaterofEelamWarIV	Battles of the Eastern Theater of Eelam War IV
+BattleofSampur	name	BattleofSampur	Battle of Sampur

@@ -1,0 +1,49 @@
+FabriceGautrat	birthYear	1987	1987	literal
+FabriceGautrat	subject	SanDiegoTorerosmen'ssoccerplayers	San Diego Toreros men's soccer players	resource
+FabriceGautrat	subject	SoccerplayersfromCalifornia	Soccer players from California	resource
+FabriceGautrat	subject	Americansoccerplayers	American soccer players	resource
+FabriceGautrat	subject	OrangeCountyBluesFCplayers	Orange County Blues FC players	resource
+FabriceGautrat	subject	Livingpeople	Living people	resource
+FabriceGautrat	subject	1987births	1987 births	resource
+FabriceGautrat	subject	SouthernCaliforniaSeahorsesplayers	Southern California Seahorses players	resource
+FabriceGautrat	subject	Americanexpatriatesoccerplayers	American expatriate soccer players	resource
+FabriceGautrat	subject	AtlantaSilverbacksplayers	Atlanta Silverbacks players	resource
+FabriceGautrat	subject	UnitedSoccerLeagueplayers	United Soccer League players	resource
+FabriceGautrat	subject	PremierDevelopmentLeagueplayers	Premier Development League players	resource
+FabriceGautrat	subject	NorthAmericanSoccerLeagueplayers	North American Soccer League players	resource
+FabriceGautrat	label	FabriceGautrat	Fabrice Gautrat	literal
+FabriceGautrat	number	5	5	literal
+FabriceGautrat	type	Athlete	athlete	resource
+FabriceGautrat	type	Agent	DUL.owl#Agent	resource
+FabriceGautrat	type	Q937857	Q937857	resource
+FabriceGautrat	type	Person	Person	resource
+FabriceGautrat	type	Person	Person	resource
+FabriceGautrat	type	NaturalPerson	DUL.owl#NaturalPerson	resource
+FabriceGautrat	type	Agent	agent	resource
+FabriceGautrat	type	Q5	Q5	resource
+FabriceGautrat	type	Thing	Thing	resource
+FabriceGautrat	type	Person	person	resource
+FabriceGautrat	type	SoccerPlayer	soccer player	resource
+FabriceGautrat	type	Q215627	Q215627	resource
+FabriceGautrat	name	Gautrat,Fabrice	Gautrat, Fabrice	literal
+FabriceGautrat	name	FabriceGautrat	Fabrice Gautrat	literal
+FabriceGautrat	birthDate	19871104	1987-11-04	literal
+FabriceGautrat	givenName	Fabrice	Fabrice	literal
+FabriceGautrat	surname	Gautrat	Gautrat	literal
+FabriceGautrat	birthPlace	CulverCity,California	Culver City, California	resource
+FabriceGautrat	height	1.8796	1.8796	literal
+FabriceGautrat	careerStation	FabriceGautrat1	Fabrice_Gautrat__1	resource
+FabriceGautrat	careerStation	FabriceGautrat4	Fabrice_Gautrat__4	resource
+FabriceGautrat	careerStation	FabriceGautrat3	Fabrice_Gautrat__3	resource
+FabriceGautrat	careerStation	FabriceGautrat2	Fabrice_Gautrat__2	resource
+FabriceGautrat	careerStation	FabriceGautrat6	Fabrice_Gautrat__6	resource
+FabriceGautrat	careerStation	FabriceGautrat5	Fabrice_Gautrat__5	resource
+FabriceGautrat	position	Defender(associationfootball)	Defender (association football)	resource
+FabriceGautrat	team	SanDiegoToreros	San Diego Toreros	resource
+FabriceGautrat	team	AtlantaSilverbacks	Atlanta Silverbacks	resource
+FabriceGautrat	team	SouthernCaliforniaSeahorses	Southern California Seahorses	resource
+FabriceGautrat	team	UJAMaccabiParisMétropole	UJA Maccabi Paris Métropole	resource
+FabriceGautrat	team	TheMaster'sCollege	The Master's College	resource
+FabriceGautrat	team	OrangeCountyBluesFC	Orange County Blues FC	resource
+FabriceGautrat	description	Footballer	Footballer	literal
+FabriceGautrat	description	Footballer	Footballer	literal

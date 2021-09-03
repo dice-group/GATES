@@ -1,0 +1,27 @@
+Stemonoporuslaevifolius	kingdom	Plant	Plant
+Stemonoporuslaevifolius	conservationStatus	EN	EN
+Stemonoporuslaevifolius	division	Floweringplant	Flowering plant
+Stemonoporuslaevifolius	order	Malvales	Malvales
+Stemonoporuslaevifolius	order	Rosids	Rosids
+Stemonoporuslaevifolius	family	Dipterocarpaceae	Dipterocarpaceae
+Stemonoporuslaevifolius	class	Eudicots	Eudicots
+Stemonoporuslaevifolius	binomialAuthority	AndréJosephGuillaumeHenriKostermans	André Joseph Guillaume Henri Kostermans
+Stemonoporuslaevifolius	subject	Stemonoporus	Stemonoporus
+Stemonoporuslaevifolius	subject	Endangeredplants	Endangered plants
+Stemonoporuslaevifolius	subject	FloraofSriLanka	Flora of Sri Lanka
+Stemonoporuslaevifolius	genus	Stemonoporus	Stemonoporus
+Stemonoporuslaevifolius	conservationStatusSystem	IUCN2.3	IUCN2.3
+Stemonoporuslaevifolius	label	Stemonoporuslaevifolius	Stemonoporus laevifolius
+Stemonoporuslaevifolius	type	Thing	Thing
+Stemonoporuslaevifolius	type	Plant	plant
+Stemonoporuslaevifolius	type	Eukaryote	eukaryote
+Stemonoporuslaevifolius	type	Organism100004475	 Organism 100004475 
+Stemonoporuslaevifolius	type	Q756	plant
+Stemonoporuslaevifolius	type	Species	species
+Stemonoporuslaevifolius	type	PhysicalEntity100001930	 Physical  Entity 100001930 
+Stemonoporuslaevifolius	type	Q19088	eukaryote
+Stemonoporuslaevifolius	type	Object100002684	 Object 100002684 
+Stemonoporuslaevifolius	type	Plant100017222	 Plant 100017222 
+Stemonoporuslaevifolius	type	Whole100003553	 Whole 100003553 
+Stemonoporuslaevifolius	type	LivingThing100004258	 Living  Thing 100004258 
+Stemonoporuslaevifolius	type	EndangeredPlants	 Endangered  Plants 

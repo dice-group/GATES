@@ -1,0 +1,32 @@
+52869	type	actor	actor	resource
+52869	type	Person	Person	resource
+52869	actoractorid	52869	52869	literal
+52869	actorname	SaraBerner	Sara Berner	literal
+52869	performance	145337	145337	resource
+52869	performance	197575	197575	resource
+52869	performance	149931	149931	resource
+52869	performance	168659	168659	resource
+52869	performance	141962	141962	resource
+52869	performance	147548	147548	resource
+52869	performance	145366	145366	resource
+52869	performance	145202	145202	resource
+52869	performance	145694	145694	resource
+52869	performance	145237	145237	resource
+52869	performance	145767	145767	resource
+52869	performance	149944	149944	resource
+52869	label	SaraBerner(Actor)	Sara Berner (Actor)	literal
+52869	page	9202a8c04000641f8000000006b4f1f3	9202a8c04000641f8000000006b4f1f3	resource
+52869	actornytimesid	UNK	UNK	literal
+44517	actor	52869	52869	resource
+38388	actor	52869	52869	resource
+43693	actor	52869	52869	resource
+50896	actor	52869	52869	resource
+83088	actor	52869	52869	resource
+48308	actor	52869	52869	resource
+12950	actor	52869	52869	resource
+1288	actor	52869	52869	resource
+14907	actor	52869	52869	resource
+12394	actor	52869	52869	resource
+40943	actor	52869	52869	resource
+15323	actor	52869	52869	resource
+52869	actornetflixid	UNK	UNK	literal

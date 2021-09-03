@@ -1,0 +1,50 @@
+RaidonGriessie	combatant	UnitedKingdom	United Kingdom	literal
+RaidonGriessie	combatant	22px|link=KingdomofHolland	22px|link=Kingdom of Holland	literal
+RaidonGriessie	type	SocietalEvent	societal event	resource
+RaidonGriessie	type	Activity100407535	Activity100407535	resource
+RaidonGriessie	type	Abstraction100002137	Abstraction100002137	resource
+RaidonGriessie	type	MilitaryConflict	military conflict	resource
+RaidonGriessie	type	NavalBattle100958477	NavalBattle100958477	resource
+RaidonGriessie	type	Attack100972621	Attack100972621	resource
+RaidonGriessie	type	Event100029378	Event100029378	resource
+RaidonGriessie	type	Q1656682	Q1656682	resource
+RaidonGriessie	type	Penetration100975452	Penetration100975452	resource
+RaidonGriessie	type	Event	DUL.owl#Event	resource
+RaidonGriessie	type	Operation100955060	Operation100955060	resource
+RaidonGriessie	type	NavalBattlesInvolvingTheUnitedKingdom	NavalBattlesInvolvingTheUnitedKingdom	resource
+RaidonGriessie	type	YagoPermanentlyLocatedEntity	YagoPermanentlyLocatedEntity	resource
+RaidonGriessie	type	NavalBattlesOfTheNapoleonicWars	NavalBattlesOfTheNapoleonicWars	resource
+RaidonGriessie	type	Event	event	resource
+RaidonGriessie	type	MilitaryRaids	MilitaryRaids	resource
+RaidonGriessie	type	Event	Event	resource
+RaidonGriessie	type	MilitaryAction100952963	MilitaryAction100952963	resource
+RaidonGriessie	type	Foray100976953	Foray100976953	resource
+RaidonGriessie	type	GroupAction101080366	GroupAction101080366	resource
+RaidonGriessie	type	NavalBattlesInvolvingTheNetherlands	NavalBattlesInvolvingTheNetherlands	resource
+RaidonGriessie	type	Thing	Thing	resource
+RaidonGriessie	type	Conflict100958896	Conflict100958896	resource
+RaidonGriessie	type	Act100030358	Act100030358	resource
+RaidonGriessie	type	ConflictsIn1807	ConflictsIn1807	resource
+RaidonGriessie	type	Battle100953559	Battle100953559	resource
+RaidonGriessie	type	PsychologicalFeature100023100	PsychologicalFeature100023100	resource
+RaidonGriessie	causalties	None	None	literal
+RaidonGriessie	result	Britishvictory	British victory	literal
+RaidonGriessie	place	DutchEastIndies	Dutch East Indies	resource
+RaidonGriessie	place	GresikRegency	Gresik Regency	resource
+RaidonGriessie	place	Java	Java	resource
+RaidonGriessie	name	RaidonGriessie	Raid on Griessie	literal
+RaidonGriessie	commander	EdwardPellew,1stViscountExmouth	Edward Pellew, 1st Viscount Exmouth	resource
+RaidonGriessie	label	RaidonGriessie	Raid on Griessie	literal
+RaidonGriessie	depiction	Javablankmap.svg	Java_blank_map.svg	resource
+RaidonGriessie	date	18071211	1807-12-11	literal
+RaidonGriessie	isPartOfMilitaryConflict	NapoleonicWars	Napoleonic Wars	resource
+ArchibaldCochrane(RoyalNavyofficer)	battle	RaidonGriessie	Raid on Griessie	resource
+RaidonGriessie	subject	Militaryraids	Military raids	resource
+RaidonGriessie	subject	NavalbattlesinvolvingtheNetherlands	Naval battles involving the Netherlands	resource
+RaidonGriessie	subject	NavalbattlesoftheNapoleonicWars	Naval battles of the Napoleonic Wars	resource
+RaidonGriessie	subject	1807inAsia	1807 in Asia	resource
+RaidonGriessie	subject	NavalbattlesinvolvingtheUnitedKingdom	Naval battles involving the United Kingdom	resource
+RaidonGriessie	subject	Conflictsin1807	Conflicts in 1807	resource
+RaidonGriessie	strength	Twoshipsoftheline,twofrigatesandfoursmallerships	Twoships of the line, twofrigates and four smaller ships	literal
+RaidonGriessie	strength	Twooutofcommissionshipsofthelineandshoredefences	Two out of commissionships of the lineand shore defences	literal
+RaidonGriessie	thumbnail	Javablankmap.svg?width=300	Java_blank_map.svg?width=300	resource

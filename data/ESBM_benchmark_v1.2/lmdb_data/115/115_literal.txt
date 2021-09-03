@@ -1,0 +1,47 @@
+6213	date	19900215	1990-02-15
+139299	linksource	6213	6213
+39963	linksource	6213	6213
+21430	linksource	6213	6213
+2897	linksource	6213	6213
+55701	linksource	6213	6213
+72470	linksource	6213	6213
+6213	label	TheHandmaid'sTale	The Handmaid's Tale
+6213	title	TheHandmaid'sTale	The Handmaid's Tale
+6213	filmid	6213	6213
+6213	musiccontributor	4082	4082
+6213	relatedBook	0771008139	0771008139
+6213	performance	40287	40287
+6213	performance	31802	31802
+6213	performance	31801	31801
+6213	performance	31800	31800
+6213	performance	152723	152723
+6213	performance	31803	31803
+6213	performance	118941	118941
+6213	actor	30559	30559
+6213	actor	35239	35239
+6213	actor	30004	30004
+6213	actor	31745	31745
+6213	actor	52659	52659
+6213	actor	47463	47463
+6213	actor	33031	33031
+6213	genre	23	23
+8599	filmofdistributor	6213	6213
+6213	director	8982	8982
+6213	hasPhotoCollection	TheHandmaid'sTale(film)	 The   Handmaid's   Tale (film) 
+6213	producer	11068	11068
+6213	initialreleasedate	19900215	1990-02-15
+6213	cinematographer	1292	1292
+6213	type	film	film
+6213	writer	13441	13441
+6213	writer	13572	13572
+6213	language	en	en
+8982	made	6213	6213
+6213	runtime	109	109
+6213	page	9202a8c04000641f8000000000ac8dbc	9202a8c04000641f8000000000ac8dbc
+6213	page	tt0099731	tt 0099731
+6213	page	alias?type=imdbid&s=0099731	alias?type=imdbid&s=0099731
+6213	subject	281	281
+6213	editor	1656	1656
+6213	editor	94	94
+6213	filmcut	6866	6866
+6213	filmsubject	281	281

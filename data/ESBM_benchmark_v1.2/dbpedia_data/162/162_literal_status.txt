@@ -1,0 +1,43 @@
+Kaalpurush	name	Kaalpurush	Kaalpurush	literal
+Kaalpurush	type	Film	movie	resource
+Kaalpurush	type	Movie106613686	Movie106613686	resource
+Kaalpurush	type	PsychologicalFeature100023100	PsychologicalFeature100023100	resource
+Kaalpurush	type	Movie	Movie	resource
+Kaalpurush	type	BengalilanguageFilms	Bengali-languageFilms	resource
+Kaalpurush	type	CreativeWork	CreativeWork	resource
+Kaalpurush	type	IndianFilms	IndianFilms	resource
+Kaalpurush	type	YagoPermanentlyLocatedEntity	YagoPermanentlyLocatedEntity	resource
+Kaalpurush	type	2008Films	2008Films	resource
+Kaalpurush	type	Event100029378	Event100029378	resource
+Kaalpurush	type	Show106619065	Show106619065	resource
+Kaalpurush	type	Q11424	Wikidata:Q11424	resource
+Kaalpurush	type	2005Films	2005Films	resource
+Kaalpurush	type	Creation103129123	Creation103129123	resource
+Kaalpurush	type	SocialEvent107288639	SocialEvent107288639	resource
+Kaalpurush	type	Whole100003553	Whole100003553	resource
+Kaalpurush	type	Work	work	resource
+Kaalpurush	type	Abstraction100002137	Abstraction100002137	resource
+Kaalpurush	type	Product104007894	Product104007894	resource
+Kaalpurush	type	Artifact100021939	Artifact100021939	resource
+Kaalpurush	type	PhysicalEntity100001930	PhysicalEntity100001930	resource
+Kaalpurush	type	Thing	Thing	resource
+Kaalpurush	type	Q386724	Q386724	resource
+Kaalpurush	type	Object100002684	Object100002684	resource
+Kaalpurush	type	FilmsDirectedByBuddhadevDasgupta	FilmsDirectedByBuddhadevDasgupta	resource
+Kaalpurush	country	India	India	resource
+Kaalpurush	cinematography	SudeepChatterjee	Sudeep Chatterjee	resource
+Kaalpurush	musicComposer	BiswadepDasgupta	Biswadep_Dasgupta	resource
+Kaalpurush	starring	MithunChakraborty	Mithun Chakraborty	resource
+Kaalpurush	starring	RahulBose	Rahul Bose	resource
+Kaalpurush	starring	SameeraReddy	Sameera Reddy	resource
+Kaalpurush	writer	BuddhadebDasgupta	Buddhadeb Dasgupta	resource
+Kaalpurush	director	BuddhadebDasgupta	Buddhadeb Dasgupta	resource
+Kaalpurush	homepage	www.kaalpurushmovie.com	http://www.kaalpurushmovie.com/	resource
+Kaalpurush	subject	FilmssetinKolkata	Films set in Kolkata	resource
+Kaalpurush	subject	2005films	2005 films	resource
+Kaalpurush	subject	BestFeatureFilmNationalFilmAwardwinners	Best Feature Film National Film Award winners	resource
+Kaalpurush	subject	Indianfilms	Indian films	resource
+Kaalpurush	subject	Bengalilanguagefilms	Bengali-language films	resource
+Kaalpurush	subject	FilmsdirectedbyBuddhadevDasgupta	Films directed by Buddhadev Dasgupta	resource
+Kaalpurush	language	Bengalilanguage	Bengali language	resource
+Kaalpurush	label	Kaalpurush	Kaalpurush	literal

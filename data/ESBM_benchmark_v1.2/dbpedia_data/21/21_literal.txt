@@ -1,0 +1,31 @@
+Akalwadi	thumbnail	KarnatakaBijapur.png?width=300	 Karnataka  Bijapur.png?width=300 
+Akalwadi	utcOffset	30	+5:30
+Akalwadi	isPartOf	Bijapurdistrict,Karnataka	Bijapur district, Karnataka
+Akalwadi	isPartOf	Karnataka	Karnataka
+Akalwadi	label	Akalwadi	Akalwadi
+Akalwadi	country	India	India
+Akalwadi	type	PhysicalEntity100001930	 Physical  Entity 100001930 
+Akalwadi	type	GeographicalArea108574314	 Geographical  Area 108574314 
+Akalwadi	type	YagoLegalActorGeo	 Yago  Legal  Actor  Geo 
+Akalwadi	type	Object100002684	 Object 100002684 
+Akalwadi	type	Region108630985	 Region 108630985 
+Akalwadi	type	VillagesInBijapurDistrict	 Villages  In  Bijapur  District 
+Akalwadi	type	YagoPermanentlyLocatedEntity	 Yago  Permanently  Located  Entity 
+Akalwadi	type	Village	village
+Akalwadi	type	YagoGeoEntity	 Yago  Geo  Entity 
+Akalwadi	type	Location	 Location 
+Akalwadi	type	PopulatedPlace	populated place
+Akalwadi	type	Thing	Thing
+Akalwadi	type	Place	place
+Akalwadi	type	Q532	village
+Akalwadi	type	Q486972	human settlement
+Akalwadi	type	Place	 Place 
+Akalwadi	type	Village108672738	 Village 108672738 
+Akalwadi	type	Location100027167	 Location 100027167 
+Akalwadi	type	Settlement	settlement
+Akalwadi	type	Settlement108672562	 Settlement 108672562 
+Akalwadi	depiction	KarnatakaBijapur.png	 Karnataka  Bijapur.png 
+Akalwadi	subject	VillagesinBijapurdistrict	Villages in Bijapur district
+Akalwadi	type	Village	Village
+Akalwadi	name	Akalwadi	Akalwadi
+Akalwadi	timeZone	IndianStandardTime	Indian Standard Time

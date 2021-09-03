@@ -1,0 +1,57 @@
+AndrewKippis	description	Britishminister	British minister
+AndrewKippis	description	Britishminister	British minister
+AndrewKippis	givenName	Andrew	Andrew
+AndrewKippis	subject	EnglishChristianreligiousleaders	English Christian religious leaders
+AndrewKippis	subject	1795deaths	1795 deaths
+AndrewKippis	subject	Dissentingacademytutors	Dissenting academy tutors
+AndrewKippis	subject	PeoplefromNottingham	People from Nottingham
+AndrewKippis	subject	1725births	1725 births
+AndrewKippis	subject	PeopleeducatedatCarre'sGrammarSchool	People educated at Carre's Grammar School
+AndrewKippis	subject	18thcenturyPresbyterianministers	18th-century Presbyterian ministers
+AndrewKippis	subject	BurialsatBunhillFields	Burials at Bunhill Fields
+AndrewKippis	subject	FellowsoftheRoyalSociety	Fellows of the Royal Society
+AndrewKippis	deathYear	1795	1795
+AndrewKippis	birthYear	1725	1725
+AndrewKippis	name	AndrewKippis	Andrew Kippis
+AndrewKippis	name	Kippis,Andrew	Kippis, Andrew
+AndrewKippis	label	AndrewKippis	Andrew Kippis
+AndrewKippis	thumbnail	AndrewKippis.jpg?width=300	 Andrew   Kippis.jpg?width=300 
+AndrewKippis	surname	Kippis	Kippis
+AndrewKippis	depiction	AndrewKippis.jpg	 Andrew   Kippis.jpg 
+AndrewKippis	birthDate	17250328	1725-03-28
+AndrewKippis	type	Professional110480253	 Professional 110480253 
+AndrewKippis	type	Q215627	person
+AndrewKippis	type	YagoLegalActorGeo	 Yago  Legal  Actor  Geo 
+AndrewKippis	type	LivingThing100004258	 Living  Thing 100004258 
+AndrewKippis	type	CausalAgent100007347	 Causal  Agent 100007347 
+AndrewKippis	type	Colleague109935990	 Colleague 109935990 
+AndrewKippis	type	Head110162991	 Head 110162991 
+AndrewKippis	type	Executive110069645	 Executive 110069645 
+AndrewKippis	type	Organism100004475	 Organism 100004475 
+AndrewKippis	type	Person	 Person 
+AndrewKippis	type	Object100002684	 Object 100002684 
+AndrewKippis	type	Whole100003553	 Whole 100003553 
+AndrewKippis	type	YagoLegalActor	 Yago  Legal  Actor 
+AndrewKippis	type	Administrator109770949	 Administrator 109770949 
+AndrewKippis	type	EnglishChristianMinisters	 English  Christian  Ministers 
+AndrewKippis	type	Agent	 Agent 
+AndrewKippis	type	Person100007846	 Person 100007846 
+AndrewKippis	type	Educator110045713	 Educator 110045713 
+AndrewKippis	type	Thing	Thing
+AndrewKippis	type	Associate109816771	 Associate 109816771 
+AndrewKippis	type	FellowsOfTheRoyalSociety	 Fellows  Of  The  Royal  Society 
+AndrewKippis	type	PhysicalEntity100001930	 Physical  Entity 100001930 
+AndrewKippis	type	DissentingAcademyTutors	 Dissenting  Academy  Tutors 
+AndrewKippis	type	Coach109931418	 Coach 109931418 
+AndrewKippis	type	Peer109626238	 Peer 109626238 
+AndrewKippis	type	NaturalPerson	 Natural  Person 
+AndrewKippis	type	Teacher110694258	 Teacher 110694258 
+AndrewKippis	type	PeopleFromNottingham	 People  From  Nottingham 
+AndrewKippis	type	Adult109605289	 Adult 109605289 
+AndrewKippis	type	Leader109623038	 Leader 109623038 
+AndrewKippis	type	Person	person
+AndrewKippis	type	Q5	human
+AndrewKippis	type	Minister110320863	 Minister 110320863 
+AndrewKippis	type	Person	 Person 
+AndrewKippis	type	Agent	agent
+AndrewKippis	deathDate	17951008	1795-10-08

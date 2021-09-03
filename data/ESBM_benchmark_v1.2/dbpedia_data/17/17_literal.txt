@@ -1,0 +1,35 @@
+BattleofRottofreddo	type	Q1656682	event
+BattleofRottofreddo	type	Event	event
+BattleofRottofreddo	type	Event100029378	 Event 100029378 
+BattleofRottofreddo	type	MilitaryConflict	military conflict
+BattleofRottofreddo	type	ConflictsIn1746	 Conflicts  In 1746 
+BattleofRottofreddo	type	YagoPermanentlyLocatedEntity	 Yago  Permanently  Located  Entity 
+BattleofRottofreddo	type	Abstraction100002137	 Abstraction 100002137 
+BattleofRottofreddo	type	Battle100953559	 Battle 100953559 
+BattleofRottofreddo	type	PsychologicalFeature100023100	 Psychological  Feature 100023100 
+BattleofRottofreddo	type	BattlesInvolvingAustria	 Battles  Involving  Austria 
+BattleofRottofreddo	type	Act100030358	 Act 100030358 
+BattleofRottofreddo	type	Event	 Event 
+BattleofRottofreddo	type	SocietalEvent	societal event
+BattleofRottofreddo	type	Conflict100958896	 Conflict 100958896 
+BattleofRottofreddo	type	MilitaryAction100952963	 Military  Action 100952963 
+BattleofRottofreddo	type	Event	 Event 
+BattleofRottofreddo	type	GroupAction101080366	 Group  Action 101080366 
+BattleofRottofreddo	type	BattlesInvolvingFrance	 Battles  Involving  France 
+BattleofRottofreddo	type	Thing	Thing
+BattleofRottofreddo	isPartOfMilitaryConflict	WaroftheAustrianSuccession	War of the Austrian Succession
+BattleofRottofreddo	result	Frenchvictory	French victory
+BattleofRottofreddo	label	BattleofRottofreddo	Battle of Rottofreddo
+BattleofRottofreddo	commander	JeanBaptisteFrancoisdesMarets,marquisdeMaillebois	Jean-Baptiste Francois des Marets, marquis de Maillebois
+BattleofRottofreddo	commander	AntoniottoBottaAdorno	Antoniotto Botta Adorno
+BattleofRottofreddo	date	17460812	1746-08-12
+BattleofRottofreddo	subject	1746inAustria	1746 in Austria
+BattleofRottofreddo	subject	BattlesinvolvingFrance	Battles involving France
+BattleofRottofreddo	subject	1746inItaly	1746 in Italy
+BattleofRottofreddo	subject	1746inFrance	1746 in France
+BattleofRottofreddo	subject	Conflictsin1746	Conflicts in 1746
+BattleofRottofreddo	subject	BattlesinvolvingAustria	Battles involving Austria
+BattleofRottofreddo	name	BattleofRottofreddo	Battle of Rottofreddo
+BattleofRottofreddo	place	ProvinceofPiacenza	Province of Piacenza
+BattleofRottofreddo	place	Italy	Italy
+BattleofRottofreddo	place	Rottofreno	Rottofreno

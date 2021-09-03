@@ -1,0 +1,31 @@
+Time(DaveClarkalbum)	runtime	6129.0	6129.0	literal
+Time(DaveClarkalbum)	genre	Poprock	Pop rock	resource
+Time(DaveClarkalbum)	genre	Rockmusic	Rock music	resource
+Time(DaveClarkalbum)	name	DaveClark's	Dave Clark's 	literal
+Time(DaveClarkalbum)	label	Time(DaveClarkalbum)	Time (Dave Clark album)	literal
+Time(DaveClarkalbum)	subject	1986albums	1986 albums	resource
+Time(DaveClarkalbum)	subject	Conceptalbums	Concept albums	resource
+Time(DaveClarkalbum)	recordLabel	CapitolRecords	Capitol Records	resource
+Time(DaveClarkalbum)	recordLabel	EMI	EMI	resource
+Time(DaveClarkalbum)	thumbnail	TheAlbum1986.jpg?width=300	-_The_Album_1986.jpg?width=300	resource
+Time(DaveClarkalbum)	homepage	www.timethemusical.com	http://www.time-themusical.com/	resource
+Time(DaveClarkalbum)	depiction	TheAlbum1986.jpg	-_The_Album_1986.jpg	resource
+Time(DaveClarkalbum)	type	PhysicalEntity100001930	PhysicalEntity100001930	resource
+Time(DaveClarkalbum)	type	Q386724	Q386724	resource
+Time(DaveClarkalbum)	type	Medium106254669	Medium106254669	resource
+Time(DaveClarkalbum)	type	ConceptAlbums	ConceptAlbums	resource
+Time(DaveClarkalbum)	type	Object100002684	Object100002684	resource
+Time(DaveClarkalbum)	type	Thing	Thing	resource
+Time(DaveClarkalbum)	type	Artifact100021939	Artifact100021939	resource
+Time(DaveClarkalbum)	type	MusicAlbum	MusicAlbum	resource
+Time(DaveClarkalbum)	type	ConceptAlbum106592078	ConceptAlbum106592078	resource
+Time(DaveClarkalbum)	type	CreativeWork	CreativeWork	resource
+Time(DaveClarkalbum)	type	Work	work	resource
+Time(DaveClarkalbum)	type	1986Albums	1986Albums	resource
+Time(DaveClarkalbum)	type	MusicalWork	musical work	resource
+Time(DaveClarkalbum)	type	Q482994	Q482994	resource
+Time(DaveClarkalbum)	type	Album106591815	Album106591815	resource
+Time(DaveClarkalbum)	type	Album	album	resource
+Time(DaveClarkalbum)	type	Instrumentality103575240	Instrumentality103575240	resource
+Time(DaveClarkalbum)	type	Whole100003553	Whole100003553	resource
+Time(DaveClarkalbum)	type	Q2188189	Q2188189	resource

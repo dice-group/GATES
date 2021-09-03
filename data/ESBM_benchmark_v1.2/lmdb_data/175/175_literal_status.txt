@@ -1,0 +1,36 @@
+8424	label	JamesCameron(Director)	James Cameron (Director)	literal
+8424	directorname	JamesCameron	James Cameron	literal
+8424	page	9202a8c04000641f800000000001fdcc	9202a8c04000641f800000000001fdcc	resource
+72	director	8424	8424	resource
+38211	director	8424	8424	resource
+40972	director	8424	8424	resource
+38151	director	8424	8424	resource
+17780	director	8424	8424	resource
+42629	director	8424	8424	resource
+46687	director	8424	8424	resource
+3296	director	8424	8424	resource
+556	director	8424	8424	resource
+4786	director	8424	8424	resource
+38324	director	8424	8424	resource
+33	director	8424	8424	resource
+6220	director	8424	8424	resource
+5622	director	8424	8424	resource
+4673	director	8424	8424	resource
+8424	directordirectorid	8424	8424	literal
+8424	type	director	director	resource
+8424	type	Person	Person	resource
+8424	made	33	33	resource
+8424	made	38211	38211	resource
+8424	made	40972	40972	resource
+8424	made	42629	42629	resource
+8424	made	556	556	resource
+8424	made	38151	38151	resource
+8424	made	6220	6220	resource
+8424	made	17780	17780	resource
+8424	made	38324	38324	resource
+8424	made	46687	46687	resource
+8424	made	4673	4673	resource
+8424	made	3296	3296	resource
+8424	made	5622	5622	resource
+8424	made	4786	4786	resource
+8424	made	72	72	resource

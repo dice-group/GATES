@@ -1,0 +1,26 @@
+14299	director	2930	2930	resource
+14299	title	BrianaLovesJenna	Briana Loves Jenna	literal
+14299	hasPhotoCollection	BrianaLovesJenna	Briana_Loves_Jenna	resource
+14299	filmid	14299	14299	literal
+14299	initialreleasedate	2001,20011127	2001,2001-11-27	literal
+14299	type	film	film	resource
+14299	label	BrianaLovesJenna	Briana Loves Jenna	literal
+14299	actor	30040	30040	resource
+14299	actor	39031	39031	resource
+14299	actor	31497	31497	resource
+14299	actor	32619	32619	resource
+14299	performance	70953	70953	resource
+14299	performance	72536	72536	resource
+14299	performance	55464	55464	resource
+14299	performance	72396	72396	resource
+14299	date	2001,20011127	2001,2001-11-27	literal
+14299	language	en	en	resource
+43285	linksource	14299	14299	resource
+24752	linksource	14299	14299	resource
+6219	linksource	14299	14299	resource
+145197	linksource	14299	14299	resource
+74894	linksource	14299	14299	resource
+2930	made	14299	14299	resource
+14299	producer	5952	5952	resource
+14299	producer	9896	9896	resource
+14299	page	9202a8c04000641f80000000055827c2	9202a8c04000641f80000000055827c2	resource

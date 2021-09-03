@@ -1,0 +1,35 @@
+32648	actoractorid	32648	32648	literal
+12047	actor	32648	32648	resource
+24490	actor	32648	32648	resource
+63080	actor	32648	32648	resource
+60878	actor	32648	32648	resource
+56333	actor	32648	32648	resource
+64477	actor	32648	32648	resource
+54902	actor	32648	32648	resource
+1531	actor	32648	32648	resource
+62972	actor	32648	32648	resource
+59061	actor	32648	32648	resource
+62997	actor	32648	32648	resource
+2473	actor	32648	32648	resource
+61816	actor	32648	32648	resource
+49130	actor	32648	32648	resource
+32648	performance	121912	121912	resource
+32648	performance	132536	132536	resource
+32648	performance	127572	127572	resource
+32648	performance	129624	129624	resource
+32648	performance	127454	127454	resource
+32648	performance	127422	127422	resource
+32648	performance	21380	21380	resource
+32648	performance	114399	114399	resource
+32648	performance	125790	125790	resource
+32648	performance	10267	10267	resource
+32648	performance	124479	124479	resource
+32648	performance	105895	105895	resource
+32648	performance	68310	68310	resource
+32648	type	actor	actor	resource
+32648	type	Person	Person	resource
+32648	actornetflixid	UNK	UNK	literal
+32648	label	TomokazuSeki(Actor)	Tomokazu Seki (Actor)	literal
+32648	page	9202a8c04000641f800000000028c1a8	9202a8c04000641f800000000028c1a8	resource
+32648	actorname	TomokazuSeki	Tomokazu Seki	literal
+32648	actornytimesid	UNK	UNK	literal

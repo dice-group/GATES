@@ -1,0 +1,31 @@
+Gonyosomahodgsoni	kingdom	Animal	Animal	resource
+Gonyosomahodgsoni	genus	Gonyosoma	Gonyosoma	resource
+Gonyosomahodgsoni	type	Q729	Q729	resource
+Gonyosomahodgsoni	type	Snake101726692	Snake101726692	resource
+Gonyosomahodgsoni	type	Chordate101466257	Chordate101466257	resource
+Gonyosomahodgsoni	type	Diapsid101661818	Diapsid101661818	resource
+Gonyosomahodgsoni	type	LivingThing100004258	LivingThing100004258	resource
+Gonyosomahodgsoni	type	Reptile101661091	Reptile101661091	resource
+Gonyosomahodgsoni	type	Q19088	Q19088	resource
+Gonyosomahodgsoni	type	ColubridSnake101727646	ColubridSnake101727646	resource
+Gonyosomahodgsoni	type	Thing	Thing	resource
+Gonyosomahodgsoni	type	Colubrids	Colubrids	resource
+Gonyosomahodgsoni	type	Eukaryote	eukaryote	resource
+Gonyosomahodgsoni	type	PhysicalEntity100001930	PhysicalEntity100001930	resource
+Gonyosomahodgsoni	type	Whole100003553	Whole100003553	resource
+Gonyosomahodgsoni	type	Animal	animal	resource
+Gonyosomahodgsoni	type	Object100002684	Object100002684	resource
+Gonyosomahodgsoni	type	Animal100015388	Animal100015388	resource
+Gonyosomahodgsoni	type	Vertebrate101471682	Vertebrate101471682	resource
+Gonyosomahodgsoni	type	Reptile	reptile	resource
+Gonyosomahodgsoni	type	Species	species	resource
+Gonyosomahodgsoni	type	Organism100004475	Organism100004475	resource
+Gonyosomahodgsoni	order	Squamata	Squamata	resource
+Gonyosomahodgsoni	order	Snake	Snake	resource
+Gonyosomahodgsoni	family	Colubridae	Colubridae	resource
+Gonyosomahodgsoni	phylum	Chordate	Chordate	resource
+Gonyosomahodgsoni	subject	Colubrids	Colubrids	resource
+Gonyosomahodgsoni	class	Reptile	Reptile	resource
+Gonyosomahodgsoni	label	Gonyosomahodgsoni	Gonyosoma hodgsoni	literal
+Gonyosomahodgsoni	name	Gonyosomahodgsoni	Gonyosoma hodgsoni	literal
+Gonyosomahodgsoni	synonym	Elaphehodgsoni	Elaphe hodgsoni	literal

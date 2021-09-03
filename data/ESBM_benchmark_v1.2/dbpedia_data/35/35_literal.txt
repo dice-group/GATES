@@ -1,0 +1,28 @@
+Lepiotahelveola	division	Basidiomycota	Basidiomycota
+Lepiotahelveola	order	Agaricales	Agaricales
+Lepiotahelveola	family	Agaricaceae	Agaricaceae
+Lepiotahelveola	binomialAuthority	GiacomoBresadola	Giacomo Bresadola
+Lepiotahelveola	kingdom	Fungus	Fungus
+Lepiotahelveola	genus	Lepiota	Lepiota
+Lepiotahelveola	class	Agaricomycetes	Agaricomycetes
+Lepiotahelveola	subject	FungiofEurope	Fungi of Europe
+Lepiotahelveola	subject	Deadlyfungi	Deadly fungi
+Lepiotahelveola	subject	Poisonousfungi	Poisonous fungi
+Lepiotahelveola	subject	Agaricaceae	Agaricaceae
+Lepiotahelveola	subject	Fungidescribedin1882	Fungi described in 1882
+Lepiotahelveola	type	FungiOfEurope	 Fungi  Of  Europe 
+Lepiotahelveola	type	Whole100003553	 Whole 100003553 
+Lepiotahelveola	type	PhysicalEntity100001930	 Physical  Entity 100001930 
+Lepiotahelveola	type	FungiDescribedIn1882	 Fungi  Described  In 1882 
+Lepiotahelveola	type	Fungus112992868	 Fungus 112992868 
+Lepiotahelveola	type	Thing	Thing
+Lepiotahelveola	type	Object100002684	 Object 100002684 
+Lepiotahelveola	type	PoisonousFungi	 Poisonous  Fungi 
+Lepiotahelveola	type	LivingThing100004258	 Living  Thing 100004258 
+Lepiotahelveola	type	Eukaryote	eukaryote
+Lepiotahelveola	type	Species	species
+Lepiotahelveola	type	Organism100004475	 Organism 100004475 
+Lepiotahelveola	type	Fungus	fungus
+Lepiotahelveola	type	Q19088	eukaryote
+Lepiotahelveola	type	DeadlyFungi	 Deadly  Fungi 
+Lepiotahelveola	label	Lepiotahelveola	Lepiota helveola
