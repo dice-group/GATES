@@ -1,9 +1,11 @@
 # GATES
-## Graph Attention Networks for Entity Summarization
+## Using Graph Attention Networks for Entity Summarization
 
 ## Dataset
 
-On this experiment, [ESBM benchmark v.1.2](https://github.com/nju-websoft/ESBM/tree/master/v1.2) is used as dataset to train and test the GATES model. It consists of 175 entities related to 150 entities from DBpedia and 25 entities from LinkedMDB.
+On this experiment, we used two datasets:
+1. [ESBM (version 1.2)](https://github.com/nju-websoft/ESBM/tree/master/v1.2) that consists of 175 entities related to 150 entities from DBpedia and 25 entities from LinkedMDB.
+2. FACES dataset.
 
 ## Pre-trained Knowledge Graph Embedding Models
 
