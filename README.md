@@ -51,19 +51,6 @@ or
 ```
 pip install -r requirements.txt
 ```
-## Visualization Tools
-
-We use a third party to visualize the training and validation loss, and accuracy. 
-If you haven't install visdom yet, please install visdom as follows:
-```
-pip install visdom
-``` 
-
-And run the visdom before you execute the train model. Just type visdom on terminal and enter.
-```
-visdom
-```
-
 
 ## Installation
 ```
