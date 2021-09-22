@@ -9,6 +9,7 @@ import re
 import sys
 import torch
 import nltk
+import math
 nltk.download('punkt')
 
 # adapted from pygat
@@ -265,6 +266,86 @@ def _eval_Fmeasure(summ_tids, gold_list):
   # print('flist:',favg,f_list)
   return favg
 
+def getDCGAtT(binary, t):
+		numerator = 1 if binary == 1 else 0;
+		denominator = math.log(t + 1, 2)
+		dcgt = numerator / denominator;
+		return dcgt
+
+def getDCG(binaryVec, pos=5):
+		dcg = 0
+		# print('bi',binaryVec,pos,list(range(pos)))
+		for i in range(pos):
+			t = i+1;
+			dcg += getDCGAtT(binaryVec[i], t)
+		return dcg;
+
+def getIDCG(pos):
+		'''
+		:param pos:
+		:return:
+		'''
+        #=== get idcg
+		dcg = 0;
+		for i in range(pos):  # range(corrCount):
+			t = i + 1;
+			numerator = 1;
+			denominator = math.log(t + 1, 2)
+			dcgt = numerator / denominator;
+			# print("idcgt",pos, t,denominator,dcgt)
+			dcg += dcgt
+		return dcg;
+    
+def getNDCG(binaryVec, pos=5):
+    dcg = getDCG(binaryVec, pos)
+    idcg = getIDCG(pos)
+    ndcg = dcg/idcg if idcg!=0 else 0
+    
+    #print("ndcg",pos,dcg,idcg,ndcg)
+    return ndcg;
+
+def getNDCGSCore(goldSummaries, algoRank):
+    tripleGrade = {}
+    for goldSum in goldSummaries:
+        #print("gold sum",goldSum)
+        for t in goldSum:
+            if t not in tripleGrade:
+                tripleGrade[t]=1
+            else:
+                tripleGrade[t]= tripleGrade[t]+1
+    #print("dict", tripleGrade)
+    gradeList = list(tripleGrade.values())
+    #print("list", gradeList)
+    gradeList.sort(reverse=True)
+    #print("sort", gradeList)
+    dcg = 0
+    idcg = 0
+    
+    maxRankPos = len(algoRank)
+    maxIdealPos = len(gradeList)
+    
+    for pos in range(1, maxRankPos+1):
+        t = algoRank[pos-1]
+        #print("t", t)
+        try:
+            rel = tripleGrade[t]
+        except:
+            rel=0
+        dcgItem = rel/math.log(pos + 1, 2)
+        dcg += dcgItem
+        
+        if (pos<=maxIdealPos):
+            idealRel = gradeList[pos-1]
+            #print("ideal", idealRel)
+            idcg += idealRel/math.log(pos + 1, 2)
+    
+    ndcg = dcg/idcg
+    return ndcg
+
+def _eval_ndcg_scores(summ_tids, gold_list):
+    ndcg_score = getNDCGSCore(gold_list, summ_tids)
+    return ndcg_score
+    
 def accuracy(summ_tids, gold_list):
   k = len(summ_tids)
   acc_list = []

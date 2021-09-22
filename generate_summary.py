@@ -12,7 +12,7 @@ from tqdm import tqdm
 from numpy import array
 from numpy import argmax
 
-from utils import tensor_from_data, tensor_from_weight, _eval_Fmeasure
+from utils import tensor_from_data, tensor_from_weight, _eval_Fmeasure, _eval_ndcg_scores
 from data_loader import get_data_gold
 from model import GATES
 
@@ -22,9 +22,11 @@ def generate_summary(ds_name, test_adjs, test_facts, test_labels, pred_dict, ent
   if not path.exists(directory):
     os.makedirs(directory)
   favg_top_all = []
+  ndcg_scores_all = []
  
   for num in tqdm(range(5)):
     favg_top_list = []
+    ndcg_scores = []
     CHECK_DIR = path.join("models", "gates_checkpoint-{}-{}-{}".format(ds_name, topk, num))
     gates = GATES(pred2ix_size, entity2ix_size, pred_emb_dim, ent_emb_dim, device, dropout, hidden_layers, nheads)
     #print(path.join(CHECK_DIR, "checkpoint_epoch_{}.pt".format(use_epoch[num])))
@@ -47,8 +49,6 @@ def generate_summary(ds_name, test_adjs, test_facts, test_labels, pred_dict, ent
           target_tensor = target_tensor.view(1, -1).cpu()
           (label_top_scores, label_top) = torch.topk(target_tensor, topk)
           (output_top_scores, output_top) = torch.topk(output_tensor, topk)
-          #print("(output_top_scores, output_top)")
-          #print(output_top_scores, output_top)
           (output_rank_scores, output_rank) = torch.topk(output_tensor, len(edesc[i]))
           
           if not path.exists(path.join(directory, "{}".format(eid))):
@@ -58,27 +58,32 @@ def generate_summary(ds_name, test_adjs, test_facts, test_labels, pred_dict, ent
           
           gold_list_top = get_data_gold(db_dir, eid, topk, file_n)
           top_list_output_top = output_top.squeeze(0).numpy().tolist()
+          all_list_output_top = output_rank.squeeze(0).numpy().tolist()
           
           favg_top = _eval_Fmeasure(top_list_output_top, gold_list_top)
           favg_top_list.append(favg_top)
           favg_top_all.append(favg_top)
+          
+          ndcg_score = _eval_ndcg_scores(all_list_output_top, gold_list_top)
+          ndcg_scores.append(ndcg_score)
+          ndcg_scores_all.append(ndcg_score)
       
       
         test_favg_top = np.mean(favg_top_list)
-        print('top {} of {} testing fold %d:'.format(topk, ds_name) % num, test_favg_top)
+        print('top {} of {} testing fold %d:'.format(topk, ds_name) % num, test_favg_top, np.average(ndcg_scores))
             
         test_favg_top_all = np.mean(favg_top_all)
   print("### Single Score ###")
   #if ds_name=='faces':
   print("dataset: {}".format(ds_name))
   print("############################################")
-  print('Results({}@{}: {}'.format(ds_name, topk, test_favg_top_all))
+  print('Results{}@{}: F-measure={}, NDCG Score={}'.format(ds_name, topk, test_favg_top_all, np.average(ndcg_scores_all)))
   print("#######################################")
   print("\n")
   
   if ds_name=="faces":
       with open(print_to, 'a') as f:
-            f.write("Results({}@top{})-single score: F-measure={}\n".format(ds_name, topk, test_favg_top_all))    
+            f.write("Results({}@top{})-single score: F-measure={}, NDCG Score={}\n".format(ds_name, topk, test_favg_top_all, np.mean(ndcg_scores_all)))    
   if ds_name=="lmdb" and topk==10:
       os.system('java -jar evaluation/esummeval_v1.2.jar data/ESBM_benchmark_v1.2/ data/output_summaries/ > {}'.format(print_to))
       os.system('java -jar evaluation/esummeval_v1.2.jar data/ESBM_benchmark_v1.2/ data/data/output_summaries/')
@@ -90,7 +95,7 @@ def ensembled_generating_summary(ds_name, test_adjs, test_facts, test_labels, pr
     if not path.exists(directory):
         os.makedirs(directory)
     favg_top_all = []  
-
+    ndcg_scores_all = []
     #load models
     models = []
     for num in tqdm(range(5)):
@@ -104,6 +109,7 @@ def ensembled_generating_summary(ds_name, test_adjs, test_facts, test_labels, pr
     for num in tqdm(range(5)):
         print("Fold", num)
         favg_top_list = []
+        ndcg_scores = []
         adj = test_adjs[num]
         edesc = test_facts[num]
         label = test_labels[num]
@@ -119,8 +125,6 @@ def ensembled_generating_summary(ds_name, test_adjs, test_facts, test_labels, pr
               target_tensor = target_tensor.view(1, -1).cpu()
               (label_top_scores, label_top) = torch.topk(target_tensor, topk)
               (output_top_scores, output_top) = torch.topk(output_tensor, topk)
-              #print("(output_top_scores, output_top)")
-              #print(output_top_scores, output_top)
               (output_rank_scores, output_rank) = torch.topk(output_tensor, len(edesc[i]))
               
               if not path.exists(path.join(directory, "{}".format(eid))):
@@ -130,12 +134,18 @@ def ensembled_generating_summary(ds_name, test_adjs, test_facts, test_labels, pr
               
               gold_list_top = get_data_gold(db_dir, eid, topk, file_n)
               top_list_output_top = output_top.squeeze(0).numpy().tolist()
+              all_list_output_top = output_rank.squeeze(0).numpy().tolist()
               
               favg_top = _eval_Fmeasure(top_list_output_top, gold_list_top)
               favg_top_list.append(favg_top)
               favg_top_all.append(favg_top)
+              
+              ndcg_score = _eval_ndcg_scores(all_list_output_top, gold_list_top)
+              ndcg_scores.append(ndcg_score)
+              ndcg_scores_all.append(ndcg_score)
+          
             test_favg_top = np.mean(favg_top_list)
-            print('top {} of {} testing fold %d:'.format(topk, ds_name) % num, test_favg_top)
+            print('top {} of {} testing fold %d:'.format(topk, ds_name) % num, test_favg_top, np.average(ndcg_scores))
                 
             test_favg_top_all = np.mean(favg_top_all)
     print("\n")
@@ -143,13 +153,13 @@ def ensembled_generating_summary(ds_name, test_adjs, test_facts, test_labels, pr
     #if ds_name=='faces':
     print("dataset: {}".format(ds_name))
     print("############################################")
-    print('Results({}@{}: {}'.format(ds_name, topk, test_favg_top_all))
+    print('Results{}@{}: F-measure={}, NDCG Score={}'.format(ds_name, topk, test_favg_top_all, np.average(ndcg_scores_all)))
     print("#######################################")
     print("\n")
       
     if ds_name=="faces":
         with open(print_to, 'a') as f:
-            f.write("Results({}@top{})-ensembled score: F-measure={}\n".format(ds_name, topk, test_favg_top_all))  
+            f.write("Results({}@top{})-ensembled score: F-measure={}, NDCG Score={}\n".format(ds_name, topk, test_favg_top_all, np.mean(ndcg_scores_all)))  
     if ds_name=="lmdb" and topk==10:
         os.system('java -jar evaluation/esummeval_v1.2.jar data/ESBM_benchmark_v1.2/ data/output_summaries_ensembled/ > {}'.format("model-testing-dbpedia-lmdb-ensembled.txt"))
         os.system('java -jar evaluation/esummeval_v1.2.jar data/ESBM_benchmark_v1.2/ data/output_summaries_ensembled/')

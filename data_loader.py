@@ -194,11 +194,51 @@ def parserline(triple):
   return triple_tuple
 '''
 
+def get_all_data(db_path, num, top_n, file_n):
+  import glob
+  triples_dict = {}
+  triple_tuples = []
+  ### Retrieve all triples of an entity based on eid
+  with open(path.join(db_path, "{}".format(num), "{}_desc.nt".format(num)), encoding="utf8") as reader:   
+    for i, triple in enumerate(reader):
+      if len(triple)==1:
+        continue  
+      triple_tuple = triple.replace("\n", "").strip()#parserline(triple)
+      triple_tuples.append(triple_tuple)
+      if triple_tuple not in triples_dict:
+        triples_dict[triple_tuple] = len(triples_dict)
+  gold_list = []
+  ds_name = db_path.split("/")[-1].split("_")[0]
+  
+  ### Get file_n/ n files of ground truth summaries for faces dataset
+  if ds_name=="faces":
+      gold_files = glob.glob(path.join(db_path, "{}".format(num), "{}_gold_top{}_*".format(num, top_n).format(num)))
+      #print(len(gold_files))
+      if len(gold_files) != file_n:
+          file_n = len(gold_files)
+  
+  ### Retrieve ground truth summaries of an entity based on eid and total of file_n  
+  for i in range(file_n):
+    with open(path.join(db_path, 
+            "{}".format(num), 
+            "{}_gold_top{}_{}.nt".format(num, top_n, i).format(num)),
+            encoding="utf8") as reader:
+      #print(path.join(db_path, "{}".format(num), "{}_gold_top{}_{}.nt".format(num, top_n, i).format(num)))
+      n_list = []
+      for i, triple in enumerate(reader):
+        if len(triple)==1:
+            continue
+        triple_tuple = triple.replace("\n", "").strip()#parserline(triple)
+        gold_id = triples_dict[triple_tuple]
+        n_list.append(gold_id)
+      gold_list.append(n_list)
+        
+  return gold_list, triples_dict, triple_tuples
+
 def get_data_gold(db_path, num, top_n, file_n):
   import glob
   triples_dict = {}
-  with open(path.join(db_path, "{}".format(num), "{}_desc.nt".format(num)), encoding="utf8") as reader:
-    
+  with open(path.join(db_path, "{}".format(num), "{}_desc.nt".format(num)), encoding="utf8") as reader:   
     for i, triple in enumerate(reader):
       if len(triple)==1:
         continue  
