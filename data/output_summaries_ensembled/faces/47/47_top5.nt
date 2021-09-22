@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Benjamin_Franklin> <http://dbpedia.org/property/appointed> <http://dbpedia.org/resource/Continental_Congress> .
+<http://dbpedia.org/resource/Benjamin_Franklin> <http://dbpedia.org/property/birthPlace> <http://dbpedia.org/resource/Boston> .
+<http://dbpedia.org/resource/Benjamin_Franklin> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Benjamin_Franklin> .
+<http://dbpedia.org/resource/Benjamin_Franklin> <http://dbpedia.org/property/birthPlace> <http://dbpedia.org/resource/Province_of_Massachusetts_Bay> .
+<http://dbpedia.org/resource/Benjamin_Franklin> <http://dbpedia.org/property/appointed> <http://dbpedia.org/resource/Congress_of_the_Confederation> .

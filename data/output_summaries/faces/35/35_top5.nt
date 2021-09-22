@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Vladimir_Putin> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Russia> .
+<http://dbpedia.org/resource/Vladimir_Putin> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Vladimir_Putin> .
+<http://dbpedia.org/resource/Vladimir_Putin> <http://dbpedia.org/property/birthPlace> <http://dbpedia.org/resource/Saint_Petersburg> .
+<http://dbpedia.org/resource/Vladimir_Putin> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/United_Russia> .
+<http://dbpedia.org/resource/Vladimir_Putin> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/Communist_Party_of_the_Soviet_Union> .

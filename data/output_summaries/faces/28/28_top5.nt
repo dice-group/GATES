@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Seychelles> <http://dbpedia.org/property/capital> <http://dbpedia.org/resource/Victoria,_Seychelles> .
+<http://dbpedia.org/resource/Seychelles> <http://dbpedia.org/property/timeZone> <http://dbpedia.org/resource/Seychelles_Time> .
+<http://dbpedia.org/resource/Seychelles> <http://dbpedia.org/property/currency> <http://dbpedia.org/resource/Seychellois_rupee> .
+<http://dbpedia.org/resource/Seychelles> <http://dbpedia.org/property/source> <http://dbpedia.org/resource/World_Meteorological_Organization> .
+<http://dbpedia.org/resource/Seychelles> <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/Seychellois_rupee> .

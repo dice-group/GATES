@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/5240> <http://data.linkedmdb.org/resource/movie/prequel> <http://data.linkedmdb.org/resource/film/5232> .
+<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
+<http://data.linkedmdb.org/resource/film/5232> <http://xmlns.com/foaf/0.1/page> <http://www.imdb.com/title/tt0035096> .
+<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/prequel> <http://data.linkedmdb.org/resource/film/5226> .
+<http://data.linkedmdb.org/resource/film/5232> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .

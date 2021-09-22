@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Charles_Darwin> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland> .
+<http://dbpedia.org/resource/Charles_Darwin> <http://dbpedia.org/property/influenced> <http://dbpedia.org/resource/Joseph_Dalton_Hooker> .
+<http://dbpedia.org/resource/Charles_Darwin> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Natural_history> .
+<http://dbpedia.org/resource/Charles_Darwin> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Joseph_Dalton_Hooker> .
+<http://dbpedia.org/resource/Charles_Darwin> <http://dbpedia.org/property/nationality> <http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland> .

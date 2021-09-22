@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Family_Feud> <http://dbpedia.org/ontology/distributor> <http://dbpedia.org/resource/Viacom_Enterprises> .
+<http://dbpedia.org/resource/Family_Feud> <http://dbpedia.org/property/creator> <http://dbpedia.org/resource/Mark_Goodson> .
+<http://dbpedia.org/resource/Family_Feud> <http://dbpedia.org/property/distributor> <http://dbpedia.org/resource/Tribune_Entertainment> .
+<http://dbpedia.org/resource/Family_Feud> <http://dbpedia.org/property/distributor> <http://dbpedia.org/resource/Viacom_Enterprises> .
+<http://dbpedia.org/resource/Family_Feud> <http://dbpedia.org/ontology/distributor> <http://dbpedia.org/resource/Tribune_Entertainment> .

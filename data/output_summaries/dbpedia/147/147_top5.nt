@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Battle_of_Sampur> <http://dbpedia.org/ontology/isPartOfMilitaryConflict> <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+<http://dbpedia.org/resource/Battle_of_Sampur> <http://dbpedia.org/ontology/result> "Sri Lankan Army victory" .
+<http://dbpedia.org/resource/Battle_of_Sampur> <http://dbpedia.org/ontology/date> "2006-08-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Battle_of_Sampur> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:2006_in_Sri_Lanka> .
+<http://dbpedia.org/resource/Battle_of_Sampur> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Battles_of_the_Eastern_Theater_of_Eelam_War_IV> .

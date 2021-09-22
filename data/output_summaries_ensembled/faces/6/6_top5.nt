@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Family_Feud> <http://dbpedia.org/property/distributor> <http://dbpedia.org/resource/All_American_Television> .
+<http://dbpedia.org/resource/Family_Feud> <http://dbpedia.org/ontology/distributor> <http://dbpedia.org/resource/Viacom_Enterprises> .
+<http://dbpedia.org/resource/Family_Feud> <http://dbpedia.org/property/format> <http://dbpedia.org/resource/Game_show> .
+<http://dbpedia.org/resource/Family_Feud> <http://dbpedia.org/ontology/format> <http://dbpedia.org/resource/Game_show> .
+<http://dbpedia.org/resource/Family_Feud> <http://dbpedia.org/property/creator> <http://dbpedia.org/resource/Mark_Goodson> .

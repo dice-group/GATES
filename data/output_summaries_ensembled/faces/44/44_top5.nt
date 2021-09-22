@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Never_Let_You_Go_(Justin_Bieber_song)> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Teen_pop> .
+<http://dbpedia.org/resource/Never_Let_You_Go_(Justin_Bieber_song)> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Contemporary_R&B> .
+<http://dbpedia.org/resource/Never_Let_You_Go_(Justin_Bieber_song)> <http://dbpedia.org/property/format> <http://dbpedia.org/resource/Music_download> .
+<http://dbpedia.org/resource/Never_Let_You_Go_(Justin_Bieber_song)> <http://dbpedia.org/property/genre> <http://dbpedia.org/resource/Contemporary_R&B> .
+<http://dbpedia.org/resource/Never_Let_You_Go_(Justin_Bieber_song)> <http://dbpedia.org/property/genre> <http://dbpedia.org/resource/Teen_pop> .
