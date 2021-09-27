@@ -10,7 +10,6 @@ import sys
 import argparse
 import torch
 from gensim.models.keyedvectors import KeyedVectors
-from graphviz import Digraph
 
 import numpy as np
 import time
@@ -19,8 +18,6 @@ import math
 from data_loader import split_data, load_emb
 from train import train_iter
 from generate_summary import generate_summary, ensembled_generating_summary
-from model import GATES
-from utils import tensor_from_data
 
 IN_DBPEDIA_DIR = os.path.join(path.dirname(os.getcwd()), 'GATES/data/ESBM_benchmark_v1.2', 'dbpedia_data')
 IN_LMDB_DIR = os.path.join(path.dirname(os.getcwd()), 'GATES/data/ESBM_benchmark_v1.2', 'lmdb_data')
@@ -65,56 +62,6 @@ def get_embeddings(word_emb_model):
         sys.exit()
     return word_emb
 
-def make_dot(var, params):
-    """ Produces Graphviz representation of PyTorch autograd graph
-    
-    Blue nodes are the Variables that require grad, orange are Tensors
-    saved for backward in torch.autograd.Function
-    
-    Args:
-        var: output Variable
-        params: dict of (name, Variable) to add names to node that
-            require grad (TODO: make optional)
-    """
-    param_map = {id(v): k for k, v in params.items()}
-    print(param_map)
-    
-    node_attr = dict(style='filled',
-                     shape='box',
-                     align='left',
-                     fontsize='12',
-                     ranksep='0.1',
-                     height='0.2')
-    dot = Digraph(node_attr=node_attr, graph_attr=dict(size="12,12"))
-    seen = set()
-    
-    def size_to_str(size):
-        return '('+(', ').join(['%d'% v for v in size])+')'
-
-    def add_nodes(var):
-        if var not in seen:
-            if torch.is_tensor(var):
-                dot.node(str(id(var)), size_to_str(var.size()), fillcolor='orange')
-            elif hasattr(var, 'variable'):
-                u = var.variable
-                node_name = '%s\n %s' % (param_map.get(id(u)), size_to_str(u.size()))
-                dot.node(str(id(var)), node_name, fillcolor='lightblue')
-            else:
-                dot.node(str(id(var)), str(type(var).__name__))
-            seen.add(var)
-            if hasattr(var, 'next_functions'):
-                for u in var.next_functions:
-                    if u[0] is not None:
-                        dot.edge(str(id(u[0])), str(id(var)))
-                        add_nodes(u[0])
-            if hasattr(var, 'saved_tensors'):
-                for t in var.saved_tensors:
-                    dot.edge(str(id(t)), str(id(var)))
-                    add_nodes(t)
-    add_nodes(var.grad_fn)
-    return dot
-
-
 def main(mode, emb_model, loss_type,  ent_emb_dim, pred_emb_dim, hidden_layers, nheads, lr, dropout, reg, weight_decay, n_epoch, save_every, word_emb_model, word_emb_calc, use_epoch, concat_model, weighted_edges_method): 
             
     word_emb = get_embeddings(word_emb_model)
@@ -145,9 +92,9 @@ def main(mode, emb_model, loss_type,  ent_emb_dim, pred_emb_dim, hidden_layers, 
     print("n Epochs: {}".format(n_epoch))
     print("Regularization: {}".format(reg))
    
-    if mode == "train" or mode =="test" or mode=="all":
+    if mode == "train" or mode =="test":
         log_file_path = os.path.join(OUT_DIR, 'GATES_log.txt')
-        if mode=="train" or mode=="all":
+        if mode=="train":
             with open(log_file_path,'w') as log_file:pass
         for ds_name in DS_NAME:
             if ds_name == "dbpedia":
@@ -226,7 +173,7 @@ def main(mode, emb_model, loss_type,  ent_emb_dim, pred_emb_dim, hidden_layers, 
             
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='GATES: Graph Attention Network for Entity Summarization')
-    parser.add_argument("--mode", type=str, default="all", help="use which mode type: train/test/all")
+    parser.add_argument("--mode", type=str, default="test", help="use which mode type: train/test/all")
     parser.add_argument("--kge_model", type=str, default="ComplEx", help="use ComplEx/DistMult/ConEx")
     parser.add_argument("--loss_function", type=str, default="BCE", help="use which loss type: BCE/MSE")
     parser.add_argument("--ent_emb_dim", type=int, default=300, help="the embeddiing dimension of entity")
@@ -239,7 +186,7 @@ if __name__ == "__main__":
     parser.add_argument("--regularization", type=bool, default=False, help="use to define regularization: True/False")
     parser.add_argument("--save_every", type=int, default=1, help="save model in every n epochs")
     parser.add_argument("--n_epoch", type=int, default=50, help="train model in total n epochs")
-    parser.add_argument("--word_emb_model", type=str, default="Glove", help="use which word embedding model: fasttext/Glove")
+    parser.add_argument("--word_emb_model", type=str, default="fasttext", help="use which word embedding model: fasttext/Glove")
     parser.add_argument("--word_emb_calc", type=str, default="AVG", help="use which method to compute textual form: SUM/AVG")
     parser.add_argument("--use_epoch", type=int, nargs='+', help="how many epochs to train the model")
     parser.add_argument("--concat_model", type=int, default=1, help="use which concatenation model (1 or 2). In which, 1 refers to KGE + Word embedding, and 2 refers to KGE + (KGE/Word embeddings) depends on the object value")

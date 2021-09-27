@@ -4,4 +4,5 @@ gensim==3.8.3
 nltk==3.5
 torch==1.7.0
 psutil==5.8.0
- 
+SPARQLWrapper==1.8.5
+matplotlib==3.3.4
