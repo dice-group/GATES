@@ -148,7 +148,7 @@ def main(mode, emb_model, loss_type,  ent_emb_dim, pred_emb_dim, hidden_layers, 
                 if mode == "train" or mode=="all":
                     use_epoch = train_iter(ds_name, train_adjs, train_facts, train_labels, val_adjs, val_facts, val_labels, reg, n_epoch, save_every, DEVICE, entity_dict, \
                                pred_dict, loss_function, pred2ix_size, hidden_size, pred_emb_dim, ent_emb_dim, lr, dropout, entity2ix_size, hidden_layers, nheads, \
-                               word_emb, db_dir, weight_decay, word_emb_calc, topk, FILE_N, concat_model, print_to)
+                               word_emb, db_dir, weight_decay, word_emb_calc, topk, FILE_N, concat_model, print_to, weighted_edges_method)
                     
                     with open(log_file_path,'a') as log_file:
                         line = '{}-top{} epoch:\t{}\n'.format(ds_name,topk, str(use_epoch))
@@ -158,10 +158,10 @@ def main(mode, emb_model, loss_type,  ent_emb_dim, pred_emb_dim, hidden_layers, 
                     print("Testing processes for {}@top{}".format(ds_name, topk))
                     use_epoch = _read_epochs_from_log(ds_name, topk) if mode=='test' or mode=='all' else []
                     generate_summary(ds_name, test_adjs, test_facts, test_labels, pred_dict, entity_dict, pred2ix_size, pred_emb_dim, ent_emb_dim, \
-                                 DEVICE, use_epoch, db_dir, dropout, entity2ix_size, hidden_layers, nheads, word_emb, word_emb_calc, topk, FILE_N, concat_model, print_to)
+                                 DEVICE, use_epoch, db_dir, dropout, entity2ix_size, hidden_layers, nheads, word_emb, word_emb_calc, topk, FILE_N, concat_model, print_to, weighted_edges_method)
                     
                     ensembled_generating_summary(ds_name, test_adjs, test_facts, test_labels, pred_dict, entity_dict, pred2ix_size, pred_emb_dim, ent_emb_dim, \
-                                 DEVICE, use_epoch, db_dir, dropout, entity2ix_size, hidden_layers, nheads, word_emb, word_emb_calc, topk, FILE_N, concat_model, print_to)
+                                 DEVICE, use_epoch, db_dir, dropout, entity2ix_size, hidden_layers, nheads, word_emb, word_emb_calc, topk, FILE_N, concat_model, print_to, weighted_edges_method)
                     
             total_time = time.time()-start
             if mode=="train":

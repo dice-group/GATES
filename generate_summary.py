@@ -17,18 +17,20 @@ from data_loader import get_data_gold
 from model import GATES
 
 def generate_summary(ds_name, test_adjs, test_facts, test_labels, pred_dict, entity_dict, pred2ix_size, pred_emb_dim, ent_emb_dim, device, use_epoch, db_dir,  \
-                     dropout, entity2ix_size, hidden_layers, nheads, word_emb, word_emb_calc, topk, file_n, concat_model, print_to):
+                     dropout, entity2ix_size, hidden_layers, nheads, word_emb, word_emb_calc, topk, file_n, concat_model, print_to, weighted_edges_method):
   directory = path.join("data/output_summaries", ds_name)
   if not path.exists(directory):
     os.makedirs(directory)
   favg_top_all = []
   ndcg_scores_all = []
- 
+  weighted_adjacency_matrix=False
+  if weighted_edges_method=="tf-idf":
+      weighted_adjacency_matrix = True
   for num in tqdm(range(5)):
     favg_top_list = []
     ndcg_scores = []
     CHECK_DIR = path.join("models", "gates_checkpoint-{}-{}-{}".format(ds_name, topk, num))
-    gates = GATES(pred2ix_size, entity2ix_size, pred_emb_dim, ent_emb_dim, device, dropout, hidden_layers, nheads)
+    gates = GATES(pred2ix_size, entity2ix_size, pred_emb_dim, ent_emb_dim, device, dropout, hidden_layers, nheads, weighted_adjacency_matrix)
     #print(path.join(CHECK_DIR, "checkpoint_epoch_{}.pt".format(use_epoch[num])))
     checkpoint = torch.load(path.join(CHECK_DIR, "checkpoint_epoch_{}.pt".format(use_epoch[num])))
     gates.load_state_dict(checkpoint["model_state_dict"])
@@ -90,7 +92,7 @@ def generate_summary(ds_name, test_adjs, test_facts, test_labels, pred_dict, ent
               
 
 def ensembled_generating_summary(ds_name, test_adjs, test_facts, test_labels, pred_dict, entity_dict, pred2ix_size, pred_emb_dim, ent_emb_dim, device, use_epoch, db_dir,  \
-                     dropout, entity2ix_size, hidden_layers, nheads, word_emb, word_emb_calc, topk, file_n, concat_model, print_to):
+                     dropout, entity2ix_size, hidden_layers, nheads, word_emb, word_emb_calc, topk, file_n, concat_model, print_to, weighted_edges_method):
     directory = path.join("data/output_summaries_ensembled", ds_name)
     if not path.exists(directory):
         os.makedirs(directory)
@@ -98,14 +100,18 @@ def ensembled_generating_summary(ds_name, test_adjs, test_facts, test_labels, pr
     ndcg_scores_all = []
     #load models
     models = []
+    weighted_adjacency_matrix=False
+    if weighted_edges_method=="tf-idf":
+        weighted_adjacency_matrix = True
+            
     for num in tqdm(range(5)):
         CHECK_DIR = path.join("models", "gates_checkpoint-{}-{}-{}".format(ds_name, topk, num))
-        gates = GATES(pred2ix_size, entity2ix_size, pred_emb_dim, ent_emb_dim, device, dropout, hidden_layers, nheads)
+        gates = GATES(pred2ix_size, entity2ix_size, pred_emb_dim, ent_emb_dim, device, dropout, hidden_layers, nheads, weighted_adjacency_matrix)
         checkpoint = torch.load(path.join(CHECK_DIR, "checkpoint_epoch_{}.pt".format(use_epoch[num])))
         gates.load_state_dict(checkpoint["model_state_dict"])
         gates.to(device)
         models.append(gates)
-        
+    
     for num in tqdm(range(5)):
         print("Fold", num)
         favg_top_list = []
@@ -119,7 +125,7 @@ def ensembled_generating_summary(ds_name, test_adjs, test_facts, test_labels, pr
               pred_tensor, obj_tensor = tensor_from_data(concat_model, entity_dict, pred_dict, edesc[i], word_emb, word_emb_calc)
               input_tensor = [pred_tensor.to(device), obj_tensor.to(device)]
               target_tensor = tensor_from_weight(len(edesc[i]), edesc[i], label[i]).to(device)
-              output_tensor = evaluate_n_members(models, num+1, input_tensor, adj[i])
+              output_tensor = evaluate_n_members(models, num, input_tensor, adj[i])
               
               output_tensor = output_tensor.view(1, -1).cpu()
               target_tensor = target_tensor.view(1, -1).cpu()
@@ -163,10 +169,13 @@ def ensembled_generating_summary(ds_name, test_adjs, test_facts, test_labels, pr
     if ds_name=="lmdb" and topk==10:
         os.system('java -jar evaluation/esummeval_v1.2.jar data/ESBM_benchmark_v1.2/ data/output_summaries_ensembled/ > {}'.format("model-testing-dbpedia-lmdb-ensembled.txt"))
         os.system('java -jar evaluation/esummeval_v1.2.jar data/ESBM_benchmark_v1.2/ data/output_summaries_ensembled/')
-
+        
 # evaluate a specific number of members in an ensemble
-def evaluate_n_members(members, n_members, input_tensor, adj):
-    subset = members[:n_members]
+def evaluate_n_members(members, fold, input_tensor, adj):
+    if fold==4:
+        subset = [members[0],  members[4]]
+    else:
+        subset = [members[fold],  members[fold+1]]
     yhat = ensemble_predictions(subset, input_tensor, adj)
     return yhat
 

@@ -35,7 +35,7 @@ def mem():
 
 def train_iter(ds_name, train_adjs, train_facts, train_labels, val_adjs, val_facts, val_labels, reg, n_epoch, save_every, device, entity_dict, \
                        pred_dict, loss_function, pred2ix_size, hidden_size, pred_emb_dim, ent_emb_dim, lr, dropout, entity2ix_size, hidden_layers, nheads, \
-                       word_emb, db_dir, weight_decay, word_emb_calc, topk, file_n, concat_model, print_to):
+                       word_emb, db_dir, weight_decay, word_emb_calc, topk, file_n, concat_model, print_to, weighted_edges_method):
     if reg == True:
         print("use regularization in training")
     #best_epoch_list=[] 
@@ -47,10 +47,12 @@ def train_iter(ds_name, train_adjs, train_facts, train_labels, val_adjs, val_fac
     valid_epoch_list = []
     arEpochs = []
     losses = {'Training set':[], 'Validation set': []}
-            
+    weighted_adjacency_matrix=False
+    if weighted_edges_method=="tf-idf":
+        weighted_adjacency_matrix = True        
     for i in range(5):
         arEpochs.append(i)
-        gates = GATES(pred2ix_size, entity2ix_size, pred_emb_dim, ent_emb_dim, device, dropout, hidden_layers, nheads)
+        gates = GATES(pred2ix_size, entity2ix_size, pred_emb_dim, ent_emb_dim, device, dropout, hidden_layers, nheads, weighted_adjacency_matrix)
         gates.to(device)
         if reg:
             optimizer = optim.Adam(gates.parameters(), lr=lr, weight_decay=weight_decay)
@@ -60,7 +62,7 @@ def train_iter(ds_name, train_adjs, train_facts, train_labels, val_adjs, val_fac
         print("Training GATES model on Fold {} on top {} of {} dataset".format(i+1, topk, ds_name))
         total_loss, total_val_loss, total_accuracy, valid_epoch, _, _ = train(gates, ds_name, train_adjs[i], train_facts[i], train_labels[i], \
                            val_adjs[i], val_facts[i], val_labels[i], loss_function, optimizer, n_epoch, save_every, device, entity_dict, pred_dict, reg, \
-                           directory, word_emb_calc, i, word_emb, db_dir, topk, file_n, concat_model, print_to)
+                           directory, word_emb_calc, i, word_emb, db_dir, topk, file_n, concat_model, print_to, weighted_edges_method)
         valid_epoch_list.append(valid_epoch)
         
         now = time.time()
@@ -79,7 +81,7 @@ def train_iter(ds_name, train_adjs, train_facts, train_labels, val_adjs, val_fac
       
 # Define training model
 def train(gates, ds_name, adj, edesc, label, val_adj, val_edesc, val_label, \
-        loss_function, optimizer, n_epoch, save_every, device, entity_dict, pred_dict, reg, directory, word_emb_calc, fold, word_emb, db_dir, topk, file_n, concat_model, print_to):
+        loss_function, optimizer, n_epoch, save_every, device, entity_dict, pred_dict, reg, directory, word_emb_calc, fold, word_emb, db_dir, topk, file_n, concat_model, print_to, weighted_edges_method):
     if not path.exists(directory):
         os.makedirs(directory)
     avg_train_loss=[]

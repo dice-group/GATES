@@ -131,7 +131,6 @@ def build_graph(db_path, num, weighted_edges_model):
       weighted_edges.append(tfidf)
     
   triples_idx = np.array(triples_idx)
-  
   if weighted_edges_model=="tf-idf":
       adj = sp.coo_matrix((weighted_edges, (triples_idx[:, 0], triples_idx[:, 2])),
                         shape=(triples_idx.shape[0], triples_idx.shape[0]),
@@ -140,59 +139,7 @@ def build_graph(db_path, num, weighted_edges_model):
       adj = sp.coo_matrix((np.ones(triples_idx.shape[0]), (triples_idx[:, 0], triples_idx[:, 2])),
                         shape=(triples_idx.shape[0], triples_idx.shape[0]),
                         dtype=np.float32)
-                
-  
-   
-  #print(triples_list)
-  #print(triples_idx)
-  
-  #print(adj)
   return adj
-
-'''
-def parserline(triple):
-  literal = re.findall('\^\^', triple)
-  if len(literal) > 0:
-    components = re.findall('\^\^', triple)
-  else:
-    components = re.findall('<([^:]+:[^\s"<>]*)>', triple)
-    
-  if len(components) == 2:
-    sub, pred = components
-    remaining_triple = triple[triple.index(pred) + len(pred) + 2:]
-    literal = remaining_triple[:-1]
-    obj = literal
-    if literal != '"" .':
-        obj = re.sub(r'\\', '', obj)
-        obj = re.sub(r'""', '"', obj)
-    obj =  re.findall(r'"([^"]*)"', obj)[0]
-    obj_literal = obj.split("/")[-1].replace("_", " ")
-    #print(obj_literal)
-    
-  elif len(components) == 3:
-    sub, pred, obj = components
-    obj_literal = obj.split("/")[-1].replace("_", " ")
-    #print(obj_literal)
-  else:
-    components = triple.split(" ")
-    sub = components[0]
-    pred = components[1]
-    obj = components[2].split("^^")[0]
-    obj =  re.findall(r'"([^"]*)"', obj)[0]
-    obj_literal = obj
-    #print(obj_literal)
-
-  sub = _compact(_extract(sub))
-  pred = _extract(pred)
-  obj = _compact(_extract(obj))
-  if obj == '':
-    obj = 'UNK'
-  if obj_literal == '':
-      obj_literal="UNK"
-  #print('obj', obj, 'obj literal', obj_literal)
-  triple_tuple = (sub, pred, obj)
-  return triple_tuple
-'''
 
 def get_all_data(db_path, num, top_n, file_n):
   import glob
@@ -273,7 +220,7 @@ def get_data_gold(db_path, num, top_n, file_n):
 # get data per entity id (provide data in graph and entity description)
 def get_data(ds_name, data_eids, db_dir, weighted_edges_model):
   adj_data = list()
-  edesc_data = list() 
+  edesc_data = list()
   for eid in data_eids:
     #print("eid", eid)
     adj = build_graph(db_dir, eid, weighted_edges_model)
@@ -297,7 +244,7 @@ def split_data(ds_name, db_dir, top_n, file_n, weighted_edges_model):
   train_data_adjs = list()
   train_data_edescs = list()
   train_label = list()
-  #print("loading training data")
+  
   for train_eids in train_data:
     label = list()
     adjs, edescs = get_data(ds_name, train_eids, db_dir, weighted_edges_model)
@@ -307,7 +254,7 @@ def split_data(ds_name, db_dir, top_n, file_n, weighted_edges_model):
     train_label.append(label)
     train_data_adjs.append(adjs)
     train_data_edescs.append(edescs)
-
+    
   # prepare valid data
   valid_data_adjs = list()
   valid_data_edescs = list()
@@ -322,12 +269,12 @@ def split_data(ds_name, db_dir, top_n, file_n, weighted_edges_model):
     valid_label.append(label)
     valid_data_adjs.append(adjs)
     valid_data_edescs.append(edescs)
-
+    
   # prepare test data
   test_data_adjs = list()
   test_data_edescs = list()
   test_label = list()
-  #print("loading testing data")
+  
   for test_eids in test_data:
     label = list()
     adjs, edescs = get_data(ds_name, test_eids, db_dir, weighted_edges_model)
@@ -337,7 +284,7 @@ def split_data(ds_name, db_dir, top_n, file_n, weighted_edges_model):
     test_label.append(label)
     test_data_adjs.append(adjs)
     test_data_edescs.append(edescs)
-  
+    
   return train_data_adjs, train_data_edescs, train_label, valid_data_adjs, valid_data_edescs, valid_label, test_data_adjs, test_data_edescs, test_label
 
 # provide label per entity id
