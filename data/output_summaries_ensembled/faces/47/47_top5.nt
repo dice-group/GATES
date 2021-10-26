@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Benjamin_Franklin> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/Independent_(politician)> .
+<http://dbpedia.org/resource/Benjamin_Franklin> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Benjamin_Franklin> .
+<http://dbpedia.org/resource/Benjamin_Franklin> <http://dbpedia.org/property/spouse> <http://dbpedia.org/resource/Deborah_Read> .
+<http://dbpedia.org/resource/Benjamin_Franklin> <http://xmlns.com/foaf/0.1/homepage> <http://www.benfranklin300.com/> .
+<http://dbpedia.org/resource/Benjamin_Franklin> <http://dbpedia.org/property/appointed> <http://dbpedia.org/resource/Congress_of_the_Confederation> .

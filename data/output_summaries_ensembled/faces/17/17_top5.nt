@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Manchester_City_F.C.> <http://dbpedia.org/ontology/owner> <http://dbpedia.org/resource/Mansour_bin_Zayed_Al_Nahyan> .
+<http://dbpedia.org/resource/Manchester_City_F.C.> <http://xmlns.com/foaf/0.1/homepage> <http://www.mcfc.co.uk/> .
+<http://dbpedia.org/resource/Manchester_City_F.C.> <http://dbpedia.org/ontology/league> <http://dbpedia.org/resource/Premier_League> .
+<http://dbpedia.org/resource/Manchester_City_F.C.> <http://dbpedia.org/property/league> <http://dbpedia.org/resource/Premier_League> .
+<http://dbpedia.org/resource/Manchester_City_F.C.> <http://dbpedia.org/property/s> <http://www.nationalfootballmuseum.com/hall-of-fame/profiles/> .

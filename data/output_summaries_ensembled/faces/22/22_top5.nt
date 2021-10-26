@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Poland> <http://dbpedia.org/ontology/language> <http://dbpedia.org/resource/Polish_language> .
+<http://dbpedia.org/resource/Poland> <http://dbpedia.org/property/capital> <http://dbpedia.org/resource/Warsaw> .
+<http://dbpedia.org/resource/Poland> <http://dbpedia.org/property/governmentType> <http://dbpedia.org/resource/Parliamentary_republic> .
+<http://dbpedia.org/resource/Poland> <http://dbpedia.org/ontology/capital> <http://dbpedia.org/resource/Warsaw> .
+<http://dbpedia.org/resource/Poland> <http://dbpedia.org/property/timeZone> <http://dbpedia.org/resource/Central_European_Time> .

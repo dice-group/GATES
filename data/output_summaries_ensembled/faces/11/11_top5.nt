@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Rice_University> <http://dbpedia.org/property/president> <http://dbpedia.org/resource/David_Leebron> .
+<http://dbpedia.org/resource/Rice_University> <http://dbpedia.org/ontology/president> <http://dbpedia.org/resource/David_Leebron> .
+<http://dbpedia.org/resource/Rice_University> <http://dbpedia.org/ontology/state> <http://dbpedia.org/resource/Texas> .
+<http://dbpedia.org/resource/Rice_University> <http://dbpedia.org/property/state> <http://dbpedia.org/resource/Texas> .
+<http://dbpedia.org/resource/Rice_University> <http://dbpedia.org/property/country> <http://dbpedia.org/resource/United_States> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Charles_Darwin> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Alexander_von_Humboldt> .
+<http://dbpedia.org/resource/Charles_Darwin> <http://dbpedia.org/property/shortDescription> <http://dbpedia.org/resource/Natural_history> .
+<http://dbpedia.org/resource/Charles_Darwin> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Natural_selection> .
+<http://dbpedia.org/resource/Charles_Darwin> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland> .
+<http://dbpedia.org/resource/Charles_Darwin> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Natural_history> .

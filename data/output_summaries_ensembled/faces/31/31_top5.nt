@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Alan_Turing> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Turing_pattern> .
+<http://dbpedia.org/resource/Alan_Turing> <http://dbpedia.org/property/prizes> <http://dbpedia.org/resource/Fellow_of_the_Royal_Society> .
+<http://dbpedia.org/resource/Alan_Turing> <http://dbpedia.org/property/prizes> <http://dbpedia.org/resource/Officer_of_the_Order_of_the_British_Empire> .
+<http://dbpedia.org/resource/Alan_Turing> <http://dbpedia.org/property/prizes> <http://dbpedia.org/resource/Royal_Society> .
+<http://dbpedia.org/resource/Alan_Turing> <http://dbpedia.org/property/prizes> <http://dbpedia.org/resource/Order_of_the_British_Empire> .

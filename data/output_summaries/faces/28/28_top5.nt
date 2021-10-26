@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Seychelles> <http://dbpedia.org/property/governmentType> <http://dbpedia.org/resource/Unitary_state> .
+<http://dbpedia.org/resource/Seychelles> <http://dbpedia.org/ontology/governmentType> <http://dbpedia.org/resource/Unitary_state> .
+<http://dbpedia.org/resource/Seychelles> <http://dbpedia.org/ontology/capital> <http://dbpedia.org/resource/Victoria,_Seychelles> .
+<http://dbpedia.org/resource/Seychelles> <http://dbpedia.org/ontology/largestCity> <http://dbpedia.org/resource/Capital_city> .
+<http://dbpedia.org/resource/Seychelles> <http://dbpedia.org/ontology/largestCity> <http://dbpedia.org/resource/Capital_(political)> .

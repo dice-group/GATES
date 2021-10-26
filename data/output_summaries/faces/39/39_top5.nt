@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Baywatch> <http://dbpedia.org/ontology/creator> <http://dbpedia.org/resource/Baywatch> .
+<http://dbpedia.org/resource/Baywatch> <http://dbpedia.org/ontology/creator> <http://dbpedia.org/resource/Douglas_Schwartz> .
+<http://dbpedia.org/resource/Baywatch> <http://dbpedia.org/property/creator> <http://dbpedia.org/resource/Michael_Berk> .
+<http://dbpedia.org/resource/Baywatch> <http://dbpedia.org/property/genre> <http://dbpedia.org/resource/Dramatic_programming> .
+<http://dbpedia.org/resource/Baywatch> <http://dbpedia.org/property/website> <http://www.baywatch.com> .

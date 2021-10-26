@@ -1,0 +1,10 @@
+<http://data.linkedmdb.org/resource/film/41006> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/377> .
+<http://data.linkedmdb.org/resource/film/41006> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/13682> .
+<http://data.linkedmdb.org/resource/film/41006> <http://purl.org/dc/terms/date> "1995" .
+<http://data.linkedmdb.org/resource/film/41006> <http://purl.org/dc/terms/title> "The Incredibly True Adventure of Two Girls in Love" .
+<http://data.linkedmdb.org/resource/film/41006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
+<http://data.linkedmdb.org/resource/film/41006> <http://data.linkedmdb.org/resource/movie/initial_release_date> "1995" .
+<http://data.linkedmdb.org/resource/film/41006> <http://www.w3.org/2000/01/rdf-schema#label> "The Incredibly True Adventure of Two Girls in Love" .
+<http://data.linkedmdb.org/resource/film/41006> <http://data.linkedmdb.org/resource/movie/music_contributor> <http://data.linkedmdb.org/resource/music_contributor/5748> .
+<http://data.linkedmdb.org/resource/director/13110> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/41006> .
+<http://data.linkedmdb.org/resource/film/41006> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/19046> .

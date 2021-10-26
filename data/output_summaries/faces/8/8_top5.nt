@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Candle_in_the_Wind> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Glam_rock> .
+<http://dbpedia.org/resource/Candle_in_the_Wind> <http://dbpedia.org/property/label> <http://dbpedia.org/resource/MCA_Records> .
+<http://dbpedia.org/resource/Candle_in_the_Wind> <http://dbpedia.org/property/genre> <http://dbpedia.org/resource/Glam_rock> .
+<http://dbpedia.org/resource/Candle_in_the_Wind> <http://dbpedia.org/property/genre> <http://dbpedia.org/resource/Pop_rock> .
+<http://dbpedia.org/resource/Candle_in_the_Wind> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Pop_rock> .

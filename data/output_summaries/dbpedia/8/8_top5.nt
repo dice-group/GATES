@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Carefree_(film)> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/Hagar_Wilde> .
+<http://dbpedia.org/resource/Red,_Hot_and_Blue_(film)> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/Hagar_Wilde> .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://dbpedia.org/ontology/deathDate> "1971-09-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Writer> .

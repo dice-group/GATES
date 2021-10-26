@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Amsterdam> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Amsterdam> .
+<http://dbpedia.org/resource/Amsterdam> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Netherlands> .
+<http://dbpedia.org/resource/Amsterdam> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/Central_European_Summer_Time> .
+<http://dbpedia.org/resource/Amsterdam> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/Central_European_Time> .
+<http://dbpedia.org/resource/Amsterdam> <http://xmlns.com/foaf/0.1/homepage> <http://www.amsterdam.nl/> .

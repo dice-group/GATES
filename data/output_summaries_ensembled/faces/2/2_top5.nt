@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Friedrich_Engel_(mathematician)> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Mathematics> .
+<http://dbpedia.org/resource/Friedrich_Engel_(mathematician)> <http://dbpedia.org/property/knownFor> <http://dbpedia.org/resource/Engel_group> .
+<http://dbpedia.org/resource/Friedrich_Engel_(mathematician)> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Engel's_theorem> .
+<http://dbpedia.org/resource/Friedrich_Engel_(mathematician)> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Kingdom_of_Saxony> .
+<http://dbpedia.org/resource/Friedrich_Engel_(mathematician)> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Engel_theorem> .

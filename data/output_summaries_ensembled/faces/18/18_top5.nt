@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/The_Cosby_Show> <http://dbpedia.org/ontology/creator> <http://dbpedia.org/resource/Ed._Weinberger> .
+<http://dbpedia.org/resource/The_Cosby_Show> <http://dbpedia.org/ontology/creator> <http://dbpedia.org/resource/Michael_J._Leeson> .
+<http://dbpedia.org/resource/The_Cosby_Show> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Sitcom> .
+<http://dbpedia.org/resource/The_Cosby_Show> <http://dbpedia.org/property/genre> <http://dbpedia.org/resource/Sitcom> .
+<http://dbpedia.org/resource/The_Cosby_Show> <http://dbpedia.org/property/creator> <http://dbpedia.org/resource/Ed._Weinberger> .

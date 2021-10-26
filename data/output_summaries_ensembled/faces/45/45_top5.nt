@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Lexus> <http://dbpedia.org/ontology/foundedBy> <http://dbpedia.org/resource/Eiji_Toyoda> .
+<http://dbpedia.org/resource/Lexus> <http://dbpedia.org/property/industry> <http://dbpedia.org/resource/Automotive_industry> .
+<http://dbpedia.org/resource/Lexus> <http://dbpedia.org/ontology/owner> <http://dbpedia.org/resource/Toyota> .
+<http://dbpedia.org/resource/Lexus> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Automotive_industry> .
+<http://dbpedia.org/resource/Lexus> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/Automobile> .

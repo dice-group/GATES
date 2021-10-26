@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/profession> <http://dbpedia.org/resource/Community_organizing> .
+<http://dbpedia.org/resource/Barack_Obama> <http://xmlns.com/foaf/0.1/homepage> <http://www.barackobama.com> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/profession> <http://dbpedia.org/resource/Author> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/party> <http://dbpedia.org/resource/Democratic_Party_(United_States)> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/Democratic_Party_(United_States)> .

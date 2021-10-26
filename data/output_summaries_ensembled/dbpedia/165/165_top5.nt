@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/You_Better_Run> <http://dbpedia.org/ontology/musicalBand> <http://dbpedia.org/resource/Pat_Benatar> .
+<http://dbpedia.org/resource/You_Better_Run> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Heartland_rock> .
+<http://dbpedia.org/resource/You_Better_Run> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Hard_rock> .
+<http://dbpedia.org/resource/You_Better_Run> <http://dbpedia.org/ontology/releaseDate> "1966-05-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/You_Better_Run> <http://dbpedia.org/ontology/releaseDate> "1980-07-08"^^<http://www.w3.org/2001/XMLSchema#date> .

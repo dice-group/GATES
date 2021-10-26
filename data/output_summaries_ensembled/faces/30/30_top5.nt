@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Texas> <http://dbpedia.org/ontology/capital> <http://dbpedia.org/resource/Austin,_Texas> .
+<http://dbpedia.org/resource/Texas> <http://dbpedia.org/property/demonym> <http://dbpedia.org/resource/Texan> .
+<http://dbpedia.org/resource/Texas> <http://dbpedia.org/property/demonym> <http://dbpedia.org/resource/Tejano> .
+<http://dbpedia.org/resource/Texas> <http://dbpedia.org/ontology/language> <http://dbpedia.org/resource/Languages_of_Texas> .
+<http://dbpedia.org/resource/Texas> <http://dbpedia.org/property/capital> <http://dbpedia.org/resource/Austin,_Texas> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Ferrari> <http://dbpedia.org/property/keyPeople> <http://dbpedia.org/resource/Luca_Cordero_di_Montezemolo> .
+<http://dbpedia.org/resource/Ferrari> <http://dbpedia.org/ontology/locationCountry> <http://dbpedia.org/resource/Italy> .
+<http://dbpedia.org/resource/Ferrari> <http://dbpedia.org/property/keyPeople> <http://dbpedia.org/resource/Piero_Ferrari> .
+<http://dbpedia.org/resource/Ferrari> <http://dbpedia.org/property/locationCountry> <http://dbpedia.org/resource/Italy> .
+<http://dbpedia.org/resource/Ferrari> <http://dbpedia.org/property/keyPeople> <http://dbpedia.org/resource/Luca_di_Montezemolo> .

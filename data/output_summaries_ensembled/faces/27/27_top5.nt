@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Beverly_Hills,_90210> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Teen_drama> .
+<http://dbpedia.org/resource/Beverly_Hills,_90210> <http://dbpedia.org/property/creator> <http://dbpedia.org/resource/E._Duke_Vincent> .
+<http://dbpedia.org/resource/Beverly_Hills,_90210> <http://dbpedia.org/property/genre> <http://dbpedia.org/resource/Soap_opera> .
+<http://dbpedia.org/resource/Beverly_Hills,_90210> <http://dbpedia.org/property/genre> <http://dbpedia.org/resource/Teen_drama> .
+<http://dbpedia.org/resource/Beverly_Hills,_90210> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Soap_opera> .

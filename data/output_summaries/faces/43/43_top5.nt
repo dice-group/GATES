@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Love_Me_(Justin_Bieber_song)> <http://dbpedia.org/ontology/recordedIn> <http://dbpedia.org/resource/Cincinnati,_Ohio> .
+<http://dbpedia.org/resource/Love_Me_(Justin_Bieber_song)> <http://dbpedia.org/property/label> <http://dbpedia.org/resource/Island_Def_Jam_Music_Group> .
+<http://dbpedia.org/resource/Love_Me_(Justin_Bieber_song)> <http://dbpedia.org/property/label> <http://dbpedia.org/resource/RBMG> .
+<http://dbpedia.org/resource/Love_Me_(Justin_Bieber_song)> <http://dbpedia.org/ontology/recordedIn> <http://dbpedia.org/resource/Denver,_Colorado> .
+<http://dbpedia.org/resource/Love_Me_(Justin_Bieber_song)> <http://dbpedia.org/ontology/artist> <http://dbpedia.org/resource/Justin_Bieber> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Norway> <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/Norwegian_krone> .
+<http://dbpedia.org/resource/Norway> <http://dbpedia.org/ontology/capital> <http://dbpedia.org/resource/Oslo> .
+<http://dbpedia.org/resource/Norway> <http://dbpedia.org/property/currency> <http://dbpedia.org/resource/Norwegian_krone> .
+<http://dbpedia.org/resource/Norway> <http://dbpedia.org/property/governmentType> <http://dbpedia.org/resource/Unitary_state> .
+<http://dbpedia.org/resource/Norway> <http://dbpedia.org/ontology/governmentType> <http://dbpedia.org/resource/Unitary_state> .

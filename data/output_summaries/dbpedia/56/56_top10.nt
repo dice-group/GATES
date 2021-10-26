@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Pleven> .
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Bulgaria> .
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://dbpedia.org/ontology/height> "1.73"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://purl.org/dc/elements/1.1/description> "Bulgarian footballer" .
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://purl.org/dc/elements/1.1/description> "Bulgarian footballer"@en .
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://dbpedia.org/ontology/birthDate> "1990-03-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://dbpedia.org/ontology/birthDate> "1990-12-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Bulgaria_national_under-19_football_team> .
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Bulgaria_national_under-21_football_team> .
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://dbpedia.org/ontology/birthYear> "1990"^^<http://www.w3.org/2001/XMLSchema#gYear> .

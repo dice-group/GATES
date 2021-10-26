@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Albert_Einstein> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Physics> .
+<http://dbpedia.org/resource/Albert_Einstein> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Baden-W%C3%BCrttemberg> .
+<http://dbpedia.org/resource/Albert_Einstein> <http://dbpedia.org/property/birthPlace> <http://dbpedia.org/resource/Kingdom_of_W%C3%BCrttemberg> .
+<http://dbpedia.org/resource/Albert_Einstein> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Kingdom_of_W%C3%BCrttemberg> .
+<http://dbpedia.org/resource/Albert_Einstein> <http://dbpedia.org/ontology/residence> <http://dbpedia.org/resource/United_States> .

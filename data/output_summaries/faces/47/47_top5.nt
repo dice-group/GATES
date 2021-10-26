@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Benjamin_Franklin> <http://dbpedia.org/property/party> <http://dbpedia.org/resource/Independent_(politician)> .
+<http://dbpedia.org/resource/Benjamin_Franklin> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/Independent_(politician)> .
+<http://dbpedia.org/resource/Benjamin_Franklin> <http://dbpedia.org/property/office> <http://dbpedia.org/resource/Speaker_of_the_Pennsylvania_House_of_Representatives> .
+<http://dbpedia.org/resource/Benjamin_Franklin> <http://xmlns.com/foaf/0.1/homepage> <http://www.benfranklin300.com/> .
+<http://dbpedia.org/resource/Benjamin_Franklin> <http://dbpedia.org/property/appointed> <http://dbpedia.org/resource/Congress_of_the_Confederation> .

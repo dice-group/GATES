@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Mountain> .
+<http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Pickens_County,_South_Carolina> .
+<http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "35.03361"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)> <http://www.w3.org/2000/01/rdf-schema#label> "Pinnacle Mountain (South Carolina)"@en .

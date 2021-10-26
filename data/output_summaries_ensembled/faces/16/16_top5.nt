@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Argo_(2012_film)> <http://dbpedia.org/property/starring> <http://dbpedia.org/resource/John_Goodman> .
+<http://dbpedia.org/resource/Argo_(2012_film)> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Ben_Affleck> .
+<http://dbpedia.org/resource/Argo_(2012_film)> <http://dbpedia.org/property/starring> <http://dbpedia.org/resource/Alan_Arkin> .
+<http://dbpedia.org/resource/Argo_(2012_film)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Alan_Arkin> .
+<http://dbpedia.org/resource/Argo_(2012_film)> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Argo_(2012_film)> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Marie_Curie> <http://xmlns.com/foaf/0.1/homepage> <http://www.umcs.lublin.pl/articles.php?aid=1113> .
+<http://dbpedia.org/resource/Marie_Curie> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Congress_Poland> .
+<http://dbpedia.org/resource/Marie_Curie> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Russian_Empire> .
+<http://dbpedia.org/resource/Marie_Curie> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Marie_Curie> .
+<http://dbpedia.org/resource/Marie_Curie> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Warsaw> .

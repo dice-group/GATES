@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Walt_Disney> <http://dbpedia.org/ontology/board> <http://dbpedia.org/resource/The_Walt_Disney_Company> .
+<http://dbpedia.org/resource/Walt_Disney> <http://dbpedia.org/property/relations> <http://dbpedia.org/resource/Disney_family> .
+<http://dbpedia.org/resource/Walt_Disney> <http://dbpedia.org/property/hasPhotoCollection> <http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Walt_Disney> .
+<http://dbpedia.org/resource/Walt_Disney> <http://dbpedia.org/property/family> <http://dbpedia.org/resource/Disney_family> .
+<http://dbpedia.org/resource/Walt_Disney> <http://dbpedia.org/ontology/relation> <http://dbpedia.org/resource/Disney_family> .

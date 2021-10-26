@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Bruce_Lee> <http://dbpedia.org/ontology/restingPlace> <http://dbpedia.org/resource/Seattle> .
+<http://dbpedia.org/resource/Bruce_Lee> <http://dbpedia.org/property/ancestry> <http://dbpedia.org/resource/Shunde_District> .
+<http://dbpedia.org/resource/Bruce_Lee> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/People's_Republic_of_China> .
+<http://dbpedia.org/resource/Bruce_Lee> <http://dbpedia.org/property/ancestry> <http://dbpedia.org/resource/China> .
+<http://dbpedia.org/resource/Bruce_Lee> <http://dbpedia.org/property/origin> <http://dbpedia.org/resource/Hong_Kong> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Joe_Biden> <http://dbpedia.org/property/president> <http://dbpedia.org/resource/Barack_Obama> .
+<http://dbpedia.org/resource/Joe_Biden> <http://dbpedia.org/ontology/president> <http://dbpedia.org/resource/Barack_Obama> .
+<http://dbpedia.org/resource/Joe_Biden> <http://dbpedia.org/property/party> <http://dbpedia.org/resource/Democratic_Party_(United_States)> .
+<http://dbpedia.org/resource/Joe_Biden> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/Democratic_Party_(United_States)> .
+<http://dbpedia.org/resource/Joe_Biden> <http://dbpedia.org/property/state> <http://dbpedia.org/resource/Delaware> .

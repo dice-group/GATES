@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Edward_Teller> <http://dbpedia.org/ontology/doctoralStudent> <http://dbpedia.org/resource/Chen_Ning_Yang> .
+<http://dbpedia.org/resource/Edward_Teller> <http://dbpedia.org/ontology/doctoralStudent> <http://dbpedia.org/resource/Marshall_Rosenbluth> .
+<http://dbpedia.org/resource/Edward_Teller> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Hungarian_American> .
+<http://dbpedia.org/resource/Edward_Teller> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Physics> .
+<http://dbpedia.org/resource/Edward_Teller> <http://dbpedia.org/property/nationality> <http://dbpedia.org/resource/Hungarian_American> .

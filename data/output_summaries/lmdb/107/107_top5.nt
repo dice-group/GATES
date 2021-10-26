@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/2572> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/9690> .
+<http://data.linkedmdb.org/resource/film/2572> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/1181> .
+<http://data.linkedmdb.org/resource/film/2572> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
+<http://data.linkedmdb.org/resource/director/9690> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/2572> .
+<http://data.linkedmdb.org/resource/film/2572> <http://purl.org/dc/terms/title> "Biggie & Tupac" .

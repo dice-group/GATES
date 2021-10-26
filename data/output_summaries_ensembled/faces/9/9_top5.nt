@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Edward_Teller> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Edward_Teller> .
+<http://dbpedia.org/resource/Edward_Teller> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Hungarian_American> .
+<http://dbpedia.org/resource/Edward_Teller> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Thermonuclear_weapon> .
+<http://dbpedia.org/resource/Edward_Teller> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Physics> .
+<http://dbpedia.org/resource/Edward_Teller> <http://dbpedia.org/property/nationality> <http://dbpedia.org/resource/Hungarian_American> .

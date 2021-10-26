@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Beverly_Hills,_90210> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Teen_drama> .
+<http://dbpedia.org/resource/Beverly_Hills,_90210> <http://dbpedia.org/property/genre> <http://dbpedia.org/resource/Soap_opera> .
+<http://dbpedia.org/resource/Beverly_Hills,_90210> <http://dbpedia.org/ontology/subsequentWork> <http://dbpedia.org/resource/90210_(TV_series)> .
+<http://dbpedia.org/resource/Beverly_Hills,_90210> <http://dbpedia.org/property/genre> <http://dbpedia.org/resource/Teen_drama> .
+<http://dbpedia.org/resource/Beverly_Hills,_90210> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Soap_opera> .

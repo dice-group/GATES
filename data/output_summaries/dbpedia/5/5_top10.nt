@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://dbpedia.org/ontology/position> <http://dbpedia.org/resource/Starting_pitcher> .
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BaseballPlayer> .
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Athlete> .
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://purl.org/dc/elements/1.1/description> "American baseball player"@en .
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://purl.org/dc/elements/1.1/description> "American baseball player" .
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://dbpedia.org/ontology/debutTeam> <http://dbpedia.org/resource/Houston_Astros> .
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Houston_Astros_players> .
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Arkansas_Razorbacks_baseball_players> .
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Lancaster_JetHawks_players> .

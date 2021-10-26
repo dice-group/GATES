@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Baywatch> <http://dbpedia.org/property/network> <http://dbpedia.org/resource/Broadcast_syndication> .
+<http://dbpedia.org/resource/Baywatch> <http://dbpedia.org/property/creator> <http://dbpedia.org/resource/Michael_Berk> .
+<http://dbpedia.org/resource/Baywatch> <http://dbpedia.org/property/network> <http://dbpedia.org/resource/NBC> .
+<http://dbpedia.org/resource/Baywatch> <http://dbpedia.org/ontology/network> <http://dbpedia.org/resource/Broadcast_syndication> .
+<http://dbpedia.org/resource/Baywatch> <http://dbpedia.org/ontology/network> <http://dbpedia.org/resource/NBC> .

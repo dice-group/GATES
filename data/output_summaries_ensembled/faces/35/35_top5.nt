@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Vladimir_Putin> <http://dbpedia.org/ontology/president> <http://dbpedia.org/resource/Dmitry_Medvedev> .
+<http://dbpedia.org/resource/Vladimir_Putin> <http://dbpedia.org/ontology/president> <http://dbpedia.org/resource/Boris_Yeltsin> .
+<http://dbpedia.org/resource/Vladimir_Putin> <http://dbpedia.org/property/president> <http://dbpedia.org/resource/Dmitry_Medvedev> .
+<http://dbpedia.org/resource/Vladimir_Putin> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/United_Russia> .
+<http://dbpedia.org/resource/Vladimir_Putin> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/Communist_Party_of_the_Soviet_Union> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/profession> <http://dbpedia.org/resource/Community_organizing> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/profession> <http://dbpedia.org/resource/Lawyer> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/property/profession> <http://dbpedia.org/resource/Community_organizing> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/profession> <http://dbpedia.org/resource/Author> .
+<http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/profession> <http://dbpedia.org/resource/Constitutional_law> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Argo_(2012_film)> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Ben_Affleck> .
+<http://dbpedia.org/resource/Argo_(2012_film)> <http://dbpedia.org/property/studio> <http://dbpedia.org/resource/Graham_King> .
+<http://dbpedia.org/resource/Argo_(2012_film)> <http://dbpedia.org/property/studio> <http://dbpedia.org/resource/Smokehouse_Pictures> .
+<http://dbpedia.org/resource/Argo_(2012_film)> <http://dbpedia.org/ontology/cinematography> <http://dbpedia.org/resource/Rodrigo_Prieto> .
+<http://dbpedia.org/resource/Argo_(2012_film)> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Argo_(2012_film)> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Wernshausen> <http://dbpedia.org/ontology/populationTotal> "3073"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Wernshausen> <http://dbpedia.org/ontology/elevation> "257.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Wernshausen> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Germany> .
+<http://dbpedia.org/resource/Wernshausen> <http://dbpedia.org/ontology/populationAsOf> "2006-12-31"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Wernshausen> <http://dbpedia.org/ontology/city> <http://dbpedia.org/resource/Schmalkalden> .

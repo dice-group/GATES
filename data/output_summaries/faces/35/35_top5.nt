@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Vladimir_Putin> <http://dbpedia.org/property/occupation> <http://dbpedia.org/resource/President_of_Russia> .
+<http://dbpedia.org/resource/Vladimir_Putin> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/Unity_(Russian_political_party)> .
+<http://dbpedia.org/resource/Vladimir_Putin> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/United_Russia> .
+<http://dbpedia.org/resource/Vladimir_Putin> <http://dbpedia.org/property/rank> <http://dbpedia.org/resource/Unified_Sports_Classification_System_of_the_USSR_and_Russia> .
+<http://dbpedia.org/resource/Vladimir_Putin> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/Communist_Party_of_the_Soviet_Union> .

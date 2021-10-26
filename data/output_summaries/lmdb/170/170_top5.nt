@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/17201> .
+<http://data.linkedmdb.org/resource/film/5089> <http://purl.org/dc/terms/date> "1946" .
+<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/initial_release_date> "1946" .
+<http://data.linkedmdb.org/resource/film/5089> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
+<http://data.linkedmdb.org/resource/film/5089> <http://dbpedia.org/property/hasPhotoCollection> <http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/The_Overlanders_(film)> .

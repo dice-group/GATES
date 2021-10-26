@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://dbpedia.org/ontology/areaTotal> "9059778.409955328"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Franklin_Lakes_Nature_Preserve> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/North_Haledon,_New_Jersey> .
+<http://dbpedia.org/resource/Eastern_Christian_High_School> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/North_Haledon,_New_Jersey> .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://dbpedia.org/ontology/populationTotalRanking> "271"^^<http://www.w3.org/2001/XMLSchema#positiveInteger> .

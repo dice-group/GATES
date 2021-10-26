@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/(What_Is)_Love%3F> <http://dbpedia.org/property/label> <http://dbpedia.org/resource/Island_Records> .
+<http://dbpedia.org/resource/(What_Is)_Love%3F> <http://dbpedia.org/property/genre> <http://dbpedia.org/resource/Synthpop> .
+<http://dbpedia.org/resource/(What_Is)_Love%3F> <http://dbpedia.org/ontology/artist> <http://dbpedia.org/resource/Jennifer_Lopez> .
+<http://dbpedia.org/resource/(What_Is)_Love%3F> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Electropop> .
+<http://dbpedia.org/resource/(What_Is)_Love%3F> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/(What_Is)_Love%3F> .

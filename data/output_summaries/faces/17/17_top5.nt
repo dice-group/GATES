@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Manchester_City_F.C.> <http://dbpedia.org/ontology/owner> <http://dbpedia.org/resource/Mansour_bin_Zayed_Al_Nahyan> .
+<http://dbpedia.org/resource/Manchester_City_F.C.> <http://dbpedia.org/ontology/owner> <http://dbpedia.org/resource/Sheikh> .
+<http://dbpedia.org/resource/Manchester_City_F.C.> <http://dbpedia.org/property/other> <http://dbpedia.org/resource/Captain_(association_football)> .
+<http://dbpedia.org/resource/Manchester_City_F.C.> <http://dbpedia.org/ontology/league> <http://dbpedia.org/resource/Premier_League> .
+<http://dbpedia.org/resource/Manchester_City_F.C.> <http://dbpedia.org/property/league> <http://dbpedia.org/resource/Premier_League> .

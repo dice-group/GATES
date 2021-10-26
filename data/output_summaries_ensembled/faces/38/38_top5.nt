@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Knight_Rider_(1982_TV_series)> <http://dbpedia.org/ontology/network> <http://dbpedia.org/resource/NBC> .
+<http://dbpedia.org/resource/Knight_Rider_(1982_TV_series)> <http://dbpedia.org/property/creator> <http://dbpedia.org/resource/Glen_A._Larson> .
+<http://dbpedia.org/resource/Knight_Rider_(1982_TV_series)> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Knight_Rider_(1982_TV_series)> .
+<http://dbpedia.org/resource/Knight_Rider_(1982_TV_series)> <http://dbpedia.org/property/genre> <http://dbpedia.org/resource/U.S._television_science_fiction> .
+<http://dbpedia.org/resource/Knight_Rider_(1982_TV_series)> <http://dbpedia.org/property/network> <http://dbpedia.org/resource/NBC> .

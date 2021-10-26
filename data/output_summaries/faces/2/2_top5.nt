@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Friedrich_Engel_(mathematician)> <http://dbpedia.org/property/birthPlace> <http://dbpedia.org/resource/Kingdom_of_Saxony> .
+<http://dbpedia.org/resource/Friedrich_Engel_(mathematician)> <http://dbpedia.org/property/knownFor> <http://dbpedia.org/resource/Engel_group> .
+<http://dbpedia.org/resource/Friedrich_Engel_(mathematician)> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Saxony> .
+<http://dbpedia.org/resource/Friedrich_Engel_(mathematician)> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Kingdom_of_Saxony> .
+<http://dbpedia.org/resource/Friedrich_Engel_(mathematician)> <http://dbpedia.org/property/birthPlace> <http://dbpedia.org/resource/Lugau> .

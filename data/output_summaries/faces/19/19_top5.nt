@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Ann_Arbor,_Michigan> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/Eastern_Daylight_Time> .
+<http://dbpedia.org/resource/Ann_Arbor,_Michigan> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/Eastern_Time_Zone> .
+<http://dbpedia.org/resource/Ann_Arbor,_Michigan> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Ann_Arbor,_Michigan> .
+<http://dbpedia.org/resource/Ann_Arbor,_Michigan> <http://dbpedia.org/ontology/leaderName> <http://dbpedia.org/resource/John_Hieftje> .
+<http://dbpedia.org/resource/Ann_Arbor,_Michigan> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/Eastern_Time_Zone_(North_America)> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/England> <http://dbpedia.org/property/demonym> <http://dbpedia.org/resource/English_people> .
+<http://dbpedia.org/resource/England> <http://dbpedia.org/ontology/language> <http://dbpedia.org/resource/English_language> .
+<http://dbpedia.org/resource/England> <http://dbpedia.org/property/capital> <http://dbpedia.org/resource/London> .
+<http://dbpedia.org/resource/England> <http://dbpedia.org/ontology/language> <http://dbpedia.org/resource/Cornish_language> .
+<http://dbpedia.org/resource/England> <http://dbpedia.org/ontology/capital> <http://dbpedia.org/resource/London> .

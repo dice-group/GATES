@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Nile> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Sudan> .
+<http://dbpedia.org/resource/Nile> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Egypt> .
+<http://dbpedia.org/resource/Nile> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Ethiopia> .
+<http://dbpedia.org/resource/Nile> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Kenya> .
+<http://dbpedia.org/resource/Nile> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Tanzania> .
