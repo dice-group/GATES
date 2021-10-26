@@ -1,5 +1,0 @@
-<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://www.w3.org/2000/01/rdf-schema#label> "Momchil Tsvetanov"@en .
-<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://dbpedia.org/ontology/position> <http://dbpedia.org/resource/Midfielder> .
-<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://dbpedia.org/ontology/birthDate> "1990-03-12"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://dbpedia.org/ontology/birthDate> "1990-12-03"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Bulgaria_national_under-21_football_team> .

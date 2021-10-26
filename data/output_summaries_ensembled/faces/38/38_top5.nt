@@ -1,5 +1,0 @@
-<http://dbpedia.org/resource/Knight_Rider_(1982_TV_series)> <http://dbpedia.org/ontology/company> <http://dbpedia.org/resource/Universal_Television> .
-<http://dbpedia.org/resource/Knight_Rider_(1982_TV_series)> <http://dbpedia.org/ontology/network> <http://dbpedia.org/resource/NBC> .
-<http://dbpedia.org/resource/Knight_Rider_(1982_TV_series)> <http://dbpedia.org/property/company> <http://dbpedia.org/resource/Universal_Television> .
-<http://dbpedia.org/resource/Knight_Rider_(1982_TV_series)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/David_Hasselhoff> .
-<http://dbpedia.org/resource/Knight_Rider_(1982_TV_series)> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Knight_Rider_(1982_TV_series)> .

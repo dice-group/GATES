@@ -1,5 +1,0 @@
-<http://dbpedia.org/resource/Walt_Disney> <http://dbpedia.org/ontology/religion> <http://dbpedia.org/resource/Congregationalist> .
-<http://dbpedia.org/resource/Walt_Disney> <http://dbpedia.org/ontology/restingPlace> <http://dbpedia.org/resource/Forest_Lawn_Memorial_Park,_Glendale> .
-<http://dbpedia.org/resource/Walt_Disney> <http://dbpedia.org/ontology/restingPlace> <http://dbpedia.org/resource/Glendale,_California> .
-<http://dbpedia.org/resource/Walt_Disney> <http://dbpedia.org/property/title> <http://dbpedia.org/resource/Mickey_Mouse> .
-<http://dbpedia.org/resource/Walt_Disney> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Walt_Disney> .

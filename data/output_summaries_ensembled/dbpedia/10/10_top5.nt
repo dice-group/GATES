@@ -1,5 +1,0 @@
-<http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Secretary_of_State_for_Transport> .
-<http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/serviceStartYear> "1914"^^<http://www.w3.org/2001/XMLSchema#gYear> .
-<http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/deathDate> "1971-12-15"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/allegiance> "British Empire" .
-<http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/birthDate> "1891-08-31"^^<http://www.w3.org/2001/XMLSchema#date> .

@@ -1,5 +1,0 @@
-<http://dbpedia.org/resource/The_Honolulu_Advertiser> <http://dbpedia.org/ontology/headquarter> <http://dbpedia.org/resource/Honolulu> .
-<http://dbpedia.org/resource/The_Honolulu_Advertiser> <http://xmlns.com/foaf/0.1/homepage> <http://www.honoluluadvertiser.com> .
-<http://dbpedia.org/resource/The_Honolulu_Advertiser> <http://dbpedia.org/ontology/format> <http://dbpedia.org/resource/Broadsheet> .
-<http://dbpedia.org/resource/The_Honolulu_Advertiser> <http://dbpedia.org/ontology/circulation> "141934"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
-<http://dbpedia.org/resource/The_Honolulu_Advertiser> <http://dbpedia.org/ontology/circulation> "155932"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
