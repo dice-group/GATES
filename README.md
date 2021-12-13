@@ -1,5 +1,11 @@
-# GATES
-## Using Graph Attention Networks for Entity Summarization
+# GATES: Using Graph Attention Networks for Entity Summarization
+
+This repository contains the implementation and dataset of our paper GATES: Using Graph Attention Networks for Entity Summarization.
+
+<p align="center">
+<img src="Asep-GATES.png" width="450" height="450">
+</p>
+<p align="center">Fig. 1 Architecure of GATES</p>
 
 ## Dataset
 
