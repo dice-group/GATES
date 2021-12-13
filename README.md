@@ -3,7 +3,7 @@
 This repository contains the implementation and dataset of our paper GATES: Using Graph Attention Networks for Entity Summarization.
 
 <p align="center">
-<img src="Asep-GATES.png" width="450" height="450">
+<img src="Asep-GATES.png" width="1200px" height="675px">
 </p>
 <p align="center">Fig. 1 Architecure of GATES</p>
 
