@@ -137,3 +137,28 @@ Evaluation Method: F-Measure
 | DeepLENS            | 0,404       | **0,575**   | **0,469**      | 0,489      | 0,130 | 0,248  |
 | GATES               | **0,423**   | 0,574   | 0,437  | **0,535**  |***0,254*** | **0.324** |
 
+## Contact
+If you have any feedback or suggestions, feel free to send me an email to asep.fajar.firmansyah@upb.de
+
+## Cite
+```
+@inproceedings{DBLP:conf/kcap/FirmansyahMN21,
+  author    = {Asep Fajar Firmansyah and
+               Diego Moussallem and
+               Axel{-}Cyrille Ngonga Ngomo},
+  editor    = {Anna Lisa Gentile and
+               Rafael Gon{\c{c}}alves},
+  title     = {{GATES:} Using Graph Attention Networks for Entity Summarization},
+  booktitle = {{K-CAP} '21: Knowledge Capture Conference, Virtual Event, USA, December
+               2-3, 2021},
+  pages     = {73--80},
+  publisher = {{ACM}},
+  year      = {2021},
+  url       = {https://doi.org/10.1145/3460210.3493574},
+  doi       = {10.1145/3460210.3493574},
+  timestamp = {Thu, 25 Nov 2021 10:29:00 +0100},
+  biburl    = {https://dblp.org/rec/conf/kcap/FirmansyahMN21.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
+
