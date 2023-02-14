@@ -2,7 +2,7 @@ scipy==1.5.4
 numpy==1.19.2
 gensim==3.8.3
 nltk==3.5
-torch==1.7.0
+torch==1.13.1
 psutil==5.8.0
 SPARQLWrapper==1.8.5
 matplotlib==3.3.4
