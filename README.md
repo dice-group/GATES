@@ -43,12 +43,18 @@ GATES applies Glove and fastText as word embeddings.
 Our dependencies from external library that are required to run the model, you need to install them as follow:
 
 ```
-pip install numpy==1.19.2
-pip install tqdm
-pip install gensim==3.8.3
+conda create -n dice-gates python=3.6
+conda activate dice-gates
 pip install scipy==1.5.4
+pip install numpy==1.19.2
+pip install gensim==3.8.3
 pip install nltk==3.5
+pip install torch==1.7.0
 pip install psutil==5.8.0
+pip install SPARQLWrapper==1.8.5
+pip install matplotlib==3.3.4
+pip install rdflib==4.2.1
+pip install tqdm
 ```
 or
 
