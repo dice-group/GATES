@@ -95,6 +95,8 @@ def train(gates, ds_name, adj, edesc, label, val_adj, val_edesc, val_label, \
     losses = {'Training set':[], 'Validation set': []}
     acc_graph = {'Training Accuracy':[], 'Validation Accuracy': []}
     best_acc = 0
+    total_steps = len(edesc) * n_epoch
+    scheduler = get_linear_schedule_with_warmup(optimizer, num_warmup_steps=0, num_training_steps=total_steps)
     for epoch in range(n_epoch):
         gates.train()
         arEpochs.append(epoch)
@@ -122,6 +124,7 @@ def train(gates, ds_name, adj, edesc, label, val_adj, val_edesc, val_label, \
             loss.backward()
             #torch.nn.utils.clip_grad_norm_(gates.parameters(), 5)
             optimizer.step()
+            scheduler.step()
             train_loss += loss.item()
         
         avg_train_acc = np.mean(train_acc_list)

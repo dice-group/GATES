@@ -172,3 +172,5 @@ If you have any feedback or suggestions, feel free to send me an email to asep.f
 }
 ```
 
+## Contact
+If you have any questions or feedbacks, feel free to contact us at asep.fajar.firmansyah@upb.de
